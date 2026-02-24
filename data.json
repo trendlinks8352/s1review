@@ -1,0 +1,44 @@
+[
+  {
+    "id": "preset_19_q1",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "2024 수능 19번",
+    "quiz": {
+      "question": "[19번 — 선지 D 대상 오류 분석]\n\n본문:\n\"For every piece of music it has brought to attention(A), there is at least one more that it has destroyed(B).\"\n\n선지 D:\n\"Fashion will eventually wipe out every piece they promote.\"\n\n선지 D가 결정적 오답인 이유는?",
+      "options": [
+        "본문은 패션의 긍정적 영향만 말하는데, 선지 D는 부정적이라서",
+        "본문은 홍보 대상(A)과 파괴 대상(B)을 별개의 존재로 보는데, 선지 D는 자기가 홍보한 바로 그 대상을 파괴한다고 했으므로",
+        "본문에는 'Eventually'라는 시간적 개념이 전혀 등장하지 않아서",
+        "선지 D의 'Wipe out'이 본문의 'Destroy'와 뜻이 완전히 달라서"
+      ],
+      "correctIdx": 1,
+      "answer": "② 대상 분리 오류 — A(홍보 대상) ≠ B(파괴 대상)",
+      "explanation": "[본문 논리 — 대상 분리]\nA(패션이 주목시킨 음악) → 홍보\n그 결과, 다른(another) B(그늘에 가려진 음악) → 파괴\n→ A와 B는 서로 다른 존재!\n\n[선지 D 논리 — 대상 동일]\n패션이 홍보한 그 음악(A)을 나중에 패션이 직접 파괴\n→ A = B로 묶어버린 왜곡!\n\n[핵심] '누구를 파괴하는가'의 Target이 다르다.\n본문: A를 띄우면 → 별개의 B가 사라짐\n선지: 자기가 띄운 A를 자기가 나중에 죽임",
+      "action": "행동강령: 수량·파괴 문장에서 → A와 B가 같은 대상인지 다른 대상인지 먼저 확인!"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "preset_19_q2",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "2024 수능 19번",
+    "quiz": {
+      "question": "[19번 — 행동강령 퀴즈: S4 극단어 함정]\n\n선지에서 \"Every\", \"All\", \"Always\" 같은 단어가 포함된 문장을 만났을 때,\n가장 먼저 의심해야 할 오류 유형은?",
+      "options": [
+        "S1 인덱싱 오류 — 예시를 주제로 착각한 경우",
+        "S2 타겟팅 오류 — 키워드 위치 탐색에 실패한 경우",
+        "S4 범위 확대·대상 착오 — 극단적 일반화 오류",
+        "단어 해석 불능 오류 — 단어 뜻 자체를 모르는 경우"
+      ],
+      "correctIdx": 2,
+      "answer": "③ S4 — 범위 확대 및 대상 착오 오류",
+      "explanation": "19번 선지 D처럼 'every piece'(전부)로 과장하는 것이 S4의 전형적 함정입니다.\n\n[본문 vs 선지 범위 비교]\n본문: 'at least one more' → 최소 하나 이상 (제한적)\n선지: 'every piece' → 전부 (극단적 과장)\n\n[극단어 체크리스트]\n• always → 본문이 '항상'인지 확인\n• every / all → 본문이 '전부'인지 확인\n• never / only → 예외가 없는지 확인\n• eventually → 본문에 시간 개념이 있는지 확인",
+      "action": "행동강령: 극단어 발견 즉시 → 본문에서 범위 한정 표현(some, often, may, at least) 찾아 대조!"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  }
+]
