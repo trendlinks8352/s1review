@@ -20,17 +20,20 @@
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
 html{-webkit-tap-highlight-color:transparent;}
 body{background:var(--bg);color:var(--text);font-family:var(--sans);min-height:100dvh;max-width:480px;margin:0 auto;overflow-x:hidden;position:relative;}
-body::before{content:'';position:fixed;inset:0;background-image:linear-gradient(rgba(45,228,182,0.025) 1px,transparent 1px),linear-gradient(90deg,rgba(45,228,182,0.025) 1px,transparent 1px);background-size:32px 32px;pointer-events:none;z-index:0;}
+body::before{content:'';position:fixed;inset:0;
+  background-image:linear-gradient(rgba(45,228,182,0.025) 1px,transparent 1px),
+  linear-gradient(90deg,rgba(45,228,182,0.025) 1px,transparent 1px);
+  background-size:32px 32px;pointer-events:none;z-index:0;}
 .app{position:relative;z-index:1;display:flex;flex-direction:column;min-height:100dvh;}
 
-/* HEADER */
+/* ── HEADER ── */
 header{padding:16px 20px 12px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--border);background:var(--layer1);position:sticky;top:0;z-index:100;}
 .logo{font-family:var(--display);font-weight:800;font-size:22px;letter-spacing:-0.5px;color:var(--text);}
 .logo span{color:var(--mint);}
 .logo-sub{font-family:var(--mono);font-size:9px;letter-spacing:2px;color:var(--text3);margin-top:2px;text-transform:uppercase;}
 .streak-badge{font-family:var(--mono);font-size:11px;color:var(--gold);background:var(--gold-dim);border:1px solid rgba(245,200,66,0.2);padding:3px 10px;border-radius:30px;}
 
-/* NAV */
+/* ── NAV ── */
 nav{display:flex;background:var(--layer1);border-bottom:1px solid var(--border);padding:0 8px;position:sticky;top:57px;z-index:100;}
 .tab{flex:1;padding:12px 4px;background:none;border:none;color:var(--text3);font-size:11px;font-family:var(--sans);font-weight:500;cursor:pointer;transition:color .2s;display:flex;flex-direction:column;align-items:center;gap:3px;position:relative;}
 .tab .tab-icon{font-size:16px;}
@@ -40,16 +43,16 @@ nav{display:flex;background:var(--layer1);border-bottom:1px solid var(--border);
 .tab-badge{position:absolute;top:8px;right:6px;background:var(--red);color:#fff;font-size:9px;font-weight:700;font-family:var(--mono);padding:1px 5px;border-radius:10px;min-width:16px;text-align:center;display:none;}
 .tab-badge.show{display:block;}
 
-/* SECTIONS */
+/* ── SECTIONS ── */
 section{display:none;flex:1;overflow-y:auto;}
 section.active{display:block;}
 .view-inner{padding:16px;display:flex;flex-direction:column;gap:12px;}
 
-/* CARDS */
+/* ── CARDS ── */
 .card{background:var(--layer2);border:1px solid var(--border);border-radius:var(--r-lg);padding:18px;}
 .card-label{font-family:var(--mono);font-size:9px;letter-spacing:2.5px;text-transform:uppercase;color:var(--text3);margin-bottom:14px;}
 
-/* STATS */
+/* ── STATS ── */
 .stats-row{display:flex;gap:10px;}
 .stat-box{flex:1;background:var(--layer2);border:1px solid var(--border);border-radius:var(--r);padding:14px 10px;text-align:center;}
 .stat-num{font-family:var(--display);font-weight:700;font-size:30px;color:var(--mint);line-height:1;}
@@ -57,7 +60,7 @@ section.active{display:block;}
 .stat-num.red{color:var(--red);}
 .stat-label{font-family:var(--mono);font-size:9px;letter-spacing:1px;color:var(--text3);margin-top:5px;text-transform:uppercase;}
 
-/* TODAY LIST */
+/* ── TODAY LIST ── */
 .today-empty{text-align:center;padding:36px 20px;}
 .today-empty .ei{font-size:44px;margin-bottom:14px;}
 .today-empty p{color:var(--text2);font-size:13px;line-height:1.8;}
@@ -74,74 +77,120 @@ section.active{display:block;}
 .start-btn{width:100%;padding:16px;background:var(--mint);color:#080c14;border:none;border-radius:var(--r);font-family:var(--display);font-weight:700;font-size:16px;letter-spacing:1px;cursor:pointer;transition:transform .1s,opacity .1s;}
 .start-btn:active{transform:scale(.98);opacity:.9;}
 .start-btn:disabled{opacity:.4;cursor:not-allowed;}
-
-/* DATA LOAD STATUS */
 .data-status{font-family:var(--mono);font-size:10px;padding:8px 12px;border-radius:8px;display:flex;align-items:center;gap:6px;}
 .data-status.ok{color:var(--mint);background:var(--mint-dim);border:1px solid rgba(45,228,182,0.2);}
-.data-status.err{color:var(--red);background:var(--red-dim);border:1px solid rgba(255,77,106,0.2);}
+.data-status.err{color:var(--gold);background:var(--gold-dim);border:1px solid rgba(245,200,66,0.2);}
 .data-status.loading{color:var(--text3);background:var(--layer3);border:1px solid var(--border);}
 
-/* QUIZ OVERLAY */
+/* ── QUIZ OVERLAY ── */
 #quiz-overlay{display:none;position:fixed;inset:0;z-index:200;background:var(--bg);flex-direction:column;overflow:hidden;}
 #quiz-overlay.open{display:flex;}
 .qo-header{padding:14px 20px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--border);flex-shrink:0;}
 .qo-back{background:none;border:1px solid var(--border2);color:var(--text2);border-radius:8px;padding:7px 14px;font-size:12px;font-family:var(--sans);cursor:pointer;}
 .qo-counter{font-family:var(--mono);font-size:12px;color:var(--text2);}
 .qo-counter strong{color:var(--mint);}
-.qo-src{font-family:var(--mono);font-size:10px;color:var(--text3);letter-spacing:1px;}
+.qo-src{font-family:var(--mono);font-size:10px;color:var(--text3);letter-spacing:1px;margin-top:2px;}
 .qo-progress{height:3px;background:var(--layer3);flex-shrink:0;}
 .qo-progress-fill{height:100%;background:linear-gradient(90deg,var(--mint),var(--gold));transition:width .4s ease;width:0;}
 .qo-body{flex:1;overflow-y:auto;padding:16px;display:flex;flex-direction:column;gap:14px;}
 
-/* FLASHCARD */
-.fc-container{perspective:1400px;min-height:280px;}
-.fc{width:100%;min-height:280px;position:relative;transform-style:preserve-3d;transition:transform .55s cubic-bezier(.4,0,.2,1);border-radius:var(--r-lg);}
-.fc.flipped{transform:rotateY(180deg);}
-.fc-face{position:absolute;inset:0;backface-visibility:hidden;border-radius:var(--r-lg);padding:22px 20px;display:flex;flex-direction:column;}
-.fc-front{background:var(--layer2);border:1px solid var(--border2);}
-.fc-back{background:linear-gradient(145deg,var(--layer2),#0d1e2a);border:1px solid rgba(45,228,182,0.2);transform:rotateY(180deg);}
+/* ────────────────────────────────────────
+   FLASHCARD  
+   핵심 수정: position:relative + 높이 auto
+   ──────────────────────────────────────── */
+.fc-scene{
+  perspective: 1200px;
+  /* 높이를 content로 결정하게 둠 */
+}
+.fc-card{
+  position: relative;
+  width: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.55s cubic-bezier(.4,0,.2,1);
+  border-radius: var(--r-lg);
+  /* min-height 제거 → 앞/뒷면 중 큰 쪽이 결정 */
+}
+.fc-card.flipped{ transform: rotateY(180deg); }
+
+/* 앞면은 normal flow → 컨테이너 높이 결정 */
+.fc-front{
+  backface-visibility: hidden;
+  border-radius: var(--r-lg);
+  padding: 22px 20px;
+  background: var(--layer2);
+  border: 1px solid var(--border2);
+}
+/* 뒷면은 absolute → 앞면과 겹침, 크기는 앞면과 동일하게 */
+.fc-back{
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  border-radius: var(--r-lg);
+  padding: 22px 20px;
+  background: linear-gradient(145deg,var(--layer2),#0d1e2a);
+  border: 1px solid rgba(45,228,182,0.25);
+  transform: rotateY(180deg);
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
 .fc-badge{display:inline-flex;align-items:center;gap:6px;font-family:var(--mono);font-size:9px;letter-spacing:2px;text-transform:uppercase;padding:4px 10px;border-radius:20px;margin-bottom:14px;align-self:flex-start;}
 .fc-q{font-size:14px;line-height:1.85;color:var(--text);}
-.fc-q em{color:var(--mint);font-style:normal;font-weight:700;background:var(--mint-dim);padding:0 4px;border-radius:4px;}
+.fc-q em{color:var(--mint);font-style:normal;font-weight:700;background:var(--mint-dim);padding:1px 5px;border-radius:4px;}
 .fc-q strong{color:var(--gold);font-weight:700;}
 .fc-tap{margin-top:16px;text-align:center;font-family:var(--mono);font-size:10px;color:var(--text3);letter-spacing:1px;animation:breathe 2.5s ease-in-out infinite;}
 .fc-tap.hidden{display:none;}
 @keyframes breathe{0%,100%{opacity:.3}50%{opacity:.9}}
 
-/* MCQ OPTIONS */
+/* ── MCQ OPTIONS ── */
 .mcq-opts{display:flex;flex-direction:column;gap:8px;margin-top:14px;}
-.mcq-opt{display:flex;align-items:flex-start;gap:10px;padding:11px 13px;border-radius:10px;background:var(--layer3);border:1.5px solid var(--border2);cursor:pointer;transition:all .18s;font-size:13px;line-height:1.6;color:var(--text2);text-align:left;width:100%;font-family:var(--sans);}
-.mcq-opt:active{border-color:var(--mint);background:var(--mint-dim);}
+.mcq-opt{
+  display:flex;align-items:flex-start;gap:10px;
+  padding:12px 14px;border-radius:10px;
+  background:var(--layer3);border:1.5px solid var(--border2);
+  cursor:pointer;transition:all .18s;
+  font-size:13px;line-height:1.6;color:var(--text2);
+  text-align:left;width:100%;font-family:var(--sans);
+}
 .mcq-opt.selected{border-color:var(--mint);background:var(--mint-dim);color:var(--text);}
-.mcq-opt.correct{border-color:var(--mint);background:rgba(45,228,182,0.18);color:var(--mint);font-weight:700;}
+.mcq-opt.correct{border-color:var(--mint);background:rgba(45,228,182,0.2);color:var(--mint);font-weight:700;}
 .mcq-opt.wrong{border-color:var(--red);background:var(--red-dim);color:var(--red);}
-.mcq-num{font-family:var(--mono);font-size:12px;font-weight:700;flex-shrink:0;min-width:18px;margin-top:1px;}
+.mcq-num{font-family:var(--mono);font-size:12px;font-weight:700;flex-shrink:0;min-width:18px;margin-top:2px;}
 
-/* BACK */
+/* ── CARD BACK CONTENT ── */
 .fc-ans-label{font-family:var(--mono);font-size:9px;letter-spacing:2.5px;color:var(--mint);text-transform:uppercase;margin-bottom:10px;}
-.fc-ans{font-size:18px;font-weight:700;color:var(--mint);line-height:1.5;margin-bottom:12px;}
-.fc-div{height:1px;background:var(--border);margin:10px 0;}
+.fc-ans{font-size:17px;font-weight:700;color:var(--mint);line-height:1.5;margin-bottom:10px;}
+.fc-divider{height:1px;background:var(--border);margin:10px 0;}
 .fc-exp-label{font-family:var(--mono);font-size:9px;letter-spacing:2px;color:var(--text3);text-transform:uppercase;margin-bottom:8px;}
-.fc-exp{font-size:13px;color:var(--text2);line-height:1.8;flex:1;}
-.fc-action{margin-top:12px;font-family:var(--mono);font-size:10px;color:var(--gold);letter-spacing:1px;padding:8px 12px;background:var(--gold-dim);border-radius:8px;border-left:2px solid var(--gold);}
+.fc-exp{font-size:13px;color:var(--text2);line-height:1.8;}
+.fc-action{margin-top:12px;font-family:var(--mono);font-size:10px;color:var(--gold);letter-spacing:0.5px;padding:8px 12px;background:var(--gold-dim);border-radius:8px;border-left:2px solid var(--gold);}
 
-/* BUTTONS */
-.ox-wrap{display:none;flex-direction:column;gap:10px;}
-.ox-wrap.show{display:flex;}
-.ox-row{display:flex;gap:10px;}
-.btn-o{flex:1;padding:16px;border-radius:var(--r);border:1.5px solid rgba(45,228,182,0.3);font-size:20px;font-weight:700;cursor:pointer;background:var(--mint-dim);color:var(--mint);transition:all .15s;font-family:var(--mono);}
+/* ── BOTTOM BUTTONS ── */
+.btn-row{display:flex;gap:10px;}
+.btn-o{flex:1;padding:16px;border-radius:var(--r);border:1.5px solid rgba(45,228,182,0.35);font-size:20px;font-weight:700;cursor:pointer;background:var(--mint-dim);color:var(--mint);transition:all .15s;font-family:var(--mono);}
 .btn-o:active{background:var(--mint);color:#080c14;}
-.btn-x{flex:1;padding:16px;border-radius:var(--r);border:1.5px solid rgba(255,77,106,0.3);font-size:20px;font-weight:700;cursor:pointer;background:var(--red-dim);color:var(--red);transition:all .15s;font-family:var(--mono);}
+.btn-x{flex:1;padding:16px;border-radius:var(--r);border:1.5px solid rgba(255,77,106,0.35);font-size:20px;font-weight:700;cursor:pointer;background:var(--red-dim);color:var(--red);transition:all .15s;font-family:var(--mono);}
 .btn-x:active{background:var(--red);color:#fff;}
 .ox-note{text-align:center;font-family:var(--mono);font-size:10px;color:var(--text3);}
-.mcq-confirm{width:100%;padding:15px;background:var(--mint-dim);border:1.5px solid rgba(45,228,182,0.35);color:var(--mint);border-radius:var(--r);font-family:var(--mono);font-size:13px;font-weight:600;cursor:pointer;transition:all .2s;display:none;}
-.mcq-confirm.show{display:block;}
-.mcq-confirm:active{background:var(--mint);color:#080c14;}
-.mcq-next{width:100%;padding:16px;background:var(--layer3);border:1.5px solid var(--border2);color:var(--text);border-radius:var(--r);font-family:var(--display);font-size:15px;font-weight:700;cursor:pointer;transition:all .2s;display:none;letter-spacing:1px;}
-.mcq-next.show{display:block;}
-.mcq-next:active{background:var(--layer2);}
 
-/* ADD FORM */
+/* confirm / next 버튼 — hidden by default */
+.action-btn{
+  width:100%;padding:15px;border-radius:var(--r);
+  font-family:var(--mono);font-size:13px;font-weight:600;
+  cursor:pointer;transition:all .2s;
+  display:none; /* JS로 show */
+}
+.action-btn.show{display:block;}
+.btn-confirm{background:var(--mint-dim);border:1.5px solid rgba(45,228,182,0.4);color:var(--mint);}
+.btn-confirm:active{background:var(--mint);color:#080c14;}
+.btn-next{background:var(--layer3);border:1.5px solid var(--border2);color:var(--text);font-family:var(--display);font-size:15px;letter-spacing:1px;}
+.btn-next:active{background:var(--layer2);}
+
+.ox-wrap{display:none;flex-direction:column;gap:10px;}
+.ox-wrap.show{display:flex;}
+
+/* ── ADD FORM ── */
 .step-select{display:flex;flex-direction:column;gap:8px;}
 .step-opt{display:flex;align-items:flex-start;gap:12px;padding:13px 14px;border-radius:var(--r);background:var(--layer3);border:1.5px solid var(--border);cursor:pointer;transition:all .2s;}
 .step-opt.selected{border-color:var(--mint);background:var(--mint-dim);}
@@ -158,7 +207,7 @@ input[type=text]:focus,textarea:focus{outline:none;border-color:var(--mint);}
 .btn-add{width:100%;padding:17px;background:linear-gradient(135deg,var(--mint),#1ec4a0);color:#080c14;border:none;border-radius:var(--r);font-family:var(--display);font-weight:700;font-size:16px;letter-spacing:1px;cursor:pointer;}
 .btn-add:active{opacity:.88;}
 
-/* ALL LIST */
+/* ── ALL LIST ── */
 .aqi{display:flex;align-items:flex-start;gap:12px;padding:14px 0;border-bottom:1px solid var(--border);}
 .aqi:last-child{border-bottom:none;}
 .aqi-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0;margin-top:4px;}
@@ -170,13 +219,13 @@ input[type=text]:focus,textarea:focus{outline:none;border-color:var(--mint);}
 .aqi-del{background:none;border:1px solid var(--border);color:var(--text3);border-radius:6px;padding:4px 8px;font-size:11px;cursor:pointer;flex-shrink:0;align-self:center;transition:all .2s;}
 .aqi-del:active{border-color:var(--red);color:var(--red);}
 
-/* TOAST */
+/* ── TOAST ── */
 .toast{position:fixed;bottom:32px;left:50%;transform:translateX(-50%) translateY(60px);background:var(--layer2);border:1px solid var(--border2);color:var(--text);padding:11px 22px;border-radius:30px;font-size:13px;font-family:var(--mono);white-space:nowrap;transition:transform .3s,opacity .3s;opacity:0;z-index:9999;}
 .toast.show{transform:translateX(-50%) translateY(0);opacity:1;}
 .toast.ok{border-color:var(--mint);color:var(--mint);}
 .toast.ng{border-color:var(--red);color:var(--red);}
 
-/* TYPES */
+/* TYPE COLORS */
 .t-indexing{color:#ff8c42;}.t-targeting{color:var(--mint);}.t-paraphrase{color:var(--purple);}.t-logic{color:var(--gold);}
 .bg-indexing{background:rgba(255,140,66,0.15);}.bg-targeting{background:var(--mint-dim);}.bg-paraphrase{background:var(--purple-dim);}.bg-logic{background:var(--gold-dim);}
 .d-indexing{background:#ff8c42;}.d-targeting{background:var(--mint);}.d-paraphrase{background:var(--purple);}.d-logic{background:var(--gold);}
@@ -273,7 +322,9 @@ input[type=text]:focus,textarea:focus{outline:none;border-color:var(--mint);}
   </section>
 </div>
 
-<!-- QUIZ OVERLAY -->
+<!-- ══════════════════════════════
+     QUIZ OVERLAY
+     ══════════════════════════════ -->
 <div id="quiz-overlay">
   <div class="qo-header">
     <button class="qo-back" onclick="closeQuiz()">← 닫기</button>
@@ -283,68 +334,94 @@ input[type=text]:focus,textarea:focus{outline:none;border-color:var(--mint);}
     </div>
   </div>
   <div class="qo-progress"><div class="qo-progress-fill" id="qoFill"></div></div>
+
   <div class="qo-body">
-    <div class="fc-container" id="fcContainer" onclick="handleCardClick()">
-      <div class="fc" id="flashcard">
-        <div class="fc-face fc-front">
+
+    <!-- FLASHCARD SCENE -->
+    <div class="fc-scene">
+      <div class="fc-card" id="fcCard">
+
+        <!-- FRONT (normal flow — sets height) -->
+        <div class="fc-front" id="fcFront">
           <div class="fc-badge" id="fcBadge">LOGIC</div>
           <div class="fc-q" id="fcQ">...</div>
+          <!-- MCQ 선지는 여기에 inject -->
           <div class="mcq-opts" id="mcqOpts"></div>
           <div class="fc-tap" id="fcTap">탭해서 정답 확인 →</div>
         </div>
-        <div class="fc-face fc-back">
+
+        <!-- BACK (absolute — overlaps front) -->
+        <div class="fc-back" id="fcBack">
           <div class="fc-ans-label">✦ 정답</div>
           <div class="fc-ans" id="fcAns"></div>
-          <div class="fc-div"></div>
+          <div class="fc-divider"></div>
           <div class="fc-exp-label">해설 & 논리 분석</div>
           <div class="fc-exp" id="fcExp"></div>
           <div class="fc-action" id="fcAction"></div>
         </div>
-      </div>
-    </div>
-    <button class="mcq-confirm" id="mcqConfirm" onclick="confirmMcq()">정답 확인하기 →</button>
-    <button class="mcq-next" id="mcqNext" onclick="advanceSession(true)">다음 →</button>
+
+      </div><!-- fc-card -->
+    </div><!-- fc-scene -->
+
+    <!-- ① MCQ: 선택 후 정답확인 버튼 -->
+    <button class="action-btn btn-confirm" id="btnConfirm" onclick="confirmMcq()">
+      정답 확인하기 →
+    </button>
+
+    <!-- ② MCQ: 해설 확인 후 다음 버튼 -->
+    <button class="action-btn btn-next" id="btnNext" onclick="goNext()">
+      다음 →
+    </button>
+
+    <!-- ③ 주관식: O/X 버튼 -->
     <div class="ox-wrap" id="oxWrap">
-      <div class="ox-row">
-        <button class="btn-o" onclick="advanceSession(true)">⭕ 맞았어요</button>
-        <button class="btn-x" onclick="advanceSession(false)">❌ 틀렸어요</button>
+      <div class="btn-row">
+        <button class="btn-o" onclick="goNext(true)">⭕ 맞았어요</button>
+        <button class="btn-x" onclick="goNext(false)">❌ 틀렸어요</button>
       </div>
       <div class="ox-note">정답 확인 후 정직하게 체크!</div>
     </div>
-  </div>
-</div>
+
+  </div><!-- qo-body -->
+</div><!-- quiz-overlay -->
 
 <div class="toast" id="toast"></div>
 
 <script>
-/* ═══════ STORAGE ═══════ */
-const SK = 'readbrain_v5', STK = 'readbrain_streak';
-const load   = () => { try{return JSON.parse(localStorage.getItem(SK))||[];}catch{return[];} };
-const save   = d => localStorage.setItem(SK, JSON.stringify(d));
+/* ══════════════════════════════════════════
+   STORAGE
+   ══════════════════════════════════════════ */
+const SK='readbrain_v6', STK='readbrain_streak';
+const loadQ  = () => { try{return JSON.parse(localStorage.getItem(SK)) ||[];}catch{return[];} };
+const saveQ  = d => localStorage.setItem(SK, JSON.stringify(d));
 const loadSt = () => { try{return JSON.parse(localStorage.getItem(STK))||{count:0,lastDate:''};}catch{return{count:0,lastDate:''};} };
 const saveSt = s => localStorage.setItem(STK, JSON.stringify(s));
 
-/* ═══════ SRS ═══════ */
+/* ══════════════════════════════════════════
+   SRS
+   ══════════════════════════════════════════ */
 const IVLS = [1,3,7];
-const today  = () => new Date().toISOString().split('T')[0];
-const addD   = (s,n) => { const d=new Date(s); d.setDate(d.getDate()+n); return d.toISOString().split('T')[0]; };
-const isDue  = q => q.nextReview <= today();
-function advance(q, ok) {
-  if (!ok) { q.cycleIdx=0; q.nextReview=addD(today(),1); return; }
-  q.cycleIdx = q.cycleIdx ?? 0;
+const todayStr = () => new Date().toISOString().split('T')[0];
+const addDays  = (s,n) => { const d=new Date(s); d.setDate(d.getDate()+n); return d.toISOString().split('T')[0]; };
+const isDue    = q => q.nextReview <= todayStr();
+function advanceSRS(q, ok) {
+  if (!ok) { q.cycleIdx=0; q.nextReview=addDays(todayStr(),1); return; }
+  q.cycleIdx = (q.cycleIdx ?? 0);
   const ni = q.cycleIdx+1;
-  if (ni < IVLS.length) { q.cycleIdx=ni; q.nextReview=addD(today(),IVLS[ni]); }
-  else { q.cycleIdx=IVLS.length; q.nextReview='9999-12-31'; }
+  if (ni < IVLS.length) { q.cycleIdx=ni; q.nextReview=addDays(todayStr(),IVLS[ni]); }
+  else                  { q.cycleIdx=IVLS.length; q.nextReview='9999-12-31'; }
 }
 
-/* ═══════ TYPE CONFIGS ═══════ */
+/* ══════════════════════════════════════════
+   TYPE CONFIGS
+   ══════════════════════════════════════════ */
 const TYPES = {
   indexing:{
     label:'INDEXING',tc:'t-indexing',bc:'bg-indexing',dc:'d-indexing',
     hint:'어떤 <strong>예시/세부 내용</strong>을 글의 주제로 착각했나요?',
     fields:[
-      {key:'example', label:'착각한 예시 내용',    ph:'예) 아프리카 기아 문제 통계'},
-      {key:'mainIdea',label:'실제 주제/중심 내용',  ph:'예) 국제 원조의 비효율성 비판'},
+      {key:'example', label:'착각한 예시 내용',     ph:'예) 아프리카 기아 문제 통계'},
+      {key:'mainIdea',label:'실제 주제/중심 내용',   ph:'예) 국제 원조의 비효율성 비판'},
       {key:'passage', label:'관련 본문 문장 (선택)',ph:'For instance, in Africa...'},
     ],
     build(f){return{
@@ -358,9 +435,9 @@ const TYPES = {
     label:'TARGETING',tc:'t-targeting',bc:'bg-targeting',dc:'d-targeting',
     hint:'질문 키워드가 본문에 없을 때 어떤 <strong>상위개념·동의어</strong>로 찾아야 했나요?',
     fields:[
-      {key:'qKeyword',  label:'질문의 키워드 (지문에 없는)',ph:'예) Producers'},
-      {key:'textWord',  label:'본문의 대응 표현',            ph:'예) Record companies'},
-      {key:'relation',  label:'두 표현의 관계',              ph:'예) Producers = Record companies 상위개념'},
+      {key:'qKeyword', label:'질문의 키워드 (지문에 없는)',ph:'예) Producers'},
+      {key:'textWord', label:'본문의 대응 표현',            ph:'예) Record companies'},
+      {key:'relation', label:'두 표현의 관계',              ph:'예) Producers = Record companies 상위개념'},
     ],
     build(f){return{
       question:`질문의 키워드 <em>${f.qKeyword}</em>가 지문에 없을 때,\n본문에서 찾아야 할 표현은?`,
@@ -401,43 +478,49 @@ const TYPES = {
   }
 };
 
-/* ═══════ STATE ═══════ */
-let quizzes  = load();
-let curStep  = 'indexing';
-let queue    = [], qIdx = 0;
-let flipped  = false, chosen = null;
-let streak   = loadSt();
+/* ══════════════════════════════════════════
+   STATE
+   ══════════════════════════════════════════ */
+let quizzes = loadQ();
+let curStep = 'indexing';
+let queue   = [], qIdx = 0;
+let isFlipped = false;
+let chosenIdx = null;     // MCQ에서 선택한 번호
+let lastCorrect = null;   // MCQ에서 정답여부 저장 (goNext에서 사용)
+let streak = loadSt();
 
-/* ═══════ LOAD data.json ═══════ */
+/* ══════════════════════════════════════════
+   data.json LOADER
+   ══════════════════════════════════════════ */
 async function loadDataJson() {
-  const statusEl = document.getElementById('dataStatus');
+  const el = document.getElementById('dataStatus');
   try {
-    const res = await fetch('./data.json?v=' + Date.now());
-    if (!res.ok) throw new Error('HTTP ' + res.status);
-    const dataArr = await res.json();
+    const res = await fetch('./data.json?t=' + Date.now());
+    if (!res.ok) throw new Error(res.status);
+    const arr = await res.json();
+    const existIds = new Set(quizzes.map(q=>q.id));
     let added = 0;
-    const existingIds = new Set(quizzes.map(q => q.id));
-    dataArr.forEach(item => {
-      if (existingIds.has(item.id)) return; // 이미 있으면 스킵
-      // "TODAY" 키워드면 오늘 날짜로 치환
-      const entry = JSON.parse(JSON.stringify(item));
-      if (entry.nextReview === 'TODAY') entry.nextReview = today();
-      if (!entry.history) entry.history = [];
-      if (entry.cycleIdx === undefined) entry.cycleIdx = 0;
-      quizzes.push(entry);
-      added++;
+    arr.forEach(item => {
+      if (existIds.has(item.id)) return;
+      const e = JSON.parse(JSON.stringify(item));
+      if (e.nextReview === 'TODAY') e.nextReview = todayStr();
+      if (!e.history)    e.history   = [];
+      if (e.cycleIdx == null) e.cycleIdx = 0;
+      quizzes.push(e); added++;
     });
-    if (added > 0) { save(quizzes); }
-    statusEl.className = 'data-status ok';
-    statusEl.textContent = `✓ data.json 로드 완료 — ${dataArr.length}개 퀴즈 (신규 ${added}개 추가)`;
+    if (added > 0) saveQ(quizzes);
+    el.className = 'data-status ok';
+    el.textContent = `✓ data.json 로드 완료 — ${arr.length}개 (신규 ${added}개 추가)`;
   } catch(e) {
-    statusEl.className = 'data-status err';
-    statusEl.textContent = `⚠ data.json 없음 — localStorage 데이터만 사용 중`;
+    el.className = 'data-status err';
+    el.textContent = `⚠ data.json 없음 — localStorage 데이터만 사용`;
   }
   renderToday();
 }
 
-/* ═══════ UI ═══════ */
+/* ══════════════════════════════════════════
+   UI HELPERS
+   ══════════════════════════════════════════ */
 function switchTab(t) {
   document.querySelectorAll('.tab').forEach(el=>el.classList.toggle('active',el.dataset.tab===t));
   document.querySelectorAll('section').forEach(s=>s.classList.remove('active'));
@@ -446,34 +529,37 @@ function switchTab(t) {
   if(t==='all')   renderAll();
   if(t==='add')   renderForm();
 }
-function toast(msg, type='') {
-  const el=document.getElementById('toast');
+function showToast(msg, type='') {
+  const el = document.getElementById('toast');
   el.textContent=msg; el.className=`toast show ${type}`;
-  clearTimeout(el._t); el._t=setTimeout(()=>el.className='toast',2300);
+  clearTimeout(el._t); el._t = setTimeout(()=>el.className='toast',2400);
 }
 
-/* ═══════ TODAY ═══════ */
+/* ══════════════════════════════════════════
+   TODAY
+   ══════════════════════════════════════════ */
 function renderToday() {
-  const due   = quizzes.filter(q=>isDue(q)&&q.nextReview!=='9999-12-31');
+  const due   = quizzes.filter(q=>isDue(q) && q.nextReview!=='9999-12-31');
   const total = quizzes.filter(q=>q.nextReview!=='9999-12-31').length;
   document.getElementById('statTotal').textContent  = total;
   document.getElementById('statDue').textContent    = due.length;
   document.getElementById('statStreak').textContent = streak.count;
   document.getElementById('streakBadge').textContent= `🔥 ${streak.count} 연속`;
-  const badge=document.getElementById('badge-today');
-  badge.textContent=due.length; badge.classList.toggle('show',due.length>0);
-  const btn=document.getElementById('startBtn');
-  btn.disabled=due.length===0;
-  btn.textContent=due.length>0?`▶ 복습 시작 (${due.length}개)`:'오늘 복습 완료! ✓';
-  const listEl=document.getElementById('todayList');
-  if(!due.length){
+  const badge = document.getElementById('badge-today');
+  badge.textContent = due.length;
+  badge.classList.toggle('show', due.length > 0);
+  const btn = document.getElementById('startBtn');
+  btn.disabled = due.length === 0;
+  btn.textContent = due.length > 0 ? `▶ 복습 시작 (${due.length}개)` : '오늘 복습 완료! ✓';
+  const listEl = document.getElementById('todayList');
+  if (!due.length) {
     listEl.innerHTML=`<div class="today-empty"><div class="ei">🎉</div><p>오늘 복습할 퀴즈가 없어요!<br><strong>오답 추가</strong>에서 퀴즈를 만들면<br>망각곡선에 따라 자동 등장해요.</p></div>`;
     return;
   }
-  listEl.innerHTML=due.map(q=>{
-    const t=TYPES[q.type];
-    const cl=q.cycleIdx<IVLS.length?`+${IVLS[q.cycleIdx]}일`:'완료';
-    const mcqTag=q.isMCQ?` <span style="font-size:9px;color:var(--purple);font-family:var(--mono);">[MCQ]</span>`:'';
+  listEl.innerHTML = due.map(q=>{
+    const t = TYPES[q.type];
+    const cl = q.cycleIdx<IVLS.length ? `+${IVLS[q.cycleIdx]}일` : '완료';
+    const mcqTag = q.isMCQ ? ` <span style="font-size:9px;color:var(--purple);font-family:var(--mono);">[MCQ]</span>` : '';
     return `<div class="quiz-row" onclick="startSingle(${quizzes.indexOf(q)})">
       <div class="qr-dot ${t.dc}"></div>
       <div class="qr-info">
@@ -481,20 +567,22 @@ function renderToday() {
         <div class="qr-q">${q.quiz.question.replace(/<[^>]+>/g,'').substring(0,46)}...</div>
       </div>
       <span class="qr-cycle due">${cl}</span>
-      <span style="color:var(--text3);font-size:14px;">›</span>
+      <span style="color:var(--text3);font-size:14px;flex-shrink:0;">›</span>
     </div>`;
   }).join('');
 }
 
-/* ═══════ FORM ═══════ */
-function selectStep(el,step) {
+/* ══════════════════════════════════════════
+   FORM
+   ══════════════════════════════════════════ */
+function selectStep(el, step) {
   document.querySelectorAll('.step-opt').forEach(o=>o.classList.remove('selected'));
   el.classList.add('selected'); curStep=step; renderForm();
 }
 function renderForm() {
-  const t=TYPES[curStep];
-  document.getElementById('hintBox').innerHTML=t.hint;
-  document.getElementById('formFields').innerHTML=t.fields.map(f=>
+  const t = TYPES[curStep];
+  document.getElementById('hintBox').innerHTML = t.hint;
+  document.getElementById('formFields').innerHTML = t.fields.map(f=>
     `<div class="form-grp"><label class="form-lbl">${f.label}</label>
      <input type="text" id="f_${f.key}" placeholder="${f.ph}" oninput="updatePreview()"></div>`
   ).join('');
@@ -502,12 +590,12 @@ function renderForm() {
 }
 function getVals() {
   const v={};
-  TYPES[curStep].fields.forEach(f=>{const el=document.getElementById('f_'+f.key);v[f.key]=el?el.value.trim():'';});
+  TYPES[curStep].fields.forEach(f=>{const el=document.getElementById('f_'+f.key); v[f.key]=el?el.value.trim():'';});
   return v;
 }
 function updatePreview() {
   const v=getVals(), t=TYPES[curStep];
-  const ok=t.fields.filter(f=>!f.label.includes('선택')).every(f=>v[f.key]);
+  const ok = t.fields.filter(f=>!f.label.includes('선택')).every(f=>v[f.key]);
   if(!ok){document.getElementById('previewBox').innerHTML=`<span style="color:var(--text3)">필드를 입력하면 미리보기가 나타납니다.</span>`;return;}
   try {
     const q=t.build(v);
@@ -520,15 +608,17 @@ function updatePreview() {
 }
 function addQuiz() {
   const v=getVals(), t=TYPES[curStep];
-  if(t.fields.filter(f=>!f.label.includes('선택')).some(f=>!v[f.key])){toast('필수 항목을 모두 입력해주세요!','ng');return;}
-  quizzes.push({id:'u_'+Date.now(),type:curStep,isMCQ:false,quiz:t.build(v),fields:v,source:'직접 입력',createdAt:today(),nextReview:addD(today(),1),cycleIdx:0,history:[]});
-  save(quizzes);
+  if(t.fields.filter(f=>!f.label.includes('선택')).some(f=>!v[f.key])){showToast('필수 항목을 모두 입력해주세요!','ng');return;}
+  quizzes.push({id:'u_'+Date.now(),type:curStep,isMCQ:false,quiz:t.build(v),fields:v,source:'직접 입력',createdAt:todayStr(),nextReview:addDays(todayStr(),1),cycleIdx:0,history:[]});
+  saveQ(quizzes);
   TYPES[curStep].fields.forEach(f=>{const el=document.getElementById('f_'+f.key);if(el)el.value='';});
   updatePreview(); renderToday();
-  toast('✓ 저장 완료! 1일 후 복습 예정','ok');
+  showToast('✓ 저장 완료! 1일 후 복습 예정','ok');
 }
 
-/* ═══════ ALL ═══════ */
+/* ══════════════════════════════════════════
+   ALL LIST
+   ══════════════════════════════════════════ */
 function renderAll() {
   const el=document.getElementById('allList');
   if(!quizzes.length){el.innerHTML=`<div class="today-empty"><div class="ei">📝</div><p>저장된 퀴즈가 없어요.</p></div>`;return;}
@@ -537,11 +627,11 @@ function renderAll() {
     const cyc=q.nextReview==='9999-12-31'?'완료 ✓':`복습: ${q.nextReview}`;
     const rate=q.history.length?Math.round(q.history.filter(Boolean).length/q.history.length*100)+'%':'-';
     const src=q.source?`<span class="aqi-src">${q.source}</span>`:'';
-    const mcq=q.isMCQ?`<span class="aqi-src" style="color:var(--mint);border-color:rgba(45,228,182,0.3);background:var(--mint-dim);">MCQ</span>`:'';
+    const mcqBadge=q.isMCQ?`<span class="aqi-src" style="color:var(--mint);border-color:rgba(45,228,182,0.3);background:var(--mint-dim);">MCQ</span>`:'';
     return `<div class="aqi">
       <div class="aqi-dot ${t.dc}"></div>
       <div class="aqi-info">
-        <div class="aqi-type ${t.tc}">${t.label}${src}${mcq}</div>
+        <div class="aqi-type ${t.tc}">${t.label}${src}${mcqBadge}</div>
         <div class="aqi-q">${q.quiz.question.replace(/<[^>]+>/g,'').substring(0,52)}...</div>
         <div class="aqi-meta">${cyc} · 정답률 ${rate} · ${q.history.length}회</div>
       </div>
@@ -551,124 +641,202 @@ function renderAll() {
 }
 function delQuiz(i) {
   if(!confirm('삭제할까요?')) return;
-  quizzes.splice(i,1); save(quizzes); renderAll(); renderToday();
-  toast('삭제되었습니다.');
+  quizzes.splice(i,1); saveQ(quizzes); renderAll(); renderToday();
+  showToast('삭제되었습니다.');
 }
 
-/* ═══════ SESSION ═══════ */
+/* ══════════════════════════════════════════
+   SESSION CONTROL
+   ══════════════════════════════════════════ */
 function startQuiz() {
-  queue=quizzes.map((q,i)=>({...q,_idx:i})).filter(q=>isDue(q)&&q.nextReview!=='9999-12-31').sort(()=>Math.random()-.5);
-  if(!queue.length) return;
-  qIdx=0; openQuiz();
+  queue = quizzes
+    .map((q,i)=>({...q,_idx:i}))
+    .filter(q=>isDue(q) && q.nextReview!=='9999-12-31')
+    .sort(()=>Math.random()-.5);
+  if (!queue.length) return;
+  qIdx = 0; openQuiz();
 }
-function startSingle(idx) { queue=[{...quizzes[idx],_idx:idx}]; qIdx=0; openQuiz(); }
-function openQuiz() { document.getElementById('quiz-overlay').classList.add('open'); loadCard(); }
-function closeQuiz() { document.getElementById('quiz-overlay').classList.remove('open'); resetCard(); renderToday(); }
+function startSingle(idx) {
+  queue = [{...quizzes[idx], _idx:idx}]; qIdx=0; openQuiz();
+}
+function openQuiz() {
+  document.getElementById('quiz-overlay').classList.add('open');
+  loadCard();
+}
+function closeQuiz() {
+  document.getElementById('quiz-overlay').classList.remove('open');
+  resetCardUI();
+  renderToday();
+}
 
-function resetCard() {
-  document.getElementById('flashcard').classList.remove('flipped');
+/* 카드 UI를 초기 상태로 리셋 */
+function resetCardUI() {
+  document.getElementById('fcCard').classList.remove('flipped');
   document.getElementById('oxWrap').classList.remove('show');
-  document.getElementById('mcqConfirm').classList.remove('show');
-  document.getElementById('mcqNext').classList.remove('show');
-  document.getElementById('mcqOpts').innerHTML='';
+  document.getElementById('btnConfirm').classList.remove('show');
+  document.getElementById('btnNext').classList.remove('show');
+  document.getElementById('mcqOpts').innerHTML = '';
   document.getElementById('fcTap').classList.remove('hidden');
-  flipped=false; chosen=null;
+  isFlipped  = false;
+  chosenIdx  = null;
+  lastCorrect= null;
 }
 
+/* 카드 데이터 로드 */
 function loadCard() {
-  if(qIdx>=queue.length){closeQuiz();toast(`🎉 세션 완료! ${queue.length}개`,'ok');return;}
-  resetCard();
-  const q=queue[qIdx], t=TYPES[q.type];
-  document.getElementById('qoCurrent').textContent=qIdx+1;
-  document.getElementById('qoTotal').textContent=queue.length;
-  document.getElementById('qoFill').style.width=(qIdx/queue.length*100)+'%';
-  document.getElementById('qoSrc').textContent=q.source||'';
+  if (qIdx >= queue.length) {
+    closeQuiz();
+    showToast(`🎉 세션 완료! ${queue.length}개`,'ok');
+    return;
+  }
+  resetCardUI();
 
-  const badge=document.getElementById('fcBadge');
-  badge.className=`fc-badge ${t.bc} ${t.tc}`;
-  badge.textContent=t.label+(q.isMCQ?' · 객관식':'');
+  const q = queue[qIdx];
+  const t = TYPES[q.type];
 
-  document.getElementById('fcQ').innerHTML=q.quiz.question.replace(/\n/g,'<br>');
-  document.getElementById('fcAns').textContent=q.quiz.answer;
-  document.getElementById('fcExp').innerHTML=q.quiz.explanation.replace(/\n/g,'<br>');
-  document.getElementById('fcAction').textContent=q.quiz.action;
+  // 헤더 업데이트
+  document.getElementById('qoCurrent').textContent = qIdx+1;
+  document.getElementById('qoTotal').textContent   = queue.length;
+  document.getElementById('qoFill').style.width    = (qIdx/queue.length*100)+'%';
+  document.getElementById('qoSrc').textContent     = q.source || '';
 
-  if(q.isMCQ) {
+  // 배지
+  const badge = document.getElementById('fcBadge');
+  badge.className   = `fc-badge ${t.bc} ${t.tc}`;
+  badge.textContent = t.label + (q.isMCQ ? ' · 객관식' : '');
+
+  // 앞면 질문
+  document.getElementById('fcQ').innerHTML = q.quiz.question.replace(/\n/g,'<br>');
+
+  // 뒷면 내용
+  document.getElementById('fcAns').textContent    = q.quiz.answer;
+  document.getElementById('fcExp').innerHTML      = q.quiz.explanation.replace(/\n/g,'<br>');
+  document.getElementById('fcAction').textContent = q.quiz.action;
+
+  // MCQ 선지 주입
+  if (q.isMCQ) {
     document.getElementById('fcTap').classList.add('hidden');
-    document.getElementById('mcqOpts').innerHTML=q.quiz.options.map((opt,i)=>
+    document.getElementById('mcqOpts').innerHTML = q.quiz.options.map((opt,i) =>
       `<button class="mcq-opt" id="mo_${i}" onclick="chooseMcq(${i})">
-        <span class="mcq-num">${'①②③④'[i]}</span><span>${opt}</span>
-      </button>`).join('');
+        <span class="mcq-num">${'①②③④'[i]}</span>
+        <span>${opt}</span>
+      </button>`
+    ).join('');
+    // 앞면 클릭 시 아무것도 안 함 (MCQ는 선지 클릭으로만 진행)
+    document.getElementById('fcFront').onclick = null;
+  } else {
+    // 주관식: 앞면 탭 → 뒤집기
+    document.getElementById('fcFront').onclick = flipToBack;
   }
 }
 
-function handleCardClick() {
-  if(queue[qIdx]&&queue[qIdx].isMCQ) return;
-  flipCard();
-}
-function flipCard() {
-  if(flipped) return; flipped=true;
-  document.getElementById('flashcard').classList.add('flipped');
-  setTimeout(()=>document.getElementById('oxWrap').classList.add('show'),300);
+/* ══════════════════════════════════════════
+   CARD FLIP
+   ══════════════════════════════════════════ */
+function flipToBack() {
+  if (isFlipped) return;
+  isFlipped = true;
+  document.getElementById('fcCard').classList.add('flipped');
+  // 주관식 → 0.3초 후 OX 버튼 표시
+  setTimeout(() => document.getElementById('oxWrap').classList.add('show'), 300);
 }
 
+/* ══════════════════════════════════════════
+   MCQ LOGIC  ← 버그 수정 핵심 부분
+   ══════════════════════════════════════════ */
 function chooseMcq(idx) {
-  if(flipped) return; chosen=idx;
-  document.querySelectorAll('.mcq-opt').forEach((el,i)=>el.classList.toggle('selected',i===idx));
-  document.getElementById('mcqConfirm').classList.add('show');
+  if (isFlipped) return;  // 이미 정답 확인 후면 무시
+  chosenIdx = idx;
+  // 선택 스타일
+  document.querySelectorAll('.mcq-opt').forEach((el,i) =>
+    el.classList.toggle('selected', i === idx)
+  );
+  // 정답확인 버튼 표시
+  document.getElementById('btnConfirm').classList.add('show');
 }
+
 function confirmMcq() {
-  if(chosen===null||flipped) return;
-  flipped=true;
-  const q=queue[qIdx], correct=chosen===q.quiz.correctIdx;
-  document.querySelectorAll('.mcq-opt').forEach((el,i)=>{
+  if (chosenIdx === null || isFlipped) return;
+  isFlipped = true;
+
+  const q = queue[qIdx];
+  lastCorrect = (chosenIdx === q.quiz.correctIdx);
+
+  // 선지 색 표시
+  document.querySelectorAll('.mcq-opt').forEach((el,i) => {
     el.classList.remove('selected');
-    if(i===q.quiz.correctIdx) el.classList.add('correct');
-    else if(i===chosen&&!correct) el.classList.add('wrong');
+    if (i === q.quiz.correctIdx) el.classList.add('correct');
+    else if (i === chosenIdx && !lastCorrect) el.classList.add('wrong');
   });
-  document.getElementById('mcqConfirm').classList.remove('show');
-  recordResult(correct);
-  setTimeout(()=>{
-    document.getElementById('flashcard').classList.add('flipped');
-    setTimeout(()=>document.getElementById('mcqNext').classList.add('show'),300);
-  },700);
+
+  // 정답확인 버튼 숨기기
+  document.getElementById('btnConfirm').classList.remove('show');
+
+  // 결과 기록
+  recordResult(lastCorrect);
+
+  // 0.6초 후 카드 뒤집기 → 0.4초 후 '다음' 버튼 표시
+  setTimeout(() => {
+    document.getElementById('fcCard').classList.add('flipped');
+    setTimeout(() => {
+      document.getElementById('btnNext').classList.add('show');
+    }, 400);
+  }, 600);
 }
 
+/* ══════════════════════════════════════════
+   RESULT RECORDING
+   ══════════════════════════════════════════ */
 function recordResult(correct) {
-  const q=queue[qIdx], ri=q._idx;
-  if(correct){
-    const td=today();
-    if(streak.lastDate===td)               streak.count++;
-    else if(streak.lastDate===addD(td,-1)) {streak.count++;streak.lastDate=td;}
-    else                                    {streak.count=1;streak.lastDate=td;}
+  const q  = queue[qIdx];
+  const ri = q._idx;
+
+  if (correct) {
+    const td = todayStr();
+    if (streak.lastDate === td)                   streak.count++;
+    else if (streak.lastDate === addDays(td,-1)) { streak.count++; streak.lastDate=td; }
+    else                                          { streak.count=1; streak.lastDate=td; }
     saveSt(streak);
-    document.getElementById('statStreak').textContent=streak.count;
-    document.getElementById('streakBadge').textContent=`🔥 ${streak.count} 연속`;
+    document.getElementById('statStreak').textContent  = streak.count;
+    document.getElementById('streakBadge').textContent = `🔥 ${streak.count} 연속`;
   }
+
   quizzes[ri].history.push(correct);
-  advance(quizzes[ri],correct);
-  save(quizzes);
-  toast(correct?'⭕ 정답!':'❌ 오답 — 1일 후 재복습',correct?'ok':'ng');
+  advanceSRS(quizzes[ri], correct);
+  saveQ(quizzes);
+
+  showToast(correct ? '⭕ 정답!' : '❌ 오답 — 1일 후 재복습', correct ? 'ok' : 'ng');
 }
 
-function advanceSession(correct) {
-  const q=queue[qIdx];
-  if(!q.isMCQ) recordResult(correct);
-  document.getElementById('qoFill').style.width=((qIdx+1)/queue.length*100)+'%';
+/* ══════════════════════════════════════════
+   goNext — 다음 카드로 이동
+   주관식: correct 파라미터 전달 + 기록
+   MCQ:    파라미터 없이 호출 (이미 confirmMcq에서 기록 완료)
+   ══════════════════════════════════════════ */
+function goNext(correct) {
+  // 주관식이면 여기서 기록
+  const q = queue[qIdx];
+  if (!q.isMCQ && correct !== undefined) {
+    recordResult(correct);
+  }
+
+  // 프로그레스 업데이트
+  document.getElementById('qoFill').style.width = ((qIdx+1)/queue.length*100)+'%';
   qIdx++;
-  setTimeout(()=>{
-    document.getElementById('flashcard').classList.remove('flipped');
-    document.getElementById('oxWrap').classList.remove('show');
-    document.getElementById('mcqNext').classList.remove('show');
-    flipped=false; chosen=null;
-    setTimeout(loadCard,180);
-  },300);
+
+  // 카드 리셋 후 다음 로드
+  setTimeout(() => {
+    resetCardUI();
+    setTimeout(loadCard, 150);
+  }, 280);
 }
 
-/* ═══════ INIT ═══════ */
+/* ══════════════════════════════════════════
+   INIT
+   ══════════════════════════════════════════ */
 renderToday();
 renderForm();
-loadDataJson(); // fetch data.json on startup
+loadDataJson();
 </script>
 </body>
 </html>
