@@ -103,5 +103,110 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "q46_indexing_why_b_wrong",
+    "type": "indexing",
+    "isMCQ": true,
+    "source": "Q46 — Indexing (B→D)",
+    "quiz": {
+      "question": "[Q46 — Why is Choice B wrong?]\n\nAnecdote: A researcher refuses to accept it's 3 o'clock despite a wall clock, desk clock, and wristwatch all showing 3. His secretary rolls her eyes and says, \"It is three o'clock.\"\n\nChoice B (your pick): <strong>\"Complexity is often disguised as simplicity.\"\n\nChoice D (correct answer): \"Rigid thinking can obscure the truth.\"\n\nWhy is Choice B a classic Indexing Error?",
+      "options": [
+        "The word 'disguised' does not appear anywhere in the passage",
+        "B focuses on a surface-level image ('disguised') rather than the overall satirical point — the researcher's obsessive doubt is the real theme, not disguise",
+        "Choice B is grammatically incorrect",
+        "The researcher never uses the word 'complexity' in his dialogue"
+      ],
+      "correctIdx": 1,
+      "answer": "② Indexing Error — fixated on 'disguised', missed the satirical theme",
+      "explanation": "[Passage Structure]\nSurface detail (example): researcher doubts clocks one by one\nPunchline: secretary eye-roll → 'It IS three o'clock'\nReal theme: the researcher's rigid, obsessive thinking OBSCURES a plain truth\n\n[Why B tempts]\n'Disguised' is a vivid word → eye catches it → brain builds a story around it\nBut 'disguised' describes a small surface detail, NOT the overall message\n\n[Indexing Error pattern]\nYou indexed on: a single striking word ('disguised')\nYou should have indexed on: the narrative arc (absurdity → secretary's punchline → satirical point)\n\n[Correct paraphrase chain]\nResearcher's absurd stubbornness = Rigid thinking\nRefusing to see the obvious fact = obscure the truth",
+      "action": "Action Rule (Indexing): In anecdote/narrative passages, always ask: 'What is the PUNCHLINE or final irony?' — that is where the main theme lives. Don't let a single vivid word hijack your reading."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q46_subjective_paraphrase_drill",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Q46 — Paraphrase Drill",
+    "quiz": {
+      "question": "[Q46 — Paraphrase Drill]\n\nComplete the paraphrase chain:\n\n① Researcher's absurd stubbornness about the clocks\n   = ________ thinking\n\n② His refusal to accept the obvious 3 o'clock fact\n   = to ________ the truth\n\n(Tap to check your answers)",
+      "answer": "① Rigid  ② obscure",
+      "explanation": "[Full paraphrase chain]\nResearcher's absurd stubbornness → RIGID thinking\n  (rigid = inflexible, locked into one mode of thinking)\n\nRefusing to see the obvious → OBSCURE the truth\n  (obscure = to hide or make unclear something that should be plain)\n\n[Combined → Choice D]\n'Rigid thinking can OBSCURE the truth'\n= The researcher is so locked into his methodology that he cannot see the obvious answer staring at him",
+      "action": "Drill habit: For every narrative passage, map: CHARACTER FLAW → abstract noun / verb. Stubbornness → rigid. Hiding the obvious → obscure."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q47_paraphrase_mutual_independence",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Q47 — Paraphrasing (C→A)",
+    "quiz": {
+      "question": "[Q47 — Paraphrasing: Source vs Observer]\n\nPassage:\n\"Both clocks run off <em>the mains</em>; the power could have failed.\"\n\nThe researcher doubts both clocks for this reason.\n\nChoice A (correct): pieces of data need to be checked for <strong>mutual independence</strong>.\nChoice C (your pick): pieces of data need to be verified by more than one <strong>independent observer</strong>.\n\nWhy is A correct and C wrong?",
+      "options": [
+        "Choice A uses more technical vocabulary than Choice C",
+        "The passage is about a shared power SOURCE (the mains), not about the people observing — so the independence failure is in the data sources, not the observers",
+        "Choice C contradicts the passage because the researcher is the only observer",
+        "The word 'mutual' appears directly in the passage"
+      ],
+      "correctIdx": 1,
+      "answer": "② The problem is the shared power SOURCE, not the observers",
+      "explanation": "[The key line decoded]\n'Both clocks run off the MAINS' \n= both clocks share the same electricity source\n= if the power fails, BOTH show the wrong time simultaneously\n= the two data points are NOT independent — they are linked at the source\n\n[Paraphrase chain]\nSharing the same mains = lack of MUTUAL INDEPENDENCE\n(mutual = each from the other; independence = not connected/influenced)\n\n[Why C is wrong]\nC says: 'independent OBSERVER' → the problem is with the PERSON looking\nBut the text says: the problem is with the POWER SOURCE they share\nWatcher ≠ Source\n\n[Visual model]\nClock A ──┐\n           ├── THE MAINS (shared source) ← this is the problem\nClock B ──┘",
+      "action": "Action Rule: When a character gives a reason for doubt → ask 'Is this about the DATA SOURCE or the DATA OBSERVER?' Map that precisely to the abstract choice vocabulary."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q47_subjective_mains_paraphrase",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Q47 — Paraphrase Drill",
+    "quiz": {
+      "question": "[Q47 — Paraphrase Drill]\n\nPassage line:\n\"Both clocks run off <em>the mains</em>; the power could have failed.\"\n\nComplete:\n'Both clocks run off the mains'\n= the two data sources lack ________ ________\n\n(Tap to check)",
+      "answer": "mutual independence",
+      "explanation": "[Decoding 'the mains']\nThe mains = the shared electricity supply\nIf source is shared → both clocks fail at the same time → they cannot independently confirm each other\n\n[Paraphrase]\nShared mains → no mutual independence\n(mutual = bidirectionally linked; independence = not sharing a common cause)\n\n[Wrong trap — 'independent observer']\nAn observer watches the data.\nA source generates the data.\nThe mains is a SOURCE, not an observer.",
+      "action": "Drill habit: 'shared source' → 'lack of mutual independence'. Practice this substitution until it is automatic."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q48_paraphrase_inconclusive",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Q48 — Paraphrasing (C→D)",
+    "quiz": {
+      "question": "[Q48 — Paraphrasing Tone & Attitude]\n\nPassage (researcher sees wristwatch showing 3 o'clock):\n\"<em>An interesting association</em>,\" he conceded,\n\"<em>but it still doesn't prove anything.</em>\"\n\nChoice D (correct): possibly significant, but <strong>inconclusive</strong>.\nChoice C (your pick): <strong>supportive of his argument</strong>.\n\nHow does each half of the sentence map to Choice D?",
+      "options": [
+        "'An interesting association' → inconclusive / 'doesn't prove anything' → possibly significant",
+        "'An interesting association' → possibly significant / 'doesn't prove anything' → inconclusive",
+        "Both halves together mean the researcher thinks it IS 3 o'clock",
+        "Both halves together mean the researcher is ignoring the wristwatch entirely"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'interesting association' → possibly significant / 'doesn't prove anything' → inconclusive",
+      "explanation": "[1:1 Paraphrase map]\n'An interesting association'  →  possibly significant\n  (interesting = worth noting; association = connection — so: it might mean something)\n\n'doesn't prove anything'  →  inconclusive\n  (inconclusive = does not lead to a definite conclusion)\n\n[Why C ('supportive of his argument') is wrong]\nThe researcher is NOT arguing 'it is NOT 3 o'clock'\nHis position is: 'I cannot yet conclude what time it is'\nSupporting an argument = adding weight to a claim\nBut he has no positive claim — he is just withholding conclusion\n\n[Key distinction]\nSupportive → adds evidence FOR a position\nInconclusive → neither proves nor disproves; leaves question open\nThe researcher is firmly in 'inconclusive' territory",
+      "action": "Action Rule: Two-part dialogue = two-part paraphrase. Map each clause separately before choosing. 'Interesting but not proven' = 'possibly significant but inconclusive' — memorise this pair."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q48_subjective_inconclusive_drill",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Q48 — Paraphrase Drill",
+    "quiz": {
+      "question": "[Q48 — Two-Part Paraphrase Drill]\n\nMap each phrase to its abstract equivalent:\n\n① \"An interesting association\"\n   = ________ ________\n\n② \"but it still doesn't prove anything\"\n   = but ________\n\n(Tap to check)",
+      "answer": "① possibly significant  ② inconclusive",
+      "explanation": "[Full map]\n① 'An interesting association'\n  interesting = worth noting → possibly\n  association = a connection that might mean something → significant\n  ∴ → possibly significant\n\n② 'doesn't prove anything'\n  no proof = no definite conclusion\n  ∴ → inconclusive\n\n[Combined]\n'Possibly significant, but inconclusive'\n= acknowledges the data exists AND its potential meaning\n= but stops short of drawing any conclusion\n\n[Why NOT 'supportive']\nSupportive = the wristwatch backs up the researcher's claim\nBut the researcher has NO claim to back up — he is in a state of suspended judgment",
+      "action": "Drill habit: Memorise the pair — 'interesting but unproven' = 'possibly significant but inconclusive'. This two-part structure appears constantly in GAMSAT attitude questions."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
