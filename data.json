@@ -1,42 +1,105 @@
 [
   {
-    "id": "preset_19_q1",
+    "id": "preset_q1_target_mismatch",
     "type": "logic",
     "isMCQ": true,
-    "source": "2024 수능 19번",
+    "source": "GAMSAT Practice",
     "quiz": {
-      "question": "[19번 — 선지 D 대상 오류 분석]\n\n본문:\n\"For every piece of music it has brought to attention(A), there is at least one more that it has destroyed(B).\"\n\n선지 D:\n\"Fashion will eventually wipe out every piece they promote.\"\n\n선지 D가 결정적 오답인 이유는?",
+      "question": "[Logic Error — Target Mismatch]\n\nPassage:\n\"For every piece of music it has brought to attention(A), there is at least one more that it has destroyed(B).\"\n\nChoice D:\n\"Fashion will eventually wipe out every piece they promote.\"\n\nWhy is Choice D definitively wrong?",
       "options": [
-        "본문은 패션의 긍정적 영향만 말하는데, 선지 D는 부정적이라서",
-        "본문은 홍보 대상(A)과 파괴 대상(B)을 별개의 존재로 보는데, 선지 D는 자기가 홍보한 바로 그 대상을 파괴한다고 했으므로",
-        "본문에는 'Eventually'라는 시간적 개념이 전혀 등장하지 않아서",
-        "선지 D의 'Wipe out'이 본문의 'Destroy'와 뜻이 완전히 달라서"
+        "The passage only discusses the positive effects of fashion, but Choice D is negative",
+        "The passage treats promoted music (A) and destroyed music (B) as separate entities — but Choice D conflates them, saying fashion destroys the very pieces it promotes",
+        "The word 'Eventually' introduces a time concept that is absent from the passage",
+        "'Wipe out' and 'destroy' have completely different meanings"
       ],
       "correctIdx": 1,
-      "answer": "② 대상 분리 오류 — A(홍보 대상) ≠ B(파괴 대상)",
-      "explanation": "[본문 논리 — 대상 분리]\nA(패션이 주목시킨 음악) → 홍보\n그 결과, 다른(another) B(그늘에 가려진 음악) → 파괴\n→ A와 B는 서로 다른 존재!\n\n[선지 D 논리 — 대상 동일]\n패션이 홍보한 그 음악(A)을 나중에 패션이 직접 파괴\n→ A = B로 묶어버린 왜곡!\n\n[핵심] '누구를 파괴하는가'의 Target이 다르다.\n본문: A를 띄우면 → 별개의 B가 사라짐\n선지: 자기가 띄운 A를 자기가 나중에 죽임",
-      "action": "행동강령: 수량·파괴 문장에서 → A와 B가 같은 대상인지 다른 대상인지 먼저 확인!"
+      "answer": "② Target Mismatch — A (promoted) ≠ B (destroyed)",
+      "explanation": "[Passage Logic — Separate Targets]\nA (music fashion highlights) → gets promoted\nAs a result, a different B (music left in the shadows) → gets destroyed\n→ A and B are distinct entities!\n\n[Choice D Logic — Same Target]\nFashion promotes A, then later destroys that same A\n→ Collapses A = B — a distortion of the original logic!\n\n[Key] The TARGET of destruction is different.\nPassage: Promoting A causes a separate B to disappear\nChoice D: Fashion eventually destroys the very thing it promoted",
+      "action": "Action Rule: In quantity/destruction sentences → first check whether A and B refer to the SAME entity or DIFFERENT entities!"
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
   },
   {
-    "id": "preset_19_q2",
+    "id": "preset_q2_extreme_qualifier",
     "type": "logic",
     "isMCQ": true,
-    "source": "2024 수능 19번",
+    "source": "GAMSAT Practice",
     "quiz": {
-      "question": "[19번 — 행동강령 퀴즈: S4 극단어 함정]\n\n선지에서 \"Every\", \"All\", \"Always\" 같은 단어가 포함된 문장을 만났을 때,\n가장 먼저 의심해야 할 오류 유형은?",
+      "question": "[Action Rule Quiz — Extreme Qualifier Trap]\n\nWhen you see <strong>\"Every\", \"All\", \"Always\"</strong> in an answer choice,\nwhich error type should you suspect first?",
       "options": [
-        "S1 인덱싱 오류 — 예시를 주제로 착각한 경우",
-        "S2 타겟팅 오류 — 키워드 위치 탐색에 실패한 경우",
-        "S4 범위 확대·대상 착오 — 극단적 일반화 오류",
-        "단어 해석 불능 오류 — 단어 뜻 자체를 모르는 경우"
+        "Indexing Error — mistaking an example for the main idea",
+        "Targeting Error — failing to locate the keyword in the passage",
+        "Logic Error — Scope Inflation / extreme overgeneralisation",
+        "Vocabulary Error — not knowing the meaning of the word"
       ],
       "correctIdx": 2,
-      "answer": "③ S4 — 범위 확대 및 대상 착오 오류",
-      "explanation": "19번 선지 D처럼 'every piece'(전부)로 과장하는 것이 S4의 전형적 함정입니다.\n\n[본문 vs 선지 범위 비교]\n본문: 'at least one more' → 최소 하나 이상 (제한적)\n선지: 'every piece' → 전부 (극단적 과장)\n\n[극단어 체크리스트]\n• always → 본문이 '항상'인지 확인\n• every / all → 본문이 '전부'인지 확인\n• never / only → 예외가 없는지 확인\n• eventually → 본문에 시간 개념이 있는지 확인",
-      "action": "행동강령: 극단어 발견 즉시 → 본문에서 범위 한정 표현(some, often, may, at least) 찾아 대조!"
+      "answer": "③ Logic Error — Scope Inflation & Target Mismatch",
+      "explanation": "Extreme qualifiers like 'every piece' in Choice D are the classic Logic Error trap.\n\n[Passage vs Choice — Scope Comparison]\nPassage: 'at least one more' → at least one (limited scope)\nChoice: 'every piece' → all of them (extreme overgeneralisation)\n\n[Extreme Qualifier Checklist]\n• always → does the passage say 'always'?\n• every / all → does the passage mean 'all'?\n• never / only → are there really no exceptions?\n• eventually → is there a time dimension in the passage?",
+      "action": "Action Rule: When you spot an extreme qualifier → immediately find scope-limiting language in the passage (some, often, may, at least) and compare!"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q18_paraphrase_effect_on_listener",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Q18 — Paraphrasing",
+    "quiz": {
+      "question": "[Q18 — Passage-to-Choice Paraphrasing]\n\nPassage:\n\"Orchestras promote the idea of classical music. It will <em>soothe our cares</em> or <em>inspire us</em> or <em>make us better people</em>.\"\n\nWhich answer choice correctly summarises the underlined part?",
+      "options": [
+        "Its historical background in music",
+        "Its technical complexity for performers",
+        "Its effect on the listener",
+        "Its popularity among younger generations"
+      ],
+      "correctIdx": 2,
+      "answer": "③ Its effect on the listener",
+      "explanation": "[Paraphrase Chain]\n'soothe our cares' → calms/relaxes us\n'inspire us' → motivates us\n'make us better people' → improves us\n↓\nAll three describe what the music DOES to the person HEARING it.\n= Effect on the listener\n\n[Why the others fail]\n① Historical background — passage mentions nothing about history\n② Technical complexity — passage is about the audience, not performers\n④ Popularity among youth — no mention of age groups or popularity",
+      "action": "Action Rule: When multiple verbs describe reactions (soothe / inspire / improve) → ask 'who is experiencing this?' That subject = the paraphrase target."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q18_targeting_producers",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Q18 — Targeting",
+    "quiz": {
+      "question": "[Q18 — Targeting Strategy]\n\nThe keyword in the question is <strong>\"Producers\"</strong>,\nbut this exact word does NOT appear anywhere in the passage.\n\nWhat is the correct first action?",
+      "options": [
+        "Give up on that paragraph and move to the next question",
+        "Re-read the entire passage from the beginning, scanning for the word",
+        "Shift the target to a hypernym or concrete example (e.g. record companies, promoters) and re-scan",
+        "Trust your background knowledge and pick the most plausible choice"
+      ],
+      "correctIdx": 2,
+      "answer": "③ Re-target: hypernym or concrete example → re-scan",
+      "explanation": "[Why the keyword hides]\nExam questions rarely repeat the passage's exact wording.\nInstead they use:\n• Hypernym: Producers → 'music industry', 'the business'\n• Hyponym/example: Producers → 'record companies', 'label executives', 'promoters'\n• Synonym: Producers → 'those who back the music'\n\n[Worked example]\nQ keyword: 'Producers'\nPassage equivalent: 'Record companies' (a specific type of producer)\n→ Re-targeting to 'record companies' unlocks the relevant paragraph.\n\n[Why others fail]\n① Giving up = automatic wrong answer\n② Full re-read = wastes time; targeted scan is faster\n④ Using background knowledge = ignores the passage = dangerous",
+      "action": "Action Rule: Keyword not in passage? → Ask: 'What is the broader category? What are specific examples?' → Re-scan with that new target."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q19_logic_quantity_comparison",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Q19 — Logic / Quantity",
+    "quiz": {
+      "question": "[Q19 — Logic Structure: Quantity Comparison]\n\nPassage:\n\"For every piece of music it has brought to attention,\nthere is <strong>at least one more</strong> that it has destroyed.\"\n\nWhich choice correctly reflects the logical implication of this sentence?",
+      "options": [
+        "Fashion promotes as much music as it destroys.",
+        "Fashion annihilates more music than it promotes.",
+        "Fashion only destroys the music it previously promoted.",
+        "Fashion brings more attention to music than it used to."
+      ],
+      "correctIdx": 1,
+      "answer": "② Fashion annihilates more music than it promotes.",
+      "explanation": "[Quantity Logic Unpacked]\n'For every 1 piece promoted (A)...\n...there is at least 1 MORE destroyed (B)'\n\nIn mathematical terms: B ≥ A\n→ Destroyed ≥ Promoted\n→ Fashion destroys MORE (or equal) than it promotes\n\n[Why each choice fails]\n① 'as much as' implies B = A exactly — but 'at least one MORE' means B ≥ A, not B = A\n③ 'only destroys what it promoted' = Target Mismatch (A = B) — the passage says A and B are different pieces\n④ Comparing to the past — the passage makes no historical comparison\n\n[The trap in ①]\n'at least one more' is NOT the same as 'the same amount'.\n'More' means the destroyed pile is bigger.",
+      "action": "Action Rule: Spot 'at least / more than / fewer than' in the passage → translate to inequality (≥, >, <) before matching to choices. Never round to 'equal'."
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
