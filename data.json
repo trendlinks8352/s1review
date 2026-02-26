@@ -208,5 +208,110 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "q93_indexing_out_of_scope",
+    "type": "indexing",
+    "isMCQ": true,
+    "source": "Q93 — Indexing (D→B)",
+    "quiz": {
+      "question": "[Q93 — Out of Scope Trap]\n\nPassage (line 11):\n\"'Good talk' in a special sense was their forte; the hallmark of their wit was the wisecrack, a <em>clever insult</em> that <em>exposed pretension</em>...\"\n\nQ: What was the main characteristic of 'good talk'?\n\nYour pick — Choice D: <strong>insightful commentary on literature</strong>\nCorrect — Choice B: subtle but cutting critique of other people\n\nWhy is D a classic Out-of-Scope (Indexing) error?",
+      "options": [
+        "The word 'literature' never appears in the passage at all",
+        "The passage mentions they were a literary lunch club, but their 'good talk' was specifically about insulting people — 'literary' is background context, not the content of their talk",
+        "Choice D uses vocabulary that is too academic for this passage",
+        "Insightful commentary is a synonym for clever insult"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'literary' = background context, NOT the content of their talk",
+      "explanation": "[Out-of-Scope Trap Anatomy]\nThe passage DOES mention: literary lunch club\nThe passage says about their talk: clever insult / exposed pretension\n\n→ 'literary' tells you WHAT KIND OF GROUP they were\n→ It says NOTHING about the content of their actual conversations\n\n[Indexing Error]\nYou picked up 'literary' (a real word from the passage context)\nYou indexed it as the TOPIC of their talk\nBut it was only the label for the club — not a description of their speech\n\n[Correct paraphrase chain]\nclever → subtle\ninsult / exposed pretension → cutting critique of other people",
+      "action": "Action Rule (Out of Scope): If a choice uses a real word from the passage, ask: 'Is this word describing the THING the question asks about, or just background context?' Background details ≠ the answer."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q93_subjective_paraphrase_drill",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Q93 — Paraphrase Drill",
+    "quiz": {
+      "question": "[Q93 — Paraphrase Drill]\n\nComplete the 1:1 paraphrase map:\n\nPassage → Choice B\n\n① <em>clever</em> insult\n   → ________ critique\n\n② insult / <em>exposed pretension</em>\n   → ________ critique of other people\n\n(Tap to check)",
+      "answer": "① subtle  ② cutting",
+      "explanation": "[Paraphrase chain unpacked]\n① clever (skilfully done, not obvious)\n  → subtle (understated, not blunt)\n  Both mean: the attack is indirect and crafted, not crude\n\n② insult + exposed pretension (tore someone down, revealed their fakeness)\n  → cutting critique (sharp, wounding criticism of a person)\n  Both mean: the words hurt and expose weakness in others\n\n[Combined → Choice B]\n'subtle but cutting critique of other people'\n= a cleverly crafted insult that exposed pretension",
+      "action": "Drill habit: clever → subtle / insult + expose pretension → cutting critique. This pair tests whether you map TONE (clever=subtle) and FUNCTION (insult=cutting critique) separately."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q94_paraphrase_same_word_trap",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Q94 — Paraphrasing (D→A)",
+    "quiz": {
+      "question": "[Q94 — Same-Word Trap]\n\nPassage:\n\"...a clever insult that <em>exposed pretension</em> and <em>established the superiority</em> of the wisecracker. Such humour required linguistic deftness and a <em>high degree of competitiveness</em>...\"\n\nQ: What was the primary purpose of Parker's style of speech at the Algonquin Club?\n\nYour pick — Choice D: <strong>encouraging sincerity by exposing pretension</strong>\nCorrect — Choice A: establishing and enhancing her power and status\n\nWhy is D wrong even though it uses the phrase 'exposing pretension' from the passage?",
+      "options": [
+        "'Exposing pretension' is used incorrectly in Choice D because pretension means sincerity",
+        "Choice D plants the exact phrase 'exposing pretension' from the passage to lure you — but the PURPOSE of that exposure was to WIN (superiority/competitiveness), not to morally improve others (sincerity)",
+        "The passage says Parker never actually exposed pretension",
+        "Choice D is wrong because Parker was not sincere herself"
+      ],
+      "correctIdx": 1,
+      "answer": "② Same-word lure — 'exposing pretension' was a weapon for dominance, not moral encouragement",
+      "explanation": "[Same-Word Trap Anatomy]\nThe passage says: exposed pretension → to ESTABLISH SUPERIORITY\nChoice D says: exposing pretension → to ENCOURAGE SINCERITY\n\nSame action (exposing pretension), completely different PURPOSE\n\n[Intent analysis]\nEstablish superiority = I want to WIN / be on top\nEncourage sincerity = I want others to be more honest/genuine\n\nThe passage is clear: high degree of COMPETITIVENESS\n→ These people were competing for dominance, not preaching virtue\n\n[Correct paraphrase chain]\nestablished superiority + competitiveness → establishing and enhancing POWER AND STATUS\n\n[Rule]\nWhen a choice copies exact passage words → immediately check: does it preserve the original PURPOSE or distort it?",
+      "action": "Action Rule (Same-Word Trap): Passage words in a choice = automatic suspicion. Re-read the original context and ask: 'What was the PURPOSE or result?' Match that, not the surface words."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q94_subjective_superiority_drill",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Q94 — Paraphrase Drill",
+    "quiz": {
+      "question": "[Q94 — Paraphrase Drill]\n\nComplete the map:\n\nPassage → Choice A\n\n① <em>established</em> the superiority\n   → establishing and ________ her...\n\n② <em>superiority</em> / <em>competitiveness</em>\n   → power and ________\n\n(Tap to check)",
+      "answer": "① enhancing  ② status",
+      "explanation": "[Paraphrase chain unpacked]\n① established → establishing AND enhancing\n  'established' = set it up initially\n  'enhancing' = continued to build on it\n  Together: not just created status, but kept growing it\n\n② superiority + competitiveness → power and STATUS\n  superiority = being above others in rank/ability → power\n  competitiveness = drive to beat others → status (social standing)\n\n[Key distinction from D]\nThe PURPOSE is dominance (power/status) — NOT moral improvement (sincerity)\nChoice D hijacks the action ('exposing pretension') and invents a false noble motive",
+      "action": "Drill habit: superiority + competitiveness → power and status. These two passage words compress into one choice phrase. Practise mapping compound evidence to single abstract terms."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q95_paraphrase_funny_vs_goodhumoured",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Q95 — Paraphrasing (A→D)",
+    "quiz": {
+      "question": "[Q95 — Distinction Trap: funny vs good-humoured]\n\nPassage:\n\"Parker was a <em>funny</em>, but <strong>not a good-humoured</strong>, writer.\nThe careful reader... can easily see that their wit and elegance costume\n<em>moods of emptiness and despair</em>. (...) <em>acerbic</em> fictions...\"\n\nQ: What does being 'good-humoured' involve for the author?\n\nYour pick — Choice A: <strong>possessing a natural ability to make people laugh</strong>\nCorrect — Choice D: having a positive outlook on life\n\nWhy does Choice A describe 'funny', NOT 'good-humoured'?",
+      "options": [
+        "Making people laugh and being good-humoured are identical concepts",
+        "The passage explicitly separates the two: 'funny BUT NOT good-humoured' — A is the paraphrase of 'funny'; good-humoured = the opposite of emptiness/despair/acerbic = a positive outlook on life",
+        "Choice A is wrong because Parker was not naturally funny",
+        "The author never defines what good-humoured means in the passage"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'funny BUT NOT good-humoured' — the passage splits them into two distinct concepts",
+      "explanation": "[The BUT NOT construction]\nParker = funny ✓  AND  good-humoured ✗\n\nThis means funny ≠ good-humoured (they are different things)\n\n[Mapping each term]\nfunny = makes people laugh = Choice A (natural ability to make people laugh)\ngood-humoured = NOT(emptiness + despair + acerbic)\n             = the opposite of those = positive outlook on life = Choice D\n\n[Why A is the wrong answer]\nA correctly describes 'funny'\nBut the question asks what 'good-humoured' means\nThe passage explicitly says she was funny but NOT good-humoured\n→ Choosing A conflates the two concepts the passage carefully separates\n\n[Negation logic]\ngood-humoured = opposite of: emptiness, despair, acerbic\n             = fullness of spirit, hope, warmth\n             = positive outlook on life",
+      "action": "Action Rule (BUT NOT trap): When the passage uses 'X but not Y', the question may ask about Y. Never use the description of X to define Y. Map each side of the contrast independently."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q95_subjective_negation_drill",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Q95 — Paraphrase Drill",
+    "quiz": {
+      "question": "[Q95 — Negation Paraphrase Drill]\n\nThe passage says Parker was <em>funny</em> but <strong>NOT good-humoured</strong>.\nHer writing reveals: emptiness, despair, acerbic tone.\n\nComplete the logic chain:\n\n① funny = ability to make people ________\n   (→ Choice A — the WRONG answer)\n\n② good-humoured = opposite of emptiness/despair/acerbic\n   = ________ ________ on life\n   (→ Choice D — the CORRECT answer)\n\n(Tap to check)",
+      "answer": "① laugh  ② positive outlook",
+      "explanation": "[Full negation map]\nfunny → makes people LAUGH → Choice A\n  (this is a real quality of Parker's — but it answers the WRONG question)\n\ngood-humoured → NOT (emptiness + despair + acerbic)\n  emptiness ↔ fullness / meaning\n  despair ↔ hope / optimism\n  acerbic ↔ warm / gentle\n  All three point to: POSITIVE OUTLOOK ON LIFE → Choice D\n\n[The trap]\nA is a true statement about Parker\nBut the question asks about good-humoured, which the passage says she is NOT\nTherefore A describes what she HAS, not what good-humoured means\n\n[Key habit]\nWhen you see 'X but NOT Y' — define Y by negating the evidence given for X's absence",
+      "action": "Drill habit: good-humoured = opposite of (despair + acerbic + emptiness) = positive outlook on life. Practise the negation logic: what would a person WITHOUT despair and acerbity be like?"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
