@@ -313,5 +313,96 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "q41_targeting_paraphrase_childs_needs",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Q41 — Targeting+Paraphrase (C→A)",
+    "quiz": {
+      "question": "[Q41 — Who is being criticised, and for what?]\n\nPassage:\n\"They put the needs of the disadvantaged above the needs of the system.\"\n→ Portillo implies governmental childhood associations CANNOT do this.\n\nQ: Portillo implies a criticism of governmental childhood associations for being unable to ______.\n\nYour pick — C: <strong>provide a close familial environment for children</strong>\nCorrect — A: put the child's needs first\n\nWhat type of error led to choosing C?",
+      "options": [
+        "Vocabulary error — 'familial' was misunderstood",
+        "Indexing + Targeting error: drawn to the 'successful family' paragraph's emotional emphasis, then searched in the wrong place — the criticism target is the GOVERNMENT SYSTEM, not family environment",
+        "Logic error — 'familial environment' is an extreme overgeneralisation",
+        "Paraphrasing error only — 'familial' and 'needs first' mean the same thing"
+      ],
+      "correctIdx": 1,
+      "answer": "② Indexing + Targeting error — 'family' language ≠ the government's criticism point",
+      "explanation": "[Targeting: Who is being criticised?]\nQuestion asks about: governmental childhood associations\nCriticism = what they CANNOT do\n\n[Key passage line]\n'They put the needs of the disadvantaged above the needs of the system'\n→ The IDEAL is: child's needs > system's needs\n→ The CRITICISM of gov't bodies: they do the reverse — system > child\n\n[Why C is wrong]\nC = 'provide a close familial environment'\n→ This describes a feature of successful FAMILIES\n→ The passage does discuss family, but that is not the criticism of gov't bodies\n→ You indexed on the emotionally vivid 'family' section instead of the policy criticism section\n\n[Correct paraphrase chain]\n'put the needs of the disadvantaged above the needs of the system'\n= put the CHILD'S needs FIRST\n(disadvantaged = children in care; above the system = first priority)\n\n[3-question diagnostic]\n① Who is the subject of criticism? → governmental childhood associations\n② What is the specific failure? → not prioritising the child over the system\n③ Where in the passage? → the line about 'needs of the disadvantaged'",
+      "action": "Action Rule (Q41): Every question about criticism — identify: WHO is criticised + WHAT specific failure. Never let emotionally vivid paragraphs (family warmth) pull your eye away from the policy-critique paragraph."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q41_subjective_needs_paraphrase",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Q41 — Paraphrase Drill",
+    "quiz": {
+      "question": "[Q41 — Paraphrase Drill]\n\nComplete the map:\n\nPassage → Choice A\n\n① 'the needs of the <em>disadvantaged</em>'\n   = the ________ 's needs\n\n② 'above the needs of the system'\n   = put those needs ________\n\n(Tap to check)",
+      "answer": "① child  ② first",
+      "explanation": "[Paraphrase chain]\n① 'the disadvantaged' in context = children in government care (the vulnerable ones)\n   → child's needs\n\n② 'above the needs of the system' = prioritised over everything else\n   → first (placed above all else)\n\n[Combined → Choice A]\n'put the child's needs first'\n= put the needs of the disadvantaged above the needs of the system\n\n[Why it was missed]\nThe phrase 'needs of the disadvantaged' sounds abstract/political\nBut in this passage context it directly refers to: the children themselves\nAlways ask: 'Who are the disadvantaged being referred to here?'",
+      "action": "Drill habit: 'needs of the disadvantaged above the system' = 'child's needs first'. The abstraction hides a simple priority statement — always translate quantity/priority language into plain terms first."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q43_indexing_policy_target",
+    "type": "indexing",
+    "isMCQ": true,
+    "source": "Q43 — Indexing+Paraphrase (D→A)",
+    "quiz": {
+      "question": "[Q43 — Who is the policy TARGET?]\n\nPassage (final paragraph):\n\"...encourage men and women who decide that, for a time,\n<em>parenthood will be a full-time responsibility</em>.\"\n\nContext: restoring a recognition of marriage into the tax and benefits system.\n\nQ: The policy described would enable people to ______.\n\nYour pick — D: <strong>encourage children to make the most of their familial environment</strong>\nCorrect — A: take time off full-time work to look after their children\n\nWhy is D wrong?",
+      "options": [
+        "D is wrong because the passage never mentions children benefiting from family",
+        "D gets the policy TARGET wrong — the policy supports PARENTS (to step back from work), not children (to change their behaviour). The subject of the final paragraph is 'men and women', not children.",
+        "D is an extreme overgeneralisation of the passage's argument",
+        "D uses vocabulary not found anywhere in the passage"
+      ],
+      "correctIdx": 1,
+      "answer": "② Wrong policy target — policy supports PARENTS, not children's behaviour",
+      "explanation": "[Policy target identification]\nPassage says: 'encourage MEN AND WOMEN who decide... parenthood will be a full-time responsibility'\nTarget = parents (men and women)\nAction = choosing to dedicate full time to parenthood (stepping away from paid work)\n\n[Why D fails]\nD says: 'encourage CHILDREN to make the most of their familial environment'\nTarget = children ← WRONG\nAction = children optimising their home situation ← not in the passage\n\n[The tax/benefits system link]\n'Restoring recognition of marriage into tax and benefits'\n= financial support for families where a parent steps back from full-time work\n= enabling: take time off full-time work to look after their children (Choice A)\n\n[Paraphrase chain]\n'parenthood will be a full-time responsibility' (choosing parenting over paid work)\n= 'take time off full-time work to look after their children'\n\n[3-question diagnostic]\n① Who is the subject of criticism/policy? → parents (men and women)\n② What is the policy enabling them to do? → step back from paid work for parenthood\n③ Who is NOT the target? → children themselves",
+      "action": "Action Rule (Q43): Before matching to choices, answer: 'Who does this policy/action apply TO?' Parent vs child vs government — these three are constantly swapped in GAMSAT traps. Lock the target first."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q43_subjective_parenthood_paraphrase",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Q43 — Paraphrase Drill",
+    "quiz": {
+      "question": "[Q43 — Paraphrase Drill]\n\nComplete the map:\n\nPassage → Choice A\n\n① Subject: 'men and women who decide...'\n   = ________ (not children, not government)\n\n② 'parenthood will be a <em>full-time responsibility</em>'\n   = take ________ off full-time ________\n\n(Tap to check)",
+      "answer": "① parents  ② time / work",
+      "explanation": "[Paraphrase chain]\n① 'men and women who decide...' = PARENTS making an active choice\n   The policy is aimed at them, not at children's behaviour\n\n② 'parenthood will be a full-time responsibility'\n   = treating parenting as a full-time job\n   = stepping away from paid employment to do it\n   = take TIME OFF full-time WORK (to look after their children)\n\n[Combined → Choice A]\n'take time off full-time work to look after their children'\n= men and women choosing parenthood as a full-time responsibility\n\n[The D trap decoded]\nD sounds plausible because the passage IS about families\nBut D makes CHILDREN the subject of the policy action\nThe passage makes PARENTS the subject — always check the grammatical subject",
+      "action": "Drill habit: 'parenthood as full-time responsibility' = 'take time off full-time work'. The key compression: full-time parenthood → leaving full-time employment. Also always ask: who is the grammatical SUBJECT of the policy sentence?"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "meta_three_question_diagnostic",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Pattern Recognition — Q41+Q43",
+    "quiz": {
+      "question": "[Pattern Drill — 3-Question Diagnostic]\n\nYour recent error pattern (Q41, Q43, Q93, Q94):\n① Drawn to emotionally vivid paragraphs (family warmth)\n② Confused policy/criticism TARGET (gov't vs parent vs child)\n③ Missed paraphrase connection\n\nBefore choosing an answer in a policy/criticism question,\nwhich THREE questions must you answer first?",
+      "options": [
+        "What is the tone? / What vocabulary is used? / How long is the paragraph?",
+        "Who is the SUBJECT of the question? / Who is the policy/criticism TARGET? / Who is being criticised or supported? — lock all three before scanning choices",
+        "Which paragraph is most vivid? / Which choice uses passage words? / Which option sounds most academic?",
+        "What is the main theme? / What is the author's tone? / What does the title suggest?"
+      ],
+      "correctIdx": 1,
+      "answer": "② Subject / Target / Criticised-or-supported — lock these three first",
+      "explanation": "[The 3-Question Diagnostic]\nQ1: Who is the SUBJECT of the question?\n    → governmental bodies? parents? children? the author?\n\nQ2: Who is the policy/criticism TARGET?\n    → the entity being enabled, criticised, or discussed\n    → Q41: gov't bodies / Q43: parents / Q93: the speaker's wit / Q94: Parker\n\nQ3: Is this entity being criticised or supported?\n    → Q41: criticised (for failing to prioritise child)\n    → Q43: supported (policy enables parents to step back)\n\n[Why this works]\nGAMSAT policy passages constantly swap:\n  government ↔ parent ↔ child\nOne wrong swap = wrong answer\n\n[Trap immunity]\nOnce you lock Subject + Target + Direction (criticise/support)\n→ most decoy choices become obviously off-target\n→ Q41 C (family environment) → wrong target\n→ Q43 D (children's behaviour) → wrong target",
+      "action": "Action Rule (META): For ANY question involving policy, criticism, or social commentary — answer the 3-question diagnostic BEFORE reading the choices. Write S/T/D (Subject / Target / Direction) in the margin if needed."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
