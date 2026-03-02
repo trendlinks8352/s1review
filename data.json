@@ -509,5 +509,82 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "q49_targeting_pejorative_sense",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 165 — Q49 Targeting (B→C)",
+    "quiz": {
+      "question": "[Q49 — Targeting: What is the REAL target word?]\n\nPassage (line 15):\n\"...it has often been termed 'primitive' in a particularly <em>pejorative</em> sense...\"\n\nQ: Those who call Neolithic art 'primitive' are being ______.\n\nThe question is NOT asking:\n'Is calling this art primitive accurate or inaccurate?'\n\nThe question IS asking:\n'What is the ATTITUDE of people who use that word?'\n\nWhich word in the passage directly answers that attitude question?",
+      "options": [
+        "'primitive' — this is the key target word because the question quotes it",
+        "'pejorative' — this word describes the MANNER/ATTITUDE in which 'primitive' is used, which is exactly what the question asks about",
+        "'digress' — because the author steps aside to defend Neolithic art",
+        "'termed' — because this word means to call or label something"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'pejorative' — describes the attitude behind using the word 'primitive'",
+      "explanation": "[Targeting discipline]\nThe question quotes 'primitive' as a HOOK\nBut the real answer is in the MODIFIER: 'in a particularly PEJORATIVE sense'\n\n[What pejorative means]\npejorative = expressing contempt or disapproval\n= looking down on something\n= treating as inferior\n\n[Attitude question → tone word]\nQ: What are they BEING? (= what is their attitude?)\nA: They are being CONDESCENDING (= looking down on it)\n= pejorative → condescending ✓\n\n[Why 'primitive' is the distractor]\n'Primitive' is vivid and emotionally loaded\n→ You respond to it emotionally\n→ But the question is about TONE, not content\nAlways ask: 'What is the manner/attitude of the person using this word?'",
+      "action": "Action Rule (Q49 Targeting): When a question quotes a word and asks 'what are they BEING?' — don't target the quoted word. Target the TONE MODIFIER around it. Here: not 'primitive' but 'pejorative sense'."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q49_paraphrase_pejorative_condescending",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 165 — Q49 Paraphrase (B→C)",
+    "quiz": {
+      "question": "[Q49 — Paraphrase: pejorative → which choice?]\n\nPassage: '...termed primitive in a particularly <strong>pejorative</strong> sense'\npejorative = expressing contempt, looking down on something\n\nYour pick — B: <strong>accusatory</strong> (비난하는, 고발하는)\nCorrect — C: <strong>condescending</strong> (깔보는, 우월한 척하는)\n\nWhat is the critical difference between these two tones?",
+      "options": [
+        "Accusatory and condescending mean the same thing — both involve a negative attitude",
+        "Accusatory = 'you did something WRONG' (requires a fault/crime) — there is no wrongdoing in calling art primitive. Condescending = 'I am SUPERIOR to you' (intellectual snobbery) — this perfectly matches pejorative (looking down on something as inferior)",
+        "Condescending is wrong because the passage says the author defends Neolithic art",
+        "Accusatory is correct because the people who use 'primitive' are attacking the artists"
+      ],
+      "correctIdx": 1,
+      "answer": "② accusatory requires a FAULT; condescending requires only SUPERIORITY — pejorative = condescending",
+      "explanation": "[Tone precision map]\naccusatory (비난하는)\n= 'You did something WRONG'\n= requires: a crime, a fault, a blame\n= e.g. accusatory tone in a courtroom, pointing a finger at wrongdoing\n\ncondescending (깔보는)\n= 'I am BETTER/SUPERIOR than you'\n= requires: intellectual or social snobbery\n= e.g. 'Oh, how quaint, these primitive little figures...'\n\n[Does calling art 'primitive' imply wrongdoing?]\nNo — no one is being accused of a crime\nIt implies the speaker feels SUPERIOR, ABOVE the art\n→ condescending ✓\n\n[Pejorative → condescending: the paraphrase]\npejorative = expressing contempt = treating as inferior\n= the speaker positions themselves as ABOVE the subject\n= exactly what condescending means\n\n[Your sounding-board logic and why it failed]\nYour logic: primitive → bad label → attacking → accusatory\nCorrect logic: pejorative → contemptuous → superiority → condescending\n\n[The pivot point]\naccusatory: directed at WRONGDOING\ncondescending: directed at INFERIORITY\nNeolithic art is not guilty of anything — it's just being looked down upon",
+      "action": "Action Rule (Q49 Paraphrase): accuse = blame for a FAULT. condescend = imply INFERIORITY. When the passage signals contempt/dismissal (pejorative), the tone is condescending, not accusatory. No crime = no accusation."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q49_vocab_accusatory_vs_condescending",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 165 — Q49 Vocab Precision",
+    "quiz": {
+      "question": "[Q49 — Vocabulary Precision: Tone Words]\n\nA critic says: \"This so-called 'primitive' art is really just the clumsy scratching of people who lacked proper technique.\"\n\nThis critic's tone is best described as ______.\n(Apply the accusatory vs condescending distinction)",
+      "options": [
+        "accusatory — because the critic is attacking the Neolithic artists",
+        "condescending — because the critic positions themselves as intellectually superior, dismissing the art as crude and inferior without accusing anyone of wrongdoing",
+        "ironical — because the critic puts 'primitive' in inverted commas",
+        "metaphorical — because 'clumsy scratching' is not literal"
+      ],
+      "correctIdx": 1,
+      "answer": "② condescending — superiority + dismissal, no accusation of wrongdoing",
+      "explanation": "[Applying the distinction]\nDoes the critic accuse someone of a FAULT or CRIME? → No\nDoes the critic position themselves as SUPERIOR? → Yes ('clumsy scratching', 'lacked technique')\n→ condescending ✓\n\n[Accusatory would look like...]\n'These artists DELIBERATELY misled viewers about their technical abilities'\n= blaming them for intentional wrongdoing\n= accusatory\n\n[Condescending looks like...]\n'These poor primitive people couldn't help being so crude'\n= dismissive from a position of superiority\n= condescending\n\n[The pejorative link]\npejorative sense = expressing contempt = condescending attitude\nThis is why 'pejorative' → 'condescending' is the exact paraphrase\n\n[Tone word bank to remember]\naccusatory → blame / fault / wrongdoing / charge\ncondescending → superior / dismissive / patronising / looking down\npejorative → contemptuous / demeaning / belittling\nironic → saying opposite of what is meant",
+      "action": "Drill habit — tone word test: Before choosing a tone word, ask: 'Does this require a FAULT (accusatory) or just SUPERIORITY (condescending)?' Pejorative always maps to condescending in GAMSAT passages."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q49_subjective_tone_chain_drill",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Unit 165 — Q49 Full Chain Drill",
+    "quiz": {
+      "question": "[Q49 — Full Chain Drill]\n\nComplete the sounding-board logic chain:\n\n❌ Wrong chain (your original path):\nprimitive → bad label → ________ → accusatory\n\n✅ Correct chain:\npejorative → ________ → intellectual superiority → ________\n\nBonus vocab check:\n③ pejorative = ________ (한국어)\n④ condescending = ________ (한국어)\n⑤ accusatory = ________ (한국어)\n\n(Tap to check)",
+      "answer": "❌ attacking  ✅ contemptuous / condescending  ③ 경멸적인  ④ 깔보는/거드름 피우는  ⑤ 비난하는/고발하는",
+      "explanation": "[Full chain comparison]\n❌ Wrong: primitive → bad label → ATTACKING → accusatory\n  Attack implies: fault, wrongdoing, something to be blamed\n  The passage has none of this\n\n✅ Correct: pejorative → CONTEMPTUOUS → intellectual superiority → CONDESCENDING\n  Contempt: looking down without accusing\n  Superiority: 'I am above this'\n  Condescending: the attitude of someone who looks down\n\n[The pivot question]\nAsk: 'Is someone being blamed for wrongdoing?' → No → not accusatory\nAsk: 'Is someone being looked down upon as inferior?' → Yes → condescending\n\n[Vocabulary summary]\npejorative (경멸적인): the word or expression belittles its subject\ncondescending (깔보는): the PERSON using it acts superior\naccusatory (비난하는): the person charges someone with a fault\nironic (아이러니한): saying the opposite of what is meant\nmetaphorical (은유적인): using figurative language",
+      "action": "Drill habit: The 3-second tone test — 'fault or inferiority?' FAULT → accusatory. INFERIORITY → condescending. Run this test every time you see a tone/attitude question."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
