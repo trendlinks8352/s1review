@@ -586,5 +586,166 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "q8_paraphrase_combination_of_reasons",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 164 — Q8 Paraphrase (C→B)",
+    "quiz": {
+      "question": "[Q8 — Paraphrase: Why are these words confused?]\n\nPassage (promotional blurb):\n\"...words <em>alike in sound</em> and <em>related in meaning</em>, that <em>frequently get misused and confused</em>\"\n\nQ: The examples suggest the book deals ______.\n\nYour pick — C: <strong>only with sorts of words confused by people who parade an extensive vocabulary</strong>\nCorrect — B: <strong>with a wide range of words which, for a combination of reasons, are often confused</strong>\n\nWhat is the core paraphrase error in choosing C?",
+      "options": [
+        "C is wrong because the book does not deal with vocabulary",
+        "C invents a cause ('extensive vocabulary users') not mentioned in the passage — the passage lists THREE distinct reasons (sound, meaning, misuse). When multiple reasons appear, the correct choice acknowledges 'combination of reasons', not a single invented cause.",
+        "C is wrong because 'parade' is a negative word and the blurb is positive",
+        "C is wrong because the book covers more than 1600 words"
+      ],
+      "correctIdx": 1,
+      "answer": "② C invents a single cause; passage has THREE reasons → 'combination of reasons'",
+      "explanation": "[Passage structure → 3 reasons]\n① alike in SOUND (phonetic similarity)\n② related in MEANING (semantic overlap)\n③ frequently MISUSED (usage error)\n→ These are three distinct, independent reasons\n→ No single cause dominates\n→ = 'combination of reasons' (Choice B)\n\n[Why C is over-inference]\n'People who parade an extensive vocabulary'\n= people who show off their word knowledge\n= nowhere in the passage\nThe passage never restricts its audience to vocabulary-show-offs\n→ pure invention / over-reading\n\n[Paraphrase chain → B]\nalike in sound + related in meaning + misused\n= wide range of words + combination of reasons + often confused\n\n[Key rule: multiple causes = 'combination']\nWhenever the passage lists 2+ independent reasons for something\n→ the correct choice will say 'combination', 'variety', 'range of reasons'\n→ Any choice that gives ONE single cause = likely wrong",
+      "action": "Action Rule (Q8): Count the number of reasons/factors in the passage. If 2+, immediately flag 'combination of reasons' as the target paraphrase. Single-cause choices are almost always traps when the passage gives multiple factors."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q8_subjective_combination_drill",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Unit 164 — Q8 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q8 — Paraphrase Drill]\n\nPassage lists THREE reasons words are confused:\n① alike in ________\n② related in ________\n③ frequently ________\n\n→ These three together = 'for a ________ of reasons' (Choice B)\n\n(Tap to check)",
+      "answer": "① sound  ② meaning  ③ misused  → combination",
+      "explanation": "[Full map]\nsound + meaning + misused = three independent causes\n= 'a combination of reasons'\n\n[Why B beats C]\nB: 'combination of reasons' = accurately reflects 3 causes\nC: 'people with extensive vocabulary' = invented, zero passage support\n\n[Rule to drill]\nMultiple listed factors in passage → 'combination/variety/range' in correct choice\nAlways count factors before choosing",
+      "action": "Drill habit: Before choosing, count how many reasons the passage gives. 3 reasons listed = the answer will say 'combination'. One-cause choices collapse multiple factors and are usually wrong."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q9_logic_and_condition_both_required",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 164 — Q9 Logic (C→D)",
+    "quiz": {
+      "question": "[Q9 — AND Condition: Both criteria must be met]\n\nPassage condition:\n'alike in <em>sound</em> AND related in <em>meaning</em>'\n→ BOTH must be true simultaneously\n\nYour pick — C: 'decent' and 'descend'\nCorrect — D: 'consequent' and 'subsequent'\n\nWhy does C fail the AND test?",
+      "options": [
+        "C fails because 'decent' and 'descend' do not sound similar",
+        "C passes the SOUND test (de-cent / de-scend sound similar) but FAILS the MEANING test — they have completely unrelated meanings. In an AND condition, one fail = total fail. D passes both: similar sound AND both mean 'following/coming after'.",
+        "C fails because both words are adjectives",
+        "D is correct because both words appear in the dictionary"
+      ],
+      "correctIdx": 1,
+      "answer": "② C passes sound but fails meaning — AND condition requires BOTH to pass",
+      "explanation": "[AND condition logic]\ncondition: sound ✓ AND meaning ✓ = PASS\nif EITHER fails → total FAIL\n\n[Testing C: 'decent' / 'descend']\nsound: de-CENT / de-SCEND → similar ✓\nmeaning: decent = morally good / descend = to go down → unrelated ✗\nresult: FAIL (meaning criterion not met)\n\n[Testing D: 'consequent' / 'subsequent']\nsound: con-SE-quent / sub-SE-quent → similar ✓\nmeaning: consequent = following as a result / subsequent = coming after → related ✓\nresult: PASS ✓\n\n[Why C tempts]\n'decent' and 'descend' LOOK similar on the page\nThey also SOUND similar when spoken\n→ Sound check passes → brain stops checking\n→ Meaning check skipped → error\n\n[AND trap pattern]\nThis question type appears repeatedly in GAMSAT\nFormat: 'X and Y' condition in passage\nTrap choices: pass one condition visibly, hide failure of the other",
+      "action": "Action Rule (Q9): When passage gives 'X AND Y' condition — build a 2-column checklist. Test EVERY choice against BOTH columns. C passes column 1 (sound) but fails column 2 (meaning). Only D passes both. One fail = eliminated."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q9_subjective_and_checklist_drill",
+    "type": "logic",
+    "isMCQ": false,
+    "source": "Unit 164 — Q9 AND Condition Drill",
+    "quiz": {
+      "question": "[Q9 — AND Condition Drill]\n\nTest each pair against the TWO criteria:\n'alike in SOUND' AND 'related in MEANING'\n\nC: 'decent' / 'descend'\n   Sound alike? ____  Meaning related? ____  → Pass or Fail? ____\n\nD: 'consequent' / 'subsequent'\n   Sound alike? ____  Meaning related? ____  → Pass or Fail? ____\n\n(Tap to check)",
+      "answer": "C: Sound ✓ / Meaning ✗ → FAIL  |  D: Sound ✓ / Meaning ✓ → PASS",
+      "explanation": "[C: decent / descend]\nSound: de-CENT / de-SCEND → similar sounds ✓\nMeaning: decent (도덕적으로 올바른) / descend (내려가다) → completely unrelated ✗\n→ AND condition: FAIL\n\n[D: consequent / subsequent]\nSound: con-SE-quent / sub-SE-quent → similar sounds ✓\nMeaning: consequent (결과로 뒤따르는) / subsequent (그 후에 오는) → both in 'following/after' semantic family ✓\n→ AND condition: PASS\n\n[The AND rule]\nA chain is only as strong as its weakest link\nIn AND conditions: one failure = total failure\nNever stop at the first criterion passing",
+      "action": "Drill habit: Write two columns — SOUND | MEANING — and tick each separately. Never let a ✓ on sound make you skip the meaning check. Both columns must be green."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q10_vocab_occupied_vs_preoccupied",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 164 — Q10 Vocab (A→B)",
+    "quiz": {
+      "question": "[Q10 — Vocabulary Precision: physical vs mental state]\n\nDistinguish the meanings:\n• <strong>occupied</strong> = a place or person is in use / busy (physical/external)\n• <strong>preoccupied</strong> = mentally absorbed, lost in thought (mental/internal)\n\nYour pick — A: occupied = full / preoccupied = in preparation\nCorrect — B: occupied = engaged / preoccupied = engrossed\n\nWhy is B the only pair that correctly maps both words?",
+      "options": [
+        "B is correct because 'engaged' and 'engrossed' both start with 'en-'",
+        "B correctly maps BOTH: 'engaged' = busy/in use (matches occupied's physical sense) AND 'engrossed' = mentally absorbed/deeply focused (matches preoccupied's mental sense). Choice A fails both: 'full' ≠ occupied (too physical/spatial) and 'in preparation' ≠ preoccupied (preparation is future-focused, not mental absorption).",
+        "A is wrong only because 'full' is too informal",
+        "'In preparation' is wrong because it appears nowhere in the passage"
+      ],
+      "correctIdx": 1,
+      "answer": "② B maps both correctly: engaged (busy) = occupied / engrossed (mentally absorbed) = preoccupied",
+      "explanation": "[Word meaning analysis]\noccupied:\n= a seat is taken, a person is busy with a task\n= external, physical state of being in use\n= → engaged (busy, involved in something)\n\npreoccupied:\n= your mind is elsewhere, absorbed in thought\n= internal, mental state\n= → engrossed (deeply mentally absorbed)\n\n[Why A fails]\n'full' → spatial/quantity meaning → wrong dimension\n'in preparation' → future-oriented activity → ≠ mental absorption\n\n[Physical vs Mental distinction]\noccupied: 자리가 차있는 / (일로) 바쁜 → EXTERNAL\npreoccupied: 다른 생각에 잠겨있는 → INTERNAL/MENTAL\n\n[Vocabulary pairs to memorise]\noccupied ↔ engaged (바쁜, 사용 중인)\npreoccupied ↔ engrossed (몰두한, 정신이 딴 데 가있는)\nengrossed ↔ absorbed, captivated, immersed",
+      "action": "Action Rule (Q10): For paired word questions, classify each word as PHYSICAL or MENTAL state first. Then match: physical→physical, mental→mental. Occupied = physical/external. Preoccupied = mental/internal."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q10_subjective_vocab_state_drill",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Unit 164 — Q10 Vocab Drill",
+    "quiz": {
+      "question": "[Q10 — Vocabulary State Drill]\n\nClassify and complete:\n\n① occupied = ________ state (물리적/정신적?)\n   synonym = ________ (Choice B)\n\n② preoccupied = ________ state (물리적/정신적?)\n   synonym = ________ (Choice B)\n\nBonus:\n③ engrossed (한국어) = ________\n④ engaged (한국어, 이 문맥에서) = ________\n\n(Tap to check)",
+      "answer": "① physical / external → engaged  ② mental / internal → engrossed  ③ 몰두한, 푹 빠진  ④ 바쁜, 관여하고 있는",
+      "explanation": "[State classification]\noccupied = PHYSICAL/EXTERNAL state\n  = a space is taken, a person is busy doing a task\n  = engaged (actively involved in something)\n\npreoccupied = MENTAL/INTERNAL state\n  = your mind is elsewhere, absorbed in something\n  = engrossed (deeply mentally focused on something)\n\n[Memory hook]\nPRE-occupied: the 'pre-' suggests your mind is already SOMEWHERE ELSE\n= mentally elsewhere = engrossed in other thoughts\n\n[Why A's choices fail]\nfull = quantity/spatial, not activity\nin preparation = future planning, not mental absorption",
+      "action": "Drill habit: occupied (바쁜, 사용 중) = engaged / preoccupied (딴 생각 중) = engrossed. The pre- prefix signals mental preemption — your mind is already taken."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q12_paraphrase_confusibles_feature",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 164 — Q12 Paraphrase (B→C)",
+    "quiz": {
+      "question": "[Q12 — Paraphrase: What is the key feature of this dictionary?]\n\nPassage: A 'dictionary of confusibles'\n= a dictionary that groups PAIRS/SETS of easily confused words together\n\nQ: The most likely characteristic of Room's Dictionary of Confusibles is that ______.\n\nYour pick — B: <strong>it has the words indexed by subject rather than alphabetically</strong>\nCorrect — C: <strong>it often directs users who look for an entry under one word to look under another</strong>\n\nWhy does C follow directly from 'confusibles' and B does not?",
+      "options": [
+        "B is wrong because all dictionaries are alphabetical",
+        "C directly follows from the concept of 'confusibles': if brusque and brisk are confused pairs, looking up 'brusque' redirects you to 'brisk' (the paired word). B invents 'subject indexing' — the passage only mentions words are confusable, not that they are grouped by topic/subject.",
+        "C is correct because the author explicitly states this in the blurb",
+        "B is wrong because the book has over 1600 words which is too many for subject indexing"
+      ],
+      "correctIdx": 1,
+      "answer": "② C follows logically from 'confusibles' structure; B invents 'subject indexing' with no passage support",
+      "explanation": "[What 'confusibles' means structurally]\nA confusibles dictionary pairs or groups easily confused words\ne.g. brusque ↔ brisk / baroque ↔ rococo / notable ↔ noticeable\n\n[How this creates the C feature]\nIf you look up 'brusque', the dictionary says:\n'See also: brisk' (its confusible pair)\n→ you are directed FROM one word TO another\n→ = 'directs users who look under one word to look under another'\n\n[Why B is over-inference]\n'Indexed by subject' = organised by topic (e.g., medical words, legal words)\nThe passage says: confusable words (sound + meaning overlap)\nNothing about subject/topic grouping\n→ B is a logical-sounding feature of a dictionary, but NOT this specific one\n\n[Paraphrase chain → C]\n'confusibles' (confused pairs) → one word points to its confused partner\n= directs users from one entry to look under another\n\n[The passage-evidence rule]\nThe question asks about THIS dictionary's characteristic\n→ evidence must come from the blurb, not from general dictionary knowledge\n→ 'subject indexing' = general dictionary knowledge, not passage-based",
+      "action": "Action Rule (Q12): 'Most likely characteristic' questions — derive the answer from the SPECIFIC CONCEPT described in the passage ('confusibles' = pairs). Do not use general background knowledge about dictionaries. Ask: 'What must be true given THIS dictionary's unique feature?'"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q12_subjective_confusibles_logic_drill",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Unit 164 — Q12 Logic Drill",
+    "quiz": {
+      "question": "[Q12 — Logic Drill: What follows from 'confusibles'?]\n\nIf this dictionary pairs confused words (e.g. brusque ↔ brisk),\ncomplete the logical chain:\n\n① A user looks up 'brusque'\n② The dictionary shows: 'brusque' is often confused with ________\n③ Therefore the dictionary ________ users from one entry to look under ________\n\n→ This directly describes Choice ____\n\n(Tap to check)",
+      "answer": "② brisk (its confusible pair)  ③ directs / another  → Choice C",
+      "explanation": "[Logic chain]\nbrusque ↔ brisk = a confusible pair\nLooking up 'brusque' → dictionary says 'see also: brisk'\n= redirected from one word to the other\n= 'directs users who look under one word to look under another' = Choice C\n\n[Why this is NOT Choice B]\nB says 'indexed by subject'\n= e.g., medical terms together, legal terms together\n= completely different organisational principle\n= nothing in the blurb supports this\n\n[The reasoning pattern]\nDon't ask: 'What do dictionaries usually do?'\nAsk: 'What MUST this specific type of dictionary do, given its name?'\nConfusibles = pairs → one entry points to its pair → redirects users",
+      "action": "Drill habit: For 'characteristic of X' questions — derive from the DEFINITION of X, not from background knowledge. 'Confusibles dictionary' → must redirect between paired entries → Choice C."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "meta_unit164_pattern_summary",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 164 — Pattern Summary",
+    "quiz": {
+      "question": "[Unit 164 — Pattern Summary]\n\nYour four errors in Unit 164 share a common root cause.\nWhich best describes the SINGLE habit that would have prevented all four?\n\nQ8 (combination of reasons) / Q9 (AND condition) / Q10 (physical vs mental) / Q12 (confusibles logic)",
+      "options": [
+        "Reading the passage more slowly from beginning to end",
+        "Return to the EXACT passage structure before choosing: count conditions (AND = check both), count causes (multiple = 'combination'), classify word dimensions (physical/mental), derive from passage concept not background knowledge",
+        "Learning more vocabulary before attempting GAMSAT passages",
+        "Eliminating obviously wrong choices first before reading the passage"
+      ],
+      "correctIdx": 1,
+      "answer": "② Return to exact passage structure — count, classify, derive. Don't infer beyond it.",
+      "explanation": "[4 errors, 1 root cause: insufficient passage anchoring]\n\nQ8: Passage had 3 causes → should have counted → 'combination'\nInstead: invented one cause (extensive vocabulary users) ✗\n\nQ9: Passage had AND condition → should have tested BOTH → D passes both\nInstead: tested only SOUND, skipped MEANING check ✗\n\nQ10: Passage had physical/mental distinction → should have classified\nInstead: matched by surface similarity (full ≈ occupied?) ✗\n\nQ12: Passage had specific concept ('confusibles') → should have derived\nInstead: used general dictionary knowledge ✗\n\n[The 4 micro-rules]\n① Count causes → multiple = 'combination'\n② AND = 2-column checklist, both must pass\n③ Classify by dimension (physical/mental, cause/effect, etc.)\n④ Derive from passage concept, not background knowledge\n\n[Score implication]\nFixing these 4 habits = 4+ extra correct answers per section\n= approximately 3-5 points improvement on S1",
+      "action": "Meta Rule (Unit 164): Before choosing ANY answer — ask: How many factors? (count) / Is there an AND condition? (checklist) / What dimension is this? (classify) / Am I using passage evidence or my own knowledge? (derive). 4 questions, 4 extra marks."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
