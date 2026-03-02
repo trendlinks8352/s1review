@@ -747,5 +747,131 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "q38_paraphrase_sheltered_childhood",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Q38 — Paraphrase (B→D)",
+    "quiz": {
+      "question": "[Q38 — Paraphrase: Why was Patrick uncritical?]\n\nPassage:\n\"...with the <em>uncritical, accepting eyes</em> of <em>sheltered childhood</em>\"\n\nQ: Patrick was uncritical and accepting because he ______.\n\nYour pick — B: <strong>was seeing Sydney for the first time</strong>\nCorrect — D: <strong>had not experienced personally the unpleasant aspects of life</strong>\n\nWhat is the core paraphrase error?",
+      "options": [
+        "B is wrong because Patrick had visited Sydney before",
+        "B describes only the SITUATION (first visit) — it gives no reason for the uncritical attitude. The question asks WHY he was uncritical. 'Sheltered childhood' = not exposed to hardship = had not experienced unpleasant aspects of life. B is a surface fact; D is the causal explanation.",
+        "B is wrong because 'first time' is not mentioned in the passage",
+        "D is wrong because Patrick clearly had experienced hardship in Ireland"
+      ],
+      "correctIdx": 1,
+      "answer": "② B = surface situation; D = causal explanation of 'sheltered childhood'",
+      "explanation": "[The WHY question structure]\nThe question asks: 'because he ______'\n= asks for a CAUSE / REASON\n= not a description of the situation\n\n[B — why it fails the WHY test]\n'was seeing Sydney for the first time'\n= circumstantial fact (where he was, what he was doing)\n= explains nothing about WHY he was uncritical\n= could apply to anyone seeing a new city\n\n[Paraphrase chain → D]\nsheltered = protected, not exposed to the harsh world\nchildhood = a period before real-world experience\nsheltered childhood = not yet experienced unpleasant aspects of life\n→ had not experienced personally the unpleasant aspects of life\n\n[The abstraction step]\nPassage: concrete image ('sheltered childhood')\nChoice D: abstract restatement ('not experienced unpleasant aspects')\nThis is the standard GAMSAT paraphrase move:\nconcrete/literary → abstract/analytical\n\n[Rule: emotion/character words need causal unpacking]\nuncritical + accepting = character trait\n→ always ask: 'what CAUSED this trait?'\n→ answer = sheltered childhood = no exposure to hardship",
+      "action": "Action Rule (Q38): When a question asks 'because he ___' — eliminate any choice that describes WHAT he did or WHERE he was. Only keep choices that explain WHY he had that attitude. Trait → cause → abstract restatement."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q38_subjective_sheltered_paraphrase_drill",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Q38 — Paraphrase Drill",
+    "quiz": {
+      "question": "[Q38 — Paraphrase Drill]\n\nComplete the abstraction chain:\n\nPassage word → Abstract meaning\n\n① <em>sheltered</em>\n   = ________ from hardship / not ________ to difficulty\n\n② <em>sheltered childhood</em>\n   = had not ________ personally the ________ aspects of life\n\n③ Therefore: uncritical + accepting\n   = the natural result of having no ________ with hardship\n\n(Tap to check)",
+      "answer": "① protected / exposed  ② experienced / unpleasant  ③ experience (personal contact)",
+      "explanation": "[Abstraction chain]\nsheltered → protected, not exposed\nsheltered childhood → a life period without real hardship\n→ had not experienced unpleasant aspects of life\n\n[Why the trait follows]\nIf you have never seen the dark side of life\n→ you have no basis for criticism\n→ you accept what you see without judgment\n= uncritical, accepting eyes\n\n[The GAMSAT abstraction pattern]\nLiterary/descriptive word → analytical equivalent\nsheltered = protected = unexposed = inexperienced\nThis chain appears constantly in narrative passage questions",
+      "action": "Drill habit: sheltered = protected = not exposed to hardship = not experienced unpleasant aspects. Memorise this 4-step chain. Any descriptive word about character/emotion needs this kind of unpacking."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q42_targeting_surprise_signal",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Q42 — Targeting (C→D)",
+    "quiz": {
+      "question": "[Q42 — Targeting: Find the surprise signal]\n\nPassage excerpts:\n(1) \"Their ugliness and their squalor did <em>not shock or even surprise</em> him\"\n(2) \"he <em>did find it hard to realise</em> that here… there had not been, for months past, enough to eat.\"\n\nQ: The most surprising aspect of the settlement was ______.\n\nYour pick — C: <strong>the ugliness of its houses</strong>\nCorrect — D: <strong>its long-term lack of food</strong>\n\nWhich passage signal told you what DID surprise Patrick?",
+      "options": [
+        "'Their ugliness and their squalor' — this phrase describes the most striking feature",
+        "'did find it hard to realise' — this is the surprise signal. 'Not shock or even surprise' explicitly eliminates ugliness (Choice C). 'Hard to realise' = difficult to believe = surprised/shocked = the food scarcity IS the surprising element.",
+        "'enough to eat' — food is always the most important survival factor",
+        "'for months past' — the long duration is what makes it surprising"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'did find it hard to realise' = surprise signal. Ugliness explicitly NOT surprising.",
+      "explanation": "[Two-signal structure in the passage]\nSignal 1 — NEGATION of surprise:\n'did NOT shock or even surprise him'\n→ ugliness = explicitly NOT the surprising thing\n→ Choice C = directly eliminated by the passage\n\nSignal 2 — POSITIVE surprise indicator:\n'he DID find it hard to realise that...'\n→ 'hard to realise' = struggled to believe it was true\n→ = surprised / shocked\n→ what followed = 'not enough to eat for months'\n→ = long-term food scarcity = Choice D\n\n[Surprise signal vocabulary bank]\nExplicit: surprised, shocked, astonished, startled\nImplicit (GAMSAT loves these):\n• 'found it hard to realise'\n• 'difficult to believe'\n• 'could not quite accept'\n• 'struck him as strange'\n• 'had not expected'\n\n[Why C is tempting]\nUgliness is the vivid, concrete image in the paragraph\nEasy to anchor on\nBut the passage explicitly says it did NOT surprise him\n→ Always check negation around candidate answers",
+      "action": "Action Rule (Q42): For 'what surprised/shocked' questions — scan for TWO things: (1) explicit NOT surprise markers (eliminate those choices immediately), (2) implicit surprise signals ('found it hard to realise' = surprised). The answer lives near the implicit signal."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q42_subjective_surprise_signals_drill",
+    "type": "targeting",
+    "isMCQ": false,
+    "source": "Q42 — Surprise Signal Drill",
+    "quiz": {
+      "question": "[Q42 — Surprise Signal Drill]\n\nFor 'what surprised the character?' questions,\ncomplete the two-step scan:\n\nStep 1 — ELIMINATE:\nFind phrases that say something did ________ surprise him\n→ those topics are automatically ________\n\nStep 2 — LOCATE:\nFind implicit surprise signals:\n① 'found it ________ to realise' = surprised\n② 'difficult to ________' = surprised\n③ 'could not quite ________' = surprised\n\n→ The surprising element comes ________ (before/after) these signals\n\n(Tap to check)",
+      "answer": "Step 1: NOT surprise → eliminated  |  Step 2: ① hard  ② believe  ③ accept  → AFTER",
+      "explanation": "[Two-step scan applied to Q42]\nStep 1: 'did NOT shock or even surprise him' → ugliness = ELIMINATED\nStep 2: 'did find it HARD TO REALISE that...not enough to eat'\n→ surprise signal found\n→ content after the signal = the surprising thing = food scarcity\n\n[Implicit surprise signal bank]\n'found it hard to realise' ← Q42's signal\n'difficult to believe'\n'could not quite accept'\n'struck him as strange'\n'had not expected'\n'it seemed impossible that'\n\n[The negation trap]\nWhen the passage says 'X did NOT surprise him'\n→ X = guaranteed wrong answer\n→ But X is usually the most vivid/memorable image\n→ Trap = choose vivid image over logical signal",
+      "action": "Drill habit: Two-step surprise scan — (1) mark all 'not surprised' = auto-eliminate, (2) find implicit surprise language = answer is in the clause that follows. Run this scan before looking at choices."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q43b_targeting_privileged_background",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Q43 — Targeting (C→A)",
+    "quiz": {
+      "question": "[Q43 — Targeting: What signals 'privileged background'?]\n\nQ: Which quotation best suggests Patrick came from a privileged background?\n\nYour pick — C:\n<strong>\"he had been accustomed, in Ireland, to hovels quite as bad as these\"</strong>\n\nCorrect — A:\n<strong>\"only one house which looked really like a house, and that was the Governor's\"</strong>\n\nWhy does C actually CONTRADICT privileged background, while A implies it?",
+      "options": [
+        "A is correct because the Governor's house is explicitly described as luxurious",
+        "C says Patrick was ACCUSTOMED TO HOVELS — hovels = slums = poverty = contradicts privileged. A reveals Patrick's standard of expectation: he recognises only ONE house as a proper house. High standards of what a 'real house' looks like = raised in quality surroundings = privileged background.",
+        "C is wrong because Ireland is not mentioned in the question",
+        "A is correct because Patrick admires the Governor, who is an authority figure"
+      ],
+      "correctIdx": 1,
+      "answer": "② C describes familiarity with poverty (anti-privileged). A reveals high standards = privileged.",
+      "explanation": "[C — why it contradicts the answer]\nhovel = a small, squalid, miserable dwelling = extreme poverty\n'accustomed to hovels' = grew up around poverty\n= NOT privileged\nC is actually evidence AGAINST privileged background\n\n[A — how it implies privileged background]\n'only one house which looked really like a house'\n= Patrick has a clear internal standard for what a proper house is\n= most buildings fail to meet his standard\n= he is USED TO proper, dignified, well-built houses\n= his baseline expectation is high-quality housing\n= raised in quality surroundings = privileged\n\n[The inference pattern for background questions]\nDirect statement: 'Patrick was rich' → too easy, GAMSAT doesn't do this\nIndirect inference: Patrick's reactions, comparisons, standards reveal background\n\n[Standard of expectation = class indicator]\nHigh baseline for housing quality → accustomed to good houses → privileged\nFamiliarity with hovels → accustomed to poverty → NOT privileged\n\n[Why C tempts]\nC mentions Ireland + specific housing detail\n= feels like concrete biographical evidence\n= but the MEANING points the wrong way",
+      "action": "Action Rule (Q43): For 'privileged background' inference questions — look for STANDARDS OF EXPECTATION, not direct statements of wealth. High standard = privileged. Familiarity with poverty = opposite. Always ask: 'What does this character EXPECT as normal?'"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "q43b_subjective_privilege_inference_drill",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Q43 — Privilege Inference Drill",
+    "quiz": {
+      "question": "[Q43 — Privilege Inference Drill]\n\nComplete the inference chain:\n\n① C: 'accustomed to hovels'\n   hovel = ________ dwelling\n   accustomed to = ________ to\n   → implies ________ background (privileged / non-privileged?)\n\n② A: 'only one house which looked really like a house'\n   = Patrick's standard for a 'real house' is ________\n   = he is used to ________ quality housing\n   → implies ________ background (privileged / non-privileged?)\n\n(Tap to check)",
+      "answer": "① squalid/poor dwelling / used to / NON-privileged  ②  high / good / PRIVILEGED",
+      "explanation": "[Chain comparison]\nC: accustomed to HOVELS → baseline = poverty → non-privileged ✗ (wrong direction)\nA: only ONE building meets his standard → baseline = high quality → privileged ✓\n\n[The inference logic for background]\nWhat a person accepts as NORMAL reveals their upbringing\nNormal = hovels → grew up in poverty\nNormal = proper houses → grew up in quality surroundings\n\n[GAMSAT background inference pattern]\nNever given directly → always inferred from:\n• reactions ('this is surprisingly good/bad')\n• comparisons ('only one house looked like a real house')\n• standards ('he was accustomed to...')\n• expectations ('he found it hard to believe...')\n\n[Memory hook]\nPrivileged = high baseline expectations\nNon-privileged = familiarity with hardship/poverty",
+      "action": "Drill habit: Privileged background = high standards of expectation (reacts negatively to poor quality). For every background inference question: ask 'What is this character's BASELINE NORMAL?' That reveals their upbringing."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "meta_narrative_three_patterns",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Q38/42/43 — Narrative Pattern Summary",
+    "quiz": {
+      "question": "[Narrative Passage Pattern Summary]\n\nQ38 (sheltered childhood → not experienced hardship)\nQ42 (ugliness NOT surprising → food scarcity IS surprising)\nQ43 (accustomed to hovels ≠ privileged / high standards = privileged)\n\nAll three errors share ONE root habit that needs fixing.\nWhich is it?",
+      "options": [
+        "Not reading the passage carefully enough from start to finish",
+        "Reacting to the most vivid/concrete image or surface word instead of unpacking the LOGICAL/CAUSAL structure: WHY does the character feel this? WHAT signal word marks the real emotion? WHAT does the character's standard of expectation REVEAL?",
+        "Not knowing enough vocabulary to understand the passage",
+        "Spending too long on each question and running out of time"
+      ],
+      "correctIdx": 1,
+      "answer": "② Reacting to surface vividness instead of following the logical/causal structure",
+      "explanation": "[3 errors, 1 root: surface anchoring]\n\nQ38: 'was seeing Sydney for the first time' (vivid surface fact)\nvs 'sheltered childhood' → needs causal unpacking → not experienced hardship\nFix: Ask WHY, not WHAT\n\nQ42: 'ugliness of houses' (vivid concrete image)\nvs passage explicitly says NOT surprised + implicit signal for food scarcity\nFix: Scan for surprise signals, check negation first\n\nQ43: 'accustomed to hovels in Ireland' (vivid biographical detail)\nvs meaning points AWAY from privilege\nFix: Ask what the detail IMPLIES about background, not just what it says\n\n[The 3 corrective questions]\nQ38-type: 'What CAUSED this trait?' (not what was happening)\nQ42-type: 'What SIGNAL WORD marks the real emotion?' (not the vivid image)\nQ43-type: 'What does this REVEAL about background?' (inference, not surface)\n\n[Score implication]\nThese 3 question types appear in every GAMSAT narrative passage\nFixing this habit = reliable +3 to +5 marks on S1",
+      "action": "Meta Rule (Narrative): For every narrative question — resist the vivid image. Ask the structural question instead: WHY (causal)? WHAT SIGNAL (emotion marker)? WHAT DOES IT REVEAL (inference)? Three questions, three question types, three guaranteed marks."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
