@@ -1230,5 +1230,131 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u159_q80_targeting_aversion_not_incapable",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 159 — Q80 Targeting (A→B)",
+    "quiz": {
+      "question": "[Q80 — Targeting: Incapable of feeling OR unwilling to express?]\n\nPassage:\n\"...his <em>reserve</em> springs from an <em>aversion</em> to showy displays of feeling\"\n\nQ: The narrator describes Mr Bracken as ______.\n\nYour pick — A: <strong>incapable of feeling</strong>\nCorrect — B: <strong>unwilling to express his feelings</strong>\n\nWhat is the critical distinction that makes A wrong?",
+      "options": [
+        "A is wrong because Mr Bracken is described as emotionally sensitive throughout",
+        "'Reserve springs from aversion' means he HAS feelings but CHOOSES not to display them (aversion = strong dislike of showing). A claims he CANNOT feel — an ability claim. B claims he is UNWILLING — a choice claim. The passage supports choice (aversion), not inability.",
+        "A is wrong because 'reserve' means emotional openness",
+        "B is wrong because Mr Bracken is explicitly cold and unfeeling"
+      ],
+      "correctIdx": 1,
+      "answer": "② aversion = strong dislike of showing → unwilling (choice), not incapable (inability)",
+      "explanation": "[The key distinction: ability vs choice]\nincapable = CANNOT (no ability to feel)\nunwilling = WILL NOT (has feeling, chooses not to show)\n\n[Passage evidence]\n'reserve springs from an AVERSION to showy displays'\naversion = a strong dislike, a reluctance\n= he DISLIKES showing feelings openly\n= he has feelings — he just hates displaying them publicly\n\n[Paraphrase chain → B]\naversion to showy displays of feeling\n= dislike of openly expressing emotion\n= unwilling to express his feelings ✓\n\n[Why A fails]\n'incapable of feeling' = he has no feelings at all\nThe passage says his RESERVE (restraint) comes from AVERSION (dislike)\n= the mechanism is dislike, not disability\n= feelings exist; the barrier is reluctance, not incapacity\n\n[Vocabulary precision]\nreserve (냉담함, 자제) = restrained manner — does NOT mean absence of feeling\naversion (혐오, 거부감) = strong dislike — implies choice to avoid\nincapable (능력 없음) = cannot do — NOT supported\nunwilling (하기 싫어하는) = chooses not to — directly supported ✓",
+      "action": "Action Rule (Q80): When passage gives a REASON for behaviour (springs from aversion), the answer must reflect that reason's nature. Aversion = dislike/choice → unwilling. If the passage said 'he lacks the capacity' → incapable. Always match the causal mechanism."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u159_q82_paraphrase_special_insight_first",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 159 — Q82 Paraphrase (B→C)",
+    "quiz": {
+      "question": "[Q82 — Paraphrase: Where does 'special insight' FIRST appear?]\n\nQ: At which point does it first appear that the narrator feels she has a special insight into Mr Bracken?\n\nYour pick — B: <strong>'he has an erect and handsome figure'</strong>\nCorrect — C: <strong>'I have a sympathetic chord within'</strong>\n\nWhat does 'special insight' mean, and why does C qualify while B does not?",
+      "options": [
+        "B qualifies because physical observation is a form of insight",
+        "'Special insight' = knowledge others do NOT have. B is a physical observation anyone can make (visible to all). C is the first moment the narrator claims an INTERNAL SENSE ('sympathetic chord within') that tells her something others miss — 'I know, by instinct' = privileged inner knowledge. C = special; B = generic observation.",
+        "C is wrong because 'sympathetic chord' refers to music, not understanding",
+        "B qualifies because handsome appearance reveals character"
+      ],
+      "correctIdx": 1,
+      "answer": "② B = visible to everyone (not special) / C = internal privileged knowledge others lack = special insight",
+      "explanation": "[What makes insight 'special'?]\nSpecial insight = knowledge or understanding that OTHERS do NOT possess\n= a privileged perspective\n= not just observation, but unique interpretation\n\n[Testing B: 'erect and handsome figure']\nThis is a physical observation\nAnyone looking at Mr Bracken can see his figure\n→ Not special — available to all observers\n→ Does not qualify as 'special insight' ✗\n\n[Testing C: 'I have a sympathetic chord within']\n'Sympathetic chord WITHIN' = an internal resonance/feeling\n'I know, BY INSTINCT' = privileged, non-obvious knowledge\n= the narrator claims she understands something OTHERS miss\n= she says others might suspect him of pride, but SHE knows better\n→ First claim of exclusive, special understanding ✓\n\n[The paraphrase chain]\n'sympathetic chord within that tells me'\n= an inner knowing others don't have\n= special insight into Mr Bracken ✓\n\n[Why this is the FIRST occurrence]\nBefore C: narrator describes Mr Bracken objectively (appearance, manner)\nAt C: narrator first claims PERSONAL, EXCLUSIVE understanding\n= the moment she elevates herself above other observers",
+      "action": "Action Rule (Q82): For 'first appearance of X' questions — define X precisely first. Special insight = knowledge others lack. Then test each option: is this available to anyone (not special) or claimed as exclusive inner knowledge (special)? C is the first claim of exclusivity."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u159_q83_paraphrase_bestow_own_attributes",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 159 — Q83 Paraphrase (B→D)",
+    "quiz": {
+      "question": "[Q83 — Paraphrase: What is the narrator's judgement based on?]\n\nPassage (final line):\n\"I <em>bestow my own attributes over-liberally on him</em>.\"\n\nQ: The narrator's judgments of Mr Bracken's psychology seem to be based on ______.\n\nYour pick — B: <strong>an attempt to put herself in Mr Bracken's position</strong>\nCorrect — D: <strong>Mr Bracken's presumed similarity to the narrator</strong>\n\nHow does 'bestow my own attributes on him' map to D and not B?",
+      "options": [
+        "B is correct because imagining another's position is the same as projecting one's own traits",
+        "'Bestow my OWN attributes ON HIM' = she gives HER traits TO HIM (self-projection). D: 'presumed similarity to the narrator' = she assumes he is like her. B: 'put herself in his position' = she imagines HIS perspective (empathy). These are opposite directions — B goes INTO him, D brings HIM to her.",
+        "D is wrong because the narrator explicitly tries to understand Mr Bracken objectively",
+        "B and D mean the same thing in this context"
+      ],
+      "correctIdx": 1,
+      "answer": "② bestow OWN attributes ON him = she projects herself onto him = D (presumed similarity to narrator)",
+      "explanation": "[Directional analysis — the key to this question]\nB: put herself in HIS position\n= narrator → Mr Bracken's shoes\n= empathy, perspective-taking\n= going FROM self TO other\n\nD: presumed similarity to the narrator\n= Mr Bracken ← narrator's own traits\n= self-projection, assuming he is like her\n= going FROM self ONTO other\n\n[Passage evidence]\n'bestow MY OWN attributes on HIM'\nbestow = to grant/give something to someone\nmy own attributes = HER traits, HER characteristics\non him = transferred TO Mr Bracken\n= she ASSIGNS her own traits to him\n= she ASSUMES he is like her = D ✓\n\n[Why B is the opposite error]\nB (empathy) = 'I try to understand what it's like to BE him'\nD (projection) = 'I assume he is like ME'\nThe narrator confesses projection (over-liberally bestowing her OWN attributes)\nNot empathy (she's not entering his perspective — she's mapping him onto herself)\n\n[Self-awareness moment]\n'No, I'm running on too fast — I bestow my own attributes over-liberally'\n= the narrator CATCHES herself projecting\n= this is the self-correction that answers Q83 AND Q85",
+      "action": "Action Rule (Q83): 'Bestow own attributes on him' = self-projection (mapping self onto other). Distinguish from empathy (mapping self into other's position). Direction matters: projection = I assume he is like ME. Empathy = I imagine being HIM."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u159_q84_targeting_impertinence_offended",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 159 — Q84 Targeting (D→A)",
+    "quiz": {
+      "question": "[Q84 — Targeting: How does Mr Bracken respond to others' feelings?]\n\nPassage:\n\"...esteem it a species of <em>impertinence</em> to be loved or hated again\"\n\nQ: How does the narrator believe Mr Bracken would respond to the feelings of others?\nShe believes he would probably be ______.\n\nYour pick — D: <strong>sensitive to others, but would have difficulty articulating his sympathy</strong>\nCorrect — A: <strong>offended by others' expressions of feeling</strong>\n\nHow does 'impertinence' map to 'offended' and eliminate D?",
+      "options": [
+        "D is correct because Mr Bracken is described as sensitive throughout the passage",
+        "'Esteem it a species of impertinence' = he REGARDS others' emotional expressions as rudeness/insolence. Impertinence = offensive behaviour. Therefore he would be OFFENDED by emotional expressions. D imports the narrator's own sensitivity onto Mr Bracken — exactly the projection error the narrator confesses to.",
+        "A is wrong because 'offended' is too strong a word for Mr Bracken's reserved character",
+        "D is correct because the passage says Mr Bracken loves and hates under cover"
+      ],
+      "correctIdx": 1,
+      "answer": "② impertinence = rudeness/insolence → he regards feelings as offensive → offended = A",
+      "explanation": "[Paraphrase chain → A]\n'esteem it a species of impertinence'\n= regard it as a TYPE of impertinence\nimpertinence = rudeness, insolence, offensive behaviour\n= he sees others' emotional expressions as OFFENSIVE\n= he would be OFFENDED by them\n→ 'offended by others' expressions of feeling' (Choice A) ✓\n\n[Key vocabulary]\nimpertinence (무례함, 건방짐) = rude, offensive behaviour\n= to be loved or hated = others expressing feelings toward him\n= he regards this as impertinent = offensive = he is offended\n\n[Why D is the projection trap]\nD: 'sensitive to others, but would have difficulty articulating sympathy'\n= this describes a SENSITIVE, EMPATHETIC person with communication difficulty\n= this sounds like the NARRATOR herself (or who she imagines he is)\n= this is exactly the 'bestowing her own attributes' error she confesses to\n→ D = the narrator's self-projection, not the passage evidence\n\n[What the passage actually says about Mr Bracken]\nHe LOVES and HATES under cover (hidden)\nHe regards others' feelings as IMPERTINENCE (rudeness)\n= he is not sensitive to others — he finds their feelings intrusive\n= A ✓, D ✗",
+      "action": "Action Rule (Q84): impertinence = rudeness → offended. When Mr Bracken regards something as impertinence, he is OFFENDED by it. Do not use D — it imports the narrator's sensitivity onto Mr Bracken, the exact projection error the passage warns against."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u159_q85_paraphrase_running_too_fast_wavered",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 159 — Q85 Paraphrase (A→B)",
+    "quiz": {
+      "question": "[Q85 — Paraphrase: What happened to the narrator's confidence?]\n\nPassage (final lines):\n\"...esteem it a species of impertinence to be loved or hated again —\n<em>No, I'm running on too fast</em> —\nI bestow my own attributes over-liberally on him.\"\n\nQ: By the end of the passage, the narrator's confidence in her description of Mr Bracken seems to have ______.\n\nYour pick — A: <strong>increased</strong>\nCorrect — B: <strong>wavered</strong>\n\nHow does 'No, I'm running on too fast' signal wavering rather than confidence?",
+      "options": [
+        "A is correct because the narrator ends with a detailed description, showing growing confidence",
+        "'No, I'm running on too fast' = self-interruption = self-correction = she pulls back from her own claims. This is a mid-sentence reversal of confidence — she was building a bold picture of Mr Bracken, then catches herself over-reaching. Wavered = confidence that fluctuated and then retreated. Increased = confidence that grew without interruption.",
+        "B is wrong because 'wavered' implies complete loss of confidence",
+        "A is correct because the narrator successfully identifies Mr Bracken's character by the end"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'No, running too fast' = self-interruption and retreat = confidence wavered (fluctuated then retreated)",
+      "explanation": "[Parsing the self-interruption]\n'No, I'm running on too fast'\n= No = contradiction of what she just said\n= running on too fast = going further than the evidence supports\n= she STOPS herself and pulls back\n= this is a confidence CHECK, not a confidence BOOST\n\n[What 'wavered' means]\nwaver = to become unsteady, to hesitate, to oscillate\n= confidence that was high, then pulled back\n= not collapsed entirely — but no longer steady\n\n[The narrative arc of confidence]\nLines 1–8: narrator builds confident picture of Mr Bracken\n→ 'I know, by instinct...' (confident)\n→ 'I have a sympathetic chord...' (confident)\n→ 'He'll love and hate...' (confident projection)\nFinal line: 'No — I'm running too fast — I bestow my own attributes'\n→ SELF-CORRECTION: she realises she over-projected\n→ Confidence retreats = WAVERED ✓\n\n[Why A (increased) is wrong]\nIncreased = grew steadily throughout\nThe passage ends with a self-challenge: 'No'\n= the opposite of steady growth\n= she questions her own conclusions\n→ Not increased — wavered ✓\n\n[Key signal: 'No' as a pivoting word]\nWhen a narrator says 'No' mid-description\n= they are reversing or qualifying what came before\n= confidence signal: downward revision",
+      "action": "Action Rule (Q85): Mid-passage 'No' or self-interruption = confidence wavered. The narrator built up a picture, then stopped herself: 'No, I'm running on too fast.' This reversal = wavering. Always track the direction of the narrator's self-corrections."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u159_meta_projection_trap_narrator",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 159 — Meta: Projection Trap",
+    "quiz": {
+      "question": "[Unit 159 — Meta: The Projection Trap]\n\nThis passage's central irony:\nThe narrator believes she has special insight into Mr Bracken,\nbut by the end admits: 'I bestow my own attributes over-liberally on him.'\n\nQ83 (B→D) and Q84 (D→A) both involve the same trap.\nWhich correctly identifies it?",
+      "options": [
+        "Both errors came from misreading the passage's vocabulary",
+        "Both errors chose answers that describe the NARRATOR'S own traits/perspective rather than Mr Bracken's actual characterisation. Q83-B (empathy) and Q84-D (sensitive but inarticulate) both sound like the narrator — they are her projections onto Mr Bracken, not what the passage says about him.",
+        "Both errors came from finding evidence in the wrong paragraph",
+        "Both errors are Too Extreme choices that overstate the passage's claims"
+      ],
+      "correctIdx": 1,
+      "answer": "② Both chose answers describing the NARRATOR projected onto Mr Bracken — the exact error the passage diagnoses",
+      "explanation": "[The central irony of Unit 159]\nThe narrator thinks she understands Mr Bracken deeply\nBut she confesses: she is mapping her OWN attributes onto him\n\n[How this creates Q83 and Q84 traps]\nQ83-B: 'attempt to put herself in his position'\n= empathy = the narrator's idealised self-image\n= sounds sympathetic and insightful\n= but the passage says she PROJECTS, not empathises\n→ B is the narrator's self-flattering version of her behaviour\n\nQ84-D: 'sensitive to others, but difficulty articulating'\n= sounds like a nuanced, empathetic character\n= but Mr Bracken regards others' feelings as IMPERTINENCE (offensive)\n= D is the narrator's projection of sensitivity onto a man who feels no such thing\n\n[The meta rule for literary/narrative passages]\nWhen narrator ≠ reliable → always distinguish:\nWhat the NARRATOR believes/projects\nvs\nWhat the PASSAGE EVIDENCE actually says\n\n[Three self-correction signals in this passage]\n'possibly some people might suspect him' = hedging\n'No, I'm running on too fast' = reversal\n'I bestow my own attributes over-liberally' = explicit confession\n→ All three signal: narrator's view is unreliable / self-projected",
+      "action": "Meta Rule (Unit 159): In passages with an unreliable or self-aware narrator — always separate 'what the narrator believes' from 'what the passage evidence shows'. Choices that flatter the narrator's self-image (empathy, sensitivity) are likely projections, not evidence-based answers."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
