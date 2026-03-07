@@ -1356,5 +1356,425 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u158_q87_targeting_follow_the_sea_calling",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 158 — Q87 Targeting (B→C)",
+    "quiz": {
+      "question": "[Q87 — Targeting: What does 'followed the sea' mean?]\n\nPassage contrast structure:\nOther seamen: 'sedentary life... their home is always with them — the ship'\n= the sea is their workplace/home, nothing more\n\nMarlow: the ONLY one who still 'followed the sea'\n= not typical, a wanderer, seeks meaning beyond the voyage\n\nQ: The expression 'to follow the sea' means to ______.\n\nYour pick — B: <strong>reject what is foreign and embrace what is familiar</strong>\nCorrect — C: <strong>regard seafaring as both an adventure and a calling</strong>\n\nWhy does the contrast structure eliminate B and support C?",
+      "options": [
+        "B is correct because other seamen embrace the sea as their familiar home",
+        "B describes the OTHER seamen (sedentary, home-focused, familiar). Marlow is the CONTRAST — he 'followed' the sea as a pursuit, not a home. 'Follow' carries the sense of following a vocation/calling (as in 'follow a profession'). C captures both dimensions: adventure (wanderer) + calling (purposeful pursuit).",
+        "C is wrong because the passage never uses the word 'adventure' explicitly",
+        "B is correct because following means staying loyal to what is known"
+      ],
+      "correctIdx": 1,
+      "answer": "② B = describes the OTHER seamen; Marlow = opposite. 'Follow' = vocation/calling = C",
+      "explanation": "[Contrast structure — the targeting key]\nOther seamen: sedentary / home = ship / sea = familiar workplace\nMarlow: wanderer / not typical / follows the sea as pursuit\n\n[The word 'follow' — meaning in context]\n'follow the sea' is idiomatic\nfollow = to pursue as a vocation, to dedicate oneself to\n= 'follow a profession / a calling / a path'\n≠ simply sail on ships (that's what everyone does)\n\n[Why B describes the WRONG group]\nB: 'reject what is foreign and embrace what is familiar'\n= sedentary sailors — the sea is their familiar home\n= they embrace the familiar (ship/sea) and don't explore beyond\n= this is the CONTRAST group, not Marlow\n\n[Why C captures Marlow]\nadventure = wanderer, not sedentary, seeks beyond\ncalling = 'followed' = vocation, philosophical/spiritual pursuit\n= Marlow's relationship to the sea is purposeful and deeper\n\n[Targeting rule: subject identification]\nQuestion asks about the meaning of 'followed the sea'\nThe SUBJECT of 'followed' = Marlow (the unique one)\nNot the other seamen\n→ Answer must describe MARLOW's relationship to the sea, not the others",
+      "action": "Action Rule (Q87): When a passage contrasts two groups, identify WHICH group the question asks about before reading choices. 'Followed the sea' = Marlow (unique, vocation-driven). B describes the OTHER seamen. Lock onto the correct subject first."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u158_q87_paraphrase_follow_calling_drill",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 158 — Q87 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q87 — Paraphrase Drill: 'follow the sea' → Choice C]\n\nIn English, 'follow' can mean:\n① to physically go behind something\n② to pursue as a vocation or calling ('follow a profession')\n③ to understand ('I follow your meaning')\n\nPassage context clues pointing to meaning ②:\n• Marlow is a 'wanderer' — active pursuit, not passive residence\n• He is 'not typical' — his relationship to the sea is different in KIND\n• Other seamen treat the sea as home — Marlow treats it as ______\n\nWhich correctly completes the blank AND maps to Choice C?",
+      "options": [
+        "A familiar refuge — mapping to B (embrace what is familiar)",
+        "A vocation and source of meaning — mapping to C (adventure + calling). 'Follow' in sense ② = to pursue as a career/calling. Marlow's wandering + not typical = he pursues the sea as meaningful vocation, not just workplace.",
+        "An escape from land — mapping to A (seek out danger)",
+        "A permanent home — mapping to D (abiding home)"
+      ],
+      "correctIdx": 1,
+      "answer": "② vocation and source of meaning → adventure + calling = Choice C",
+      "explanation": "[Follow = vocation (meaning ②)]\nExamples of 'follow' as vocation:\n'follow the law' = be a lawyer\n'follow medicine' = be a doctor\n'follow the sea' = pursue seafaring as a vocation/calling\n\n[Paraphrase map → C]\n'followed the sea' (vocation sense)\n→ regard seafaring as both an adventure AND a calling\nadventure = active pursuit, wandering, not sedentary\ncalling = vocation, deeper purpose, philosophical commitment\n\n[Why other meanings fail]\n① Physical following → D (abiding home) — wrong, that's the other seamen\n③ Understanding → not relevant here\n\n[The wanderer clue]\n'He was a wanderer' (line 3)\nwanderer = one who roams in pursuit\n= active, purposeful movement\n= adventure ✓\n'followed the sea' = calling ✓\nBoth dimensions = C ✓",
+      "action": "Drill habit: 'follow the sea' = follow as vocation (follow a calling/profession). Wanderer + not typical + vocation → adventure AND calling = C. When 'follow' appears in professional/lifestyle context, default to vocation meaning."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u158_q90_targeting_narrator_attitude_marlow",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 158 — Q90 Targeting (B→C)",
+    "quiz": {
+      "question": "[Q90 — Targeting: Narrator's attitude toward Marlow]\n\nPassage evidence for narrator's attitude:\n• 'not typical' — marks Marlow as exceptional\n• 'wanderer' — unique among sedentary seamen\n• His stories: meaning lies OUTSIDE 'like a glow brings out a haze'\n• 'spectral illumination of moonshine' — Marlow illuminates what is almost invisible\n\nQ: What is the narrator's attitude toward Marlow?\n\nYour pick — B: <strong>admires his spirit but finds his personality annoyingly elusive</strong>\nCorrect — C: <strong>appreciates Marlow as representing a way of life that has almost vanished</strong>\n\nWhy does B import a negative that has no passage support?",
+      "options": [
+        "B is correct because 'elusive' paraphrases 'misty' in the passage",
+        "B invents 'annoyingly elusive' — no passage evidence calls Marlow's personality annoying or frustrating. The narrator's tone is consistently appreciative: Marlow is exceptional, illuminating, not typical in a VALUED way. C is anchored: 'not typical' + wanderer among sedentary = vanishing way of life, valued by narrator.",
+        "C is wrong because the passage never says Marlow's way of life is vanishing",
+        "B is correct because 'misty halos' suggests the narrator finds Marlow hard to understand"
+      ],
+      "correctIdx": 1,
+      "answer": "② B invents 'annoyingly' — no negative tone in passage. C = narrator values what Marlow represents.",
+      "explanation": "[Narrator's tone — evidence inventory]\n'not typical (if his propensity to spin yarns be excepted)'\n= the exception is minor and stated with mild affection, not annoyance\n\n'wanderer' (while most led sedentary lives)\n= narrator marks Marlow as rare and different — positively\n\n'the meaning of an episode was not inside... but outside'\n= Marlow's stories have deeper meaning than typical sailor yarns\n= narrator values this depth\n\n'spectral illumination of moonshine'\n= Marlow illuminates what is almost invisible\n= positive, even reverential description\n\n[Why B fails]\nB: 'admires his spirit BUT finds personality ANNOYINGLY elusive'\n→ 'annoyingly' = frustrated, negative reaction\n→ Search passage for frustration or annoyance at Marlow → none found\n→ B invents a negative that has zero passage support\n\n[Why C is anchored]\nC: 'appreciates Marlow as representing a way of life that has almost vanished'\n→ 'not typical' among current seamen = rare, almost gone\n→ 'wanderer' while others are sedentary = old way of seafaring\n→ narrator values this = appreciates ✓\n\n[Vocabulary]\nappreciate = to recognise and value the worth of something\n= not just 'like' — but 'recognise as valuable'\n= narrator sees Marlow's rarity as worth preserving",
+      "action": "Action Rule (Q90): For attitude questions — inventory ALL evaluative words the narrator uses about the subject. If all are positive/neutral, eliminate choices with negative additions (annoyingly, frustratingly). 'Annoyingly elusive' has zero passage support → B eliminated."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u158_q90_paraphrase_vanishing_way_of_life",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 158 — Q90 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q90 — Paraphrase Drill: passage evidence → 'almost vanished']\n\nMap the passage to Choice C:\n'appreciates Marlow as representing a way of life that has <strong>almost vanished</strong>'\n\nWhich passage elements combine to produce 'almost vanished'?",
+      "options": [
+        "'Immutability of surroundings' — the sea never changes, so nothing vanishes",
+        "'Marlow was the ONLY man who still followed the sea' (line 1) + 'most seamen led sedentary lives' + 'Marlow was not typical' — all three signal that Marlow's way of seafaring is RARE among his contemporaries = almost vanished from the norm.",
+        "'Misty halos' and 'moonshine' — these suggest fading and disappearance",
+        "'Wanderer' alone is sufficient to imply a vanishing lifestyle"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'ONLY man who still followed' + 'most = sedentary' + 'not typical' = Marlow's way is almost vanished",
+      "explanation": "[Three-evidence combination]\n① 'the ONLY man of us who STILL followed the sea'\n= among the group, he alone continues this — everyone else stopped\n= what he does is disappearing\n\n② 'most seamen led... a sedentary life'\n= the majority = sedentary = the old adventurous way is gone for most\n\n③ 'Marlow was not typical'\n= his way is the exception, not the norm\n= the norm has changed; his way = the old, fading way\n\n[Combined → 'almost vanished']\nOnly one person left doing this + most have moved on + he is atypical\n= the way of life he represents has almost disappeared\n= 'almost vanished' ✓\n\n[Why narrator appreciates this]\nThe rare = precious\nMarlow carries what others have abandoned\n= narrator values him as a living representative of a disappearing tradition\n= 'appreciates Marlow as representing a way of life that has almost vanished'\n\n[Paraphrase chain]\nonly + still + not typical → almost vanished\nfollowed the sea (vocation) → a way of life\nnarrator's tone (positive throughout) → appreciates",
+      "action": "Drill habit: 'only... still... not typical' = three signals that something is almost vanished. When these three cluster around one character, the correct attitude choice will include 'rare', 'vanishing', or 'almost disappeared'. Combine evidence — don't use just one signal."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u158_meta_subject_lock_invented_negative",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 158 — Meta: Subject Lock + Invented Negative",
+    "quiz": {
+      "question": "[Unit 158 — Meta Pattern]\n\nQ87 error: chose B — described the OTHER seamen, not Marlow\nQ90 error: chose B — added 'annoyingly elusive', a negative not in the passage\n\nThese are two distinct bugs. Which correctly names both?",
+      "options": [
+        "Both are paraphrasing errors — wrong synonyms chosen for key words",
+        "Q87 = Subject Confusion: answer described the contrast group (other seamen) instead of the question's subject (Marlow). Q90 = Invented Negative: added evaluative language ('annoyingly') with zero passage support — the narrator's tone is consistently appreciative.",
+        "Both are targeting errors — evidence found in the wrong paragraph",
+        "Q87 = Too Extreme / Q90 = Out of Scope"
+      ],
+      "correctIdx": 1,
+      "answer": "② Q87 = Subject Confusion (answered about wrong group) / Q90 = Invented Negative (no passage support)",
+      "explanation": "[Q87 — Subject Confusion]\nPassage contrasts: other seamen (sedentary, home-focused) vs Marlow (wanderer, calling)\nQuestion asks about: 'to follow the sea' = Marlow's relationship\nChoice B: 'reject foreign, embrace familiar' = describes OTHER seamen's relationship\nYou answered about the CONTRAST group instead of the SUBJECT group\n\nFix: Before reading choices, ask 'WHOSE behaviour/attitude is the question asking about?'\nLock the subject → only then evaluate choices\n\n[Q90 — Invented Negative]\nNarrator's tone across the whole passage: positive, appreciative, reverential\nChoice B adds: 'annoyingly elusive' = frustration/annoyance\n'Annoyingly' = a negative emotion\nSearch passage for narrator frustration with Marlow → none found\nB invented a negative that has no anchor in the text\n\nFix: For attitude questions — inventory all evaluative words → all positive → eliminate any choice with unprompted negatives\n\n[Combined lesson]\nQ87: Know WHO you're answering about\nQ90: Know WHAT TONE the passage actually contains\nBoth require anchoring to specific passage evidence before choosing",
+      "action": "Meta Rule (Unit 158):\nQ87-type: SUBJECT LOCK — identify which entity the question asks about BEFORE reading choices. Contrast passages will always have a trap choice describing the wrong group.\nQ90-type: TONE INVENTORY — list all evaluative words the narrator uses. If all positive → any choice adding negatives is unsupported = eliminate."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u158_q87_targeting_follow_the_sea",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 158 — Q87 Targeting (B→C)",
+    "quiz": {
+      "question": "[Q87 — Targeting: What does 'follow the sea' mean?]\n\nPassage contrast structure:\nOther seamen: 'their home is always with them — the ship'\n= the sea is just a workplace / home\n= sedentary, stay-at-home order\n\nMarlow: the ONLY man who still 'followed the sea'\n= wanderer, NOT sedentary\n\nQ: The expression 'to follow the sea' means to ______.\n\nYour pick — B: <strong>reject what is foreign and embrace what is familiar</strong>\nCorrect — C: <strong>regard seafaring as both an adventure and a calling</strong>\n\nWhy does the contrast structure point to C and eliminate B?",
+      "options": [
+        "B is correct because Marlow is comfortable at sea, which is his familiar environment",
+        "The passage contrasts typical seamen (sea = familiar home, sedentary) vs Marlow (wanderer, follows the sea as a way of life). B describes the typical seamen — embracing the familiar. C describes Marlow's distinctive stance: 'follow' carries a calling/vocation nuance, and 'wanderer' signals adventure. B is the OPPOSITE of what makes Marlow unique.",
+        "C is wrong because the passage never uses the word 'adventure'",
+        "B is correct because Marlow rejects foreign shores and stays on his ship"
+      ],
+      "correctIdx": 1,
+      "answer": "② B describes typical seamen (familiar/sedentary); C describes Marlow's vocation (calling + wanderer)",
+      "explanation": "[Contrast structure — the targeting tool]\nTypical seamen:\n= stay-at-home minds, sedentary life\n= sea = home, ship = fixed base\n= B: embrace what is familiar ← this is THEM, not Marlow\n\nMarlow:\n= wanderer (방랑자)\n= the ONLY one who still 'followed' the sea\n= not typical, not sedentary\n= C: seafaring as adventure AND calling ✓\n\n[The word 'follow' decoded]\nFollow = to pursue a path or calling\n= religious/vocational nuance: 'follow your calling'\n= not just riding ships — committing to a way of life\n= calling (소명) ✓\n\n[Why B is the distractor]\nB: 'reject what is foreign, embrace what is familiar'\n= this describes someone who stays in their comfort zone\n= the typical seamen have 'stay-at-home minds'\n= Marlow is the OPPOSITE: wanderer, follows what others have left behind\n\n[Paraphrase chain → C]\nwanderer → adventure\nfollows the sea (as vocation) → calling\n= 'regard seafaring as both an adventure and a calling' ✓",
+      "action": "Action Rule (Q87): When a question asks about a specific character's phrase — first identify the CONTRAST structure (others vs this character). The answer describes what makes THIS character distinctive, not what describes the others. Marlow ≠ typical seamen → C, not B."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u158_q87_paraphrase_wanderer_calling",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 158 — Q87 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q87 — Paraphrase Drill: wanderer + 'follow' → Choice C]\n\nPassage evidence for Marlow:\n① 'a <em>wanderer</em>' (line 2)\n② 'followed the sea' — 'follow' as vocation/calling\n③ NOT typical, NOT sedentary\n\nChoice C: 'regard seafaring as both an <strong>adventure</strong> and a <strong>calling</strong>'\n\nComplete the paraphrase map:\n① wanderer → ________\n② 'followed' (as in follow a calling) → ________",
+      "options": [
+        "① journey  ② occupation",
+        "① adventure — a wanderer moves into the unknown, seeking new experience / ② calling — 'follow the sea' uses 'follow' in the vocational sense (follow a calling = commit to a vocation). Both are direct attribute matches.",
+        "① danger  ② duty",
+        "① freedom  ② tradition"
+      ],
+      "correctIdx": 1,
+      "answer": "① adventure (wanderer = one who seeks new experience) / ② calling (follow = commit to a vocation)",
+      "explanation": "[Two-part paraphrase]\n① wanderer → adventure\n  wanderer = one who roams without fixed destination\n  = someone who seeks new experiences\n  = the spirit of adventure\n  → adventure ✓\n\n② 'followed the sea' → calling\n  follow (in vocational sense) = pursue a vocation\n  'follow your calling' = commit to what you are meant to do\n  = calling (소명, 천직) ✓\n\n[Why 'sedentary' confirms the contrast]\nTypical seamen = sedentary (정착형)\n= opposite of wanderer/adventure\nMarlow = NOT sedentary = wanderer = adventure-seeking\n\n[The 'only man' signal]\n'The ONLY man who still followed'\n= everyone else abandoned it\n= Marlow kept it as a way of life = calling\n= what others treat as a job, he treats as a vocation",
+      "action": "Drill habit: wanderer → adventure / follow (vocational) → calling. When 'follow' is used with an abstract noun (sea, faith, a calling), it means to commit to that as a vocation or life path — not just to physically go after something."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u158_q90_targeting_narrator_attitude",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 158 — Q90 Targeting (B→C)",
+    "quiz": {
+      "question": "[Q90 — Targeting: What is the narrator's attitude toward Marlow?]\n\nPassage evidence:\n• 'not typical' — Marlow is singled out as exceptional\n• 'wanderer' — presented positively (not a criticism)\n• meaning lies 'outside like a haze... misty halos... spectral illumination'\n• narrator frames Marlow's way as something rare and valuable\n\nQ: What is the narrator's attitude toward Marlow?\n\nYour pick — B: <strong>He admires Marlow's spirit but finds his personality annoyingly elusive</strong>\nCorrect — C: <strong>He appreciates Marlow as representing a way of life that has almost vanished</strong>\n\nWhere does 'annoyingly elusive' come from, and why does it fail the passage-anchor test?",
+      "options": [
+        "B is correct because the narrator describes Marlow's stories as hard to grasp, implying frustration",
+        "'Annoyingly elusive' is not supported anywhere in the passage — the narrator never expresses frustration with Marlow. The haze/moonshine imagery describes HOW meaning emerges (indirectly), not as a complaint. C is anchored: 'not typical', 'only man', wanderer vs sedentary seamen = Marlow represents a vanishing way of life the narrator values.",
+        "C is wrong because the passage never says this way of life has 'vanished'",
+        "B is correct because 'elusive' paraphrases 'inscrutable' from line 10"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'annoyingly elusive' has zero passage support; C is anchored in 'not typical' + 'only man' + vanishing way of life",
+      "explanation": "[Finger-pointing test on B]\nB requires: narrator expresses ANNOYANCE or FRUSTRATION with Marlow\nSearch the passage for: frustration, annoyance, complaint about Marlow\n→ None found\nThe haze/moonshine imagery = how meaning is conveyed (indirectly)\n= an aesthetic description, not a complaint\n→ B fails the finger-pointing test ✗\n\n[Finger-pointing test on C]\nC requires: narrator VALUES Marlow as representative of something rare/vanishing\n'not typical' → Marlow is exceptional ✓\n'only man of us who still followed the sea' → others have abandoned it ✓\nMarlow = wanderer vs typical sedentary seamen → a different, rarer way of life ✓\n→ C passes the finger-pointing test ✓\n\n[Appreciate = recognise value]\nappreciate ≠ just like\n= to recognise and value the worth of something\n= the narrator recognises Marlow's rare, almost-vanished way of life as valuable\n\n[Why 'almost vanished' is implied]\n'The ONLY man who still followed the sea'\n= everyone else has moved on\n= Marlow alone maintains this way of life\n= it is on the verge of disappearing = almost vanished ✓",
+      "action": "Action Rule (Q90): Apply finger-pointing test to attitude choices. B needs evidence of frustration/annoyance — absent. C needs evidence of valuing something rare — present ('only man', 'not typical', wanderer distinction). No anchor = eliminate."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u158_q90_paraphrase_vanishing_way_of_life",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 158 — Q90 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q90 — Paraphrase Drill: passage evidence → Choice C]\n\nMap the evidence to Choice C:\n'He <strong>appreciates</strong> Marlow as representing a <strong>way of life that has almost vanished</strong>'\n\nPassage evidence:\n① 'not typical' + 'only man who still followed'\n   → represents a ________ way of life\n\n② narrator frames Marlow positively throughout\n   → narrator ________ (values) this\n\n③ 'only man' = everyone else has stopped\n   → the way of life has almost ________",
+      "options": [
+        "① rare  ② admires  ③ disappeared — but 'admires' is stronger than 'appreciates'",
+        "① rare/vanishing  ② appreciates (recognises value)  ③ vanished — 'only man still...' means all others have abandoned it = almost vanished. 'Appreciates' = the narrator positively frames Marlow throughout without criticism.",
+        "① dangerous  ② tolerates  ③ evolved",
+        "① nostalgic  ② misses  ③ been forgotten"
+      ],
+      "correctIdx": 1,
+      "answer": "② rare/vanishing + appreciates + almost vanished — three evidence points map cleanly to Choice C",
+      "explanation": "[Three-evidence map]\n① 'not typical' + 'only man who still followed'\n= Marlow is the exception; others have abandoned this path\n= represents a RARE, VANISHING way of life ✓\n\n② narrator's framing of Marlow throughout\n= wanderer (presented positively)\n= meaning beyond the ordinary\n= no criticism, no frustration\n= narrator APPRECIATES (values) what Marlow represents ✓\n\n③ 'only man of us who STILL followed'\n= past tense implied: others used to, but no longer\n= this way of life is dying out = almost VANISHED ✓\n\n[Appreciate vs admire]\nappreciate = recognise and value the worth of X\nadmire = look up to with respect or wonder\nB uses 'admires spirit' BUT adds 'annoyingly elusive' = mixed/negative\nC uses 'appreciates' = purely positive valuation = matches narrator's tone\n\n[No evidence of frustration]\nThe haze/moonshine imagery = poetic description of how meaning works\n= NOT a complaint that Marlow is hard to understand\n= the narrator finds this ILLUMINATING (spectral illumination)\n= illumination = insight, positive ✓",
+      "action": "Drill habit: 'only man who still' → almost vanished way of life. 'Not typical' + positive framing throughout → appreciates. These two evidence points lock Choice C. Always distinguish appreciate (pure positive valuation) from admire-but-frustrated (B's mixed tone)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u158_meta_contrast_structure_fingerpoint",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 158 — Meta: Contrast + Finger-Pointing",
+    "quiz": {
+      "question": "[Unit 158 — Meta Pattern]\n\nQ87 error: chose B (reject foreign, embrace familiar) — describes typical seamen, NOT Marlow\nQ90 error: chose B (admires but annoyingly elusive) — 'annoyingly elusive' has zero passage support\n\nBoth errors share the same two fixes. Which correctly identifies them?",
+      "options": [
+        "Both errors are paraphrasing failures — find better synonyms",
+        "Q87 fix: USE THE CONTRAST STRUCTURE — identify what makes Marlow DIFFERENT from typical seamen; the answer describes his distinctive trait, not theirs. Q90 fix: FINGER-POINTING TEST — 'annoyingly elusive' requires a frustration anchor in the passage; none exists; eliminate immediately.",
+        "Both errors came from choosing the most emotionally resonant option",
+        "Q87: read more carefully / Q90: learn the word 'appreciate'"
+      ],
+      "correctIdx": 1,
+      "answer": "② Q87 = Contrast Structure (answer = Marlow's distinctive trait, not typical seamen's) / Q90 = Finger-Pointing Test (no frustration anchor = eliminate B)",
+      "explanation": "[Q87 — Contrast Structure Fix]\nPassage sets up: typical seamen (A) vs Marlow (B)\nQuestion asks about MARLOW'S expression\n→ The answer must describe what makes Marlow DIFFERENT\n→ Typical seamen = sedentary, embrace familiar = Choice B\n→ Marlow = wanderer, calling = Choice C\nB describes the WRONG SIDE of the contrast\n\n[Q90 — Finger-Pointing Fix]\nChoice B requires: passage evidence of narrator's frustration\n→ 'annoyingly elusive' = narrator finds Marlow irritatingly hard to grasp\n→ Search passage: any frustration, annoyance, complaint about Marlow?\n→ None found\n→ Eliminate B immediately — zero anchor\n\nChoice C requires: narrator values Marlow as rare/vanishing\n→ 'only man', 'not typical', positive framing throughout\n→ All found ✓ → C is anchored\n\n[Two tools, two question types]\nContrast structure → use for 'what does X mean for THIS character?'\nFinger-pointing → use for 'what is the narrator's attitude?'\n\n[The shared principle]\nBoth errors chose options that SOUND plausible without passage evidence\nBoth are defeated by going back to the text and demanding proof",
+      "action": "Meta Rule (Unit 158):\nQ87-type (character's distinctive phrase): identify contrast structure first, answer = distinctive side.\nQ90-type (narrator's attitude): finger-pointing test — demand a specific passage anchor for every claim in the choice. No anchor = no answer."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u157_q61_targeting_flatness_vantage",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 157 — Q61 Targeting (A→C)",
+    "quiz": {
+      "question": "[Q61 — Targeting: Why was the author unaware of the endlessness?]\n\nPassage causal chain:\nLine 2–3: 'the <em>flatness</em> combined with the <em>sandhills</em> to limit the view'\nLine 4–5: 'the first real sweeping view...as we passed over the top of a <em>barely perceptible rise</em>'\n\nQ: For a long time the author was unaware of the endlessness of the landscape because ______.\n\nYour pick — A: <strong>the extremely mountainous terrain obscured his view</strong>\nCorrect — C: <strong>a broader view was not possible until a higher vantage point was reached</strong>\n\nWhy is A a direct factual contradiction of the passage?",
+      "options": [
+        "A is wrong only because 'obscured' is too strong a word",
+        "A says 'mountainous terrain' — the passage explicitly states the OPPOSITE: 'flatness' combined with sandhills limited the view. The terrain is flat, not mountainous. A directly contradicts the passage. C paraphrases correctly: 'barely perceptible rise' (the vantage point) = 'higher vantage point' in Choice C.",
+        "A is wrong because mountains are not mentioned anywhere in the passage",
+        "C is correct because the author was standing on a hill throughout"
+      ],
+      "correctIdx": 1,
+      "answer": "② A contradicts the passage (flat, not mountainous) / C paraphrases 'barely perceptible rise' = higher vantage point",
+      "explanation": "[Direct contradiction test on A]\nPassage: 'the FLATNESS combined with sandhills to LIMIT the view'\nA: 'EXTREMELY MOUNTAINOUS terrain OBSCURED his view'\nFlat ≠ mountainous → A is a factual contradiction of the passage\n\n[Paraphrase chain → C]\n'passed over the top of a barely perceptible rise'\n= reached a slightly higher point in the terrain\n= a higher VANTAGE POINT was reached\n= only then did the sweeping view open up\n= 'a broader view was not possible until a higher vantage point was reached' ✓\n\n[The causal chain]\nFlat terrain + sandhills → view LIMITED\n↓\nAuthor unaware of landscape's endlessness\n↓\nPassed over barely perceptible rise (= higher vantage point)\n↓\nFirst real sweeping view opened up\n= C ✓\n\n[Why A is tempting]\nMountains = things that block views (background knowledge)\nBut this passage = outback Australia = FLAT landscape\nThe flatness itself is what hides the scale — paradoxically\n= you can't see how vast it is because there's nothing to compare it to",
+      "action": "Action Rule (Q61): Before choosing, check if the choice directly contradicts the passage. A says 'mountainous' — passage says 'flatness'. Direct contradiction = eliminate immediately. Then paraphrase: 'barely perceptible rise' = higher vantage point = C."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u157_q61_paraphrase_rise_vantage",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 157 — Q61 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q61 — Paraphrase Drill: 'barely perceptible rise' → Choice C]\n\nPassage: 'the first real sweeping view...as we passed over the top of a <em>barely perceptible rise</em>'\n\nChoice C: 'a broader view was not possible until a higher <strong>vantage point</strong> was reached'\n\nComplete the map:\n① 'barely perceptible rise' = a ________ elevated position (hardly noticeable)\n② 'passed over the top of' = the vantage point was ________\n③ 'first real sweeping view' = a ________ view became possible",
+      "options": [
+        "① very high  ② avoided  ③ restricted",
+        "① slightly / higher  ② reached  ③ broader — 'barely perceptible rise' = a tiny elevation = slightly higher vantage point. 'Passed over the top' = the point was reached. 'First real sweeping view' = broader view. Three clean synonym swaps.",
+        "① mountainous  ② climbed  ③ panoramic",
+        "① flat  ② descended  ③ complete"
+      ],
+      "correctIdx": 1,
+      "answer": "① slightly higher  ② reached  ③ broader — three direct synonym swaps",
+      "explanation": "[Three-part paraphrase]\n① 'barely perceptible rise'\n= a rise so small it's hard to notice\n= a slightly higher point in the terrain\n= higher vantage point (even a small rise counts) ✓\n\n② 'passed over the top of'\n= arrived at the highest point of the rise\n= the vantage point was REACHED ✓\n\n③ 'first real sweeping view'\n= the first time a wide view was available\n= a BROADER view became possible ✓\n\n[The paradox of flat terrain]\nIn completely flat terrain, even a tiny rise (barely perceptible)\n= gives you the first real overview\n= this is why the author was unaware for so long — nothing elevated existed\n= the barely perceptible rise was the ONLY vantage point available",
+      "action": "Drill habit: barely perceptible rise → higher vantage point / sweeping view → broader view. In flat landscape descriptions, even tiny elevations are paraphrased as 'vantage points' because they provide the only elevated perspective."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u157_q62_paraphrase_saving_touch_relief",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 157 — Q62 Paraphrase (B→D)",
+    "quiz": {
+      "question": "[Q62 — Paraphrase: What is the 'small saving touch'?]\n\nPassage (lines 9–12):\n\"I tried to imagine the scene without the small saving touch of the shooting feed,\nwhen the film of green would be replaced by a <em>blinding glare</em>...\nEven with this green, I thought it was just about the <em>cruellest and most inhuman world</em>...\"\n\nQ: Ratcliffe saw the shooting feed as a 'small saving touch' because it ______.\n\nYour pick — B: <strong>provided food for wildlife, saving them from death</strong>\nCorrect — D: <strong>provided some relief from the brightness and desolation</strong>\n\nWhat type of error is B, and how does D map to the passage?",
+      "options": [
+        "B is partially correct because 'feed' implies animals eating the plants",
+        "B is a RAM overflow — importing the dictionary meaning of 'feed' (animal food) and 'saving' (rescue from death) without passage support. The passage only describes visual/psychological effects: brightness (blinding glare) and emotional desolation (cruellest world). D paraphrases both: glare → brightness, cruellest/inhuman → desolation.",
+        "D is wrong because 'desolation' is not mentioned in the passage",
+        "B is correct because 'shooting feed' refers to the food chain in outback Australia"
+      ],
+      "correctIdx": 1,
+      "answer": "② B = RAM overflow (dictionary meaning of 'feed'/'saving'); D paraphrases blinding glare→brightness and cruellest→desolation",
+      "explanation": "[What 'shooting feed' actually means in context]\nshooting feed = new plant growth shooting up from the ground\n= a thin film of green vegetation\nNOT: animal feed / wildlife food\n\n[Why B is RAM overflow]\n'feed' → animal food (dictionary meaning)\n'saving' → rescuing from death\n= you applied the literal dictionary meaning of isolated words\n= completely ignoring the visual/emotional context\n= no mention of animals, wildlife, or death in this passage section\n\n[Paraphrase chain → D]\n'small saving touch' = a small element that makes things slightly better\n= provides some RELIEF\n\n'blinding glare' = overwhelming brightness without the green\n→ brightness (D) ✓\n\n'cruellest and most inhuman world'\n= emotionally desolate, harsh, barren\n→ desolation (D) ✓\n\n[Combined → D]\nThe green provides relief FROM the blinding brightness AND the emotional desolation\n= 'provided some relief from the brightness and desolation' ✓\n\n[The 'saving' word trap]\n'saving touch' = 'small thing that makes a bad situation slightly bearable'\n= relief, not literal rescue from death\n= saving (informal) = alleviating, not rescuing",
+      "action": "Action Rule (Q62): When a word has a vivid literal meaning ('feed' = animal food, 'saving' = rescue), check if the CONTEXT supports that meaning. Context here = visual landscape description, not wildlife ecology. Literal meaning fails context check → use contextual meaning (relief from brightness/desolation)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u157_q62_logic_context_filter_feed",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 157 — Q62 Context Filter Drill",
+    "quiz": {
+      "question": "[Q62 — Context Filter: What does the surrounding passage tell you?]\n\nApply the 3-point context filter to 'shooting feed':\n\n① What is the subject of the surrounding sentences?\n② What kind of language surrounds 'shooting feed'?\n③ What problem does the 'saving touch' solve?\n\nWhich answer correctly applies all three filters?",
+      "options": [
+        "① animals  ② biological  ③ hunger — supporting Choice B",
+        "① visual landscape (blinding glare, shimmering, film of green)  ② emotional/sensory language (cruellest, inhuman, blinding)  ③ the green alleviates the harshness of brightness and emotional desolation — supporting Choice D as the only contextually valid answer",
+        "① the road  ② geographical  ③ navigation difficulty",
+        "① the author's fear  ② psychological  ③ the author's anxiety"
+      ],
+      "correctIdx": 1,
+      "answer": "② Visual landscape + emotional language + relief from brightness/desolation → D",
+      "explanation": "[3-point context filter applied]\n① Subject of surrounding sentences:\n'film of green', 'blinding glare', 'shimmering pale blue-grey emptiness'\n= visual landscape description — NOT animals or biology\n\n② Surrounding language type:\n'cruellest and most inhuman world' (emotional evaluation)\n'blinding glare' (sensory — sight)\n'saving touch' (something small that helps)\n= all visual and emotional — NOT ecological or biological\n\n③ What problem does the 'saving touch' solve?\nWithout green → blinding glare (visual harshness)\nEven with green → cruellest world (emotional harshness)\n= green = small relief from BOTH visual brightness AND emotional desolation\n= 'some relief from the brightness and desolation' = D ✓\n\n[B fails all three filters]\n① Needs animal subjects → not present\n② Needs biological language → not present\n③ Needs hunger/death problem → not present\n\n[The lesson]\nDon't stop at the word — scan the paragraph's dominant theme first\nDominant theme here = author's visual and emotional experience of the landscape\n= any answer about wildlife is automatically out of scope",
+      "action": "Context filter habit (Q62): Before interpreting an ambiguous word — scan the paragraph for (1) subject, (2) language type, (3) the problem being described. All three point to visual/emotional landscape → D. Wildlife/ecology is completely outside this paragraph's scope."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u157_meta_contradiction_ram_overflow",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 157 — Meta: Contradiction + RAM Overflow",
+    "quiz": {
+      "question": "[Unit 157 — Meta Pattern]\n\nQ61 error: chose A (mountainous terrain) — passage says 'flatness'\nQ62 error: chose B (food for wildlife) — passage describes visual landscape only\n\nThese are two different bugs. Which correctly names both?",
+      "options": [
+        "Both are paraphrasing failures — find better synonyms for the key words",
+        "Q61 = Direct Contradiction error (A says mountainous; passage says flat — check basic factual consistency first). Q62 = RAM Overflow (imported dictionary meaning of 'feed'/'saving' without checking if the passage context supports it — context = visual landscape, not wildlife).",
+        "Both are targeting failures — you searched in the wrong paragraph",
+        "Q61 = Out of Scope / Q62 = Too Extreme"
+      ],
+      "correctIdx": 1,
+      "answer": "② Q61 = Direct Contradiction / Q62 = RAM Overflow (dictionary meaning without context check)",
+      "explanation": "[Q61 — Direct Contradiction]\nA: 'extremely mountainous terrain'\nPassage: 'the FLATNESS combined with sandhills'\nMountainous ↔ flat = direct factual contradiction\n\nFix: Before choosing, run a CONTRADICTION CHECK:\n'Does this choice say something that directly contradicts a specific passage word?'\nIf yes → eliminate immediately, no further analysis needed\n\n[Q62 — RAM Overflow]\n'feed' → animal food (dictionary)\n'saving' → rescue from death (dictionary)\nNeither meaning is supported by the visual/emotional context\n\nFix: Run the 3-POINT CONTEXT FILTER:\n① What is the subject? (landscape, not animals)\n② What is the language type? (visual/emotional, not biological)\n③ What problem is being solved? (brightness/desolation, not hunger)\n\n[Priority order for error-checking]\nStep 1: Contradiction check (fastest — eliminates immediately)\nStep 2: Context filter (for ambiguous words)\nStep 3: Paraphrase chain (for remaining candidates)\n\n[Combined lesson]\nQ61: Flatness is paradoxically what HIDES scale — mountain logic doesn't apply here\nQ62: 'Shooting feed' = new plant growth, not animal feed — literary context ≠ biology textbook",
+      "action": "Meta Rule (Unit 157):\nQ61-type: Run contradiction check FIRST — if choice directly contradicts a passage word, eliminate before anything else.\nQ62-type: For ambiguous words with strong dictionary meanings, run 3-point context filter (subject / language type / problem). Dictionary meaning ≠ contextual meaning in literary passages."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u157_q65_targeting_heritage_gentleness",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 157 — Q65 Targeting (A→B)",
+    "quiz": {
+      "question": "[Q65 — Targeting: What does 'feel for their heritage' reveal?]\n\nPassage (lines 6–8):\n\"...you would call this a <em>gentle</em> country.\nThe new light <em>softens</em> it...\nIt is at dawn that the sons of Tourmaline <em>feel for their heritage</em>.\"\n\nQ: What does this statement reveal about the people of Tourmaline?\n\nYour pick — A: <strong>As locally born residents accustomed to working from dawn to dusk, they are the only ones who can survive in Tourmaline</strong>\nCorrect — B: <strong>The people of Tourmaline experience the love of their land in the beauty and gentleness of the dawn</strong>\n\nWhat type of error is A, and what two words expose it immediately?",
+      "options": [
+        "A is wrong only because 'dawn to dusk' is an exaggeration of the passage",
+        "A is Over-extrapolation — 'working from dawn to dusk' and 'only ones who can survive' are invented; neither appears in the passage. The passage only says dawn is when they FEEL FOR THEIR HERITAGE. Two words expose B: 'gentle' and 'softens' (lines 6–7) = the emotional context of this feeling = love/attachment in beauty and gentleness.",
+        "A is wrong because the passage says outsiders can also survive in Tourmaline",
+        "B is wrong because 'love' is too strong a word for 'feel for their heritage'"
+      ],
+      "correctIdx": 1,
+      "answer": "② A = over-extrapolation (working/surviving invented) / 'gentle' + 'softens' anchor B",
+      "explanation": "[Finger-pointing test on A]\nA requires passage support for:\n① 'accustomed to working from dawn to dusk' → not in passage ✗\n② 'only ones who can survive' → not in passage ✗\n= both claims are invented from background assumptions about outback life\n= Over-extrapolation: reading in what seems logical, not what is written\n\n[Finger-pointing test on B]\nB requires:\n'experience the love of their land' → 'feel for their heritage' = emotional attachment = love ✓\n'in the beauty and gentleness of the dawn' → 'gentle country', 'softens', 'dawn' ✓\n= every element of B is anchored in lines 6–8\n\n[Paraphrase chain → B]\n'feel for their heritage' → experience love of their land\n'gentle country' + 'softens' → beauty and gentleness\n'at dawn' → of the dawn\n\n[The two anchor words]\ngentle (line 6) + softens (line 7) = the emotional tone of the dawn scene\n= beauty and gentleness (B) ✓\nWithout reading these two words, A seems plausible\nWith them, B is clearly correct and A is scope violation",
+      "action": "Action Rule (Q65): For 'what does X reveal' questions — only use what the TARGET SENTENCE + its immediate context states. 'Working from dawn to dusk' and 'survive' are background assumptions, not passage claims. Always finger-point: can I find 'working'? No → eliminate A."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u157_q65_paraphrase_heritage_love",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 157 — Q65 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q65 — Paraphrase Drill: 'feel for their heritage' → Choice B]\n\nPassage context:\n'gentle country' + 'softens' + 'feel for their heritage'\n\nChoice B: 'experience the <strong>love of their land</strong> in the <strong>beauty and gentleness</strong> of the dawn'\n\nComplete the map:\n① 'feel for their heritage' → experience the ________ of their land\n② 'gentle country' + 'softens' → ________ and gentleness\n③ 'at dawn' → of the ________",
+      "options": [
+        "① ownership  ② brightness  ③ morning",
+        "① love / emotional attachment  ② beauty  ③ dawn — 'feel for' = emotional connection = love / 'gentle' + 'softens' = beauty and gentleness / 'at dawn' = of the dawn. Three direct mappings.",
+        "① fear  ② harshness  ③ afternoon",
+        "① pride  ② immensity  ③ sunrise"
+      ],
+      "correctIdx": 1,
+      "answer": "① love/attachment  ② beauty  ③ dawn — three clean mappings from passage to Choice B",
+      "explanation": "[Three-part paraphrase]\n① 'feel for their heritage'\n= to feel a connection to what has been inherited\n= emotional attachment to the land = LOVE of their land ✓\n\n② 'gentle country' + 'softens'\n= the land is gentle, the light softens everything\n= BEAUTY AND GENTLENESS of the scene ✓\n\n③ 'at dawn'\n= the time when this feeling occurs\n= OF THE DAWN ✓\n\n[Why A fails this test]\nA mentions 'working from dawn to dusk' — requires a passage anchor\nSearch: any mention of work, labour, employment in lines 6–8?\nNone found → A is invented context, not passage paraphrase\n\n[The emotional register]\nThe dawn paragraph is entirely POSITIVE and TENDER:\ngentle / softens / tones flow / grey-green / bright and tender / tint of blood in water\n= an atmosphere of quiet beauty and belonging\n= 'feel for their heritage' = love experienced in this tenderness",
+      "action": "Drill habit: feel for heritage → love of land / gentle + softens → beauty and gentleness / at dawn → of the dawn. The paragraph's emotional register (gentle, soft, tender) is the context for 'feel for their heritage' = love and belonging."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u157_q66_tone_comparison_passages",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 157 — Q66 Tone Comparison (C→D)",
+    "quiz": {
+      "question": "[Q66 — Tone Comparison: Passage I author vs Passage II narrator]\n\nPassage I tone evidence:\n'cruellest and most inhuman world' / 'terrifying' / 'blinding glare' / 'desolate'\n\nPassage II tone evidence:\nDawn: 'gentle', 'softens', 'feel for their heritage'\n5pm: 'hardest time', 'burning', BUT 'sky is the garden of Tourmaline'\n\nQ: Which best reflects how BOTH authors feel about the landscapes?\n\nYour pick — C: Passage I = uneasy / Passage II = depressed\nCorrect — D: Passage I = <strong>threatened by it</strong> / Passage II = <strong>accepting of its extremes</strong>",
+      "options": [
+        "C is correct because both passages express mostly negative emotions about the landscape",
+        "C understates Passage I (uneasy ≠ terrifying/threatened) and misreads Passage II (depressed ≠ the narrator accepts both dawn's beauty AND 5pm's harshness as part of Tourmaline life). D precisely matches: Passage I = threatened (cruellest/terrifying/desolate) / Passage II = accepting of extremes (dawn = gentle, 5pm = burning, but 'sky is the garden').",
+        "D is wrong because Passage II narrator never explicitly says she accepts the environment",
+        "C is correct because 'uneasy' is a synonym for 'threatened'"
+      ],
+      "correctIdx": 1,
+      "answer": "② C understates Passage I and misreads Passage II / D precisely maps both tone profiles",
+      "explanation": "[Passage I tone analysis]\nEvidence: 'cruellest', 'inhuman', 'terrifying', 'desolate', 'blinding glare'\n= EXTERNAL VISITOR experiencing fear and threat\n= 'threatened by it' (D) ✓\n= NOT just 'uneasy' (C) — uneasy is too mild for 'terrifying'\n\n[Passage II tone analysis — two extremes]\nDawn section (lines 6–10):\n'gentle', 'softens', 'feel for their heritage', 'bright and tender'\n= beautiful, belonging, positive\n\n5pm section (lines 11–17):\n'hardest time', 'burning', 'hardest to defend'\n= harsh, difficult\nBUT: 'the sky is the garden of Tourmaline'\n= the narrator reclaims beauty even in harshness\n= ACCEPTS BOTH EXTREMES as part of life here\n\n[Why 'accepting of extremes' = D for Passage II]\nPassage II shows BOTH dawn (gentle) AND 5pm (burning)\n= the full spectrum of this land's extremes\n= the narrator belongs to this land, accepts both sides\n= 'accepting of its extremes' ✓\n\n[Why C fails]\nPassage I: threatened > uneasy (threat level too high for 'uneasy')\nPassage II: accepting ≠ depressed (narrator loves the land despite harshness)\n\n[Tone precision scale]\nuneasy → mild discomfort\nthreatened → fear for one's safety/survival\ndepressed → emotionally low, hopeless\naccepting → embracing reality including difficulty",
+      "action": "Action Rule (Q66): For two-passage tone comparison — map each passage's STRONGEST emotional evidence. Passage I: 'terrifying' + 'cruellest' = threatened (not just uneasy). Passage II: gentle dawn + burning 5pm + 'garden of Tourmaline' = accepting of extremes (not depressed)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u157_q66_logic_tone_precision_scale",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 157 — Q66 Tone Precision Drill",
+    "quiz": {
+      "question": "[Q66 — Tone Precision: Match evidence to tone word]\n\nApply the correct tone word to each passage's evidence:\n\nPassage I strongest evidence:\n'cruellest', 'inhuman world', 'terrifying', 'desolate'\n→ Which tone word matches? ______\n\nPassage II structural evidence:\nSection A (dawn): gentle, softens, heritage\nSection B (5pm): hardest, burning\nSection C (close): 'sky is the garden'\n→ Which tone word matches the COMBINATION? ______",
+      "options": [
+        "Passage I = uneasy / Passage II = depressed",
+        "Passage I = threatened (the language of survival-level fear, not mild discomfort) / Passage II = accepting of extremes (both the beauty of dawn AND the harshness of 5pm are embraced as part of life — 'garden of Tourmaline' signals acceptance not despair)",
+        "Passage I = critical / Passage II = nostalgic",
+        "Passage I = fascinated / Passage II = resigned"
+      ],
+      "correctIdx": 1,
+      "answer": "② Passage I = threatened / Passage II = accepting of extremes",
+      "explanation": "[Tone matching — Passage I]\ncruellest + inhuman + terrifying + desolate\n= language of existential threat, survival fear\n= the author feels the landscape is dangerous to human life\n= THREATENED ✓\n\nuneasy = mild anxiety → too weak for 'terrifying'\nthreatened = facing danger to one's existence → matches perfectly\n\n[Tone matching — Passage II]\nSection A: gentle + softens + heritage (positive, belonging)\nSection B: hardest + burning (negative, harsh)\nSection C: 'sky is the garden' (reclaiming beauty in harshness)\n\nStructure: positive extreme + negative extreme + acceptance of both\n= ACCEPTING OF ITS EXTREMES ✓\n\ndepressed = sustained hopelessness → not matched (she finds beauty in both states)\nresigned = passive giving up → not matched (she actively finds beauty: 'garden')\naccepting = embracing reality including difficulty → matches the dual structure ✓\n\n[The 'garden' signal]\n'The sky is the garden of Tourmaline'\n= the narrator transforms the harshest time into something beautiful\n= this is ACCEPTANCE, not depression or resignation\n= it signals: I belong here, I find beauty even in this",
+      "action": "Tone precision drill:\nthreatened = fear for survival (cruellest/terrifying level)\nuneasy = mild discomfort (much weaker)\naccepting of extremes = embraces both beautiful and harsh aspects\ndepressed = sustained hopelessness (no beauty found anywhere)\nAlways match the STRONGEST evidence word to the tone choice."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u157_meta_overextrapolation_tone_precision",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 157 — Meta: Over-extrapolation + Tone Precision",
+    "quiz": {
+      "question": "[Unit 157 Passage II — Meta Pattern]\n\nQ65 error: chose A (working dawn to dusk / only survivors) — invented from background knowledge\nQ66 error: chose C (uneasy / depressed) — understated Passage I, misread Passage II\n\nThese are two distinct bugs. Which correctly names both fixes?",
+      "options": [
+        "Both are paraphrasing failures — find better synonyms",
+        "Q65 = Over-extrapolation fix: finger-point every claim in the choice — 'working' and 'survive' have no passage anchor → eliminate. Q66 = Tone precision fix: match the STRONGEST evidence word to the tone choice — 'terrifying' demands 'threatened' not 'uneasy'; dawn+5pm+garden structure demands 'accepting of extremes' not 'depressed'.",
+        "Both are targeting failures — wrong paragraph",
+        "Q65 = Out of Scope / Q66 = Too Extreme"
+      ],
+      "correctIdx": 1,
+      "answer": "② Q65 = Over-extrapolation (finger-point every claim) / Q66 = Tone precision (match strongest evidence)",
+      "explanation": "[Q65 — Over-extrapolation fix]\nA contains two invented claims:\n'working from dawn to dusk' → finger-point → not in lines 6–8 → eliminate\n'only ones who can survive' → finger-point → not in passage → eliminate\n\nRule: Every specific claim in a choice needs a passage anchor\nIf even ONE claim has no anchor → eliminate the whole choice\n\n[Q66 — Tone precision fix]\nPassage I: 'terrifying' is the strongest evidence word\nStrength level: terrifying > uneasy\n→ threatened matches 'terrifying'; uneasy is too weak\n\nPassage II: dawn (gentle) + 5pm (burning) + 'garden of Tourmaline'\n= two extremes both present + acceptance signal\n→ 'accepting of extremes' matches the dual structure\n→ 'depressed' requires sustained hopelessness with NO beauty found — contradicted by 'garden'\n\n[Tone precision scale to remember]\nthreatened > uneasy (severity)\naccepting of extremes ≠ depressed (direction: positive embrace vs negative hopelessness)\n\n[Literary passage rule]\nFor descriptive/literary passages, always collect ALL tone adjectives\nBefore assigning a tone word, check: does it cover the FULL range of evidence?\nC (uneasy/depressed) covers only the negative evidence\nD (threatened/accepting) covers the FULL evidence for each passage",
+      "action": "Meta Rule (Unit 157 Passage II):\nQ65-type: Finger-point every specific claim — invented claims (no anchor) = eliminate.\nQ66-type: For tone questions, match the STRONGEST evidence word AND check the full structural range. One-sided tone words (only negative) fail when the passage shows complexity."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
