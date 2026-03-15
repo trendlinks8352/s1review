@@ -1874,5 +1874,110 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u137_q33_paraphrase_simplicity_complexity",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 137 — Q33 Paraphrase (C→B)",
+    "quiz": {
+      "question": "[Q33 — Paraphrase: What literary contrast does the opening create?]\n\nPoem opening:\n\"She'd left. She needed time to think.\"\n= 2 short, plain sentences — SIMPLE, matter-of-fact\n\nImmediately after:\n\"The walls puckered in.\"\n\"...lost his nerve, closed the house and drove away.\"\n= psychologically complex, disorienting consequences\n\nQ: The way the poet introduces the woman's departure serves to ______.\n\nYour pick — C: <strong>contrast the emotional turmoil before her departure with the relative calm afterwards</strong>\nCorrect — B: <strong>contrast the apparent simplicity of the event with the complexity of its consequences</strong>\n\nWhy does C misidentify the contrast and B capture it correctly?",
+      "options": [
+        "C is correct because the man is clearly more upset before she leaves than after",
+        "C invents a before/after emotional timeline not in the poem. The actual contrast is structural: the EVENT is stated simply ('She'd left') while the CONSEQUENCES are psychologically complex ('walls puckered in', 'lost his nerve'). B correctly identifies the contrast as simplicity of expression vs complexity of effect.",
+        "B is wrong because the poem never explicitly mentions 'complexity'",
+        "C is correct because 'time to think' implies she was turmoiled before leaving"
+      ],
+      "correctIdx": 1,
+      "answer": "② C invents a before/after timeline; B correctly maps simple EVENT vs complex CONSEQUENCES",
+      "explanation": "[The actual contrast structure]\nSide A (opening 2 lines): 'She'd left. She needed time to think.'\n= grammatically simple, emotionally flat, reported without drama\n= apparent SIMPLICITY of the event\n\nSide B (lines 3–7): walls puckered in, reflected in empty TV, lost his nerve, closed house, drove away\n= spatially disorienting, psychologically unravelling\n= COMPLEXITY of its consequences\n\n[Why C fails]\nC: 'emotional turmoil BEFORE departure vs calm AFTERWARDS'\n= this requires: pre-departure = turmoil, post-departure = calm\n= the poem shows NO pre-departure scene\n= post-departure is NOT calm (walls puckering, nerve lost)\n= C invents a before/after timeline that doesn't exist\n\n[Paraphrase chain → B]\n'She'd left. She needed time to think.' (2 plain sentences)\n= apparent SIMPLICITY of the event\n\n'walls puckered in / lost his nerve / drove away'\n= psychological COMPLEXITY of its consequences\n\n[The literary device]\nThe contrast = understatement + overreaction\n= a deceptively simple statement about a departure\n= followed by profound psychological dislocation\n= this gap IS the poem's opening device",
+      "action": "Action Rule (Q33): For 'the way X is introduced serves to' questions — look at the STRUCTURE of the introduction, not just the content. Opening = plain simplicity. Immediate aftermath = psychological complexity. B captures this structural contrast. C misreads it as a temporal (before/after) contrast."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u137_q34_targeting_disoriented_not_distraught",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 137 — Q34 Targeting (C→A)",
+    "quiz": {
+      "question": "[Q34 — Targeting: Tone precision — disoriented vs distraught]\n\nPoem evidence (lines 2–7):\n• 'reflected in the TV's empty screen' — staring blankly\n• 'The walls puckered in' — spatial distortion\n• 'He figured he should wait... but lost his nerve' — indecision, not breakdown\n• 'closed the house and drove away' — mechanical action\n\nQ: How did the man feel in the immediate aftermath?\n\nYour pick — C: <strong>distraught</strong> (괴로워하는)\nCorrect — A: <strong>disoriented</strong> (혼란스러운, 방향 감각을 잃은)\n\nWhat is the critical difference between these two emotional states?",
+      "options": [
+        "Distraught and disoriented mean the same thing in emotional contexts",
+        "Distraught = overwhelmed by intense grief or distress (crying, unable to function). Disoriented = confused about reality, lost sense of direction. The poem shows spatial distortion (walls puckering), blank staring, and mechanical exit — these are disorientation signals, NOT intense grief signals. He doesn't weep or break down; he loses his bearings.",
+        "C is correct because losing one's nerve is a sign of extreme distress",
+        "A is wrong because 'disoriented' implies he doesn't care about her leaving"
+      ],
+      "correctIdx": 1,
+      "answer": "② distraught = intense grief/breakdown / disoriented = lost bearings/reality confusion — poem shows disorientation",
+      "explanation": "[Tone precision: two different emotional registers]\ndistraught (괴로워하는):\n= extreme emotional distress, often grief or panic\n= behaviour: crying, inability to function, visible breakdown\n= INTENSITY level: very high\n\ndisoriented (방향 감각을 잃은, 혼란스러운):\n= confused about one's surroundings or situation\n= behaviour: staring blankly, spatial confusion, automatic actions\n= INTENSITY level: subdued, surreal\n\n[Evidence mapping]\n'reflected in the TV's empty screen'\n= blank staring, not knowing what to do = disoriented ✓\n\n'The walls puckered in'\n= spatial distortion = reality feels wrong = disoriented ✓\n\n'lost his nerve, closed the house and drove away'\n= mechanical exit, indecision = disoriented ✓\n(NOT: sobbing, collapsing, screaming = distraught ✗)\n\n[The GAMSAT principle]\nMatch the QUALITY of the emotion, not just its valence (good/bad)\nBoth distraught and disoriented are 'bad' feelings\nBut they describe different types of 'bad'\n= always ask: what KIND of distress does the text describe?",
+      "action": "Action Rule (Q34): Don't match emotional intensity (both are negative) — match emotional QUALITY. Walls puckering + blank TV staring + mechanical action = disorientation (reality feels wrong). NOT distraught (intense grief). Ask: 'Is this person weeping or drifting?'"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u137_q35_paraphrase_bland_vs_vivid",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 137 — Q35 Paraphrase (C→B)",
+    "quiz": {
+      "question": "[Q35 — Paraphrase: Two landscape perceptions]\n\nLines 8–12 evidence:\n'drew the landscape slowly past' / 'back roads' / 'radio droned' / 'stock prices, yesterday's songs'\n→ slow, repetitive, dull, auditory background noise\n\nLines 13–19 evidence:\n'windscreen filled with blue' / 'chute of a new space' / 'golden exclamation marks of poplars' / 'glint of water'\n→ sudden colour, visual excitement, metaphorical richness\n\nQ: Which highlights the KEY DIFFERENCE between these two sections?\n\nYour pick — C: <strong>realistic and individual vs idealised and general</strong>\nCorrect — B: <strong>remote and bland vs stimulating and vivid</strong>\n\nWhy is B the precise match and C an imprecise mis-categorisation?",
+      "options": [
+        "C is correct because the first section describes specific roads and the second is more universal",
+        "C misidentifies the contrast as realistic/idealised — neither section is idealised; both describe real landscape. The actual contrast is SENSORY QUALITY: lines 8–12 = dull/droning/slow (bland, remote) vs lines 13–19 = colour-filled/exclamatory/glinting (stimulating, vivid). B precisely maps the sensory contrast.",
+        "B is wrong because 'remote' means distant, not dull",
+        "C is correct because 'back roads' implies individual paths and 'golden exclamation marks' is an idealised image"
+      ],
+      "correctIdx": 1,
+      "answer": "② C misidentifies as realistic/idealised; B correctly maps sensory quality: droning/slow → bland vs colour/exclamation → vivid",
+      "explanation": "[Lines 8–12 sensory analysis]\n'drew the landscape SLOWLY past' = unhurried, no engagement\n'back roads' = minor, unremarkable routes\n'radio DRONED' = monotonous background noise\n'stock prices, YESTERDAY's songs' = stale, recycled content\n= overall quality: REMOTE (detached) + BLAND (unstimulating) ✓\n\n[Lines 13–19 sensory analysis]\n'windscreen FILLED WITH BLUE' = sudden colour flood\n'chute of a new space' = exciting transition, new dimension\n'GOLDEN exclamation marks of poplars' = bright visual punctuation\n'GLINT of water' = sparkling, catching the eye\n= overall quality: STIMULATING (engaging) + VIVID (bright, alive) ✓\n\n[Why C fails]\nC: 'realistic vs idealised'\n= idealised = imaginary, perfect, not real\n= lines 13–19 describe ACTUAL landscape elements (poplars, water, farms)\n= they are NOT idealised — they are the same real landscape, now perceived vividly\n= C imposes a real/imaginary distinction that doesn't exist\n\n[The perception shift]\nSame landscape, same drive\nLines 8–12: perceived through distraction/numbness = bland\nLines 13–19: perceived with sudden attention/openness = vivid\n= the difference is in HOW he perceives, not WHAT he sees",
+      "action": "Action Rule (Q35): For 'key difference between two sections' — extract the dominant sensory/emotional adjectives from each and match to the choice. Lines 8–12 = droned/slowly = bland. Lines 13–19 = golden/blue/glint = vivid. C's 'idealised' has no anchor."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u137_q37_paraphrase_chessmen_face_ahead",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 137 — Q37 Paraphrase (B→A)",
+    "quiz": {
+      "question": "[Q37 — Paraphrase: What do the 'last chessmen' symbolise?]\n\nPoem (lines 20–26):\n'reluctant to exchange the comfort of empty roads,\neasy links with strangers\nfor <em>bruising silences in a narrow house</em>.'\n'Across the plain the city towers loom\nlike the <em>last chessmen on a board</em>.'\n\nQ: Seeing the city towers made the man feel that ______.\n\nYour pick — B: <strong>despite everything people do, they end up as either winners or losers</strong>\nCorrect — A: <strong>he had no choice but to work through whatever problems may lie ahead</strong>\n\nWhy does B get stuck on the surface metaphor and A captures the actual meaning?",
+      "options": [
+        "B is correct because chess always produces winners and losers, which mirrors relationships",
+        "B fixates on the chess metaphor's competitive meaning (win/lose) — a literal reading of the image. But the chess image functions to show INEVITABILITY: the last chessmen = the endgame is here, you must play it out. Combined with 'reluctant...for bruising silences' = he must return to face the difficult relationship. A correctly reads the metaphor as: no escape, must confront what lies ahead.",
+        "A is wrong because the poem never says the man is reluctant to face problems",
+        "B is correct because 'loom' implies something threatening like defeat"
+      ],
+      "correctIdx": 1,
+      "answer": "② B = literal chess meaning (win/lose) / A = metaphorical chess meaning (endgame = inevitable confrontation)",
+      "explanation": "[Reading the chess metaphor correctly]\nLiteral chess meaning: players compete → one wins, one loses\nMetaphorical chess meaning: last chessmen = endgame = the game must be played out = NO ESCAPE\n\n[Context that unlocks the metaphor]\n'reluctant to exchange comfort of empty roads... for BRUISING SILENCES in a narrow house'\n= he doesn't want to go back to the difficult relationship situation\n= but the city towers LOOM ahead = unavoidable\n= last chessmen = the final pieces still on the board = the game isn't over, it must be finished\n= he has NO CHOICE but to face what's ahead\n\n[Paraphrase chain → A]\n'last chessmen on a board' = endgame, must be played out\n+ 'bruising silences in a narrow house' = the problems waiting at home\n= 'no choice but to work through whatever problems may lie ahead' ✓\n\n[Why B is surface reading]\nB: 'end up as either winners or losers'\n= takes the chess image literally (competition → outcome)\n= ignores the context (reluctance, looming, bruising silences)\n= the poem is NOT about competition — it's about INEVITABILITY\n\n[The 'loom' signal]\n'Loom' = appear large and threatening\n= the towers aren't inviting — they're imposing\n= combined with 'reluctant' = he must go despite not wanting to\n= A: no choice ✓",
+      "action": "Action Rule (Q37): For metaphor questions — don't use the metaphor's literal meaning. Use the CONTEXT around it to decode what the metaphor means HERE. 'Last chessmen' context: reluctance + bruising silences = inevitable return to face problems = A. Not win/lose competition = B."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u137_meta_emotional_quality_metaphor",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 137 — Meta: Emotional Quality + Metaphor Context",
+    "quiz": {
+      "question": "[Unit 137 — Meta Pattern]\n\nQ33 error: C (before/after timeline) — invented contrast not in poem\nQ34 error: C (distraught) — wrong emotional quality, correct valence\nQ35 error: C (realistic/idealised) — imprecise categorisation\nQ37 error: B (winners/losers) — literal metaphor reading\n\nAll four errors share one root. Which correctly identifies it?",
+      "options": [
+        "All four are targeting errors — wrong paragraph",
+        "All four chose answers that SOUND related to the poem but miss the SPECIFIC QUALITY the text encodes: Q33 = structural contrast (not temporal) / Q34 = disorientation quality (not grief intensity) / Q35 = sensory quality (not real/ideal) / Q37 = inevitability meaning (not competition outcome). The fix: extract the precise quality the text describes, not the nearest familiar category.",
+        "All four are vocabulary errors — unfamiliar words",
+        "All four are Too Extreme errors"
+      ],
+      "correctIdx": 1,
+      "answer": "② All four missed the SPECIFIC QUALITY — chose the nearest familiar category instead of the precise textual meaning",
+      "explanation": "[Q33: Structural vs temporal contrast]\nFamiliar category chosen: before/after emotional timeline\nPrecise quality needed: plain statement vs psychological complexity (structural)\nFix: 'What is being CONTRASTED?' — the WAY it's written, not when it happened\n\n[Q34: Grief intensity vs disorientation quality]\nFamiliar category chosen: intense grief = distraught\nPrecise quality needed: reality distortion = disoriented\nFix: 'What KIND of distress?' — drifting/blank/spatial ≠ weeping/collapsing\n\n[Q35: Real/ideal vs sensory quality]\nFamiliar category chosen: realistic/idealised (conceptual)\nPrecise quality needed: droning/slow = bland / colour/glint = vivid (sensory)\nFix: 'What SENSORY words dominate each section?' — don't impose conceptual labels\n\n[Q37: Competition outcome vs inevitability meaning]\nFamiliar category chosen: chess = win/lose\nPrecise quality needed: last chessmen = endgame = must face it\nFix: 'What does the CONTEXT tell you about this metaphor?' — reluctance + bruising = unavoidable return\n\n[The shared discipline]\nAll four errors = reaching for the nearest recognisable meaning\ninstead of extracting the SPECIFIC meaning the poem encodes\nFix: always ask 'What PRECISE quality/contrast/meaning does THIS text create?'",
+      "action": "Meta Rule (Unit 137): Literary/poetry passages require precision beyond familiar categories. For every contrast/emotion/metaphor question: extract the SPECIFIC quality from the text words themselves, not from the nearest familiar concept. Bland/vivid ≠ real/ideal. Disoriented ≠ distraught. Inevitability ≠ win/lose."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
