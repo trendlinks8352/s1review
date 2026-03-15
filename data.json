@@ -1979,5 +1979,103 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u136_q6_paraphrase_service_not_choice",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 136 — Q6 Paraphrase (A→B)",
+    "quiz": {
+      "question": "[Q6 — Paraphrase: What is Bail underlining about Hector?]\n\nPassage (lines 4–6):\n\"Gentle, slow-eyed Hector waited for them,\nwas <em>happy to be of service</em>.\nWhen one of them waved between stops\nhe would stop the great silver machine <em>every time</em>.\"\n\nQ: In lines 4–6, Bail is underlining the fact that Hector ______.\n\nYour pick — A: <strong>chooses whether he will stop the bus or not</strong>\nCorrect — B: <strong>controls the bus in the service of people</strong>\n\nWhy does A miss the PURPOSE of the action and B capture it?",
+      "options": [
+        "A is correct because stopping outside official stops IS a personal choice",
+        "A describes the SURFACE ACTION (stopping = exercising control) but ignores the MOTIVE. The passage emphasises WHY he stops: 'happy to be of service' — every time, without calculation. B captures both: 'controls the bus' (the action) + 'in the service of people' (the motive = direct paraphrase of 'happy to be of service').",
+        "B is wrong because conductors, not drivers, serve passengers",
+        "A is correct because 'every time' shows Hector decides consistently"
+      ],
+      "correctIdx": 1,
+      "answer": "② A = surface action only / B = action + motive ('in the service of people' = 'happy to be of service')",
+      "explanation": "[Two-layer reading: action vs motive]\nAction: Hector stops the bus between official stops\nMotive: 'happy to be of service' = he does it FOR the passengers\n\n[Why A is a surface reading]\nA: 'chooses whether he will stop or not'\n= focuses on Hector having discretionary power\n= implies he weighs the decision\nBut: 'every time' = no weighing, automatic service response\n= NOT selective choice, but consistent service orientation\n\n[Paraphrase chain → B]\n'controls the bus' = stops it between official stops (the physical action)\n'in the service of people' = 'happy to be of service' (the motive) ✓\n\n[The 'every time' signal]\n'every time' = without exception, without discretion\n= the opposite of 'choosing whether'\n= he doesn't CHOOSE — he SERVES, reflexively\n= B: in the SERVICE of people ✓\n\n[What Bail is actually underlining]\nThe portrait of Hector = a man whose default mode is service\nNot: a man who exercises authority over stopping decisions\n= the point is HIS CHARACTER, not his powers",
+      "action": "Action Rule (Q6): When a character performs an action — ask 'WHY does the passage say they do it?' Surface action (stopping) ≠ the underlining point. Motive ('happy to be of service') = the point. B captures both layers. A only captures one."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u136_q6_subjective_service_drill",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Unit 136 — Q6 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q6 — Paraphrase Drill]\n\nPassage → Choice B:\n\n① 'happy to be of ________'\n   → 'controls the bus in the ________ of people'\n\n② 'he would stop... <em>every time</em>'\n   → this means he does NOT ________ — he serves automatically\n\n(Tap to check)",
+      "answer": "① service / service  ② choose (or weigh / deliberate)",
+      "explanation": "[Map]\n'happy to be of SERVICE' → 'in the SERVICE of people'\n= direct word-for-word preservation across the paraphrase\n\n'every time' = no exception, no calculation\n= NOT choosing → automatic service response\n= A ('chooses') is directly contradicted by 'every time'\n\n[The character portrait]\nHector = service-oriented by nature\nHis stopping between official stops = expression of that service orientation\n= not a power trip, not a decision — a reflex of his character",
+      "action": "Drill habit: 'happy to be of service' → 'in the service of people'. The word 'service' carries across directly. 'Every time' = no choice = eliminates A immediately."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u136_q9_paraphrase_but_practical_nature",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 136 — Q9 Paraphrase (A→C)",
+    "quiz": {
+      "question": "[Q9 — Paraphrase: What does turning the bus reveal?]\n\nPassage (lines 24–26):\n\"Hector's stubborn fifty-four year old eyesight produced\nthese messages for his heart\n<em>but</em> he was <em>required</em> to turn the bus,\nand he <em>turned the bus around</em>.\"\n\nQ: That Hector did turn the bus around reveals something of his ______.\n\nYour pick — A: <strong>continuing search</strong>\nCorrect — C: <strong>practical nature</strong>\n\nWhat is the function of 'but' in this sentence, and why does it eliminate A?",
+      "options": [
+        "A is correct because turning away from Paradise to return means he will seek it again",
+        "'But' signals a REVERSAL: inner emotional state (messages for his heart) → overridden by external duty (was required to turn). He turns NOT because he wants to continue searching, but because duty demands it. 'Was required' = obligation, not desire. C: practical nature = he acts on duty over feeling. A: continuing search = he acts on feeling, which is the OPPOSITE of what 'but' signals.",
+        "C is wrong because 'practical' implies he has no emotional depth",
+        "A is correct because the search for Paradise is the passage's central theme"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'but' = inner feeling OVERRIDDEN by duty / 'was required' = obligation → practical nature (C), not continuing search (A)",
+      "explanation": "[The 'but' structure decoded]\nPart 1: 'these messages for his heart'\n= inner emotional/romantic response to Paradise\n= longing, disappointment, feeling\n\nBUT (reversal signal)\n\nPart 2: 'he was required to turn the bus, and he turned it'\n= external duty overrides internal feeling\n= he does what is REQUIRED, not what he feels\n\n[Paraphrase chain → C]\n'was required to' = had a practical obligation\n'turned the bus' = carried out the practical duty\n= acted on duty over emotion\n= PRACTICAL NATURE ✓\n\n[Why A fails the 'but' test]\nA: 'continuing search'\n= implies he turns the bus AS PART OF seeking Paradise\n= implies his action is driven by his inner longing\nBut: 'but he was required' = his action is driven by OBLIGATION, not longing\n= the 'but' explicitly separates his heart's desire from his actual behaviour\n= A would be correct if the sentence said: 'his heart told him to search, so he drove on'\n= but it says the OPPOSITE: heart messages / BUT / required to turn\n\n[The 'stubborn fifty-four year old eyesight' clue]\n'Stubborn' = his perception keeps sending him these emotional signals\n= but even stubborn feelings don't stop him doing his duty\n= further evidence of practical nature overriding romantic feeling",
+      "action": "Action Rule (Q9): When 'but' divides a sentence — the SECOND half (after 'but') contains the answer to action questions. First half = feeling. BUT = override. Second half = what he actually did = duty = practical nature. A (continuing search) belongs to the FIRST half, not the second."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u136_q9_logic_feeling_vs_action",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 136 — Q9 Logic: Feeling vs Action",
+    "quiz": {
+      "question": "[Q9 — Logic: Separating inner feeling from actual behaviour]\n\nThe question asks: 'That Hector DID turn the bus around reveals...'\n\nKey word: DID — the ACTUAL BEHAVIOUR, not the inner feeling.\n\nWhich correctly applies this distinction to the two choices?",
+      "options": [
+        "Both A and C describe his behaviour equally well",
+        "A (continuing search) = what his HEART wanted (messages for his heart) — his inner feeling, NOT his behaviour. C (practical nature) = what he actually DID (turned because required) — his behaviour. The question asks about what the ACTION reveals, so C is correct. A describes the emotional state the 'but' OVERRIDES.",
+        "A is correct because his behaviour and feelings are the same in this scene",
+        "C is wrong because turning the bus is a mechanical act that reveals nothing about character"
+      ],
+      "correctIdx": 1,
+      "answer": "② A = inner feeling (overridden by 'but') / C = actual behaviour (what he DID) — question asks about the action",
+      "explanation": "[Separating the two layers]\nInner feeling layer: 'messages for his heart'\n= Paradise = longing, disappointment, romantic searching\n= A (continuing search) lives here\n\nActual behaviour layer: 'was required to turn / turned the bus'\n= duty, obligation, practical compliance\n= C (practical nature) lives here\n\n['Did' in the question = the behaviour layer]\n'That Hector DID turn the bus around reveals...'\n= the QUESTION is asking about the BEHAVIOUR layer\n= not about his inner feeling\n= the answer must come from the 'but he was required to' side\n= C ✓\n\n[Why conflating both layers = A]\nIf you read 'messages for his heart' + 'turned the bus'\nas ONE continuous statement = you might think:\n'He turned the bus because of his searching heart'\n= the 'but' disappears from your reading\n= A becomes plausible\n\nFix: ALWAYS honour the 'but'\n= feel something / BUT / do something different\n= the action reveals what is STRONGER: duty > feeling = practical nature",
+      "action": "Logic rule (Q9): When a sentence has 'X but Y' structure — X and Y reveal DIFFERENT things. The question asks about the action (Y = practical compliance). A describes X (inner feeling). Never merge X and Y across a 'but'."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u136_meta_surface_action_but_structure",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 136 — Meta: Surface Action + BUT Structure",
+    "quiz": {
+      "question": "[Unit 136 — Meta Pattern]\n\nQ6 error: chose A (chooses whether to stop) — surface action, missed the service motive\nQ9 error: chose A (continuing search) — inner feeling, missed that 'but' overrides it with duty\n\nBoth errors share a common reading failure. Which correctly identifies both?",
+      "options": [
+        "Both are targeting errors — wrong paragraph found",
+        "Q6 = Action-without-motive error: read WHAT Hector does (stops bus) without reading WHY (happy to be of service = B's 'in the service of people'). Q9 = BUT-blindness error: merged the feeling and action across 'but', treating the heart's desire as the explanation for the action, when 'but' explicitly separates them.",
+        "Both are Too Extreme errors — the correct answers are more moderate",
+        "Both are vocabulary errors — 'service' and 'practical' were misunderstood"
+      ],
+      "correctIdx": 1,
+      "answer": "② Q6 = action-without-motive / Q9 = BUT-blindness (merged feeling + action across reversal signal)",
+      "explanation": "[Q6 — Action-without-motive error]\nYou read: Hector stops the bus\nYou concluded: he controls/chooses whether to stop\nYou missed: WHY he stops = 'happy to be of service'\n\nFix: For any character action — always read the motive clause too\n'happy to be of service' = the motive = B's 'in the service of people'\n\n[Q9 — BUT-blindness error]\nYou read: messages for his heart + turned the bus\nYou concluded: turning = expression of his searching heart\nYou missed: 'but he was REQUIRED to turn' = duty overrides feeling\n\nFix: 'but' = hard reversal = what follows 'but' CONTRADICTS what precedes it\nFeelings ≠ Action when 'but' separates them\n\n[Two different bugs, one shared principle]\nBoth errors = reading only PART of the evidence\nQ6: read the action, skipped the motive clause\nQ9: read the feeling, skipped the 'but + required' reversal\n\n[The complete reading discipline]\nFor action questions: action + motive clause\nFor BUT sentences: honour the reversal — Part 1 ≠ Part 2",
+      "action": "Meta Rule (Unit 136):\nQ6-type: Never read an action in isolation — find the motive clause ('happy to be of service') and include it in your paraphrase.\nQ9-type: 'but' = hard reversal signal. The action after 'but' reveals something DIFFERENT from the feeling before it. Never merge them."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
