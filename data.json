@@ -2077,5 +2077,103 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u135_q36_targeting_william_view_alicia",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 135 — Q36 Targeting+Paraphrase (A→D)",
+    "quiz": {
+      "question": "[Q36 — Targeting: WHOSE view is the question asking about?]\n\nPassage (lines 20–23):\n\"...when the mystery buyer turns up...he'll turn out to be some\nself-made yokel easily manipulated by his betters.\nAnd for that sort of exercise,\nyou will come in very <em>handy</em>.\"\n— William speaking about Alicia\n\nQ: William regards Alicia as one who ______.\n\nYour pick — A: <strong>cannot bear the disgrace of losing control of the company</strong>\nCorrect — D: <strong>can exploit a situation to her own advantage</strong>\n\nWhy does A describe Alicia's own psychology rather than William's assessment of her?",
+      "options": [
+        "A is correct because William knows Alicia can't handle losing the company",
+        "A describes ALICIA'S emotional state (her inability to bear disgrace) — it's about how SHE feels. William's words focus on her UTILITY to him: 'you will come in very handy' = she can be useful in exploiting the situation. D paraphrases William's assessment: 'handy for that exercise' = can exploit situations to her advantage.",
+        "D is wrong because 'exploit' has a negative meaning William wouldn't use about Alicia",
+        "A is correct because William mentions the company's difficulties throughout"
+      ],
+      "correctIdx": 1,
+      "answer": "② A = Alicia's own psychology / D = William's assessment of her utility ('handy' = can exploit situations)",
+      "explanation": "[The targeting question: whose view?]\nQuestion: 'William REGARDS Alicia as one who...'\n= asking for WILLIAM'S assessment of Alicia\n= not asking about Alicia's feelings about herself\n\n[Why A is the wrong subject]\nA: 'cannot bear the disgrace of losing control'\n= this is about Alicia's emotional sensitivity\n= it describes HOW ALICIA FEELS about the company situation\n= William might observe this, but it's not his ASSESSMENT of her capability\n\n[Paraphrase chain → D]\nWilliam: 'you will come in very HANDY'\n= you will be useful for this\n= you can do this job effectively\n= handy → can exploit a situation ✓\n\n'that sort of exercise' = manipulating/influencing the yokel buyer\n= exploiting the situation to their advantage\n= 'to her own advantage' ✓\n\n[The targeting discipline: 3-question check]\n① Who is the SUBJECT of the question? → William\n② What is WILLIAM assessing? → Alicia's capability/usefulness\n③ Where does William directly evaluate her? → 'you will come in very handy'\n= lines 22–23 = the anchor for D",
+      "action": "Action Rule (Q36): 'X regards Y as...' questions — the answer must be X's assessment of Y, not Y's feelings about themselves. William's words 'come in very handy' = his assessment of her capability = D. A describes Alicia's emotional state, not William's view of her."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u135_q36_subjective_handy_exploit",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Unit 135 — Q36 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q36 — Paraphrase Drill]\n\nWilliam's words → Choice D:\n\n① 'you will come in very <em>handy</em>'\n   = you can ________ a situation\n\n② 'that sort of exercise' (manipulating the buyer)\n   = to her own ________\n\n③ Combined → D: 'can ________ a situation to her own ________'\n\n(Tap to check)",
+      "answer": "① exploit  ② advantage  ③ exploit / advantage",
+      "explanation": "[Map]\nhandy = useful, able to do the job effectively\n= can exploit (make effective use of) a situation ✓\n\nthat sort of exercise = influencing/manipulating the yokel buyer\n= doing so benefits them = to her own advantage ✓\n\n[Combined]\n'come in very handy for that exercise'\n= 'can exploit a situation to her own advantage' (D) ✓\n\n[Why A fails the subject test]\nA is about Alicia's feelings (cannot BEAR the disgrace)\n= bear = emotional endurance\n= this is Alicia's psychology, not William's assessment\n= question asks for William's view → wrong subject → eliminate",
+      "action": "Drill habit: handy → exploit / that exercise → to her advantage. Two-step substitution. Always check: whose view am I being asked for? William's → use William's words as the anchor."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u135_q38_paraphrase_yokel_betters_power",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 135 — Q38 Targeting+Paraphrase (C→D)",
+    "quiz": {
+      "question": "[Q38 — Paraphrase: Class-loaded vocabulary → William's attitude]\n\nPassage (lines 20–22):\n\"...he'll turn out to be some self-made <em>yokel</em>\neasily manipulated by <em>his betters</em>.\"\n\nQ: The passage implies that William is ______.\n\nYour pick — C: <strong>willing to support Alicia while Cornelia is away</strong>\nCorrect — D: <strong>confident of his power over lower class people</strong>\n\nWhat do 'yokel' and 'his betters' reveal about William's attitude?",
+      "options": [
+        "C is correct because William is trying to help Alicia throughout the conversation",
+        "'Yokel' = contemptuous term for an unsophisticated rural/lower-class person. 'His betters' = those of higher social standing (= William's group). William assumes the buyer will be 'easily manipulated' by people like himself = confident he has power over lower-class people. C has no passage anchor — Cornelia's absence isn't mentioned as context for his support.",
+        "D is wrong because 'confident' is too strong a word for William's attitude",
+        "C is correct because William says 'we're not finished yet' showing team spirit"
+      ],
+      "correctIdx": 1,
+      "answer": "② yokel (contempt) + 'his betters' (class superiority) + 'easily manipulated' = confident of power over lower class",
+      "explanation": "[Class vocabulary decoded]\nyokel (촌뜨기):\n= contemptuous term for a naive, unsophisticated person\n= implies the speaker looks DOWN on this person\n= William = speaker → William looks down on the buyer\n\nhis betters (그보다 나은 사람들):\n= people of higher social standing than the yokel\n= William positions HIMSELF in this group\n= 'his betters' = William's class = socially superior\n\n[Paraphrase chain → D]\nyokel + his betters + easily manipulated\n= William views lower-class people as easy to manipulate\n= he is CONFIDENT in his CLASS-BASED POWER over them\n= 'confident of his power over lower class people' (D) ✓\n\n[Why C fails the anchor test]\nC: 'willing to support Alicia while Cornelia is away'\n→ Finger-point: where does it say Cornelia is away?\n→ Where does William express willingness to support Alicia?\n→ Not anchored in the passage\n= C is a surface reading of the conversation's cooperative tone\n= not supported by a specific passage statement\n\n[The nuance trap]\nWilliam IS cooperating with Alicia, but the question asks what the passage IMPLIES about William\n= the implication = his class attitude = D\n= C describes a surface observation, not an implied character trait",
+      "action": "Action Rule (Q38): Class-loaded words ('yokel', 'betters') are tone signals that reveal CHARACTER ATTITUDE. yokel = contempt for lower class / betters = class superiority assumption / easily manipulated = confidence in that power. Map all three to D. C is a surface cooperative observation with no specific anchor."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u135_q38_logic_class_vocabulary_signal",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 135 — Q38 Logic: Class Vocabulary",
+    "quiz": {
+      "question": "[Q38 — Logic: Reading class-loaded vocabulary]\n\nWilliam uses:\n• 'yokel' = ________ (촌뜨기, 비하어)\n• 'his betters' = ________ (자신보다 지위 높은 사람들)\n• 'easily manipulated' = William assumes he can control this person\n\nThese three together imply what about William's self-perception?",
+      "options": [
+        "William sees himself as a practical problem-solver without class bias",
+        "William assumes CLASS HIERARCHY is real and that he sits at the top of it. 'Yokel' = he dismisses the buyer as low-class. 'His betters' = he includes himself in the superior class. 'Easily manipulated' = he's confident lower-class people yield to him. All three = confident of power over lower class people = D.",
+        "William is worried about the lower-class buyer's unpredictability",
+        "William respects the buyer's self-made success despite his origins"
+      ],
+      "correctIdx": 1,
+      "answer": "② All three = class hierarchy assumption + self as superior + confidence in manipulation = D",
+      "explanation": "[Three-signal convergence]\nyokel: 'this person is low-class and unsophisticated'\n= contempt + dismissal\n\nhis betters: 'people like me are above him'\n= William places himself in the superior class\n\neasily manipulated: 'he'll yield to us without difficulty'\n= confidence that his class position gives him power over this person\n\n[Combined character portrait]\nWilliam = someone who:\n① categorises people by class\n② places himself in the superior category\n③ assumes lower-class people are easy to influence/control\n= CONFIDENT OF HIS POWER OVER LOWER CLASS PEOPLE (D) ✓\n\n[The vocabulary-as-evidence method]\nIn literary/fiction passages, character WORD CHOICES reveal attitude\nWilliam never says 'I am superior to lower-class people'\nBut his word choices (yokel, betters) SHOW this belief\n= implied characterisation through diction\n= this is what GAMSAT means by 'the passage IMPLIES that William is...'\n\n[C vs D]\nC (willing to support Alicia) = observable behaviour\nD (confident of power over lower class) = implied attitude from word choice\nImplication questions → look for word-choice evidence, not surface behaviour",
+      "action": "Logic rule (Q38): 'Implies' questions require word-choice evidence, not surface behaviour. yokel + betters + easily manipulated = three class-attitude signals → confident of power over lower class = D. Collect all three before concluding."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u135_meta_subject_question_implied_attitude",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 135 — Meta: Subject Lock + Implied Attitude",
+    "quiz": {
+      "question": "[Unit 135 — Meta Pattern]\n\nQ36 error: chose A (Alicia's feelings) — question asked for William's view of Alicia\nQ38 error: chose C (surface cooperation) — question asked for implied character attitude\n\nBoth share a common reading failure. Which correctly names both?",
+      "options": [
+        "Both are paraphrasing errors — wrong synonym chosen",
+        "Q36 = Subject-lock failure: answered from Alicia's perspective when question asked for William's view. Fix: always identify WHOSE assessment is requested before searching for evidence. Q38 = Implication-level failure: answered at surface behaviour level (C) when question asked for implied attitude from word choice (yokel/betters = D). Fix: 'implies' questions → look for vocabulary signals, not observable actions.",
+        "Both are targeting errors — wrong paragraph",
+        "Both are Too Extreme errors"
+      ],
+      "correctIdx": 1,
+      "answer": "② Q36 = subject-lock failure (Alicia's feelings ≠ William's view) / Q38 = implication-level failure (surface behaviour ≠ word-choice attitude)",
+      "explanation": "[Q36 — Subject-lock failure]\nQuestion: 'William REGARDS Alicia as...'\nRequired: William's words about Alicia's CAPABILITY\nYour answer: Alicia's emotional state (her feelings about company loss)\n= answered from the wrong subject's perspective\n\nFix: Before searching for evidence, lock the subject:\n'I need William's evaluation of Alicia'\n→ find William's words directed at Alicia\n→ 'you will come in very handy' = his assessment = D\n\n[Q38 — Implication-level failure]\nQuestion: 'the passage IMPLIES that William is...'\nRequired: character attitude revealed through word choice\nYour answer: surface cooperative behaviour (C)\n= answered at the observable action level\n= missed the implied level\n\nFix: 'implies' → look for word-choice signals\n→ yokel + betters + easily manipulated\n→ class superiority attitude\n→ D\n\n[Two different depths of reading]\nQ36: depth = whose perspective? (subject lock)\nQ38: depth = what level? (surface behaviour vs implied attitude)\n\n[Combined checklist]\nBefore answering any characterisation question:\n① Who is the subject of the question? (lock it)\n② What level does the question ask for? (explicit / implied)\n③ Which passage evidence matches that subject AND level?",
+      "action": "Meta Rule (Unit 135):\nQ36-type: Lock the subject FIRST — 'William regards' = use William's words, not Alicia's feelings.\nQ38-type: 'Implies' = implied level — use word-choice signals (yokel/betters), not surface behaviour (cooperation). Subject lock + implication level = two separate checks before choosing."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
