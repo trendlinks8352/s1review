@@ -2175,5 +2175,243 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u133_q16_targeting_reciprocal_attention",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 133 — Q16 Targeting (A→C)",
+    "quiz": {
+      "question": "[Q16 — Targeting: What is Monica's PURPOSE in line 6?]\n\nStage direction context:\nMonica asks Hugh: 'Can I get you a drink?'\nAdela: 'I'd love a drink.'\nMonica: 'Hugh, have you got a drink?'\n[HUGH gets a glass from the sideboard]\n\nQ: In line 6, when Monica asks 'Hugh, have you got a drink?', her purpose is mainly to ______.\n\nYour pick — A: <strong>disengage as quickly as possible from Adela</strong>\nCorrect — C: <strong>make way for reciprocal attention towards herself</strong>\n\nWhat social function does Monica's question actually perform?",
+      "options": [
+        "A is correct because Monica is clearly avoiding Adela's late arrival",
+        "Monica initially offers Hugh a drink (hospitality). When Adela interjects wanting a drink, Monica redirects to Hugh ('Hugh, have you got a drink?') — this gets Hugh to serve her, making the attention RECIPROCAL (she hosted him → he now attends to her). C: 'make way for reciprocal attention towards herself' = she engineers a mutual exchange of care. A has no anchor — Monica greets Adela warmly.",
+        "C is wrong because Monica doesn't need attention from Hugh",
+        "A is correct because Monica says 'So, Della, you did it again' showing irritation"
+      ],
+      "correctIdx": 1,
+      "answer": "② Monica engineers reciprocal attention: she offered Hugh hospitality → he now gets her a drink = mutual care",
+      "explanation": "[The social mechanics decoded]\nStep 1: Monica offers Hugh a drink = she hosts him (attention TO Hugh)\nStep 2: Adela jumps in: 'I'd love a drink'\nStep 3: Monica redirects: 'Hugh, have you got a drink?' → Hugh gets her a drink\n\n= Monica has turned the dynamic:\nShe gave → now she receives\n= RECIPROCAL attention (mutual exchange of care)\n= attention flows BACK TO HER\n\n[Paraphrase chain → C]\n'reciprocal' = mutual, returned in kind\n'attention towards herself' = Hugh now attends to Monica\n= Monica makes way for this exchange = C ✓\n\n[Why A fails]\nA: 'disengage from Adela'\n= requires Monica to be avoiding or ignoring Adela\n= but Monica greets Adela warmly: 'Welcome home, Adela'\n= she is NOT disengaging — she is managing the social dynamic\n= A has no passage anchor\n\n[The social intelligence reading]\nThis is a play — characters use dialogue strategically\nMonica's question is a SOCIAL MANOEUVRE, not avoidance\n= she smoothly redirects attention to engineer reciprocity",
+      "action": "Action Rule (Q16): For 'purpose of X's speech act' questions in drama — ask 'What social result does this achieve?' Monica's question result = Hugh serves her = reciprocal care = C. Don't project emotional motivations (avoidance) without evidence."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u133_q17_paraphrase_forbearance_not_pity",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 133 — Q17 Paraphrase (D→C)",
+    "quiz": {
+      "question": "[Q17 — Paraphrase: Tone precision — forbearance vs pity]\n\nLine 9: Monica says: 'So, Della, you did it again.'\n\nContext:\n• Adela hid under the stairs instead of attending the funeral\n• Monica has known Adela her whole life\n• Monica's tone is MATTER-OF-FACT, not emotional\n\nQ: Monica's attitude to Adela is one of ______.\n\nYour pick — D: <strong>pity for one who, still as an adult, would hide under the stairs</strong>\nCorrect — C: <strong>forbearance towards a sister who is beyond her influence</strong>\n\nWhat is the precise difference between pity and forbearance?",
+      "options": [
+        "Pity and forbearance are similar enough to be interchangeable here",
+        "Pity = feeling sorry for someone's suffering or inadequacy (emotional, downward-looking). Forbearance = patient tolerance of behaviour one cannot change (resigned, accepting). 'So, Della, you did it again' = matter-of-fact resignation, NOT sympathetic sorrow. Monica has accepted she cannot influence Adela = forbearance. Pity would require Monica to feel sad about Adela's situation.",
+        "C is wrong because Monica is clearly angry at Adela for missing the funeral",
+        "D is correct because hiding under stairs as an adult is objectively pitiful"
+      ],
+      "correctIdx": 1,
+      "answer": "② pity = feeling sorry (emotional) / forbearance = resigned patient tolerance (accepted she can't change Adela)",
+      "explanation": "[Tone precision: two distinct attitudes]\npity (불쌍히 여김):\n= you feel sorry FOR someone\n= implies their situation causes you sadness\n= emotional response, looking down with sympathy\n= tone: 'Oh, poor Della...'\n\nforbearance (관용, 참음):\n= patient tolerance of what you cannot change\n= resigned acceptance of repeated behaviour\n= tone: 'Of course she did this again. That's just Della.'\n\n[Evidence mapping]\n'So, Della, you did it again'\n= 'so' = unsurprised transition\n= 'you did it AGAIN' = this is a pattern, not a shock\n= matter-of-fact, not emotional\n= resigned tolerance = FORBEARANCE ✓\n\n[The 'beyond her influence' anchor]\nC: 'beyond her influence'\n= Monica cannot change Adela's behaviour\n= she has accepted this → patient tolerance\n= FORBEARANCE of someone she cannot influence ✓\n\n[Why D (pity) is the wrong emotional register]\nPity requires: Monica feels SAD about Adela's situation\nEvidence of sadness? → None\nMonica's tone: calm, matter-of-fact, even slightly wry\n= no emotional warmth/sympathy that pity requires",
+      "action": "Action Rule (Q17): Tone precision for drama — 'So, Della, you did it again' = resignation, not sympathy. Forbearance = patient tolerance of what cannot be changed. Pity = feeling sad for someone. Check the emotional register: is Monica sad (pity) or resigned (forbearance)? Matter-of-fact tone → forbearance."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u133_q19_paraphrase_manoeuvred_not_determined",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 133 — Q19 Paraphrase (A→D)",
+    "quiz": {
+      "question": "[Q19 — Paraphrase: What does Ivy think of Charles?]\n\nExtract 2 (lines 1–5):\nIVY: '...what precisely is it that you want to do?'\nADELA: 'He wants to go up to his room.'\n[Charles does not answer for himself]\n\nQ: In lines 1–3, Ivy considers Charles to be ______.\n\nYour pick — A: <strong>determined but secretive</strong>\nCorrect — D: <strong>capable of being manoeuvred</strong>\n\nWhy does Charles NOT answering + Adela answering FOR him = D, not A?",
+      "options": [
+        "A is correct because Charles says 'Don't be stupid' showing he has strong views",
+        "Determined = has strong will and acts on it. But Charles doesn't ANSWER Ivy's direct question — Adela answers for him and he doesn't correct her. This shows he is passive, not self-directing. Ivy is probing because she senses he can be steered. D: 'capable of being manoeuvred' = can be moved in a desired direction by others = exactly what the scene demonstrates.",
+        "D is wrong because Ivy is asking Charles what he wants, implying she respects his wishes",
+        "A is correct because going to his room shows secretive behaviour"
+      ],
+      "correctIdx": 1,
+      "answer": "② Charles not answering + Adela answering for him = passive, steerable = capable of being manoeuvred (D)",
+      "explanation": "[Scene mechanics → character inference]\nIvy asks Charles directly: 'what precisely do you want to do?'\nCharles: [silence / no answer]\nAdela answers FOR him: 'He wants to go to his room'\nCharles does NOT correct Adela\n\n= Charles allows others to speak for him\n= he does not assert his own will\n= he can be directed/moved by others\n= CAPABLE OF BEING MANOEUVRED (D) ✓\n\n[Why A (determined but secretive) fails]\ndetermined = has strong will, acts decisively\n= evidence needed: Charles asserting himself, resisting others\n= Charles says 'Don't be stupid' LATER — but here he is silent\n= in lines 1–3 specifically: no determination shown\nsecretive = hides information deliberately\n= going to his room ≠ secretive behaviour\n= no evidence of deliberate concealment\n\n[The word 'manoeuvred' decoded]\nmanoeuvre = to move someone in a desired direction through skillful management\n= to steer someone without them fully realising\n= 'capable of being manoeuvred' = can be steered by others\n= Ivy senses this about Charles = why she's probing\n\n[Adjective check habit]\nDetermined → needs evidence of: resisting pressure, acting on own will, decisive statements\nManoeuvred → needs evidence of: passivity, being spoken for, not self-directing\nLines 1–3: passive, spoken for → D ✓",
+      "action": "Action Rule (Q19): When a character doesn't answer for themselves AND someone else answers for them without correction — that = passivity = capable of being manoeuvred. 'Determined' requires self-assertion evidence. Silence + proxy answer = D."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u133_q23_targeting_room_power_relationships",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 133 — Q23 Targeting (D→B)",
+    "quiz": {
+      "question": "[Q23 — Targeting: What does the repeated 'go to your room' achieve?]\n\nRepetition pattern:\nLine 4 (Extract 2): Adela answers for Charles → 'He wants to go up to his room'\nLine 20: IVY → ADELA: 'you're not too old to be asked to go to your room'\nLine 33: CHARLES → IVY: 'Are you going to send her to her room?'\n\nQ: The repetition of 'room' is used by Buzo to ______.\n\nYour pick — D: <strong>ensure that Adela is seen in conflict with the rest of the family</strong>\nCorrect — B: <strong>display power relationships among the family</strong>\n\nWhy does B capture the literary device's function and D only describe a surface observation?",
+      "options": [
+        "D is correct because Adela is clearly fighting with everyone in both extracts",
+        "'Go to your room' = authority figure sending subordinate away. Who says it to whom SHIFTS: Ivy→Adela (parent authority), then Charles→Ivy (questioning that authority). This SHIFTING shows who holds power and how it's contested — B: power relationships. D only observes conflict (surface) without explaining WHY Buzo chose this specific repeated phrase as the literary device.",
+        "B is wrong because 'power relationships' is too academic a concept for this scene",
+        "D is correct because the repetition shows Adela causes trouble everywhere"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'go to your room' = authority command — WHO says it to WHOM reveals shifting power = B (power relationships)",
+      "explanation": "[Literary device analysis: why THIS phrase?]\n'Go to your room' is NOT a neutral phrase\n= it is an AUTHORITY command (parent → child, superior → subordinate)\n= using it reveals who claims authority over whom\n\n[The shifting pattern]\nLine 4: Adela speaks for Charles (she controls the narrative)\nLine 20: Ivy → Adela: 'go to your room' (Ivy asserts authority over Adela)\nLine 33: Charles → Ivy: 'are you going to send HER to her room?' (Charles questions Ivy's authority)\n\n= the phrase moves between characters, revealing:\n  who claims to be in charge\n  who challenges that claim\n  how authority is contested\n= POWER RELATIONSHIPS (B) ✓\n\n[Why D is surface-level]\nD: 'Adela is seen in conflict with the rest'\n= true as an observation, but doesn't explain the FUNCTION of the 'room' repetition\n= conflict could be shown many ways — Buzo chose THIS phrase specifically\n= the question asks what the repetition IS USED TO DO\n= the answer must explain the device's LITERARY FUNCTION\n= B: display power relationships = the function ✓\n= D: show Adela in conflict = a byproduct, not the device's purpose\n\n[Buzo's craft]\nThe repetition of 'room' creates a power-map:\nWho can tell whom to leave = who dominates whom\n= each use reveals or contests the family hierarchy",
+      "action": "Action Rule (Q23): For 'this device is used to' questions — explain the LITERARY FUNCTION, not just the observable surface effect. 'Room' repetition function = tracks who holds authority (power relationships = B). D observes conflict but doesn't explain why Buzo chose this specific repeated phrase."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u133_q24_targeting_least_dominated_adela",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 133 — Q24 Targeting (D→B)",
+    "quiz": {
+      "question": "[Q24 — Targeting: Who is LEAST likely to be dominated?]\n\nEvidence across both extracts:\n• Charles: lets Adela answer for him, says 'I don't need your help' but stays passive\n• Monica: tries to remove Adela from discussion but Adela takes Monica outside instead\n• Ivy: sends Adela to room but Adela refuses; Ivy's authority is contested throughout\n• Adela: refuses Ivy's commands, speaks for Charles, ignores Monica, drives her own agenda\n\nQ: The character least likely to be dominated by the others is ______.\n\nYour pick — D: <strong>Monica</strong>\nCorrect — B: <strong>Adela</strong>\n\nWhy does the evidence point to Adela and not Monica?",
+      "options": [
+        "Monica is correct because she is the most sensible and level-headed character",
+        "Adela refuses every attempt to control her: ignores Ivy's 'go to your room', speaks for Charles without permission, and when Monica tries to remove her, Adela takes Monica outside instead (line 35). Monica is called 'sensible' but is manoeuvred by Adela in the end. Least dominated = most resistant to others' control = Adela.",
+        "Monica is correct because she acts as the family mediator",
+        "D is correct because Monica never loses her composure"
+      ],
+      "correctIdx": 1,
+      "answer": "② Adela refuses all control attempts and even reverses Monica's attempt — she is least dominated",
+      "explanation": "[Evidence audit — who resists domination most?]\n\nCharles:\n= lets Adela answer for him (dominated by Adela)\n= passive, manoeuvrable = easily dominated ✗\n\nIvy:\n= issues 'go to your room' commands\n= but Adela refuses AND challenges her authority\n= Ivy's commands fail = she IS dominated by Adela ✗\n\nMonica:\n= tries to remove Adela: 'Come on, Della. Let's go out on the verandah'\n= Adela refuses: 'No! I want to know...'\n= Adela then TAKES MONICA'S ARM and they head for the doorway (line 35)\n= Monica intended to remove Adela; instead Adela removes Monica\n= Monica IS dominated by Adela in the end ✗\n\nAdela:\n= refuses Ivy's room command\n= speaks for Charles without correction\n= reverses Monica's manoeuvre\n= drives her own agenda throughout\n= LEAST dominated ✓ = B\n\n[Why Monica seems strong but isn't]\nMonica = sensible, level-headed, mediating\n= these traits suggest SOCIAL SKILL, not dominance-resistance\n= being reasonable ≠ being hard to dominate\n= Adela literally manoeuvres Monica out of the room",
+      "action": "Action Rule (Q24): For 'least dominated' questions — audit each character against domination attempts. Find who REFUSES control AND successfully resists. Adela: refuses room command + reverses Monica's removal attempt. Monica: manoeuvred by Adela in the end. Evidence audit → B."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u133_meta_drama_social_function_device",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 133 — Meta: Drama Analysis",
+    "quiz": {
+      "question": "[Unit 133 — Meta Pattern]\n\nQ16: chose A (disengage from Adela) — missed social manoeuvre function\nQ17: chose D (pity) — wrong emotional register (should be forbearance)\nQ19: chose A (determined) — missed passivity evidence\nQ23: chose D (Adela in conflict) — surface observation not literary function\nQ24: chose D (Monica) — confused social skill with dominance-resistance\n\nAll five errors share two root causes. Which correctly identifies both?",
+      "options": [
+        "All five are vocabulary errors — unfamiliar dramatic terms",
+        "Root 1 = TONE/REGISTER PRECISION: Q16 (social manoeuvre ≠ avoidance), Q17 (forbearance ≠ pity), Q19 (passive ≠ determined) — each chose the nearest familiar emotion/trait instead of the precise one the scene encodes. Root 2 = SURFACE vs FUNCTION: Q23 (conflict observation ≠ power device function), Q24 (seeming strong ≠ actually least dominated) — each stopped at the observable surface instead of asking 'what does this achieve/reveal?'",
+        "All five are targeting errors — wrong paragraph",
+        "All five are Too Extreme errors"
+      ],
+      "correctIdx": 1,
+      "answer": "② Root 1 = tone/register precision (nearest familiar ≠ precise) / Root 2 = surface vs function (observable ≠ what it achieves)",
+      "explanation": "[Root 1: Tone/Register Precision]\nQ16: social manoeuvre (reciprocal attention) → chose avoidance (simpler, familiar)\nQ17: forbearance (resigned tolerance) → chose pity (simpler, more emotional)\nQ19: capable of being manoeuvred (passive) → chose determined (opposite)\n\nFix: For every emotional/attitude choice, ask:\n'What PRECISE quality does THIS specific speech act or behaviour encode?'\nDon't settle for the nearest familiar category\n\n[Root 2: Surface vs Function]\nQ23: observed 'Adela is in conflict' (surface) → missed 'power relationships' (function of device)\nQ24: observed 'Monica seems strong' (surface) → missed 'Adela actually resists most' (evidence audit)\n\nFix: For device questions → 'WHY did the author use THIS specific element?'\nFor character questions → audit ALL characters against the criterion\n\n[Drama-specific reading rules]\n1. Every speech act has a SOCIAL FUNCTION (not just emotional expression)\n2. Character traits must be supported by BEHAVIOURAL EVIDENCE\n3. Literary devices have FUNCTIONS beyond their surface effect\n4. 'Least X' questions require auditing ALL characters against X",
+      "action": "Meta Rule (Unit 133):\nTone precision: ask 'what PRECISE quality does this encode?' — not the nearest familiar emotion.\nSurface vs function: for devices ask 'WHY this specific choice?'; for character questions audit ALL characters against the criterion before choosing."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u132_q14_targeting_exclusive_empathy",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 132 — Q14 Targeting (D→A)",
+    "quiz": {
+      "question": "[Q14 — Targeting: What is the NATURE of the relationship?]\n\nPassage (lines 1–2):\n\"<em>They</em> are the only ones who understand <em>me</em>.\nI am the only one who understands <em>them</em>.\"\n\nQ: Cisneros sees her relationship with the trees as ______.\n\nYour path — D then C, correct — A: <strong>exclusive in their empathy for one another</strong>\n\nWhy do D and C describe Cisneros's state, not the RELATIONSHIP between her and the trees?",
+      "options": [
+        "D is correct because the trees symbolise Cisneros's disconnection from Mango Street",
+        "D (unconnectedness with environment) describes Cisneros's SITUATION. C (lack of care from others) describes how OTHERS treat her. Neither describes the TWO-WAY relationship between Cisneros and the trees. A captures the MUTUAL bond: 'only ones who understand me' + 'I am the only one who understands them' = exclusive empathy flowing in BOTH directions.",
+        "C is correct because the city planted the trees without caring about Cisneros",
+        "A is wrong because trees cannot truly empathise with humans"
+      ],
+      "correctIdx": 1,
+      "answer": "② D = her situation / C = others' attitude / A = the two-way mutual bond = exclusive empathy",
+      "explanation": "[The subject-object targeting discipline]\nQuestion: 'Cisneros sees her RELATIONSHIP WITH THE TREES as...'\n= asking about: the bond BETWEEN her and the trees\n= not about: her situation / how others treat her\n\n[Testing D: 'symbol of her unconnectedness with her environment']\n= describes Cisneros's ISOLATION from the environment\n= trees = symbol of her disconnection\n= this is about HER STATE, not the two-way relationship\n= wrong subject ✗\n\n[Testing C: 'reflection of lack of care others have for them']\n= describes how OTHERS neglect the trees (and by extension, her)\n= about OTHERS' attitude, not the Cisneros-tree bond\n= wrong subject ✗\n\n[Paraphrase chain → A]\n'They are the ONLY ones who understand ME'\n+ 'I am the ONLY one who understands THEM'\n= mutual understanding, exclusive to these two\n= no one else is in this understanding\n= EXCLUSIVE IN THEIR EMPATHY FOR ONE ANOTHER ✓\n\n[The two signals]\n'only ones' = exclusivity (no one else)\n'understand' = empathy\n'mutual' = flows both ways (they→me, me→them)\n= exclusive mutual empathy = A ✓",
+      "action": "Action Rule (Q14): 'Relationship with X' questions require a TWO-WAY bond description. Check: does the choice describe BOTH parties (Cisneros AND trees)? D = her alone. C = others. A = both = the relationship. Lock onto 'They understand me / I understand them' as the anchor."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u132_q17_paraphrase_appearance_misplacement",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 132 — Q17 Paraphrase (B→D)",
+    "quiz": {
+      "question": "[Q17 — Paraphrase: WHY does Cisneros identify with the trees?]\n\nPassage evidence:\nLine 1–2: 'Four skinny trees with skinny necks and pointy elbows <em>like mine</em>.'\nLine 3: 'Four who do <em>not belong here</em> but are here.'\n\nQ: Cisneros identifies with the trees because she and they have similar ______.\n\nYour pick — B: <strong>strengths and locations</strong>\nCorrect — D: <strong>appearance and misplacement</strong>\n\nWhy is 'location' too neutral and 'misplacement' the precise word?",
+      "options": [
+        "B is correct because the trees are strong and Cisneros admires their strength",
+        "'Location' = where something physically is (neutral fact). 'Misplacement' = being in a location where you do NOT belong (emotional/identity dimension). The passage says 'do not BELONG here but are here' = misplacement, not mere location. 'Appearance': 'skinny necks and pointy elbows LIKE MINE' = shared physical appearance. D maps both: appearance (skinny/pointy) + misplacement (not belong here).",
+        "D is wrong because misplacement is too negative a word for this hopeful passage",
+        "B is correct because the trees' strength mirrors Cisneros's resilience"
+      ],
+      "correctIdx": 1,
+      "answer": "② location = neutral fact / misplacement = emotional belonging dimension / appearance = skinny like mine → D",
+      "explanation": "[Two-part paraphrase → D]\nPart 1: APPEARANCE\n'skinny necks and pointy elbows LIKE MINE'\n= the trees look like Cisneros physically\n= shared appearance ✓\n\nPart 2: MISPLACEMENT\n'Four who do NOT BELONG here but are here'\n= they are in a place they don't fit\n= not just 'location' (where) but 'misplacement' (wrong place for them)\n= emotional/identity dimension of being out of place ✓\n\n[Why B's 'location' is too shallow]\nlocation = physical place (neutral)\n= 'they are on Mango Street, so am I' (factual)\n\nmisplacement = being WHERE YOU DON'T BELONG\n= 'we are here but we don't fit here' (emotional)\n= passage: 'do not BELONG here' = misplacement ✓\n\n[3-step inference chain (from analysis notes)]\nStep 1 (fact): Trees are skinny\nStep 2 (emotion): So am I — 'like mine'\nStep 3 (inference): We both don't belong in this barren place = misplacement\n\n[Why 'strengths' doesn't fit here]\nB: 'strengths and locations'\nStrengths = capability, resilience\n= trees' strength is in lines 5–8 (ferocious roots, bite the sky)\n= Q17 asks about lines 1–3 specifically\n= 'strengths' not anchored in the identification passage",
+      "action": "Action Rule (Q17): Distinguish 'location' (neutral fact: where) from 'misplacement' (emotional: where you don't belong). Passage says 'do not BELONG here' → misplacement, not location. Always carry the emotional charge of the word into the paraphrase."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u132_q17_subjective_inference_chain",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Unit 132 — Q17 Inference Drill",
+    "quiz": {
+      "question": "[Q17 — 3-Step Inference Drill]\n\nPassage: 'skinny necks and pointy elbows <em>like mine</em>' + 'do not <em>belong</em> here but are here'\n\nComplete the inference chain → Choice D:\n\n① Fact: trees are skinny and pointy\n② Emotion: 'like mine' → shared ________\n③ Inference: 'not belong here' → we are both ________ in this place\n\n→ Choice D: ________ and ________\n\n(Tap to check)",
+      "answer": "② appearance  ③ misplaced  → appearance and misplacement",
+      "explanation": "[3-step chain]\n① Trees = skinny necks, pointy elbows\n② 'like mine' = Cisneros also has this → shared APPEARANCE\n③ 'do not belong here but are here' = both are in the wrong place → MISPLACEMENT\n\n[Combined → D]\nappearance (physical similarity) + misplacement (belonging dimension)\n= 'appearance and misplacement' ✓\n\n[Why B fails]\n'strengths' → not in lines 1–3\n'locations' → neutral fact, not the belonging dimension\n= B reads the WHERE without the emotional BELONGS/DOESN'T BELONG layer",
+      "action": "Drill habit: 'like mine' → appearance / 'do not belong here' → misplacement. The word 'belong' is the key — it transforms a neutral location into an emotionally charged misplacement."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u132_q19_paraphrase_solace_not_futile",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 132 — Q19 Paraphrase (C→A)",
+    "quiz": {
+      "question": "[Q19 — Paraphrase: Passage tone → solace or futile?]\n\nPassage overall evidence:\n• 'They are the only ones who understand me' → comfort\n• 'This is how they keep. Keep, keep, keep' → trees teach survival\n• 'I look at trees. When there is nothing left to look at' → trees = refuge\n• 'Four who reach and do not forget to reach' → aspiration, not futility\n\nQ: The passage as a whole indicates ______.\n\nYour pick — C: <strong>that identification with other species is futile</strong>\nCorrect — A: <strong>a need to provide solace for the lonely</strong>\n\nKey vocab: solace = 위안 (comfort in difficulty) / futile = 헛된 (pointless, no result)\n\nWhy does C contradict the passage's entire emotional direction?",
+      "options": [
+        "C is correct because the trees cannot actually understand Cisneros — it is futile to think so",
+        "C (futile) = identification is pointless/hopeless. But the passage presents the tree-Cisneros bond as MEANINGFUL and SUSTAINING: they understand her, they teach her to keep going, she looks to them when there is nothing else. The passage's direction is POSITIVE (trees = comfort, survival, aspiration). A: 'solace for the lonely' = comfort for those who feel out of place = exactly what the trees provide Cisneros.",
+        "A is wrong because Cisneros is angry, not comforted, in this passage",
+        "C is correct because Cisneros cannot actually leave Mango Street"
+      ],
+      "correctIdx": 1,
+      "answer": "② C (futile) contradicts the passage — trees are meaningful and sustaining / A (solace) = comfort the trees provide = passage direction",
+      "explanation": "[Passage tone audit — positive or negative?]\n'Only ones who understand me' → comfort, connection (POSITIVE)\n'They teach' → the trees offer guidance (POSITIVE)\n'I look at trees when there is nothing left' → trees = refuge/solace (POSITIVE)\n'Reach and do not forget to reach' → aspiration, persistence (POSITIVE)\n\n= overall tone: trees = meaningful, sustaining, comforting\n= direction: POSITIVE (not futile)\n\n[Paraphrase chain → A]\n'only ones who understand me' + 'I look at them when there is nothing left'\n= trees provide comfort to someone lonely/isolated\n= SOLACE (위안) for the lonely ✓\n\n[Why C (futile) directly contradicts]\nfutile = pointless, without result\n= if identification is futile, the trees would NOT help Cisneros\n= but the passage shows they DO: they teach her, comfort her, sustain her\n= C is the OPPOSITE of what the passage argues\n\n[Vocab precision for exam]\nsolace (위안):\n= comfort found in a difficult situation\n= positive: something that helps you endure\n= direction: ✓ matches passage tone\n\nfutile (헛된):\n= producing no result, useless\n= negative: effort/identification leads nowhere\n= direction: ✗ contradicts passage tone\n\n[Quick tone filter]\nIs the passage saying the tree-bond HELPS Cisneros? → YES → not futile\nIs the passage saying the trees COMFORT her? → YES → solace",
+      "action": "Action Rule (Q19): Before choosing between opposite-valence choices (solace=positive vs futile=negative) — run a tone audit: does the passage present the relationship as helpful/meaningful or pointless/hopeless? Trees teach, comfort, sustain = positive = solace (A). Futile directly contradicts the passage."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u132_vocab_solace_vs_futile",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Unit 132 — Vocab: solace vs futile",
+    "quiz": {
+      "question": "[Vocab Precision Card: solace vs futile]\n\nComplete:\n\n① solace (위안) = comfort found in ________ situation\n   → passage signal: trees HELP / TEACH / SUSTAIN Cisneros\n   → direction: ________ (positive/negative)\n\n② futile (헛된) = effort that produces ________ result\n   → passage signal: would mean trees DON'T help\n   → direction: ________ (positive/negative)\n\n③ Q19 passage tone = trees are meaningful → answer = ________\n\n(Tap to check)",
+      "answer": "① a difficult  positive  ② no  negative  ③ solace (A)",
+      "explanation": "[Full vocab map]\nsolace:\n= comfort in difficulty\n= something that eases pain or loneliness\n= ex: 'She found solace in music' = music comforted her\n= POSITIVE direction\n= passage: trees understand, teach, sustain → solace ✓\n\nfutile:\n= producing no result, pointless\n= ex: 'It was futile to argue' = arguing achieved nothing\n= NEGATIVE direction\n= passage: trees DO help → NOT futile ✗\n\n[3-second tone filter for exam]\nSee 'solace' → ask: 'Does X comfort/help Y?' YES → solace fits\nSee 'futile' → ask: 'Does X achieve nothing?' YES → futile fits\n\nPassage: trees help Cisneros → solace fits / futile doesn't\n= A ✓",
+      "action": "Vocab drill: solace = comfort in hardship (positive) / futile = pointless (negative). In literary passages, always match the word's DIRECTION (positive/negative) to the passage's overall tone before accepting it as an answer."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u132_meta_mutual_bond_tone_direction",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 132 — Meta: Mutual bond + Tone direction",
+    "quiz": {
+      "question": "[Unit 132 — Meta Pattern]\n\nQ14 error: chose D (her disconnection) — described HER STATE not the TWO-WAY bond\nQ17 error: chose B (strengths/locations) — 'location' too neutral, missed 'misplacement'\nQ19 error: chose C (futile) — opposite tone direction to passage\n\nThree different bugs. Which correctly identifies all three?",
+      "options": [
+        "All three are vocabulary errors — unfamiliar words caused misreading",
+        "Q14 = subject-lock failure (relationship = two-way bond, not her state alone). Q17 = emotional charge failure ('location' = neutral fact, 'misplacement' = 'where you don't belong' — carry the belonging dimension). Q19 = tone direction failure (futile = negative contradicts positive passage).",
+        "All three are targeting errors — wrong paragraph",
+        "All three are Too Extreme errors"
+      ],
+      "correctIdx": 1,
+      "answer": "② Q14 = two-way bond (not her state) / Q17 = carry belonging charge (location→misplacement) / Q19 = tone direction (futile contradicts positive passage)",
+      "explanation": "[Q14 — Two-way bond failure]\nQuestion: her RELATIONSHIP with trees\n= requires: BOTH parties described\nD: describes HER disconnection (one-way, about her)\nA: 'exclusive empathy for ONE ANOTHER' (two-way) ✓\n\nFix: 'relationship' questions = must describe BOTH sides of the bond\n\n[Q17 — Emotional charge failure]\nB: 'locations' = neutral fact (they're both on Mango Street)\nD: 'misplacement' = charged fact (they don't BELONG here)\n'Location' loses the 'do not belong' emotional dimension\nFix: when passage says 'do not belong here' → carry 'belong' into the paraphrase\n= misplacement (not mere location)\n\n[Q19 — Tone direction failure]\nC: futile = pointless, negative\nPassage tone: trees sustain, teach, comfort = positive\n= opposite directions\nFix: before choosing between valence opposites — run passage tone audit\npositive passage → choose positive-direction word (solace)\n\n[Three fixes summary]\nQ14: Is the answer about BOTH parties? (two-way check)\nQ17: Does the word carry the EMOTIONAL CHARGE of the passage? (belonging vs mere location)\nQ19: Does the word's DIRECTION match the passage tone? (positive/negative)",
+      "action": "Meta Rule (Unit 132):\nQ14-type: 'relationship' = two-way — reject one-sided answers.\nQ17-type: carry the emotional charge — 'not belong here' → misplacement (not location).\nQ19-type: check tone direction first — positive passage → positive-valence word (solace not futile)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
