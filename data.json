@@ -2413,5 +2413,131 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u131_q45_targeting_relief_escape_call",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 131 — Q45 Targeting (D→A)",
+    "quiz": {
+      "question": "[Q45 — Targeting: What is the DIRECT trigger for Sylvia's relief?]\n\nPassage (lines 1–5):\n'Sylvia heard a key in the lock, and turned eagerly to the door.'\n'Sylvia spoke to her mother with the <em>animation of relief</em>.'\nContext: Sylvia had been talking to her mother 'for some time'\n\nQ: Which seems the most likely explanation for Sylvia's relief?\n\nYour pick — D: <strong>Sylvia was looking forward to seeing her mother</strong>\nCorrect — A: <strong>Stewart's arrival meant she wouldn't have to talk to her mother much longer</strong>\n\nWhy does D contradict the passage and A capture the causal logic?",
+      "options": [
+        "D is correct because Sylvia arranges to see her mother the next day",
+        "D contradicts the emotional evidence: Sylvia feels RELIEF when Stewart arrives — not excitement about seeing her mother. Relief = escape from something unpleasant. The unpleasant thing = the prolonged call ('some time'). Stewart's arrival = pretext to end the call. A: 'wouldn't have to talk much longer' = the escape = the relief trigger.",
+        "A is wrong because Sylvia could have ended the call at any time",
+        "D is correct because Sylvia says 'When shall I see you, mum?'"
+      ],
+      "correctIdx": 1,
+      "answer": "② D = looking forward to mother (contradicts relief signal) / A = escape from prolonged call = direct relief trigger",
+      "explanation": "[Relief signal decoded]\nrelief = a feeling of being freed from something burdensome\n= you feel relief when something UNPLEASANT ENDS or you escape it\n= NOT when something pleasant approaches\n\n[Causal chain → A]\nSylvia has been on the phone 'for some time'\n= the call has gone on too long\nStewart arrives → Sylvia turns 'eagerly'\n= Stewart = pretext to end call\n= 'animation of relief' = she can now naturally wrap up\n= A: 'wouldn't have to talk to her mother much longer' ✓\n\n[Why D contradicts]\nD: 'looking forward to seeing her mother'\n= if true → Sylvia would feel EXCITEMENT, not relief\n= relief = release from something, not anticipation of something positive\n= D is the wrong emotional register for 'relief'\n\n[The 'some time' signal]\n'Has been talking...for some time' = established duration/burden\n= the call is already long\n= Stewart = the escape hatch\n= relief = finally, I can end this",
+      "action": "Action Rule (Q45): 'Relief' = release from something burdensome (not positive anticipation). Find what was burdensome (prolonged call) and what ended it (Stewart's arrival). A = the escape from the call = the relief trigger. D misidentifies the emotion as positive anticipation."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u131_q47_vocab_bedizened_affected_vulgar",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 131 — Q47 Vocab (D→A)",
+    "quiz": {
+      "question": "[Q47 — Vocabulary: What do 'bedizened' and 'affected' reveal about Molly?]\n\nPassage (lines 20–23):\n'Wearing one of her black dresses, and <em>bedizened</em> with art jewelry,\nthis Molly stands with her weight on one high heel,\nand the opposite hip widely <em>canted</em>.\nOne hand holds a glass of beer, and the other slaps her chest\nto prove how helpless is her laughter.'\n\nQ: The description suggests Molly in her early forties was ______.\n\nYour pick — D: <strong>glamorous and sophisticated</strong>\nCorrect — A: <strong>vulgar and affected</strong>\n\nHow do 'bedizened' and the body language decode to A?",
+      "options": [
+        "D is correct because Molly wears jewellery and holds herself with attitude",
+        "'Bedizened' = garishly over-decorated (cheaply showy, NOT elegantly sophisticated). 'Affected' = artificially performed, unnatural. Combined with: hip canted, chest-slapping, over-the-top laughter = performed vulgarity, not genuine elegance. D (glamorous/sophisticated) would require understated, natural elegance — the opposite of what the passage shows.",
+        "A is wrong because 'art jewelry' implies genuine artistic taste",
+        "D is correct because Molly is clearly the centre of attention in the scene"
+      ],
+      "correctIdx": 1,
+      "answer": "② bedizened = garishly over-decorated (vulgar) / affected = artificially performed / body language = exaggerated vulgarity → A",
+      "explanation": "[Vocabulary decoded]\nbedizened (야하게 치장된):\n= decorated in a cheap, garish, overdone way\n= NOT elegant — excessive and tasteless\n= → vulgar (저속한) ✓\n\naffected (인위적인, 가식적인):\n= behaving unnaturally, putting on a performance\n= NOT genuine or spontaneous\n= → affected (가식적인) ✓\n\n[Body language evidence]\n'hip widely canted' = exaggerated, performative pose\n'slaps her chest to prove how helpless is her laughter'\n= theatrical, overdone gesture\n= nothing subtle or sophisticated here\n\n[Why D (glamorous/sophisticated) fails]\nglamorous = attractively exciting, elegant\nsophisticated = refined, having good taste\n= both require: natural elegance, restraint, genuine style\n= bedizened + canted hip + chest-slapping = the opposite\n= exaggerated, artificial, overdone\n\n[Paraphrase chain → A]\nbedizened → vulgar (cheap showiness)\naffected → affected (artificially performed)\n= vulgar and affected ✓",
+      "action": "Action Rule (Q47): 'Bedizened' = garishly over-decorated = vulgar (NOT glamorous). 'Affected' = artificially performed = not genuine. Combined with theatrical body language = vulgar and affected = A. D requires natural elegance — bedizened is its opposite."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u131_q48_targeting_self_critical_not_jealous",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 131 — Q48 Targeting (C→D)",
+    "quiz": {
+      "question": "[Q48 — Targeting: What does Sylvia REFLECT on?]\n\nPassage (lines 24–27):\n'She was depressed by the comparison with her own attitude towards her mother\n— so <em>stiff, dumb, and unloving</em>.'\n\nQ: Sylvia's comparison makes her reflect ______.\n\nYour pick — C: <strong>jealously that Molly clearly prefers Stewart to her</strong>\nCorrect — D: <strong>self-critically on her own failure to respond more warmly</strong>\n\nWhere does Sylvia direct her negative feeling — at Stewart/Molly, or at herself?",
+      "options": [
+        "C is correct because Sylvia notices Stewart's closer relationship with Molly",
+        "C requires: Sylvia feels JEALOUS OF Stewart's relationship with Molly (anger directed outward). But the passage says she was depressed by the comparison with HER OWN attitude — 'stiff, dumb, and unloving' = self-assessment. The emotion is directed INWARD (self-criticism), not outward (jealousy). D: 'self-critically on her own failure' = matches the inward direction ✓",
+        "D is wrong because Sylvia has every right to feel jealous",
+        "C is correct because 'depressed by the comparison' implies she resents Stewart's ease"
+      ],
+      "correctIdx": 1,
+      "answer": "② C = emotion directed at Stewart/Molly (outward) / D = emotion directed at herself (inward) — passage: 'her OWN attitude... stiff, dumb, unloving'",
+      "explanation": "[Emotion direction: inward vs outward]\nJealousy (C):\n= directed OUTWARD at another person\n= 'I resent Stewart for having what I don't'\n= requires: Sylvia blames Stewart or Molly\n\nSelf-criticism (D):\n= directed INWARD at oneself\n= 'I am the problem — I can't respond warmly'\n= requires: Sylvia assesses her own deficiency\n\n[Passage evidence]\n'She was depressed by the comparison with HER OWN attitude'\n= HER OWN → the focus is on HERSELF\n'stiff, dumb, and unloving'\n= these are descriptions of HER, not of Stewart\n= she is cataloguing her own failures\n= INWARD direction = self-criticism = D ✓\n\n[Why C is the wrong direction]\nC: 'jealously that Molly PREFERS Stewart'\n= focuses on Molly's preference (external)\n= Sylvia would need to feel: 'Mum likes him more than me'\n= the passage does NOT say this\n= passage says: 'I am stiff and unloving' (internal)\n\n[The key signal: 'her own']\n'Comparison with HER OWN attitude'\n= the comparison object = her own behaviour\n= self-directed reflection = D ✓",
+      "action": "Action Rule (Q48): Check the DIRECTION of Sylvia's negative feeling. 'Her own attitude — stiff, dumb, unloving' = inward self-assessment. Jealousy (C) = outward blame. Self-criticism (D) = inward evaluation. The word 'own' locks the direction inward = D."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u131_q49_paraphrase_incredible_distance",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 131 — Q49 Paraphrase (A→C)",
+    "quiz": {
+      "question": "[Q49 — Paraphrase: What does 'incredible distance' mean?]\n\nPassage (lines 27–29):\n'Yet on the other side of the barrier, in the far, <em>incredible distance</em>,\nwas the landscape of early childhood: of giggles, secrets,\nand walks to the shops hand-in-hand.'\n\nQ: When Sylvia remembers her early childhood, she ______.\n\nYour pick — A: <strong>becomes depressed about how little her feelings have changed</strong>\nCorrect — C: <strong>can hardly believe that it could ever have been so, given her present feelings</strong>\n\nWhat does 'incredible' actually mean here, and how does it map to C?",
+      "options": [
+        "A is correct because Sylvia is clearly depressed throughout the passage",
+        "'Incredible' = hard to believe, almost unreal. 'Far, incredible distance' = not just physically remote but almost unbelievable in contrast to the present. C: 'can hardly believe it could ever have been so' = direct paraphrase of 'incredible distance'. A describes Sylvia's general depression but misses the specific 'believability' dimension of the word 'incredible'.",
+        "C is wrong because the childhood memories are clearly positive and comforting",
+        "A is correct because 'depressed' appears explicitly in the passage"
+      ],
+      "correctIdx": 1,
+      "answer": "② incredible = hard to believe / 'far incredible distance' → 'can hardly believe it could have been so' = C",
+      "explanation": "[Vocabulary: 'incredible' decoded]\nincredible = impossible to believe, beyond credibility\n= not just 'far away' but 'almost unreal'\n\n[The full phrase]\n'far, incredible distance'\n= the childhood is both temporally distant AND emotionally unbelievable\n= given Sylvia's CURRENT coldness toward her mother\n= the warm childhood (giggles, hand-in-hand) seems IMPOSSIBLE to have been real\n\n[Paraphrase chain → C]\n'incredible distance' = hard to believe it was ever real\n= 'can hardly believe that it could ever have been so'\n= 'given her present feelings about her mother'\n= the contrast between past warmth and present coldness = the disbelief ✓\n\n[Why A is the wrong dimension]\nA: 'becomes depressed about how little her feelings have changed'\n= focuses on feelings NOT changing\n= but passage shows: feelings HAVE changed dramatically (warm childhood → cold present)\n= A misreads the direction of change\n= also misses the 'believability' dimension of 'incredible'\n\n[The 3-step inference chain]\n① fact: childhood had giggles, secrets, hand-in-hand walks\n② present: Sylvia is stiff, dumb, unloving toward mother\n③ inference: 'incredible' = the contrast makes childhood feel unreal = C",
+      "action": "Action Rule (Q49): 'Incredible' = hard to believe (not just distant). 'Far, incredible distance' = the warm childhood seems almost unreal given current coldness. C directly paraphrases this: 'can hardly believe it could ever have been so'. A misses the 'believability' dimension entirely."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u131_q50_paraphrase_inner_outer_mismatch",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 131 — Q50 Paraphrase (A→B)",
+    "quiz": {
+      "question": "[Q50 — Paraphrase: What do the last two sentences suggest?]\n\nPassage (lines 34–35):\n'Whatever her words, Sylvia's voice was always <em>gentle and soft</em>.'\n'Back to where I'm going to be called Syl?'\n\nContext: Sylvia is internally stiff, dumb, and unloving toward her mother.\n\nQ: The last two sentences suggest that Sylvia ______.\n\nYour pick — A: <strong>is beginning to feel more relaxed about her return home</strong>\nCorrect — B: <strong>often sounds less aggressive than she feels</strong>\n\nWhat is the GAP the passage is pointing to?",
+      "options": [
+        "A is correct because Sylvia's gentle voice shows she is warming up",
+        "The passage establishes: inner state = stiff/unloving/depressed. Outer voice = 'always gentle and soft'. B: 'sounds less aggressive than she feels' = the outer voice (gentle) misrepresents the inner state (unloving/stiff). A misreads the gentle voice as genuine relaxation — but the word 'whatever her words' signals the voice is INDEPENDENT of her feelings, not reflecting them.",
+        "B is wrong because gentle and soft = genuine warmth, not hidden aggression",
+        "A is correct because she makes plans to see her mother showing positive feelings"
+      ],
+      "correctIdx": 1,
+      "answer": "② inner = stiff/unloving / outer voice = always gentle and soft → sounds less aggressive than she feels = B",
+      "explanation": "[The inner-outer gap]\nInner state (established throughout passage):\n= stiff, dumb, unloving, depressed\n= Sylvia does NOT feel warm toward her mother\n\nOuter expression (lines 34–35):\n= 'voice was ALWAYS gentle and soft'\n= her voice doesn't match her inner coldness\n\n[The word 'whatever']\n'WHATEVER her words, Sylvia's voice was always gentle and soft'\n= regardless of content = her voice is ALWAYS gentle\n= it is independent of her feelings\n= not a sign of genuine warmth — a habitual surface quality\n\n[Paraphrase chain → B]\ninner: stiff/unloving = aggressive/cold\nouter voice: gentle and soft = less aggressive\n= 'sounds LESS AGGRESSIVE than she FEELS' ✓\n\n[Why A is wishful misreading]\nA: 'beginning to feel more relaxed about her return'\n= requires: her gentleness = genuine change in feeling\nBut: 'ALWAYS gentle and soft' = habitual, not new\n= she was always like this, regardless of feeling\n= A mistakes the habitual surface quality for an emotional shift\n\n[The literary technique]\nThis gap (inner coldness / outer gentleness) is the passage's psychological portrait of Sylvia\n= she presents warmth she doesn't feel\n= B captures this exactly: sounds less aggressive than she feels",
+      "action": "Action Rule (Q50): 'Whatever her words...always gentle and soft' = habitual outer quality INDEPENDENT of inner state. The gap = inner coldness vs outer gentleness = B (sounds less aggressive than she feels). A mistakes habitual surface behaviour for genuine emotional change."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u131_meta_emotion_direction_inner_outer",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 131 — Meta: Emotion Direction + Inner/Outer Gap",
+    "quiz": {
+      "question": "[Unit 131 — Meta Pattern]\n\nQ45: chose D (looking forward to mother) — misread relief as positive anticipation\nQ47: chose D (glamorous) — missed bedizened = garish/vulgar\nQ48: chose C (jealous of Stewart) — emotion directed outward, passage directs inward\nQ49: chose A (depressed) — missed 'incredible' = hard to believe dimension\nQ50: chose A (relaxing) — missed habitual voice ≠ genuine feeling\n\nTwo root causes account for all five. Which correctly identifies them?",
+      "options": [
+        "All five are vocabulary errors — unfamiliar words",
+        "Root 1 = EMOTION REGISTER/DIRECTION failure: Q45 (relief ≠ anticipation), Q48 (inward self-criticism ≠ outward jealousy), Q50 (habitual surface ≠ genuine change). Root 2 = VOCABULARY DIMENSION failure: Q47 (bedizened = garish, not glamorous), Q49 (incredible = unbelievable, not just sad). Both require asking: 'What PRECISE quality does this word/emotion encode?'",
+        "All five are targeting errors — wrong paragraph",
+        "All five are Too Extreme errors"
+      ],
+      "correctIdx": 1,
+      "answer": "② Root 1 = emotion register/direction (relief/inward/habitual surface) / Root 2 = vocabulary dimension (bedizened=garish, incredible=unbelievable)",
+      "explanation": "[Root 1: Emotion register and direction]\nQ45: relief = escape from burden (not positive anticipation)\nQ48: 'her own attitude' = inward self-criticism (not outward jealousy)\nQ50: 'whatever...always' = habitual surface (not genuine emotional shift)\n\nFix: For every emotion/attitude choice — ask:\n① What DIRECTION does the feeling go? (inward/outward)\n② What REGISTER is it? (escape/anticipation/habituation/genuine change)\n\n[Root 2: Vocabulary dimension]\nQ47: bedizened = garish over-decoration (vulgar, not glamorous)\nQ49: incredible = hard to believe (not just 'very far')\n\nFix: For unfamiliar or ambiguous words — decode the FULL dimension\nbedizened: flashy + cheap + over-done = vulgar (not sophisticated)\nincredible: not believable + contrast with present = disbelief dimension\n\n[Sylvia's character portrait — the passage's central psychology]\nInner: cold, stiff, unloving, self-critical\nOuter: gentle voice, surface warmth\nPast: warm childhood that now seems unreal\nPresent: disconnected, depressed by her own coldness\n= every question in this passage tests whether you track this inner-outer gap",
+      "action": "Meta Rule (Unit 131):\nEmotion questions: check direction (inward/outward) and register (escape/anticipation/habituation).\nVocabulary questions: decode the FULL dimension, not just the surface meaning.\nOverarching: track the inner-outer gap throughout — Sylvia's voice ≠ her feelings, her present ≠ her past."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
