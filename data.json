@@ -2539,5 +2539,131 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u130_q14_paraphrase_uncertain_margaret",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 130 — Q14 Paraphrase (B→C)",
+    "quiz": {
+      "question": "[Q14 — Paraphrase: Why was Justin looking out at the ocean?]\n\nPassage context:\n• Justin came down BY TRAIN to stay with Margaret\n• He was at the beach BEFORE Conrad appeared\n• Line 56: 'I had no idea he had a place down here' — Justin did NOT know his father was there\n• Line 65: Justin says he thought Margaret was bored, everything sounds like a cliché\n\nQ: Just before Conrad appeared, Justin was most likely ______.\n\nYour pick — B: <strong>frustrated that he had never been able to reconcile with his father</strong>\nCorrect — C: <strong>uncertain of his next move in his relationship with Margaret</strong>\n\nWhy does B fail the timeline test?",
+      "options": [
+        "B is correct because Justin clearly has unresolved issues with his father",
+        "B fails the TIMELINE TEST: Justin did not know Conrad was nearby ('I had no idea'). He cannot be thinking about reconciling with his father when he doesn't know his father is there. C is anchored in Justin's actual situation: he came to see Margaret but feels uncertain (cliché worry, age gap). Sitting alone at the ocean = mulling over what to do about Margaret.",
+        "C is wrong because Justin never directly expresses uncertainty about Margaret",
+        "B is correct because father-son conflict is the main theme of the play"
+      ],
+      "correctIdx": 1,
+      "answer": "② B fails timeline test (didn't know Conrad was there) / C anchored in Justin's actual concern = Margaret relationship",
+      "explanation": "[Timeline test on B]\nFor B to be true: Justin must be thinking about his father BEFORE Conrad appears\nBut: 'I had no idea he had a place down here' (line 56)\n= Justin had NO EXPECTATION of seeing Conrad\n= he cannot be mulling over father reconciliation when father is not in his thoughts\n= B is impossible given the timeline ✗\n\n[Evidence for C]\nJustin's PURPOSE: came by train to stay with Margaret\nJustin's concern: 'everything I say must sound like a cliché' (line 65)\n= worried about how he comes across to Margaret (21-year age gap)\n= age difference + social awkwardness = relationship uncertainty\n= sitting alone at the ocean = collecting thoughts about Margaret situation\n\n[Paraphrase chain → C]\n'cliché' worry + age gap anxiety + hesitation\n= uncertain of his next move in his relationship with Margaret ✓\n\n[The timeline rule]\nBefore identifying someone's mental state — verify WHAT THEY KNEW at that moment\nJustin at beach: knew about Margaret, did NOT know about Conrad\n= his thoughts = Margaret situation (C), not father reconciliation (B)",
+      "action": "Action Rule (Q14): Timeline test — what did the character KNOW at the relevant moment? Justin didn't know Conrad was nearby → B eliminated. His actual concern = Margaret relationship = C. Always verify the character's knowledge state before assigning mental content."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u130_q15_targeting_same_emotion_eight_years",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 130 — Q15 Targeting (A→B)",
+    "quiz": {
+      "question": "[Q15 — Targeting: Which combination requires the SAME emotion?]\n\nEmotion analysis:\n• 1st 'Eight years' (line 17): Conrad says 'We haven't seen each other for something like...' → Justin corrects him DEFINITIVELY = assertive/defiant\n• 2nd 'Eight years' (line 19): Conrad says 'It can't be that long' → Justin REPEATS = same assertive correction\n• 1st 'Yes' (line 58): [guiltily] Yes → mixed with guilt\n• 2nd 'Yes' (line 60): Yes → acknowledging he saw her\n\nQ: Which combination requires the actor to display the SAME emotion?\n\nYour pick — A: 1st 'Eight years' + 1st 'Yes'\nCorrect — B: 1st 'Eight years' + 2nd 'Eight years'",
+      "options": [
+        "A is correct because both express Justin confirming a fact",
+        "Both 'Eight years' statements perform the SAME function: assertively correcting Conrad's attempt to minimise the estrangement period. Both are defiant confirmations against denial. '1st Yes' is marked [guiltily] = mixed emotion. '2nd Yes' = simple acknowledgment. Only the two 'Eight years' are identical in emotional register: cold, assertive fact-correction.",
+        "B is wrong because the second 'Eight years' is angrier than the first",
+        "A is correct because Justin is uncomfortable in both moments"
+      ],
+      "correctIdx": 1,
+      "answer": "② Both 'Eight years' = same defiant correction against Conrad's denial / '1st Yes' has [guiltily] = different emotion",
+      "explanation": "[Emotion mapping: four moments]\n\n1st 'Eight years' (line 17):\nContext: Conrad says 'something like...'\nJustin: 'Eight years' = cuts in, corrects, states the fact\nEmotion: assertive, defiant, cold ✓\n\n2nd 'Eight years' (line 19):\nContext: Conrad says 'It can't be that long'\nJustin: 'Eight years' = repeats, refuses to let Conrad minimise\nEmotion: assertive, defiant, cold ✓\n= SAME as 1st 'Eight years' ✓\n\n1st 'Yes' (line 58):\nStage direction: [guiltily]\n= guilt mixed in = DIFFERENT emotion ✗\n\n2nd 'Yes' (line 60):\nContext: simple acknowledgment\nEmotion: flat, neutral\n= different from both 'Eight years' ✗\n\n[The stage direction key]\n'[guiltily]' = explicit emotional marker\n= 1st 'Yes' CANNOT match the defiant 'Eight years' emotion\n= A eliminated\n\n[Why B is correct]\nBoth 'Eight years' = identical dramatic function\n= resist Conrad's reframing of time\n= same cold, assertive correction\n= same emotion required from actor = B ✓",
+      "action": "Action Rule (Q15): For 'same emotion' questions — use stage directions as evidence. [guiltily] = mixed emotion ≠ defiant correction. Both 'Eight years' share identical dramatic function: assertive fact-correction against denial. The two 'Yes' responses have different contexts and markers = different emotions."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u130_q17_targeting_imposed_upon",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 130 — Q17 Targeting (D→C)",
+    "quiz": {
+      "question": "[Q17 — Targeting: How does Conrad regard Peter?]\n\nConrad's words:\n'I er, wondered if you had room to put him up...'\n'Peter wouldn't mind.'\n'I'll call back and see you both later.'\n\nQ: Conrad regards ______.\n\nYour pick — D: <strong>himself to be in debt to Peter for the present hospitality</strong>\nCorrect — C: <strong>Peter as able to be imposed upon to help solve his domestic crisis</strong>\n\nWhy does 'Peter wouldn't mind' eliminate D and support C?",
+      "options": [
+        "D is correct because Conrad says he will call back, showing gratitude",
+        "'Peter wouldn't mind' = Conrad ASSUMES Peter's consent without asking properly. If Conrad felt indebted (D), he would ask carefully and apologetically. Instead he states Peter's willingness as a given, then leaves. This is imposing a favour without genuine permission = C: treating Peter as someone who can be imposed upon. D requires Conrad to feel apologetic — he shows no such feeling.",
+        "C is wrong because Conrad is clearly in a difficult situation and deserves sympathy",
+        "D is correct because Conrad promises to call back, showing he values the relationship"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Peter wouldn't mind' = assumes consent without asking = imposing / D requires apologetic tone which Conrad lacks",
+      "explanation": "[Conrad's language decoded]\n'I er, wondered if you had room...' = tentative opening\n'Peter wouldn't mind.' = STATES Peter's willingness as a given\n= Conrad decides FOR Peter that he won't mind\n= he doesn't ask 'would you mind?' — he assumes\n\n'I'll call back and see you both later.'\n= leaves without resolving the imposition\n= treats it as settled before Peter agrees\n\n[Why D fails]\nD: 'in debt to Peter for the present hospitality'\n= Conrad would feel: 'I owe you, I'm sorry to ask this'\n= behaviour needed: apologetic, careful, grateful\n= Conrad's actual behaviour: assumes, states, leaves\n= no apology, no real gratitude = NOT in debt consciousness\n= D eliminated ✗\n\n[Why C matches]\nC: 'able to be imposed upon'\n= Conrad acts as if Peter's help is available by right\n= he burdens Peter (leaves Justin there) without proper consent\n= 'wouldn't mind' = Conrad's assumption, not Peter's agreement\n= IMPOSED UPON ✓\n\n[The power dynamic]\nConrad uses Peter's hospitality without genuine permission\n= treats Peter as a resource for his domestic crisis (calming Jaquie)\n= C captures this transactional, presumptuous attitude ✓",
+      "action": "Action Rule (Q17): 'Peter wouldn't mind' = Conrad decides FOR Peter = imposing without consent = C. If Conrad felt indebted (D), he would ask carefully and apologetically. His tone is presumptuous, not grateful. Presumptuousness = imposing = C."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u130_q18_paraphrase_defensively_so",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 130 — Q18 Paraphrase (B→D)",
+    "quiz": {
+      "question": "[Q18 — Paraphrase: What does Margaret's '[defensively] So?' imply?]\n\nContext (lines 53–55):\nPETER: 'You two, you know each other.'\nMARGARET: [defensively] 'So?'\nPETER: 'Justin is Conrad's son.'\n\nQ: The implication of Margaret's 'So?' is ______.\n\nYour pick — B: <strong>So, Justin is obviously Conrad's son!</strong>\nCorrect — D: <strong>So, Peter, why shouldn't we know one another?</strong>\n\nHow does '[defensively]' decode the meaning of 'So?'",
+      "options": [
+        "B is correct because Margaret is identifying who Justin is to Peter",
+        "[defensively] = she is guarding against implied criticism in Peter's observation. 'So?' as a defensive response = 'what's wrong with that?' = 'why shouldn't we know each other?' = D. B would be an informative response (explaining Justin's identity) — but Margaret says it BEFORE knowing Peter will reveal Justin's parentage. Her 'So?' is a defensive challenge to Peter's surprised tone, not an information statement.",
+        "D is wrong because Margaret doesn't know Peter suspects anything",
+        "B is correct because Margaret is trying to help Peter understand the situation"
+      ],
+      "correctIdx": 1,
+      "answer": "② [defensively] = guarding against implied criticism → 'So?' = 'what's wrong with that?' = why shouldn't we know each other = D",
+      "explanation": "[Stage direction unlocks meaning]\n[defensively] = the speaker feels their behaviour is being questioned\n= they respond by challenging the questioner's implied judgment\n\n[Decoding 'So?' in defensive register]\nNeutral 'So?' = 'continue, tell me more'\nDefensive 'So?' = 'what's wrong with that? / why shouldn't we?'\n= a counter-challenge, not an information request\n\n[Paraphrase chain → D]\n[defensively] + 'So?' = 'why is that a problem?'\n= 'why shouldn't we know one another?'\n= Peter, what are you implying? = D ✓\n\n[Why B fails]\nB: 'So, Justin is obviously Conrad's son'\n= an informative identification statement\n= this would require Margaret to know Peter is confused about Justin's identity\n= but at the moment of 'So?', Peter hasn't yet said 'Justin is Conrad's son'\n= Margaret's 'So?' comes BEFORE that revelation\n= she is reacting to Peter's SURPRISE, not explaining Justin's parentage\n= B is chronologically impossible ✗\n\n[The defensive challenge]\nPeter's tone: surprised (implying: 'how do you know each other?')\nMargaret's response: [defensively] 'So?' = 'what's wrong with us knowing each other?'\n= D captures the challenge: 'why SHOULDN'T we know one another?' ✓",
+      "action": "Action Rule (Q18): Stage directions decode ambiguous speech acts. [defensively] + 'So?' = defensive challenge = 'what's wrong with that?' = D. B requires information-giving intent — but Margaret's defensive register signals counter-challenge, not explanation. Always read the stage direction FIRST."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u130_q19_targeting_asymmetric_attitudes",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 130 — Q19 Targeting (C→A)",
+    "quiz": {
+      "question": "[Q19 — Targeting: Are their attitudes the SAME or DIFFERENT?]\n\nFinal exchange:\nJUSTIN: 'I thought you were probably bored with me. Everything I say must sound like a cliché.' (doubting compatibility)\nMARGARET: 'If I hadn't wanted you here, I wouldn't have asked. Are you coming to my house or not?' (deal is a deal — no renegotiation)\n\nQ: Which best characterises their attitude to each other at this point?\n\nMargaretYour pick — C: doubts their compatibility / doubts their compatibility\nCorrect — A: a deal is a deal / doubts their compatibility\n\nWhy does Margaret's line eliminate C and confirm A?",
+      "options": [
+        "C is correct because both are clearly nervous about the relationship",
+        "C assigns mutual compatibility doubt — but Margaret's line shows NO doubt: 'If I hadn't wanted you, I wouldn't have asked' = she made a decision and stands by it = 'a deal is a deal'. Only JUSTIN expresses doubt ('cliché', hesitation). Margaret's tone is pragmatic and firm, not doubtful. A correctly captures the ASYMMETRY: Margaret = firm commitment / Justin = uncertainty.",
+        "A is wrong because Margaret also hesitates before asking if he's coming",
+        "C is correct because the stage direction shows 'palpable physical attraction' suggesting both are uncertain"
+      ],
+      "correctIdx": 1,
+      "answer": "② C makes them symmetric (both doubtful) / A captures asymmetry: Margaret = deal is a deal / Justin = doubts compatibility",
+      "explanation": "[Two different attitudes — asymmetric]\nJustin:\n'I thought you were probably bored' = self-doubt\n'Everything I say must sound like a cliché' = doubts how he comes across\n= doubts their COMPATIBILITY ✓\n\nMargaret:\n'If I hadn't wanted you here, I wouldn't have asked'\n= she acted with intention; she invited him deliberately\n= 'Are you coming to my house or not?'\n= direct, no-renegotiation framing\n= A DEAL IS A DEAL = commitment already made ✓\n\n[Why C (mutual doubt) is wrong]\nC assigns compatibility doubt to BOTH\n= requires: Margaret also doubts whether they fit\n= Margaret's words show ZERO doubt\n= she made a decision (invited him) and stands by it\n= C makes them symmetrically uncertain when they are ASYMMETRICALLY positioned\n\n[The stage direction — used carefully]\n'Palpable physical attraction...competes with his embarrassment'\n= Justin's hesitation stems from embarrassment/self-doubt\n= NOT from Margaret doubting compatibility\n= the hesitation is Justin's, not shared\n\n[A captures the asymmetry]\nMargaret = pragmatic, committed = deal is a deal\nJustin = uncertain, self-doubting = doubts their compatibility\n= A ✓",
+      "action": "Action Rule (Q19): For 'both/each' attitude questions — check if the attitudes are SYMMETRIC (same) or ASYMMETRIC (different). Margaret shows zero doubt (deal is a deal). Justin shows clear doubt (cliché worry). C incorrectly makes them symmetric. A correctly captures the asymmetry."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u130_meta_timeline_stage_directions_asymmetry",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 130 — Meta: Timeline + Stage Directions + Asymmetry",
+    "quiz": {
+      "question": "[Unit 130 — Meta Pattern]\n\nQ14: chose B (father frustration) — Justin didn't know Conrad was there\nQ15: chose A (1st Eight years + 1st Yes) — missed [guiltily] marker on 1st Yes\nQ17: chose D (felt indebted) — Conrad's presumptuous tone contradicts debt consciousness\nQ18: chose B (identifying Conrad's son) — missed [defensively] changes 'So?' to a challenge\nQ19: chose C (both doubt compatibility) — Margaret's line shows zero doubt\n\nThree tools would have prevented all five errors. Which correctly identifies them?",
+      "options": [
+        "All five are paraphrasing errors — find better synonyms",
+        "Tool 1 = TIMELINE TEST (Q14): verify what the character KNEW at that moment before assigning mental content. Tool 2 = STAGE DIRECTIONS (Q15, Q18): [guiltily]/[defensively] = explicit emotional markers that override surface reading. Tool 3 = SYMMETRY CHECK (Q17, Q19): ask 'are both characters doing the same thing?' — Conrad presumes (not indebted), Margaret is firm (not doubtful). Asymmetric evidence → asymmetric answer.",
+        "All five are targeting errors — wrong paragraph",
+        "All five are vocabulary errors"
+      ],
+      "correctIdx": 1,
+      "answer": "② Tool 1 = timeline test / Tool 2 = stage directions as emotional anchors / Tool 3 = symmetry check",
+      "explanation": "[Tool 1: Timeline test (Q14)]\nJustin at beach: didn't know Conrad was there\n= cannot be thinking about father reconciliation\n= mental content must match what he KNEW\nFix: Before assigning mental state — ask 'what did they know at this moment?'\n\n[Tool 2: Stage directions (Q15, Q18)]\nQ15: [guiltily] on 1st Yes = explicit emotional marker\n= guilt ≠ defiant 'Eight years' emotion\n= stage direction eliminates A\nQ18: [defensively] on 'So?' = challenge register\n= not informative = not B\nFix: Read stage directions FIRST — they override surface interpretation\n\n[Tool 3: Symmetry check (Q17, Q19)]\nQ17: Conrad presumes (not apologetic) ≠ D (felt indebted = would be apologetic)\n= asymmetric: Conrad is presumptuous, Peter is accommodating\nQ19: Margaret = firm commitment / Justin = doubtful\n= asymmetric: C wrong (makes them symmetric)\nFix: Before accepting 'both/each' answers — verify EACH character separately\n\n[Three-tool checklist for drama]\n① Timeline: what did they KNOW?\n② Stage directions: what EMOTION is marked?\n③ Symmetry: are both characters doing the SAME thing?",
+      "action": "Meta Rule (Unit 130):\nTimeline test: character's mental state must match what they knew at that moment.\nStage directions: read first — [guiltily]/[defensively] override surface meaning.\nSymmetry check: verify each character's attitude separately before choosing 'mutual' answers."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
