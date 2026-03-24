@@ -2665,5 +2665,110 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u129_q11_paraphrase_normalement_nothing_else",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 129 — Q11 Paraphrase (D→A)",
+    "quiz": {
+      "question": "[Q11 — Paraphrase: What does 'normalement' mean in Provence?]\n\nPassage (lines 14–16):\n'Normalement — providing it doesn't rain,\nproviding the truck hasn't broken down,\nproviding the brother-in-law hasn't borrowed the tool box'\n\nQ: In context, 'normalement' means ______.\n\nYour pick — D: <strong>providing a disaster doesn't happen</strong>\nCorrect — A: <strong>if nothing else happens</strong>\n\nWhy is D's 'disaster' the wrong register for these examples?",
+      "options": [
+        "D is correct because all these events would prevent the work being done",
+        "D uses 'disaster' — a word suggesting catastrophic events. But the passage examples are mundane everyday variables: rain, a broken truck, a borrowed tool box. These are trivial inconveniences, not disasters. A: 'if nothing else happens' = 'if none of these small things intervene' = correctly captures the ordinary, everyday nature of the variables. 'Disaster' overstates the scale dramatically.",
+        "A is wrong because 'nothing else' is too vague for the specific examples given",
+        "D is correct because from the builder's perspective, any of these would be catastrophic"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'disaster' = catastrophic scale / examples = mundane variables → 'if nothing else happens' (A) = correct register",
+      "explanation": "[The Too-Extreme test on D]\n'disaster' = catastrophic, severe event\n= floods, earthquakes, major accidents\n\n[Passage examples]\nrain = ordinary weather\ntruck broken down = routine mechanical issue\nborrother-in-law borrowed tool box = trivial domestic inconvenience\n\n= these are SMALL, everyday variables, NOT disasters\n= D dramatically overstates the scale\n\n[Paraphrase chain → A]\n'normalement' = 'in normal circumstances'\n= assuming none of these small things intervene\n= 'if nothing ELSE happens' = if the ordinary small obstacles don't arise\n= A ✓\n\n[The passage's tone clue]\nThe author is being HUMOROUS and ironic\n= the examples are deliberately mundane and ridiculous\n= tool box borrowed by brother-in-law = mock-serious\n= the humour RELIES on these being trivial, not catastrophic\n= D destroys the humorous register by making them sound serious\n\n[Key principle]\nWhen passage examples are trivial/mundane\n→ correct paraphrase must preserve that triviality\n→ 'disaster' inflates trivial → wrong\n→ 'nothing else' = neutral, covering small things → correct",
+      "action": "Action Rule (Q11): Match the SCALE of examples to the paraphrase. Rain + broken truck + borrowed tool box = everyday trivial variables = 'nothing else happens' (A). 'Disaster' inflates these to catastrophic scale = Too Extreme = eliminated. Also check author's humorous tone — trivial examples = deliberately comic."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u129_q12_paraphrase_disclaimers_retractions",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 129 — Q12 Paraphrase (C→D)",
+    "quiz": {
+      "question": "[Q12 — Paraphrase: What do 'unspoken disclaimers' connote?]\n\nPassage (lines 11–13):\n'These <em>unspoken disclaimers</em>, which seem to be instinctive\nand therefore more revealing than speech,\nare occasionally reinforced by the magic word normalement'\n\nContext: hand gestures (rocking, waggling) that imply the appointment may not be kept\n\nQ: 'Unspoken disclaimers' best explains as ______.\n\nYour pick — C: <strong>definitive gestures</strong>\nCorrect — D: <strong>likely retractions</strong>\n\nWhy does 'definitive' contradict the passage and 'retractions' paraphrase it precisely?",
+      "options": [
+        "C is correct because the gestures are clearly defined in the passage",
+        "'Definitive' = conclusive, certain — the opposite of the passage's meaning. The gestures are AMBIGUOUS signals that allow the builder to later RETRACT (withdraw) a commitment: 'I gestured that I might not come!' Disclaimer = advance notice of possible non-fulfillment = likely retractions (future withdrawals of the promise). D captures the function: these gestures enable future withdrawal.",
+        "D is wrong because 'retractions' implies the builder is lying",
+        "C is correct because each gesture has a specific fixed meaning explained in the passage"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'definitive' = certain/conclusive (opposite of disclaimer) / 'retractions' = future withdrawal enabled by disclaimer gestures = D",
+      "explanation": "[Disclaimer decoded]\ndisclaimer = a statement that denies responsibility / reserves the right to back out\n= 'I said I'd try but I made no promises'\n= enables RETRACTION (withdrawal of commitment) later\n\n[unspoken disclaimers = gestural advance notice of possible non-fulfillment]\nThe builder gestures (rocks hand, waggles)\n= this SIGNALS uncertainty without saying it\n= if he later doesn't show up: 'I showed you my hand gesture!'\n= the gesture = advance disclaimer = enables RETRACTION\n= 'likely retractions' (D) ✓\n\n[Why C (definitive gestures) is the opposite]\ndefinitive = conclusive, certain, settled\n= the hand gestures are the OPPOSITE of definitive\n= they are AMBIGUOUS, uncertain signals\n= 'if they are still / rocking / agitated waggle' = range of uncertainty\n= C directly contradicts the passage's meaning ✗\n\n[Paraphrase chain → D]\nunspoken = gestural (not verbal)\ndisclaimers = advance withdrawal notices\n= 'likely retractions' = withdrawals that will probably happen\n= the builder reserves the right to not show up = D ✓",
+      "action": "Action Rule (Q12): 'Disclaimer' function = enables future retraction (withdrawal of commitment). 'Definitive' = certain = opposite of disclaimer. D (likely retractions) captures the function: gestures allow builder to later withdraw without accountability. C describes certainty when the passage describes uncertainty."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u129_q13_paraphrase_versatile_escape_fine_print",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 129 — Q13 Paraphrase (D→C)",
+    "quiz": {
+      "question": "[Q13 — Paraphrase: What is 'versatile escape' closest to?]\n\nPassage (lines 12–16):\n'...the magic word normalement, a supremely <em>versatile escape clause</em>\nworthy of an insurance policy.\nNormalement...is the Provençal builder's equivalent of the\n<em>fine print</em> in a contract'\n\nQ: Which is closest in intent to 'versatile escape'?\n\nA: elastic time segment (line 3)\nB: behaviour of his hands (line 7)\nC: <strong>fine print (line 16)</strong>\nD: infinite suspicion (line 17)\n\nYour pick — D. Why is D a reader's REACTION, not the word's FUNCTION?",
+      "options": [
+        "D is correct because normalement makes the narrator deeply suspicious",
+        "D (infinite suspicion) = the NARRATOR'S EMOTIONAL REACTION to normalement. C (fine print) = the FUNCTION of normalement — it is the passage's own direct comparison. The passage explicitly states normalement = 'equivalent of the fine print in a contract' (line 16). 'Fine print' = small-text escape clauses in contracts = used to avoid accountability = exactly what 'versatile escape' means. D describes effect on reader; C describes the word's actual function.",
+        "C is wrong because fine print refers to contract law, not casual conversation",
+        "D is correct because normalement causes suspicion which is its main effect"
+      ],
+      "correctIdx": 1,
+      "answer": "② D = narrator's reaction / C = the word's function — passage directly states: normalement = 'equivalent of fine print in a contract'",
+      "explanation": "[The passage's own answer]\nLine 16: 'is the Provençal builder's EQUIVALENT OF THE FINE PRINT in a contract'\n= the passage EXPLICITLY states the comparison\n= normalement = fine print = C\n= this is not inference — it is directly stated ✓\n\n[Why the passage gives its own answer]\nThe author TELLS YOU what normalement is like:\n'escape clause worthy of an insurance policy'\n'equivalent of the fine print in a contract'\n= both = accountability-avoidance mechanisms\n= C: fine print = the passage's own direct comparison ✓\n\n[Why D is the wrong type of answer]\nD: 'infinite suspicion' (line 17)\n= 'we came to regard it with infinite suspicion'\n= this is the NARRATOR'S REACTION to normalement\n= not the FUNCTION of the word itself\n= question asks: what is closest in INTENT (purpose/function)\n= D describes the effect on the narrator = wrong category ✗\n\n[Function vs Reaction]\nFunction (what the word does): escape clause, fine print, accountability avoidance\nReaction (what it causes in narrator): suspicion, frustration\nQuestion asks for FUNCTION = C ✓",
+      "action": "Action Rule (Q13): When the passage directly states an equivalence ('equivalent of the fine print') — that IS the answer. Don't choose the narrator's reaction (D = infinite suspicion) when the question asks for function/intent. Function = fine print (escape from accountability). Reaction = suspicion. Different categories."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u129_q14_targeting_resocialise_not_exploited",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 129 — Q14 Targeting (D→C)",
+    "quiz": {
+      "question": "[Q14 — Targeting: What does the Englishman's discussion show about HIM?]\n\nPassage overall:\n• The narrator LEARNS to interpret hand language\n• He DESCRIBES the system in detail and with humour\n• He observes elastic time ('demain', 'une quinzaine') as cultural curiosity\n• Tone = wry, observational, not angry or victimised\n\nQ: The Englishman's discussion of his dealings with tradesmen showed ______.\n\nYour pick — D: <strong>that the tradesmen tried to take advantage of his inability with the local language</strong>\nCorrect — C: <strong>his appreciation of the need to resocialise in foreign surroundings</strong>\n\nWhy does D import an adversarial relationship not present in the passage?",
+      "options": [
+        "D is correct because the tradesmen clearly use normalement to exploit uncertainty",
+        "D requires: tradesmen deliberately EXPLOIT the narrator's language weakness. But the narrator LEARNS their system and describes it with humour and curiosity — not as exploitation victim. He appreciates the hand language, decodes it, and explains it. C: 'resocialise' = adapt to new social norms in France = what the narrator is actively doing by learning elastic time + hand language. D invents adversarial intent not in the passage.",
+        "C is wrong because 'appreciation' implies the narrator LIKES the system",
+        "D is correct because normalement is described as a 'supremely versatile escape' showing manipulation"
+      ],
+      "correctIdx": 1,
+      "answer": "② D invents exploitation intent / C captures narrator's active adaptation = learning new social norms = resocialising",
+      "explanation": "[Narrator's actual attitude toward tradesmen]\nHe LEARNS their system: 'We learned that time in Provence is a very elastic commodity'\nHe DECODES their gestures: 'the behaviour of his hands is all-important'\nHe EXPLAINS with detail: still = Tuesday / rocking = Wednesday or Thursday / agitated waggle = next week\n= active observation and learning = NOT feeling exploited\n\n[Tone evidence]\n'magic word normalement' = ironic humour\n'a supremely versatile escape clause worthy of an insurance policy' = wry, amused\n= tone: curious and wryly critical, NOT angry or victimised\n\n[Why D fails the passage-anchor test]\nD requires: tradesmen TAKE ADVANTAGE of narrator's language inability\n= evidence needed: tradesmen deliberately manipulate him because of his poor French\n= passage shows: narrator UNDERSTANDS the system and explains it clearly\n= he has learned enough to decode it = not exploited by language barrier\n= D is an adversarial reading with no passage support ✗\n\n[Paraphrase chain → C]\n'We learned' + 'We learned also to interpret' = active adaptation\n= adapting to new social norms = RESOCIALISING in France\n= 'appreciation of the need to resocialise' = he values and pursues this adaptation ✓",
+      "action": "Action Rule (Q14): Check the narrator's TONE before assigning attitude. Wry humour + active learning = appreciation and adaptation = C. D requires adversarial exploitation intent — tone evidence shows curiosity and learning, not victimhood. Tone audit prevents importing hostile interpretations."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u129_meta_scale_function_tone",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 129 — Meta: Scale + Function vs Reaction + Tone",
+    "quiz": {
+      "question": "[Unit 129 — Meta Pattern]\n\nQ11: chose D (disaster) — scale too extreme for mundane examples\nQ12: chose C (definitive) — opposite of disclaimer/uncertainty\nQ13: chose D (infinite suspicion) — narrator's reaction ≠ word's function\nQ14: chose D (exploited) — imported adversarial reading, tone is wry/curious\n\nThree correction principles cover all four. Which correctly identifies them?",
+      "options": [
+        "All four are vocabulary errors — unfamiliar words",
+        "Principle 1 = SCALE MATCH (Q11): paraphrase must preserve the scale of examples — mundane variables ≠ disaster. Principle 2 = FUNCTION vs REACTION (Q13): question asks for intent/function → use the passage's own stated equivalence (fine print), not narrator's emotional reaction (suspicion). Principle 3 = TONE AUDIT (Q12, Q14): definitive contradicts uncertainty-tone; exploited contradicts wry-curious-tone. Always verify the choice matches the passage's register.",
+        "All four are targeting errors — wrong paragraph",
+        "All four are Too Extreme errors"
+      ],
+      "correctIdx": 1,
+      "answer": "② Scale match + function vs reaction + tone audit — three principles covering all four errors",
+      "explanation": "[Principle 1: Scale match (Q11)]\nExamples = trivial (rain, broken truck, borrowed tool box)\n'disaster' = catastrophic scale\n= scale mismatch = Too Extreme = eliminated\n'nothing else happens' = mundane scale = matches ✓\n\n[Principle 2: Function vs Reaction (Q13)]\nQuestion: 'closest in INTENT' = function/purpose\n'infinite suspicion' = narrator's REACTION\n'fine print' = the word's FUNCTION (passage states this directly)\n= different categories → always identify what the question asks for\n\n[Principle 3: Tone audit (Q12, Q14)]\nQ12: passage tone = uncertain, ambiguous → 'definitive' = opposite register → eliminated\nQ14: passage tone = wry humour, curious observation → 'exploited' = hostile register → not supported\n\n[Combined checklist]\nBefore choosing:\n① Does the scale of this choice match the scale of passage examples?\n② Is the question asking for function/intent or reaction/effect?\n③ Does the choice's register match the passage's tone?\n\n[Unit 129 tone profile]\nAuthor = wry, humorous, curious English observer in France\n= learning a new culture with amusement\n= not angry, not victimised, not hostile to the tradesmen",
+      "action": "Meta Rule (Unit 129):\nScale match: trivial examples → trivial paraphrase (not 'disaster').\nFunction vs reaction: 'intent' questions → find passage's stated equivalence, not narrator's emotional response.\nTone audit: wry/curious tone → eliminates adversarial (exploited) and certain (definitive) choices."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
