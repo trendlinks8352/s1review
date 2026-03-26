@@ -2770,5 +2770,250 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u128_q50_targeting_your_maxie_not_addressed",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 128 — Q50 Targeting (D→A)",
+    "quiz": {
+      "question": "[Q50 — Targeting: Why is Mrs Churcher offended?]\n\nPassage evidence:\nLine 4: Mrs Churcher says '<em>Your</em> Maxie' (not 'Our Maxie')\nLine 10–11: Ernestine says 'Like Mum said, it's addressed to <em>you</em>.'\n\nQ: Mrs Churcher is offended because ______.\n\nYour pick — D: <strong>she expected Maxie to come home rather than just send a gift</strong>\nCorrect — A: <strong>the parcel is not addressed to her</strong>\n\nHow does 'your Maxie' vs 'our Maxie' unlock the answer?",
+      "options": [
+        "D is correct because any mother would prefer her daughter's presence to a parcel",
+        "'Your Maxie' = Mrs Churcher distances herself from Maxie by transferring ownership to the husband. The parcel is also addressed to the husband, not her. Both signals = she feels excluded/snubbed. A is directly anchored in the text: 'it's addressed to you' confirms the offence. D has no passage anchor — there is no line where Mrs Churcher expresses wanting Maxie home rather than a gift.",
+        "A is wrong because Mrs Churcher would be offended regardless of the addressee",
+        "D is correct because the story is set at Christmas when family reunions are expected"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'your Maxie' + 'addressed to you' = exclusion from daughter's parcel = A / D has zero passage anchor",
+      "explanation": "['Your Maxie' vs 'Our Maxie' — the key signal]\nMrs Churcher says 'YOUR Maxie' to her husband\n= she disowns Maxie in this moment\n= signal: she feels Maxie has chosen the father over her\n\n'It's addressed to YOU' (Ernestine, line 10–11)\n= confirms: the parcel came to the father\n= Mrs Churcher = excluded, snubbed, not acknowledged\n\n[Paraphrase chain → A]\n'your Maxie' + 'addressed to you'\n= the parcel is NOT addressed to HER\n= A: 'the parcel is not addressed to her' ✓\n\n[Why D fails the finger-pointing test]\nD: 'expected Maxie to come home rather than send a gift'\n= requires: Mrs Churcher expresses preference for presence over parcel\n= search passage: any line showing this preference?\n= None found\n= D is a plausible inference from general Christmas sentimentality\n= but NOT anchored in the text\n= over-extrapolation = eliminated ✗\n\n[The exclusion mechanism]\nMrs Churcher's coldness = she feels Maxie bypassed her\n= gift went to husband = she is not even in the loop\n= this IS the offence = A ✓",
+      "action": "Action Rule (Q50): 'Your Maxie' is the key signal — Mrs Churcher distances herself because she was excluded from the parcel. 'Addressed to you' confirms it. D requires Mrs Churcher to prefer presence over gift — no passage anchor. Anchor test → D eliminated."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u128_q51_targeting_head_of_household",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 128 — Q51 Targeting (D→C)",
+    "quiz": {
+      "question": "[Q51 — Targeting: What does 'Leave the table setting! I'm bringing in the parcel!' show?]\n\nContext:\n• Mrs Churcher is passive-aggressive ('Without any help as usual!')\n• Mr Churcher says loudly: 'Leave the table setting! I'm bringing in the parcel!'\n• Then: 'By Jove, I think I might!' — he takes decisive action\n\nQ: This indicates most Mr Churcher's ______.\n\nYour pick — D: <strong>reluctance as opposed to the children's enthusiasm</strong>\nCorrect — C: <strong>assuming responsibility as head of the household</strong>\n\nWhy does 'By Jove, I think I might!' eliminate D immediately?",
+      "options": [
+        "D is correct because the father hesitates before deciding to bring in the parcel",
+        "'By Jove, I think I might!' = enthusiastic decisiveness, NOT reluctance. D requires hesitation/reluctance — directly contradicted by his loud, enthusiastic declaration. C: he takes charge of a tense domestic situation (wife is passive-aggressive, atmosphere is fraught) = assuming responsibility as head of household = stepping in to resolve tension and lead.",
+        "C is wrong because head of household implies authority, not responsibility",
+        "D is correct because 'I think I might' shows uncertainty before action"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'By Jove, I think I might!' = enthusiastic decisiveness, NOT reluctance → D eliminated / C = taking charge of tense situation",
+      "explanation": "['By Jove, I think I might!' decoded]\n'By Jove' = exclamation of enthusiasm\n'I think I might' = colloquial expression of cheerful decisiveness in this era\n= he is NOT reluctant — he is ENTHUSIASTICALLY stepping up\n= D (reluctance) directly contradicted ✗\n\n[Context for C]\nMrs Churcher = passive-aggressive ('Without any help as usual!')\n= tense, fraught domestic atmosphere\nMr Churcher: steps in loudly and positively\n= 'Leave the table setting' = redirects everyone\n= 'I'm bringing in the parcel' = takes charge\n= breaks the tension by asserting a positive action\n= ASSUMING RESPONSIBILITY as head of household ✓\n\n[The leadership dynamic]\nHe doesn't ask — he DECLARES\n= not 'shall I bring in the parcel?'\n= 'I'M bringing in the parcel' = command + responsibility\n= head of household role: maintain family harmony by decisive action\n\n[Why D misreads 'I think I might']\nIn modern informal English: 'I think I might' = hesitant\nIn this 1935 Australian context: idiomatic = 'Yes, absolutely, good idea!'\n= the exclamation 'By Jove' confirms the enthusiastic register",
+      "action": "Action Rule (Q51): 'By Jove, I think I might!' = enthusiastic decisiveness = eliminates D (reluctance) immediately. Mr Churcher steps into a tense scene and takes charge = C (head of household responsibility). Check the exclamation register before assigning reluctance."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u128_q52_logic_purpose_vs_result",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 128 — Q52 Logic (D→C)",
+    "quiz": {
+      "question": "[Q52 — Logic: Purpose vs Result]\n\nPassage (line 16):\n'He didn't go through the kitchen but <em>strode around</em> the house.'\n\nContext: Mrs Churcher is in the kitchen, passive-aggressively preparing dinner.\n\nQ: Mr Churcher's choice of route was designed to ______.\n\nYour pick — D: <strong>give room for the anticipated 'guard of honour'</strong>\nCorrect — C: <strong>avoid further confrontation with his wife</strong>\n\nWhy is D a RESULT and not the PURPOSE?",
+      "options": [
+        "D is correct because Mr Churcher knew the children would form a guard of honour",
+        "D (guard of honour) = what HAPPENED when he arrived — the children stepped back and created it (line 19). This is a RESULT, not Mr Churcher's advance intention. C: going around the house = deliberately avoiding the kitchen where his passive-aggressive wife is = avoiding confrontation = the PURPOSE of the route choice. Purpose precedes action; result follows it.",
+        "C is wrong because avoiding his wife seems uncharacteristically weak for the head of household",
+        "D is correct because Mr Churcher is clearly performing for his children"
+      ],
+      "correctIdx": 1,
+      "answer": "② D = what happened AFTER he arrived (result) / C = why he chose that route (purpose = avoid wife in kitchen)",
+      "explanation": "[Purpose vs Result — the key logical distinction]\nPurpose = Mr Churcher's INTENTION when choosing the route\n= what he was TRYING TO ACHIEVE by going around\n\nResult = what HAPPENED as a consequence of his choice\n= the guard of honour = children's spontaneous reaction on his arrival\n\n[Testing D: guard of honour as PURPOSE]\n'Guard of honour' = the children lined up when he arrived\n= this is a SPONTANEOUS reaction of the children\n= Mr Churcher could not have PLANNED this\n= it is an unplanned, delightful result\n= D is a result, not a purpose ✗\n\n[Testing C: avoid confrontation as PURPOSE]\nMrs Churcher = in the kitchen, passive-aggressive\n'Without any help as usual!' = simmering tension\n= if Mr Churcher walks through the kitchen: likely more tension\n= going AROUND = deliberate avoidance of that path\n= PURPOSE: avoid further confrontation with wife = C ✓\n\n[The 'designed to' signal]\nQuestion: 'was DESIGNED TO'\n= designed = intentional, purposeful\n= asks for what he INTENDED\n= D = unintended result\n= C = intentional avoidance ✓",
+      "action": "Action Rule (Q52): 'Designed to' = purpose/intention question. Ask: 'What was Mr Churcher TRYING to achieve?' Guard of honour = happened AFTER = result (D). Avoiding the kitchen where wife is = what he was trying to avoid = purpose (C). Purpose precedes action; result follows it."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u128_q54_targeting_practicality_not_status",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 128 — Q54 Targeting (D→B)",
+    "quiz": {
+      "question": "[Q54 — Targeting: What do the parcel contents indicate about Maxie?]\n\nPassage context:\n• Setting: Christmas 1935, height of the Depression\n• Contents: quilt, towels (fraying at hems), sheets, tablecloth, tea towels\n• Maxie's letter (line 44–46): 'Mrs Patten decided to give me the old ones... to send to you. She is not paying me this week'\n= second-hand items from employer + not even being paid this week\n\nQ: Through the contents, Maxie indicates ______.\n\nYour pick — D: <strong>the high social status she has achieved</strong>\nCorrect — B: <strong>her practicality and appreciation of the family's poverty</strong>\n\nWhy does D contradict the economic evidence in the passage?",
+      "options": [
+        "D is correct because Maxie works for a wealthy family and has access to nice things",
+        "D requires Maxie to have high social status. But: she is a servant, she is not being paid this week, and the items are second-hand cast-offs from her employer. This is the OPPOSITE of high social status. B: she identifies what her family needs (practical household items) during the Depression = practicality + awareness of family poverty. The items are functional, not prestigious.",
+        "B is wrong because sending second-hand items is insensitive rather than practical",
+        "D is correct because only a socially elevated person would have access to such quality items"
+      ],
+      "correctIdx": 1,
+      "answer": "② D = contradicted by: servant status + unpaid + second-hand items / B = she sends what family needs = practicality + awareness of poverty",
+      "explanation": "[Evidence against D]\nMaxie's situation:\n= servant (domestic worker)\n= 'not paying me this week' = no wages this week\n= items = cast-offs her employer was discarding\n= fraying at hems = worn, used condition\n= ALL evidence points to: LOW economic position, NOT high status\n= D directly contradicted by the passage ✗\n\n[Evidence for B]\nMaxie's choice of items:\n= quilt (for Mum's bed), towels, sheets, tablecloth\n= practical household necessities\n= items a Depression-era family would actually need\n= she KNOWS her family is poor and needs these things\n= practicality: sends what is useful, not decorative\n= appreciation of poverty: sends what they can't afford to buy new\n= B ✓\n\n[The Depression context]\nHeight of the Depression = severe economic hardship\n= second-hand household items = VALUED, not shameful\n= Maxie's gift = thoughtful and practical given the context\n= she understands her family's material needs = B ✓",
+      "action": "Action Rule (Q54): Check economic evidence before assigning social status claims. Servant + unpaid + second-hand cast-offs = NOT high status (D eliminated immediately). B = she knows what her poor family needs = practicality. Depression context makes second-hand items practical and valued."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u128_q55_targeting_curiosity_not_dominance",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 128 — Q55 Targeting (B→D)",
+    "quiz": {
+      "question": "[Q55 — Targeting: Why did both Ernestine and Mrs Churcher stand on chairs?]\n\nPassage:\nLine 30: Ernestine 'put it tenderly on a chair' → she stood on a chair nearby\nLine 38: Mrs Churcher 'was on a chair, hands on her thighs, <em>trying to keep the hardness in her eyes</em>'\n= Mrs Churcher is trying to maintain cold detachment BUT still standing on a chair\n\nQ: The extra height would ______.\n\nYour pick — B: <strong>give them dominance over the others</strong>\nCorrect — D: <strong>give them a better opportunity to satisfy their curiosity</strong>\n\nWhy does Mrs Churcher's behaviour specifically eliminate B and confirm D?",
+      "options": [
+        "B is correct because both Ernestine and Mrs Churcher are asserting authority",
+        "Mrs Churcher is trying to maintain emotional hardness (keep the hardness in her eyes) — she wants to appear indifferent. Standing for DOMINANCE would mean displaying authority openly. But she's trying to hide that she's interested. D: she stands to SEE BETTER (curiosity) while pretending not to care. The tension between 'hardness in her eyes' and 'standing on a chair to look' = she can't resist curiosity despite trying to appear cold.",
+        "D is wrong because Ernestine is clearly excited, not merely curious",
+        "B is correct because chairs give a position of authority in family settings"
+      ],
+      "correctIdx": 1,
+      "answer": "② Mrs Churcher tries to appear cold but can't resist standing to see = curiosity overwhelming false indifference = D / dominance (B) requires open authority display",
+      "explanation": "[The Mrs Churcher paradox]\nShe wants to appear: cold, indifferent, not interested\n'Trying to keep the hardness in her eyes' = she is WORKING to maintain distance\n\nBut she stands on a chair = she CAN'T RESIST wanting to see\n= her curiosity overcomes her performed coldness\n= the chair gives BETTER VIEW = satisfy curiosity = D ✓\n\n[Why B (dominance) fails]\nDominance = exercising authority, showing control\n= requires: open, assertive behaviour\nMrs Churcher: trying to HIDE her interest\n= she is NOT asserting dominance — she is secretly satisfying curiosity\n= if it were about dominance, she wouldn't be hiding her eyes' expression\n= B contradicts her psychological state ✗\n\n[Ernestine's motivation]\nErnestine is actively engaged in unpacking\n= she stands to see the contents better = curiosity/excitement = D ✓\n\n[Combined]\nBoth: stood on chairs to get a better view\n= CURIOSITY (D) applies to both\n= dominance (B) applies to neither in this context",
+      "action": "Action Rule (Q55): 'Trying to keep the hardness in her eyes' = Mrs Churcher is hiding her curiosity behind performed coldness. Standing on chair = can't resist looking = curiosity (D). Dominance (B) would require open assertion of authority — she is secretly looking, not asserting. Curiosity overcoming performed indifference = D."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u128_q57_paraphrase_would_rather_misses_family",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 128 — Q57 Paraphrase (B→A)",
+    "quiz": {
+      "question": "[Q57 — Paraphrase: What does 'I would rather be having what you are' indicate?]\n\nPassage (lines 47–48):\n'They are having roast pork for Christmas dinner here,\nbut I would <em>rather be having what you are</em>.'\n\nContext: Maxie is at her employer's house, they are having roast pork.\nThe family at home is presumably having simpler food.\n\nQ: This indicates that Maxie ______.\n\nYour pick — B: <strong>may yet come home for Christmas</strong>\nCorrect — A: <strong>misses the family</strong>\n\nWhat does 'would rather' signal about the tense and likelihood of this wish?",
+      "options": [
+        "B is correct because 'would rather' could mean she is considering coming home",
+        "'Would rather + present continuous' = expressing an UNFULFILLED wish about a current situation — she IS at the employer's having roast pork RIGHT NOW. She CANNOT be having what her family has. 'Would rather' = hypothetical longing for what she cannot have = she MISSES the family (A). B requires future possibility of coming home — but she is already AT the employer's Christmas dinner. The wish is unachievable in the present = longing = missing the family.",
+        "A is wrong because Maxie never explicitly says she misses her family",
+        "B is correct because Christmas is a time when people naturally want to be home"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'would rather' = unfulfilled present wish (she IS at employer's dinner right now) = longing = misses the family (A) / B = future return = wrong tense",
+      "explanation": "['Would rather' decoded]\n'Would rather' + present continuous = hypothetical preference about CURRENT situation\n= she IS having roast pork right now\n= she CANNOT be having what her family has\n= expressing a wish for what is currently IMPOSSIBLE\n= LONGING for the family situation = she MISSES them = A ✓\n\n[Why B is the wrong tense]\nB: 'may yet come home for Christmas'\n= implies she might arrive home in the future\n= but she is already AT the employer's for Christmas dinner\n= she cannot both be there AND come home\n= B is impossible given the current situation\n\n['Would rather' as longing signal]\n'Would rather' = preference for something you DON'T HAVE\n= she doesn't have family Christmas right now\n= she wishes she did\n= longing = MISSING the family = A ✓\n\n[The contrast structure]\n'They are having roast pork HERE'\n= Maxie's current (privileged employer's) situation\n'BUT I would rather be having WHAT YOU ARE'\n= she prefers the humbler family meal\n= not for the food itself — for the COMPANY\n= MISSES the family = A ✓",
+      "action": "Action Rule (Q57): 'Would rather' = unfulfilled preference about CURRENT situation = she cannot be at two places at once. She is at employer's dinner NOW = B (coming home) is impossible. The 'but' contrast signals longing for the family situation = misses the family = A. Grammar check: would rather + present continuous = hypothetical longing."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u128_meta_anchor_purpose_result_grammar",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 128 — Meta: Anchor + Purpose/Result + Grammar",
+    "quiz": {
+      "question": "[Unit 128 — Meta Pattern]\n\nQ50: chose D (wants Maxie home) — no passage anchor\nQ51: chose D (reluctant) — contradicted by 'By Jove!'\nQ52: chose D (guard of honour) — result mistaken for purpose\nQ54: chose D (high status) — contradicted by servant/unpaid/second-hand evidence\nQ55: chose B (dominance) — wrong register for Mrs Churcher's hidden curiosity\nQ57: chose B (may come home) — wrong tense for 'would rather'\n\nFour correction principles cover all six. Which correctly identifies them?",
+      "options": [
+        "All six are vocabulary errors — unfamiliar words",
+        "P1 = ANCHOR TEST (Q50, Q54): every claim needs a passage line — D in Q50 has no anchor; D in Q54 is contradicted by economic evidence. P2 = PURPOSE vs RESULT (Q52): 'designed to' = intention before action; guard of honour happened AFTER. P3 = CONTRADICTION CHECK (Q51, Q55): 'By Jove!' contradicts reluctance; 'trying to keep hardness' contradicts dominance. P4 = GRAMMAR TENSE (Q57): 'would rather' + present = unfulfilled current wish = longing, not future possibility.",
+        "All six are targeting errors — wrong paragraph",
+        "All six are Too Extreme errors"
+      ],
+      "correctIdx": 1,
+      "answer": "② P1=anchor test / P2=purpose vs result / P3=contradiction check / P4=grammar tense signal",
+      "explanation": "[P1: Anchor test (Q50, Q54)]\nQ50-D: 'wants Maxie home' → finger-point → no line supports this ✗\nQ54-D: 'high status' → contradicted by: servant + unpaid + second-hand ✗\nFix: every specific claim must be anchored in a specific passage line\n\n[P2: Purpose vs Result (Q52)]\n'Designed to' = purpose (Mr Churcher's intention)\nGuard of honour = what children did AFTER he arrived = result, not purpose\nFix: purpose precedes action; result follows it\n\n[P3: Contradiction check (Q51, Q55)]\nQ51-D (reluctance): 'By Jove, I think I might!' = enthusiastic = direct contradiction\nQ55-B (dominance): 'trying to keep hardness' = hiding interest = opposite of open dominance\nFix: before finalising, check if the passage contains a line that directly contradicts the choice\n\n[P4: Grammar tense signal (Q57)]\n'Would rather' + present continuous = unfulfilled present wish\n= she IS at employer's → cannot also be coming home\n= longing, not future possibility\nFix: 'would rather' = hypothetical longing for what is currently unavailable",
+      "action": "Meta Rule (Unit 128): Four-check system — (1) anchor test: finger-point every claim; (2) purpose vs result: 'designed to' = intention before action; (3) contradiction check: does any passage line directly negate this choice?; (4) grammar tense: 'would rather' = unfulfilled current wish = longing."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u127_q14_paraphrase_same_trait_different_aspects",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 127 — Q14 Paraphrase (B→C)",
+    "quiz": {
+      "question": "[Q14 — Paraphrase: How does Joanna see 'terrific insensitivity' and 'terrific guts'?]\n\nPassage (lines 21–22):\n'He won't give in to <em>it</em>.\n<em>It</em> makes for terrific insensitivity but also for terrific guts.'\n\n← 'It' refers to: the father's refusal to experience powerlessness in the usual way\n\nQ: Joanna sees these as ______.\n\nYour pick — B: <strong>irreconcilable opposites in human nature</strong>\nCorrect — C: <strong>different aspects of the same character trait</strong>\n\nWhy does the pronoun 'It' eliminate B and confirm C?",
+      "options": [
+        "B is correct because insensitivity (negative) and guts (positive) are clearly opposite qualities",
+        "The pronoun 'It' is the key: BOTH insensitivity AND guts flow from the SAME source ('it' = his refusal to yield to powerlessness). One trait → two manifestations. C: different aspects of the SAME trait = insensitivity and guts are two expressions of the same underlying character. B (irreconcilable opposites) requires them to be separate, incompatible things — but 'It makes for both' = they come from one source.",
+        "C is wrong because insensitivity and guts feel opposite in everyday experience",
+        "B is correct because Joanna lists them as a contrast ('but also')"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'It' = one source → both outcomes = same trait / 'irreconcilable' requires separation — they come from the same root",
+      "explanation": "[The pronoun 'It' decoded]\n'He won't give in to IT'\n'IT makes for terrific insensitivity but also for terrific guts'\n\n'It' = ONE THING = the father's refusal to yield to powerlessness\n= a single character disposition\n= that ONE thing produces TWO outcomes:\n  → terrific insensitivity (in social contexts)\n  → terrific guts (when facing danger)\n\n[Paraphrase chain → C]\none source ('it') → two outcomes\n= different ASPECTS of the SAME character trait ✓\n\n[Why B fails]\nirreconcilable = cannot coexist, mutually exclusive\n= if they were irreconcilable, they could NOT come from the same source\n= but 'It makes for BOTH' = they DO coexist, they DO share a root\n= B directly contradicted by 'it' making for both ✗\n\n[The 'but also' signal — why it tempts B]\n'terrific insensitivity BUT ALSO terrific guts'\n= 'but also' = might suggest contrast/opposition\n= but the subject is STILL 'it' (one thing)\n= 'but also' = additive, not contradictory\n= it adds a second outcome to the SAME source\n\n[Character insight]\nInsensitivity = he can't recognise others' difference (same trait applied to people)\nGuts = he refuses to yield to danger (same trait applied to threat)\n= one refusal → two faces = C ✓",
+      "action": "Action Rule (Q14): Find the pronoun 'It' — it points to ONE shared source. One source → two outcomes = same trait, different aspects (C). 'Irreconcilable' (B) requires separate sources — 'It makes for both' proves they share one. Track pronouns before choosing."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u127_q14_subjective_it_drill",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Unit 127 — Q14 Pronoun Drill",
+    "quiz": {
+      "question": "[Q14 — Pronoun Drill]\n\nPassage: 'He won't give in to <em>it</em>. <em>It</em> makes for terrific insensitivity but also for terrific guts.'\n\n① 'It' refers to: the father's ________ to yield to powerlessness (one character trait)\n\n② insensitivity = this trait applied to ________ (social/interpersonal context)\n③ guts = this trait applied to ________ (danger/threat context)\n\n→ One trait, two ________ = Choice C\n\n(Tap to check)",
+      "answer": "① refusal  ② people/differences  ③ danger/the mugger  → aspects",
+      "explanation": "[Full map]\n'it' = the father's REFUSAL to experience powerlessness in the usual way\n= one disposition, one character trait\n\nApplied to people:\n= refuses to see them as different from him\n= → terrific INSENSITIVITY\n\nApplied to danger:\n= refuses to yield to the threat\n= → terrific GUTS\n\nSame refusal → two different ASPECTS depending on context\n= C: different aspects of the same character trait ✓\n\n[Why B (irreconcilable) is wrong]\nIf they were irreconcilable, they would come from different, incompatible sources\nBut they share ONE source ('it')\n= they CAN coexist = not irreconcilable ✗",
+      "action": "Drill habit: One 'it' → two outcomes = same trait, different aspects. Track the pronoun to find the shared source before deciding if qualities are 'same trait' or 'opposites'."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u127_q16_paraphrase_balanced_assessment",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 127 — Q16 Paraphrase (D→B)",
+    "quiz": {
+      "question": "[Q16 — Paraphrase: What does the whole passage suggest about Philip Roth?]\n\nPassage evidence:\n• Lines 1–17: Philip tells the mugging story with admiration ('terrific guts')\n• Line 20: 'He doesn't experience powerlessness in the usual way'\n• Lines 23–28: Philip acknowledges father's failing: couldn't recognise difference, 'meshugge — crazy'\n• Line 22: 'what goes into survival isn't always pretty'\n\nQ: The whole passage suggests Philip Roth is ______.\n\nYour pick — D: <strong>resentful and bitter about his father's life-long antagonism to how he and his mother dealt with the world</strong>\nCorrect — B: <strong>able to assess his father's strengths generously while being conscious of his father's failings</strong>\n\nWhy does D's 'resentful and bitter / antagonism' overstate Philip's emotional register?",
+      "options": [
+        "D is correct because Philip clearly disapproves of his father's inability to accept difference",
+        "D requires: Philip feels RESENTMENT, BITTERNESS, and sees his father as ANTAGONISTIC. But Philip tells the mugging story with admiration and humour, Joanna says 'he treats him like a son', and Philip uses 'mileage' (positive metaphor for getting value). His tone = appreciative AND critically aware. B: 'assess generously' + 'conscious of failings' = balanced, not bitter. 'Resentful/bitter/antagonism' = Too Extreme for this nuanced, affectionate-yet-honest tone.",
+        "B is wrong because Philip never explicitly praises his father",
+        "D is correct because 'meshugge' shows Philip's deep frustration with his father"
+      ],
+      "correctIdx": 1,
+      "answer": "② D = Too Extreme (resentful/bitter/antagonism) / B = balanced tone: generously appreciates strengths + honestly aware of failings",
+      "explanation": "[Tone audit — the whole passage]\nPhilip's tone is COMPLEX and BALANCED:\n\nPositive signals:\n= 'terrific guts' (admiration)\n= 'He got a lot of mileage' (positive metaphor)\n= tells the story to Joanna entertainingly\n= no anger in his voice when recounting it\n\nCritical signals:\n= 'This is what I used to LONG FOR in him' (wished he were different)\n= 'But he COULDN'T grasp it' (accepting the limitation)\n= 'whoever did it different was meshugge' (notes the rigidity)\n\n= tone: affectionate + honest = NOT resentful/bitter\n\n[Paraphrase chain → B]\n'terrific guts' + 'mileage' → assesses strengths GENEROUSLY\n'what goes into survival isn't always pretty' + 'couldn't grasp it' → CONSCIOUS OF failings\n= B: generous with strengths + honest about failings ✓\n\n[Why D is Too Extreme]\nresentful = deep ongoing anger\nbitter = lasting pain/grievance\nantagonism = hostility\n= Philip DOES NOT express these\n= he explains, appreciates, and accepts = not antagonistic\n= D inflates mild critical observation into deep hostility ✗",
+      "action": "Action Rule (Q16): Tone audit before choosing attitude choices. 'Terrific guts' + 'mileage' = generous appreciation. 'Couldn't grasp it' = honest acknowledgment of limitation. This = balanced (B), not resentful/bitter/antagonistic (D). Too Extreme indicators: resentful, bitter, antagonism."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u127_q16_logic_why_a_fails",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 127 — Q16 Logic: Why A Fails",
+    "quiz": {
+      "question": "[Q16 — Logic: Why does Choice A fail?]\n\nChoice A: 'unable to explain or come to terms with the contradictory elements of his father's nature'\n\nPassage evidence:\n• Line 23: 'what goes into survival isn't always pretty. He got a lot of mileage out of never recognising the differences...'\n• Line 25–28: 'This is what I used to long for...some of her forbearance and tolerance...But he couldn't grasp it.'\n\nWhy does A misdescribe Philip as confused/unable to understand?",
+      "options": [
+        "A is correct because Philip is clearly confused by his father's contradictory nature",
+        "A says Philip CANNOT explain or come to terms with his father. But Philip DOES explain perfectly: he traces both insensitivity and guts to the same survival mechanism ('mileage out of never recognising difference'). He also HAS come to terms — 'he couldn't grasp it' = acceptance of the limitation, not ongoing confusion. A demotes Philip from insightful analyst to bewildered observer.",
+        "A is wrong only because Philip doesn't use the word 'contradictory'",
+        "A is correct because the story of the mugging shows Philip still doesn't understand his father"
+      ],
+      "correctIdx": 1,
+      "answer": "② Philip explains the contradiction clearly AND accepts his father's limitation = A directly contradicted",
+      "explanation": "[Philip's explanation of the contradiction]\nLine 23–24: 'what goes into survival isn't always pretty.\nHe got a lot of mileage out of never recognising the differences among people.'\n= Philip EXPLAINS: both guts and insensitivity = survival mechanism\n= he traces the contradiction to one root = EXPLAINS IT ✓\n= A: 'unable to explain' = directly contradicted ✗\n\n[Philip's acceptance]\nLine 25–28: 'This is what I used to LONG FOR in him...\nBut he COULDN'T grasp it.'\n= past tense 'used to long' = he has moved past the longing\n= 'he couldn't grasp it' = accepting the father's limitation\n= NOT ongoing confusion = has COME TO TERMS ✓\n= A: 'unable to come to terms with' = directly contradicted ✗\n\n[Philip as 'insightful analyst' not 'bewildered observer']\nA makes Philip sound helpless and confused\nPassage makes Philip sound: observant, analytical, accepting, nuanced\n= A is a character mischaracterisation\n\n[Combined: A eliminated on two grounds]\nGround 1: Philip DOES explain (survival = mileage from not recognising difference)\nGround 2: Philip HAS come to terms ('used to long' = past, 'couldn't grasp it' = acceptance)",
+      "action": "Logic rule (Q16-A): Check if Philip DOES explain the contradiction. He does: survival mechanism = one root for both guts and insensitivity. Check if he HAS come to terms: 'used to long' (past) + 'couldn't grasp it' (acceptance) = yes. A is contradicted on both counts. B remains = balanced assessor."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u127_meta_pronoun_tone_extreme",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 127 — Meta: Pronoun + Tone + Too Extreme",
+    "quiz": {
+      "question": "[Unit 127 — Meta Pattern]\n\nQ14: chose B (irreconcilable opposites) — missed that 'It' = one shared source\nQ16: chose D (resentful/bitter/antagonism) — Too Extreme for Philip's balanced, affectionate tone\n\nThree tools would have prevented both errors. Which correctly identifies them?",
+      "options": [
+        "Both are vocabulary errors — 'irreconcilable' and 'antagonism' were misunderstood",
+        "Tool 1 = PRONOUN TRACKING (Q14): 'It makes for both' = one source → same trait, not irreconcilable opposites. Tool 2 = TONE AUDIT (Q16): Philip's tone = generous appreciation + honest acknowledgment = balanced (B), not resentful/bitter. Tool 3 = TOO EXTREME CHECK (Q16): 'resentful', 'bitter', 'antagonism' = strong negative emotion words — check if passage actually supports this intensity. Philip: admires, uses 'mileage', accepts limitation = does NOT support these extremes.",
+        "Both are targeting errors — wrong paragraph found",
+        "Both are paraphrasing errors only — find better synonyms"
+      ],
+      "correctIdx": 1,
+      "answer": "② Pronoun tracking (Q14) + tone audit (Q16) + Too Extreme check (Q16) — three tools",
+      "explanation": "[Tool 1: Pronoun tracking (Q14)]\n'It makes for terrific insensitivity BUT ALSO terrific guts'\n'It' = one antecedent = one source\n= both outcomes from ONE trait = same trait, different aspects\n= 'irreconcilable' requires two separate, incompatible sources\n= 'It' (one source) contradicts 'irreconcilable' (incompatible) → B eliminated\n\n[Tool 2: Tone audit (Q16)]\nPhilip's tone markers:\n(+) 'terrific guts' / 'mileage' / entertaining story-telling\n(-) 'couldn't grasp it' / 'used to long for' / 'meshugge'\n= mixed but predominantly affectionate and analytically honest\n= NOT resentful, NOT bitter, NOT antagonistic\n\n[Tool 3: Too Extreme check (Q16)]\n'resentful' = deep ongoing anger → passage evidence?\n'bitter' = lasting grievance → passage evidence?\n'antagonism' = hostility → passage evidence?\n= all three absent from Philip's actual language/tone\n= whenever you see these strong negative words in a choice\n= ask: does the passage EXPLICITLY support this level of negativity?\n= here: No → D eliminated\n\n[Summary]\nQ14: track 'it' → one source → same trait (C)\nQ16: tone audit → balanced not bitter (B) + Too Extreme check → resentful/antagonism absent (D eliminated)",
+      "action": "Meta Rule (Unit 127):\nPronoun tracking: 'it/they' pointing to one antecedent = one source = same trait, not opposites.\nTone audit: collect all positive AND negative tone markers before assigning an attitude.\nToo Extreme check: 'resentful/bitter/antagonism/irreconcilable' = strong words requiring strong passage evidence. If absent = eliminate."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
