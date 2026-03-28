@@ -3015,5 +3015,89 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u126_q89_paraphrase_veneer_contempt",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 126 — Q89 Paraphrase (C→B)",
+    "quiz": {
+      "question": "[Q89 — Paraphrase: How are relations between Mr and Mrs Pugh characterised?]\n\nPassage evidence:\nSurface: 'my dear', 'you know best, dear' = polite forms\nBelow surface: rat soup, poisoners, 'brought up in pigsties', venom, 'ducks her'\n\nQ: Relations are characterised by ______.\n\nYour pick — C: <strong>stinging but ultimately innocent and polite sparring</strong>\nCorrect — B: <strong>mutual contempt under a thin veneer of civility</strong>\n\nWhy does 'innocent' in C make it immediately wrong?",
+      "options": [
+        "C is correct because their arguments follow a domestic routine without real malice",
+        "'Innocent' = harmless, without malicious intent. But Mr Pugh is mentally poisoning his wife with 'a venomous porridge' that will 'scale and viper through her'. This is not innocent sparring — it is deeply hostile fantasy. B: 'veneer of civility' = the thin polite surface ('my dear') / 'mutual contempt' = the poisoning fantasy + 'pigsties' + rat soup beneath. C's 'innocent' directly contradicts the murderous internal content.",
+        "B is wrong because 'veneer' implies the civility is genuine",
+        "C is correct because outwardly their argument seems like routine bickering"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'innocent' directly contradicted by poisoning fantasy / B = polite surface ('my dear') over deep contempt (rat soup, venom) = veneer of civility",
+      "explanation": "[Immediate contradiction test on C]\n'innocent' = harmless, without malice\nMr Pugh: mentally imagines 'venomous porridge' + 'scale and viper through her' + 'ducks her in rat soup'\n= these are NOT innocent thoughts\n= C eliminated by contradiction ✗\n\n[Paraphrase chain → B]\nSurface layer:\n'my dear' / 'you know best, dear' / 'Pigs can't read, my dear'\n= formal, polite address forms\n= VENEER OF CIVILITY (thin layer of politeness) ✓\n\nBelow surface:\nMr Pugh: murderous fantasies, poisons wife in imagination\nMrs Pugh: 'pigsties', bitter dust-flicking, 'trough' insult\n= deep mutual hostility\n= MUTUAL CONTEMPT ✓\n\n[Combined → B]\n'mutual contempt under a thin veneer of civility'\n= deep hatred hidden beneath polite forms of address ✓\n\n[The 'veneer' metaphor]\nveneer = a thin attractive surface covering an uglier substance\n= here: politeness ('dear') = veneer\n= beneath: contempt, fantasised murder, bitterness",
+      "action": "Action Rule (Q89): When a choice contains 'innocent' or similar benign qualifiers — immediately test against the passage's most extreme content. Poisoning fantasy ≠ innocent. One word ('innocent') eliminates C. Then B: veneer (polite surface) + mutual contempt (hidden hostility) = the passage's two-layer structure."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u126_q91_targeting_externalise_degree",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 126 — Q91 Targeting (D→A)",
+    "quiz": {
+      "question": "[Q91 — Targeting: KEY DIFFERENCE between Mr and Mrs Pugh]\n\nMrs Pugh's expressions:\n• Says 'pigsties', 'trough' directly to Mr Pugh\n• 'Bitterly she flicks dust' (visible physical action)\n• Hostile comments expressed OUTWARDLY to his face\n\nMr Pugh's expressions:\n• Says 'Pigs don't read, dear' / 'You know best, dear' (outwardly gentle)\n• Poisoning fantasy = FIRST VOICE only (internal mental state)\n• Anger expressed INWARDLY through imagination\n\nQ: A key difference is the degree to which they ______.\n\nYour pick — D: <strong>react to each other's comments</strong>\nCorrect — A: <strong>externalise their reactions to each other</strong>\n\nWhy does D describe a SIMILARITY and A describe the actual DIFFERENCE?",
+      "options": [
+        "D is correct because Mrs Pugh reacts more strongly than Mr Pugh overall",
+        "D: both characters DO react to each other's comments — this is a similarity, not a difference. A: the DEGREE to which they EXTERNALISE is different. Mrs Pugh = externally hostile (says things out loud, physically flicks dust). Mr Pugh = internally hostile (murderous thoughts revealed only to audience via First Voice, while saying 'you know best, dear' outwardly). The difference = expression directed outward (Mrs) vs suppressed inward (Mr).",
+        "A is wrong because Mr Pugh's thoughts are not truly 'reactions' to Mrs Pugh",
+        "D is correct because Mr Pugh reacts with more physical restraint"
+      ],
+      "correctIdx": 1,
+      "answer": "② D = both react = similarity / A = HOW MUCH they externalise = the actual difference (Mrs=outward, Mr=inward)",
+      "explanation": "[Similarity vs Difference test]\nD: 'react to each other's comments'\n= both Mr and Mrs Pugh DO react\n= Mrs Pugh reacts: yes (pigsties, trough, bitter flicking)\n= Mr Pugh reacts: yes (internally — poisoning fantasy)\n= BOTH react = D describes a SIMILARITY ✗\n\n[The actual difference]\nMrs Pugh's reactions = EXTERNALISED:\n= expressed outwardly in speech and physical action\n= audience AND Mr Pugh both receive her hostility\n\nMr Pugh's reactions = INTERNALISED:\n= expressed internally in imagination (First Voice reveals this to AUDIENCE ONLY)\n= Mr Pugh says 'you know best, dear' outwardly\n= he suppresses and contains his hostility\n\n[Paraphrase chain → A]\n'externalise' = express outwardly, direct outward\n'degree to which they externalise' = HOW MUCH each expresses outwardly\nMrs = high degree / Mr = low degree\n= different degrees of externalisation = A ✓\n\n[The First Voice function]\nFirst Voice = the device that reveals Mr Pugh's INTERNAL state\n= without First Voice, audience would think he is merely passive\n= First Voice makes the contrast visible: gentle words / violent imagination\n= this is WHY the degree of externalisation is the key difference",
+      "action": "Action Rule (Q91): Test each choice: does it describe a SIMILARITY or DIFFERENCE? D = both react = similarity = eliminated. A = degree of externalisation = different for each (Mrs outward / Mr inward) = the actual difference. First Voice existence = hint that Mr Pugh's reactions are internal, not external."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u126_q92_targeting_words_thoughts_most_opposed",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 126 — Q92 Targeting (A→C)",
+    "quiz": {
+      "question": "[Q92 — Targeting: Where are words and thoughts MOST OPPOSED?]\n\nKey moments:\nLines 8–9: Mrs Pugh: 'Persons with manners do not read at table' (line 8)\nLines 9–10: [First Voice: swallows horse-pill tablet] → more about Mrs Pugh's action\nLines 12–15: Mrs Pugh: 'pigsties' / Mr Pugh: 'Pigs don't read, dear' / [First Voice: flicks dust]\nLine 24: Mr Pugh: 'You know best, dear' ← MOST SUBMISSIVE POSSIBLE WORDS\nLine 25: First Voice: 'quick as a flash he ducks her in rat soup' ← MOST VIOLENT POSSIBLE THOUGHT\n\nQ: At which point are the character's words and thoughts MOST opposed?\n\nYour pick — A: <strong>lines 8 and 9–10</strong>\nCorrect — C: <strong>lines 24 and 25</strong>\n\nWhy is lines 24–25 the MAXIMUM point of opposition?",
+      "options": [
+        "A is correct because line 8 shows polite words while the tablet-swallowing shows discomfort",
+        "Lines 24–25 represent the MAXIMUM gap: 'You know best, dear' = ultimate submission in words (he defers completely to her judgment). Immediately after: 'quick as a flash he ducks her in rat soup' = ultimate violence in thought (drowns her in rat soup). The contrast at lines 8–10 is milder: polite criticism vs physical discomfort. 24–25 is extreme deference vs extreme violence = maximum opposition.",
+        "C is wrong because the rat soup image is not a direct reaction to 'you know best'",
+        "A is correct because the passage spends more time on lines 8–10"
+      ],
+      "correctIdx": 1,
+      "answer": "② Lines 24–25 = maximum opposition: extreme deference ('you know best') vs extreme violence (ducks her in rat soup) — the widest gap in the passage",
+      "explanation": "[Measuring the gap at each candidate]\nLines 8–10:\nWords: 'Persons with manners do not read at table' (polite criticism)\nThoughts/action: swallows horse-pill (physical discomfort, not her thought)\n= gap: mild criticism vs mild physical reaction\n= moderate opposition\n\nLines 12–15:\nWords: 'pigsties' (direct insult) / 'Pigs don't read, dear' (mild deflection)\nFirst Voice: 'Bitterly she flicks dust' (matches her hostility)\n= gap: hostile words + hostile action = internally consistent\n= small opposition between words and revealed inner state\n\nLines 24–25: THE MAXIMUM\nWords (line 24): 'You know best, dear'\n= the most SUBMISSIVE, DEFERENTIAL phrase possible\n= he appears completely compliant\n\nThought (line 25): 'quick as a flash he ducks her in rat soup'\n= immediately violent fantasy\n= most extreme physical violence imaginable\n\n[Maximum opposition = C]\nExtreme submission (words) ↔ Extreme violence (thought)\n= widest gap between surface expression and internal state\n= C ✓\n\n[The 'quick as a flash' signal]\n'Quick as a flash' = immediately, simultaneously\n= the violent thought arrives WHILE he is saying the submissive words\n= the two states coexist at the same moment = maximum opposition",
+      "action": "Action Rule (Q92): For 'most opposed' questions — measure the GAP at each candidate point. Lines 24–25 gap: extreme submission ('you know best') ↔ extreme violence (rat soup). 'Quick as a flash' = both states simultaneous = widest gap = C. Lines 8–10 gap = mild criticism vs discomfort = smaller opposition."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u126_meta_two_layer_externalise_gap",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 126 — Meta: Two-Layer Reading",
+    "quiz": {
+      "question": "[Unit 126 — Meta Pattern]\n\nQ89: chose C (innocent sparring) — 'innocent' contradicted by poisoning fantasy\nQ91: chose D (react to comments) — described similarity not difference; missed externalise dimension\nQ92: chose A (lines 8–10) — didn't measure the gap size; missed maximum opposition at 24–25\n\nThree tools cover all three errors. Which correctly identifies them?",
+      "options": [
+        "All three are vocabulary errors — unfamiliar dramatic terms",
+        "Tool 1 = BENIGN WORD CONTRADICTION CHECK (Q89): when a choice contains 'innocent/polite/harmless', test against the passage's most extreme content — poisoning fantasy eliminates 'innocent'. Tool 2 = SIMILARITY vs DIFFERENCE TEST (Q91): 'both react' = similarity; 'different DEGREE of externalising' = the actual difference; First Voice signals Mr Pugh's reactions are internal. Tool 3 = GAP SIZE MEASUREMENT (Q92): 'most opposed' = find the widest gap between words and thoughts — submissive words + violent thought = maximum gap at lines 24–25.",
+        "All three are targeting errors — wrong paragraph",
+        "All three are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Tool 1 = benign word contradiction / Tool 2 = similarity vs difference + externalise / Tool 3 = gap size measurement",
+      "explanation": "[Tool 1: Benign word contradiction (Q89)]\nC: 'innocent' = benign qualifier\nTest against passage's most extreme content:\npoisoning fantasy / rat soup / 'scale and viper through her'\n= NOT innocent\n= one word eliminates C immediately\n\nFix: When a choice contains a benign/softening qualifier (innocent, polite, harmless)\n→ test against the passage's MOST extreme content\n→ any extreme content = that benign word fails\n\n[Tool 2: Similarity vs Difference (Q91)]\nD: 'react to each other's comments' = BOTH react = similarity\nA: 'degree to which they externalise' = HOW MUCH each expresses outward = difference\nMrs = outward / Mr = inward (First Voice reveals this)\n\nFix: For 'key difference' questions — test if the choice describes something BOTH do (similarity) or something that DIFFERS between them (difference)\n\n[Tool 3: Gap size measurement (Q92)]\n'Most opposed' = widest gap\nLines 8–10 gap = mild criticism vs mild discomfort = small\nLines 24–25 gap = extreme deference vs extreme violence = large\n\nFix: For 'most X' questions — measure and compare ALL candidates before choosing\n\n[Dylan Thomas drama rule]\nFirst Voice = reveals internal states not visible in speech\n= creates the two-layer structure: surface words vs inner thoughts\n= any question about opposition/difference = check BOTH layers",
+      "action": "Meta Rule (Unit 126):\nBenign word check: 'innocent/polite/harmless' → test against most extreme passage content.\nSimilarity/difference: 'key difference' → verify it's not something both characters share.\nGap measurement: 'most opposed' → quantify the gap at each candidate, choose the widest."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
