@@ -3183,5 +3183,131 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u124_q27_vocab_sarcastically",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 124 — Q27 Vocab (D→B)",
+    "quiz": {
+      "question": "[Q27 — Vocab: How would an actor speak lines 31–32?]\n\nContext:\nStephanie (lines 29–30): criticises Marcus's job as 'meaningless, fraudulent, exploitative'\nMarcus (lines 31–32): 'I suppose you think teaching semiotics is holding the fabric of the universe together'\n\n= Marcus mocks Stephanie's high opinion of her OWN former work\nby deliberately OVERSTATING its cosmic importance\n\nQ: An actor would most likely speak these lines ______.\n\nYour pick — D: <strong>with bewilderment</strong>\nCorrect — B: <strong>sarcastically</strong>\n\nWhy does the context eliminate D and demand B?",
+      "options": [
+        "D is correct because Marcus is genuinely confused by Stephanie's logic",
+        "Bewilderment = genuine confusion/disorientation. But Marcus is COUNTER-ATTACKING — he has just been attacked and is now mocking Stephanie's self-importance with deliberate exaggeration ('holding the FABRIC OF THE UNIVERSE together' = absurd overstatement). This is classic sarcasm: saying the grandiose opposite of what you mean to mock someone. D would require Marcus not to understand what's happening — he understands perfectly and is hitting back.",
+        "B is wrong because Marcus is not shown to be generally sarcastic in the play",
+        "D is correct because Marcus is surprised by Stephanie's sudden attack on his job"
+      ],
+      "correctIdx": 1,
+      "answer": "② bewilderment = confusion / Marcus is counter-attacking with deliberate overstatement = sarcasm (B)",
+      "explanation": "[Sarcasm mechanics decoded]\nSarcasm = saying the grandiose or exaggerated OPPOSITE of what you mean\n= to mock someone's inflated self-image\n\nMarcus's line: 'I suppose you think teaching semiotics is holding the FABRIC OF THE UNIVERSE TOGETHER'\n= 'fabric of the universe' = cosmically important language\n= applied to academic semiotics = absurdly overblown\n= Marcus knows Stephanie does NOT think this\n= he is MOCKING her implied self-importance\n\n[Why D (bewilderment) fails]\nbewilderment = lost, confused, not understanding\n= if Marcus were bewildered: 'What? Why are you attacking me? I don't understand'\n= but Marcus DOES understand → he is counter-attacking intelligently\n= bewilderment requires cognitive confusion, not strategic mockery\n\n[The counter-attack structure]\nStephanie: 'your job is fraudulent/exploitative'\nMarcus: 'I suppose YOUR job was saving the universe' (sarcastic exaggeration)\n= reciprocal mockery = sarcasm ✓\n\n[Vocab precision]\nsarcastically = mockingly, with ironic exaggeration\nbewilderment = genuine confusion about what is happening\nindulgently = with tolerant amusement\nwith curiosity = wanting to understand more",
+      "action": "Action Rule (Q27): 'Fabric of the universe' = deliberate cosmic overstatement to mock Stephanie's self-importance = sarcasm. Bewilderment requires genuine confusion — Marcus is counter-attacking strategically. Learn: sarcasm = deliberate exaggeration/inversion to mock. Bewilderment = lost/confused."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u124_q28_targeting_apologetic_unprompted",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 124 — Q28 Targeting (A→C)",
+    "quiz": {
+      "question": "[Q28 — Targeting: Marcus's impression about selling the house]\n\nPassage (lines 8–9):\nMarcus: 'I couldn't take it on... I wasn't there long enough.\n<em>It would have been too much to ask of them so soon.</em>'\n← Stephanie did NOT ask him to explain\n← He volunteers this defence unprompted\n\nQ: Concerning selling the house, Marcus gives the impression that he ______.\n\nYour pick — A: <strong>feels it was nothing to do with him</strong>\nCorrect — C: <strong>feels apologetic towards Stephanie because he didn't do anything to help</strong>\n\nWhy does volunteering an unprompted defence signal apologetic feelings?",
+      "options": [
+        "A is correct because Marcus is a real estate agent and selling houses is just his job",
+        "A (nothing to do with him) would mean Marcus doesn't feel responsible — but if it were nothing to do with him, he would NOT bother explaining himself. The fact that he VOLUNTEERS a defence without being asked = guilty conscience = apologetic. C: he is a real estate agent who SHOULD have helped sell the family house, didn't, and now justifies himself pre-emptively = apologetic.",
+        "C is wrong because Marcus never explicitly says he is sorry",
+        "A is correct because Stephanie already says she managed fine, showing Marcus wasn't needed"
+      ],
+      "correctIdx": 1,
+      "answer": "② Unprompted defence = guilty conscience = apologetic (C) / 'nothing to do with him' would mean no defence needed",
+      "explanation": "[The unprompted defence signal]\nStephanie: 'Even me.' (line 5) — neutral, just mentioning she sold a house\nMarcus: immediately launches into defence ('I couldn't take it on... It would have been too much...')\n= Stephanie did NOT accuse him\n= he brings up his own failure and justifies it\n= PROACTIVE DEFENCE = guilty conscience = apologetic ✓\n\n[Why A is self-contradicting]\nIf Marcus felt it was 'nothing to do with him':\n= he would not mention it\n= he would not justify himself\n= there would be no need for a defence\nBut he DOES defend himself unprompted\n= therefore he DOES feel it was to do with him\n= A directly contradicted by his own behaviour ✗\n\n[The occupational dimension]\nMarcus = real estate agent\nFamily house needed selling\n= the obvious person to help = him\n= he didn't help\n= he feels the weight of that obligation he didn't fulfil\n= C: apologetic because he didn't do anything to help ✓\n\n[Behavioural logic]\nUnprompted defence = I feel I owe an explanation\n= I feel I did something wrong\n= apologetic feelings ✓",
+      "action": "Action Rule (Q28): Unprompted defence = guilty conscience = apologetic (C). When a character justifies themselves before being accused, they feel responsible. A requires indifference — but his defence proves the opposite. Real estate agent + family house unsold = obvious unfulfilled obligation."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u124_q29_targeting_resents_no_help",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 124 — Q29 Targeting (B→A)",
+    "quiz": {
+      "question": "[Q29 — Targeting: Stephanie's impression about selling the house]\n\nPassage (lines 13–15):\nMarcus: 'I'm glad you don't mind.'\nStephanie: '<em>Of course I mind, you jerk.</em>\nOf course I mind. It's bad enough you work in such a cruddy job,\n<em>but you can't even do something useful with it when it comes to the crunch</em>,\nof course I mind.'\n\nQ: Concerning selling the house, Stephanie gives the impression that ______.\n\nYour pick — B: <strong>it was a depressing and gruelling task, and she is glad it is over</strong>\nCorrect — A: <strong>she resents the fact that Marcus did not offer any help</strong>\n\nWhat is Stephanie's anger DIRECTED AT?",
+      "options": [
+        "B is correct because selling a house during a father's terminal illness is objectively depressing",
+        "B describes Stephanie's feelings about the TASK itself. But her explosion is directed at MARCUS specifically: 'you jerk', 'you can't even do something useful with it when it comes to the crunch'. The word 'you' appears repeatedly — her anger is directed at HIS FAILURE to help, not at the difficulty of the task. A: she resents that Marcus didn't offer help = directly anchored in lines 13–15.",
+        "A is wrong because Stephanie says 'I managed' showing she doesn't need Marcus",
+        "B is correct because 'Of course I mind' shows she found the experience painful"
+      ],
+      "correctIdx": 1,
+      "answer": "② B = about the task / A = about Marcus's failure to help — 'you jerk', 'you can't even do something useful' = anger directed at HIM specifically",
+      "explanation": "[Direction of Stephanie's anger]\n'Of course I mind, YOU jerk'\n'YOU can't even do something useful with it'\n'when it comes to the crunch' = when it really mattered\n\n= all pronouns point to MARCUS\n= anger is directed at HIS FAILURE, not at the task's difficulty\n\n[Why B is misdirected]\nB: 'depressing and gruelling task, glad it is over'\n= about the difficulty OF SELLING THE HOUSE\n= but Stephanie doesn't describe the task as depressing\n= she describes Marcus as useless when she needed him\n= her emotion = resentment toward Marcus, not relief about task ending\n\n[Paraphrase chain → A]\n'You can't even do something useful with it when it comes to the crunch'\n= when she needed practical help (crunch time), he provided nothing\n= she RESENTS this failure\n= A: 'resents the fact that Marcus did not offer any help' ✓\n\n[The 'jerk' signal]\n'Of course I mind, you JERK'\n= personal insult directed at Marcus\n= emotional charge = resentment/anger at a PERSON\n= NOT relief that a task is over (which would be calm, not angry)",
+      "action": "Action Rule (Q29): Check WHO Stephanie's anger is directed at. 'You jerk' + 'you can't even' = anger at MARCUS specifically. B is about the task (wrong direction). A = resents Marcus's failure = correct direction. Track pronouns in emotional outbursts — they reveal the target of the emotion."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u124_q30_targeting_weak_defence_laugh",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 124 — Q30 Targeting (B→D)",
+    "quiz": {
+      "question": "[Q30 — Targeting: Why does Marcus laugh (line 25)?]\n\nContext:\nStephanie (lines 21–23): 'A complete waste. Opening front doors for suburban slime... It's demeaning. It's menial.'\n= detailed, forceful, multi-word attack on his profession\n\nMarcus (line 24): 'I enjoy it. I get to travel and meet people.'\n[He laughs.] (line 25)\n\nQ: Why does Marcus laugh?\n\nYour pick — B: <strong>He doesn't really mean what he is saying</strong>\nCorrect — D: <strong>He recognises that what he is saying sounds pretty weak</strong>\n\nWhy is D the correct reading of this laughter?",
+      "options": [
+        "B is correct because Marcus is just defending himself politely without conviction",
+        "B requires Marcus to be insincere — but he probably DOES enjoy his job. D: Stephanie has just deployed a sophisticated, multi-layered attack ('suburban slime, demeaning, menial'). Marcus's response: 'I enjoy it. I get to travel and meet people.' = thin, simple defence against a powerful argument. He laughs because he RECOGNISES his own defence sounds hollow in comparison — self-aware acknowledgment of a weak counter-argument.",
+        "D is wrong because Marcus never explicitly says he thinks his argument is weak",
+        "B is correct because 'I get to travel and meet people' is too casual to be his real view"
+      ],
+      "correctIdx": 1,
+      "answer": "② D = self-aware laugh at the weakness of his own defence / B requires insincerity (he probably genuinely enjoys his job)",
+      "explanation": "[The mismatch that causes the laugh]\nStephanie's attack: elaborate, specific, multi-word\n= 'suburban slime' / 'demeaning' / 'menial' / 'complete waste'\n= rhetorically powerful\n\nMarcus's defence: simple, generic\n= 'I enjoy it. I get to travel and meet people.'\n= thin, barely addresses her specific points\n\n[The laugh = self-awareness]\nHe laughs = he HEARS his own words as they come out\n= he recognises the gap between her attack and his response\n= D: 'recognises that what he is saying sounds pretty weak' ✓\n\n[Why B (not sincere) is wrong]\nB requires: Marcus doesn't actually enjoy his job\n= but nothing in the passage suggests he dislikes it\n= he later defends it further ('It's important. People need real estate agents.')\n= he seems to genuinely believe in its value\n= B invents insincerity not in the text ✗\n\n[Laughter as self-aware acknowledgment]\nIn drama, a character laughing at their own words often signals:\n= 'even I can hear how weak this sounds'\n= not lying, just outgunned in the debate\n= D = self-aware humour about the inadequacy of his counter-argument ✓",
+      "action": "Action Rule (Q30): Stephanie's attack = sophisticated and multi-layered. Marcus's defence = simple and thin. [He laughs] = self-awareness that his response sounds weak compared to her attack = D. B requires insincerity — he genuinely enjoys his job (defends it again later). Laughter after a thin defence = D."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u124_q32_paraphrase_waste_expectations",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 124 — Q32 Paraphrase (A→B)",
+    "quiz": {
+      "question": "[Q32 — Paraphrase: How does Stephanie feel about Marcus and his way of life?]\n\nPassage (lines 18–19):\n'It's a waste.' [pause] 'It's a waste of you, your life.'\n\nQ: Which best describes Stephanie's feelings about her brother?\n\nYour pick — A: <strong>She thinks he is worthless and has no potential</strong>\nCorrect — B: <strong>She is angry with him because he is not living up to her expectations</strong>\n\nHow does 'waste of YOU' vs 'worthless' reveal a critical distinction?",
+      "options": [
+        "A is correct because Stephanie calls his job 'meaningless, fraudulent, exploitative'",
+        "'Waste of YOU' = YOU have value that is being wasted. If Marcus were worthless (A), there would be NOTHING to waste. 'Waste' logically requires the existence of something valuable being squandered. Stephanie sees Marcus as having POTENTIAL she believes he is not using. B: 'not living up to her expectations' = she expects more from him because she believes he is capable of more = the exact logic of 'waste'.",
+        "B is wrong because Stephanie never explicitly states her expectations for Marcus",
+        "A is correct because 'fraudulent and exploitative' shows she has no respect for him"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'waste of YOU' = YOU have value being squandered / worthless = no value to waste = logically impossible combination",
+      "explanation": "[The logical structure of 'waste']\nwaste (noun) = using something valuable in a way that doesn't honour its value\n= waste REQUIRES value to exist in the first place\n\n'It's a waste of YOU'\n= YOU = valuable person\n= being wasted = not using that value properly\n= Stephanie believes Marcus HAS something worth more than this job\n\n[Why A is logically contradicted]\nA: 'worthless, has no potential'\n= if he has NO value, there is NOTHING to waste\n= you cannot waste something worthless\n= 'waste of you' REQUIRES the opposite of worthless\n= A is a logical impossibility given the word 'waste' ✗\n\n[Paraphrase chain → B]\n'waste of you' = you have potential not being used\n= she EXPECTS more from him based on that potential\n= he is NOT meeting those expectations\n= B: 'not living up to her expectations' ✓\n\n[The anger source]\nIf Marcus were worthless (A): she might feel contempt or resignation\nIf he is wasting his potential (B): she feels FRUSTRATION and ANGER\n= anger requires believing the person COULD DO BETTER\n= Stephanie's passionate outburst = frustrated expectations, not contempt",
+      "action": "Action Rule (Q32): 'Waste of you' = logical structure: waste requires VALUE to exist. Therefore she thinks Marcus has value/potential. A (worthless) = logically impossible with 'waste'. B (not living up to expectations) = she believes he is capable of more = the meaning of 'waste of you'. Waste ≠ worthless."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u124_meta_sarcasm_defence_waste_logic",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 124 — Meta: Sarcasm + Behavioural Logic + Word Logic",
+    "quiz": {
+      "question": "[Unit 124 — Meta Pattern]\n\nQ27: chose D (bewilderment) — didn't know 'sarcastically'\nQ28: chose A (nothing to do with him) — missed unprompted defence = guilty conscience\nQ29: chose B (task was hard) — missed anger directed at Marcus specifically\nQ30: chose B (not sincere) — missed self-aware laugh at weak defence\nQ32: chose A (worthless) — missed logical structure of 'waste'\n\nThree correction principles cover all five. Which correctly identifies them?",
+      "options": [
+        "All five are vocabulary errors — unfamiliar words",
+        "P1 = VOCAB+CONTEXT (Q27): 'sarcastically' = deliberate exaggeration to mock; 'bewilderment' = confusion — context of counter-attack demands sarcasm. P2 = BEHAVIOURAL LOGIC (Q28, Q29, Q30): unprompted defence = guilty/apologetic; anger with 'you jerk/you can't' = directed at Marcus not the task; self-aware laugh after thin defence = recognises weakness (D). P3 = WORD LOGIC (Q32): 'waste of you' logically requires Marcus to have VALUE = not worthless = B.",
+        "All three are targeting errors — wrong paragraph",
+        "All five are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② P1 = vocab+context (sarcasm vs bewilderment) / P2 = behavioural logic (defence=apologetic, you=direction, laugh=self-aware) / P3 = word logic (waste requires value)",
+      "explanation": "[P1: Vocab + Context (Q27)]\nsarcastically = deliberate overstatement/inversion to mock\nbewilderment = genuine confusion about what's happening\nContext: Marcus is counter-attacking = strategic, not confused\n→ sarcastically ✓\n\n[P2: Behavioural Logic (Q28, Q29, Q30)]\nQ28: volunteering unprompted defence → feels responsible → apologetic (C)\nQ29: 'you jerk' + 'you can't' → anger directed at Marcus (not the task) → resents his failure (A)\nQ30: thin defence after powerful attack + [laughs] → self-aware about weakness → D\n\nBehavioural logic = CHARACTER'S ACTIONS reveal their internal state\nunprompted = guilty / anger at 'you' = at him / laugh after weak response = self-aware\n\n[P3: Word Logic (Q32)]\n'waste of you' = logical structure:\n→ waste requires value to exist\n→ 'of you' = you are what is being wasted\n→ you HAVE value being squandered\n→ NOT worthless (A) = impossible\n→ not meeting potential (B) = correct ✓\n\nFix: Check the logical structure of key words\nwaste = something valuable used poorly\nworthless = no value\nlogically incompatible when said about the same person",
+      "action": "Meta Rule (Unit 124):\nVocab+Context: sarcasm = deliberate exaggeration to mock (not confusion).\nBehavioural logic: unprompted=guilty; 'you' pronoun=direction of anger; self-aware laugh=recognises weakness.\nWord logic: 'waste of you' = you have value = not worthless = expectations not met."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
