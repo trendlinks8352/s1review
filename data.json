@@ -3099,5 +3099,89 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u125_q51_paraphrase_pragmatic_organised",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 125 — Q51 Paraphrase (A→C)",
+    "quiz": {
+      "question": "[Q51 — Paraphrase: What does John Smith's breakfast dialogue show about him?]\n\nPassage (lines 1–24):\n• 'Over breakfast he got down to business' (straight to practical matters)\n• 'There must be a registry office in Katoomba, so we'll go in and get a marriage licence'\n• 'Do you have a birth certificate?' 'Yes, in my bag.'\n• 'If I can persuade the powers that be, I'd like to get it over and done with today.'\n\nQ: John Smith's dialogue indicates that he is ______.\n\nYour pick — A: <strong>devious but unsure</strong>\nCorrect — C: <strong>pragmatic and organised</strong>\n\nHow does 'got down to business' eliminate A and confirm C?",
+      "options": [
+        "A is correct because John asks 'warily' showing he is uncertain about Missy's plans",
+        "'Got down to business' = immediately tackled practical matters without hesitation = NOT devious (deceptive) or unsure. John then identifies a specific office (registry), identifies a required document (birth certificate), and sets a target timeline ('today'). This sequence = PRAGMATIC (realistic, action-focused) + ORGANISED (step-by-step planning). A: 'devious' requires deceptive intent — John is entirely transparent about his intentions.",
+        "C is wrong because John shows emotion by being alarmed about a big wedding",
+        "A is correct because 'warily' shows John is suspicious of Missy's motives"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'got down to business' = direct, no-nonsense → pragmatic / registry + birth certificate + today = step-by-step plan → organised",
+      "explanation": "['Got down to business' decoded]\n= immediately addressed practical matters\n= no romantic lingering, no hesitation\n= ACTION-ORIENTED = pragmatic ✓\n\n[His step-by-step sequence]\n1. Identify the office: 'there must be a registry office in Katoomba'\n2. Identify the document: 'Do you have a birth certificate?'\n3. Set the timeline: 'get it over and done with today'\n= sequential planning = ORGANISED ✓\n\n[Why A (devious) fails]\ndevious = cunning, deceptive, having hidden agenda\n= John's agenda is entirely transparent: get married today\n= nothing hidden, nothing manipulative\n= A directly contradicted by his straightforward declarations ✗\n\n[Why A (unsure) fails]\nunsure = hesitant, lacking confidence\n= John states his plan as fact: 'we'll go', 'I'd like to get it done today'\n= no hedging, no uncertainty in his planning\n= being 'alarmed' about a big wedding = practical concern (cost/logistics)\n= NOT uncertainty about the relationship ✗\n\n[The 'warily' trap]\n'What?' he asked warily (line 15)\n= John is cautious about ONE specific question (burial dress = unexpected topic)\n= caution about one bizarre question ≠ overall 'unsure' character trait",
+      "action": "Action Rule (Q51): 'Got down to business' = pragmatic signal. Registry + birth certificate + today = organised sequence. 'Devious' requires hidden deceptive agenda (absent). 'Unsure' requires hesitation (absent — he states plans as facts). 'Warily' = one cautious moment ≠ overall character trait."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u125_q52_logic_least_likely_blame_mother",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 125 — Q52 Logic (C→D)",
+    "quiz": {
+      "question": "[Q52 — Logic: LEAST LIKELY reason Missy is embarrassed by her name?]\n\nPassage (lines 25–36):\n• Her reaction was 'extraordinary' — went red, shifted, clenched teeth\n• 'Can't you just use Missy? It's what I've always been called.'\n• Name = same as her house (Missalonghi)\n• No one calls her by real name\n• Father insisted on Missalonghi (loves Latin names)\n• Mother wanted Camilla but father 'insisted'\n• She wears only brown — 'poor but respectable'\n\nQ: Which is the LEAST LIKELY reason?\n\nYour pick — C: <strong>She cannot reconcile it with her current social position</strong>\nCorrect — D: <strong>She blames her mother for not being equally insistent on Camilla</strong>\n\nWhy does C remain plausible but D has no passage anchor?",
+      "options": [
+        "C is the least likely because 'reconcile' is used incorrectly in the passage context",
+        "C is plausible: her social position = 'poor but respectable' with a grandiose, exotic name = hard to reconcile (mismatch is real). D requires Missy to BLAME her mother — but the passage only states the fact ('Mother wanted Camilla, he insisted') with no emotional charge toward the mother. No resentment toward mother is expressed anywhere. LEAST LIKELY = D because it invents a blame relationship absent from the passage.",
+        "D is correct because Missy clearly wishes she had been called Camilla",
+        "C is the least likely because Missy is happy with her social position"
+      ],
+      "correctIdx": 1,
+      "answer": "② C = plausible (grandiose name vs poor-but-respectable life = real mismatch) / D = invents blame toward mother not in passage = least likely",
+      "explanation": "[Testing each option as 'plausible reason for embarrassment']\n\nA: 'It is the same name as her house'\n= Missalonghi = name AND house = unusual, potentially embarrassing ✓ plausible\n\nB: 'No one calls her by her real name'\n= she has always been 'Missy' = real name unused = embarrassing ✓ plausible\n\nC: 'She cannot reconcile it with her current social position'\nreconcile = make compatible, bring into harmony\nher position: 'poor but respectable', wears only brown, very modest life\nher name: Missalonghi = grand, Latin, 'most beautiful word in the world'\n= total mismatch between modest reality and grandiose name\n= C is plausible as a reason ✓\n\nD: 'She blames her mother for not being equally insistent on Camilla'\n= requires: Missy feels RESENTMENT toward her mother\nPassage: 'Mother wanted to call me Camilla, but he insisted on Missalonghi'\n= neutral factual statement = no emotional charge toward mother\n= no resentment, no blame toward mother expressed anywhere\n= D invents a relationship not in passage = LEAST LIKELY ✗\n\n[The 'least likely' logic]\nQuestion: which is NOT a likely reason?\n= find the one with LEAST or ZERO passage support\n= C has genuine passage support (real mismatch)\n= D has zero passage support (blame toward mother invented)\n= D = least likely ✓",
+      "action": "Action Rule (Q52): For 'least likely' questions — test each option for passage support. C has real evidence (modest life + grandiose name = reconciliation problem). D requires blame toward mother — passage gives only a neutral fact. Least supported = least likely = D. Also: 'least likely' ≠ 'most wrong' — find the one with weakest passage basis."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u125_q53_targeting_as_a_whole_acceptance",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 125 — Q53 Targeting (A→C)",
+    "quiz": {
+      "question": "[Q53 — Targeting: 'AS A WHOLE' — what is the mood of their conversation?]\n\nOverall conversation arc:\n• Immediately discuss practical marriage steps (registry, licence, birth certificate)\n• Both laugh about brown dress burial request\n• Missy's brown philosophy explained and accepted ('That made him laugh')\n• 'Missalonghi' name revealed → 'He burst out laughing'\n• 'You poor little bitch!' = affectionate response in laughing context\n\nQ: Their conversation, AS A WHOLE, shows a mood of ______.\n\nYour pick — A: <strong>distrust and suspicion</strong>\nCorrect — C: <strong>acceptance and contentment</strong>\n\nWhich words in the passage are the 'as a whole' targets, and which are the local distractors?",
+      "options": [
+        "A is correct because 'warily' and 'alarmed' show both characters are on guard",
+        "'As a whole' requires the dominant mood across the whole conversation, not isolated moments. DISTRACTORS: 'warily' (1 moment) + 'alarmed' (1 moment) = local reactions to specific surprises, not the overall tone. OVERALL EVIDENCE: both laugh repeatedly, she explains her quirks openly, he accepts them ('made him laugh'), they proceed cheerfully toward marriage. C: acceptance = each accepts the other's oddities / contentment = they are comfortable moving forward together.",
+        "C is wrong because 'You poor little bitch!' shows hostility",
+        "A is correct because they are still getting to know each other and therefore suspicious"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'warily'/'alarmed' = local distractor moments / repeated laughter + mutual acceptance of quirks = overall mood = C",
+      "explanation": "['As a whole' discipline — collect all mood evidence]\n\nLocal distractor moments (A's evidence):\n'warily' (line 15) = one cautious question moment\n'alarmed' (line 7) = one surprised moment about big wedding\n= these are REACTIONS TO SPECIFIC SURPRISES, not the overall mood\n\nOverall mood evidence (C's evidence):\n'That made him laugh' (line 21) = accepts her brown philosophy with warmth\n'He burst out laughing' (line 31) = delighted by her name\n'You poor little bitch!' (line 36) = affectionate in this laughing context\nPractical marriage planning = contentment with their decision\n= acceptance: each takes the other's quirks in stride\n= contentment: they are moving happily toward marriage\n\n[Why A (distrust/suspicion) fails the whole-passage test]\ndistrust = ongoing doubt about the other's motives\n= John's actions: moves quickly toward marriage = NOT distrustful\nMissy's actions: openly shares embarrassing name, quirky burial request\n= NOT guarded or suspicious\n= two local reaction words ('warily', 'alarmed') ≠ sustained distrust throughout\n\n[The 'as a whole' instruction]\n= do not anchor to one or two local words\n= survey the dominant emotional register across the whole exchange\n= dominant register here: warmth, laughter, mutual acceptance = C ✓",
+      "action": "Action Rule (Q53): 'As a whole' = survey the DOMINANT mood across the entire passage. Identify local distractor moments ('warily', 'alarmed') vs overall pattern (repeated laughter, mutual acceptance, forward movement to marriage). Dominant pattern = acceptance and contentment = C. Two cautious words ≠ overall distrust."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u125_meta_first_sentence_least_likely_whole",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 125 — Meta: Three Question Types",
+    "quiz": {
+      "question": "[Unit 125 — Meta Pattern]\n\nQ51: chose A (devious/unsure) — missed 'got down to business' = pragmatic signal\nQ52: chose C (cannot reconcile) — it IS a plausible reason; D (blame mother) has no anchor\nQ53: chose A (distrust/suspicion) — anchored to local words ('warily', 'alarmed') not overall mood\n\nThree distinct question-type fixes. Which correctly identifies them?",
+      "options": [
+        "All three are vocabulary errors — unfamiliar words caused misreading",
+        "Q51 fix = FIRST-SENTENCE ANCHOR: 'got down to business' = pragmatic signal that should lock the character reading (pragmatic + organised). Q52 fix = LEAST-LIKELY LOGIC: test each option for passage support — C has real mismatch evidence; D invents blame with zero anchor = least supported = least likely. Q53 fix = AS-A-WHOLE DISCIPLINE: collect dominant mood evidence, not local reaction words — 'warily' + 'alarmed' = local; repeated laughter + acceptance = dominant.",
+        "All three are targeting errors — wrong paragraph",
+        "All three are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Q51 = first-sentence anchor (pragmatic) / Q52 = least-likely = least supported / Q53 = dominant mood not local words",
+      "explanation": "[Q51: First-sentence anchor]\n'Over breakfast he got down to business'\n= first sentence sets the character register\n= 'got down to business' = pragmatic, direct, no-nonsense\n= all subsequent actions (registry, birth certificate, today) = organised\n= lock this reading from line 1\n\n[Q52: Least-likely logic]\nStep 1: test each option against passage evidence\nA = plausible (same name as house) ✓\nB = plausible (no one uses real name) ✓\nC = plausible (grandiose name vs modest life = mismatch) ✓\nD = NOT supported (blame toward mother = invented) ✗\nStep 2: least supported = least likely = D\n\n[Q53: As-a-whole discipline]\nStep 1: identify LOCAL reaction words: warily, alarmed\nStep 2: identify OVERALL pattern: laugh, laugh, laugh, acceptance, forward movement\nStep 3: dominant pattern wins for 'as a whole' questions\n= C: acceptance and contentment ✓\n\n[Three question-type rules]\n'Character X's dialogue indicates he is' → anchor to first action + consistent pattern\n'Least likely reason' → test ALL options for support; choose least supported\n'As a whole, mood is' → dominant pattern, not isolated local words",
+      "action": "Meta Rule (Unit 125):\nCharacter questions: first action sets the register ('got down to business' = pragmatic).\nLeast likely: test each option for passage support systematically; D has zero support = least likely.\nAs a whole: suppress local distractors ('warily') and find the dominant emotional pattern across the full passage."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
