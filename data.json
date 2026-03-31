@@ -3309,5 +3309,131 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u123_q34_targeting_us_vs_me_pronoun",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 123 — Q34 Targeting (D→C)",
+    "quiz": {
+      "question": "[Q34 — Targeting: Who asked 'Do your friends call you JJ?']\n\nPassage (lines 1–5):\nSpeaker 1: 'If he doesn't want to tell us... Do your friends call you JJ?'\nJJ: 'Yeah.'\nSpeaker 1: '<em>Then that's good enough for <strong>us</strong>.</em>'\nJess: '<em>'S'not good enough for <strong>me</strong>,' said Jess.</em>'\nMartin: 'Just belt up and let him talk,' said Martin.\n\nQ: Which of the following is most likely to have asked the first question?\n\nYour pick — D: <strong>any of Jess, Maureen or Martin</strong>\nCorrect — C: <strong>Maureen or Martin only</strong>\n\nHow do the pronouns 'us' and 'me' logically eliminate Jess and JJ?",
+      "options": [
+        "D is correct because any of the three could have been curious about JJ's name",
+        "Speaker 1 uses 'good enough for US' = includes themselves in a group accepting JJ's name. Then Jess says 'not good enough for ME' = Jess SEPARATES herself from that group. If Jess had asked the question, she would not then disagree with herself. JJ is the subject being asked — cannot ask himself. Therefore: Jess and JJ eliminated → only Maureen or Martin = C.",
+        "C is wrong because Maureen and Martin are very different characters",
+        "D is correct because the passage doesn't specify who asked"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'good enough for US' → Jess then says 'not for ME' = Jess disagrees with the first speaker = Jess ≠ first speaker / JJ = subject being asked = cannot be asker → C",
+      "explanation": "[Pronoun logic chain]\nStep 1: Speaker 1 says 'good enough for US'\n= Speaker 1 includes themselves in a group\n= this group accepts JJ's name\n\nStep 2: Jess says 'S'not good enough for ME'\n= Jess DISAGREES with the position just stated\n= Jess separates herself from 'us'\n\nStep 3: If Jess = Speaker 1, she would be disagreeing with HERSELF\n= logically impossible\n= Jess eliminated ✓\n\nStep 4: JJ is the person being asked ('Do YOUR friends call YOU JJ?')\n= JJ cannot ask about himself\n= JJ eliminated ✓\n\nStep 5: Remaining candidates = Maureen or Martin = C ✓\n\n[Additional confirmation]\nMartin says 'Just belt up and let him talk' = Martin is present and engaged\n= Martin could plausibly be the accommodating first speaker\n= C: Maureen or Martin only ✓\n\n[Why D is too broad]\nD includes Jess = logically eliminated by pronoun analysis\n= D cannot be correct",
+      "action": "Action Rule (Q34): Track pronouns 'us' and 'me' — Speaker 1 says 'good enough for US', then Jess says 'not for ME' = Jess disagrees with Speaker 1 = Jess ≠ Speaker 1. JJ = subject being asked = can't be asker. Elimination by logic: Jess and JJ out → Maureen or Martin = C."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u123_q35_paraphrase_passing_acquaintances",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 123 — Q35 Paraphrase (→C)",
+    "quiz": {
+      "question": "[Q35 — Paraphrase: Why did JJ lie about his reasons?]\n\nPassage (lines 13–16):\n'See, I never thought I'd run into them again.\nI was pretty sure that sooner or later we'd shake hands, wish each other a happy whatever,\nand then either trudge back down the stairs\nor jump off the fucking roof.'\n\nQ: The writer lied because he ______.\n\nCorrect — C: <strong>thought they were only passing acquaintances</strong>\n\nHow does lines 13–16 map to 'passing acquaintances'?",
+      "options": [
+        "C is wrong because the narrator does eventually trust them with his real story",
+        "'I never thought I'd run into them again' + 'shake hands, wish each other happy whatever' + 'then either go down or jump' = people you meet briefly and never see again = PASSING ACQUAINTANCES. He saw no need to give real reasons to temporary strangers. C: 'passing acquaintances' = people encountered briefly, not expected to meet again = exact paraphrase of lines 13–16.",
+        "A is correct because he clearly feels humiliated by Jess's interrogation",
+        "D is correct because he mentions AIDS and disease as potential excuses without deciding"
+      ],
+      "correctIdx": 0,
+      "answer": "① C directly paraphrases 'never thought I'd run into them again' = temporary strangers = passing acquaintances",
+      "explanation": "[Paraphrase chain → C]\n'I never thought I'd run into them again'\n= expected never to see them after this night\n= they are temporary strangers\n\n'shake hands, wish each other happy whatever'\n= polite goodbye between people who won't meet again\n= the kind of exchange between PASSING acquaintances\n\n'then... trudge back down or jump off the roof'\n= after the brief encounter, everyone goes their separate ways permanently\n= confirms the 'passing' nature of the meeting\n\nPassing acquaintances = people met briefly, not expected to encounter again ✓\n\n[The lie's logic]\nNo reason to give true, personal information to someone you'll never see again\n= the lie was low-stakes BECAUSE he thought they were passing acquaintances\n= C explains the MOTIVATION for lying ✓\n\n[Why other choices fail]\nA (better reason): requires him to feel inadequate about his real reason — not stated\nB (humiliated by Jess): humiliation came during the interrogation, not before the lie\nD (didn't know his own motivation): possible but passage specifically gives the reason in lines 13–16",
+      "action": "Action Rule (Q35): Lines 13–16 = 'never thought I'd run into them again' + 'shake hands + go separate ways' = temporary strangers = passing acquaintances (C). The lie was low-stakes because he expected never to see them again. Paraphrase: 'never run into again' → 'only passing'."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u123_q36_targeting_age_cultural_reference",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 123 — Q36 Targeting (→D)",
+    "quiz": {
+      "question": "[Q36 — Targeting: Who are closest in age?]\n\nPassage (lines 28–31):\n'Jess was <em>too young</em>' → Jess = youngest\n'I really didn't need to worry about <em>old</em> Maureen' → Maureen = oldest\n'Martin was the kind of guy who'd only have smelled a rat if I'd told him I was dying of incurable <em>ABBA</em>.' (line 30)\n← ABBA = 1970s band; JJ also references CCR (Creedence Clearwater Revival, 1960s–70s)\n\nQ: Of the four, who are closest in age?\n\nCorrect — D: <strong>The narrator and Martin</strong>\n\nHow do the cultural references confirm D?",
+      "options": [
+        "C (narrator and Jess) is correct because they are both young adults in the story",
+        "The passage explicitly labels Jess 'too young' and Maureen 'old' — both are age outliers. The narrator references CCR (his favourite band, 1960s–70s) as his fake disease name. He expects Martin specifically to recognise ABBA (also 1970s) as suspicious. Shared cultural literacy about the same era = same generation = similar age = D: narrator and Martin closest in age.",
+        "D is wrong because the passage never directly states their ages",
+        "B (Maureen and Martin) is correct because both are described as older"
+      ],
+      "correctIdx": 0,
+      "answer": "① Jess = 'too young' / Maureen = 'old' / narrator references CCR + expects Martin to recognise ABBA = same cultural era = same generation = D",
+      "explanation": "[Age anchoring]\nJess: 'too young' → youngest of the four\nMaureen: 'old' → oldest of the four\n= these two are the age extremes\n= neither is closest in age to the narrator\n\n[Cultural reference as age signal]\nNarrator: chose 'CCR' (Creedence Clearwater Revival, 1960s–70s) as his fake disease\n= CCR = all-time favourite band = his cultural generation\n\nMartin: 'the kind of guy who'd only have smelled a rat if I'd told him I was dying of incurable ABBA'\n= Martin would recognise ABBA as NOT a disease\n= Martin KNOWS ABBA (1970s band)\n= recognising a 1970s pop reference = same cultural era as narrator\n\n[Shared cultural literacy = shared generation]\nBoth narrator and Martin: familiar with 1970s band culture\n= suggests similar age/generation\n= D: narrator and Martin closest in age ✓\n\n[The indirect age inference]\nNo direct age statement\n= infer from cultural references\n= CCR + ABBA + Martin's recognition ability = same generation\n= literary inference from cultural detail",
+      "action": "Action Rule (Q36): 'Too young' = Jess outlier / 'old' = Maureen outlier → neither close to narrator. Cultural references (CCR, ABBA = 1970s) shared between narrator and Martin = same generation = closest in age = D. Cultural references in literary passages = indirect age/generation signals."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u123_q37_paraphrase_condescending_der",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 123 — Q37 Paraphrase (B→A)",
+    "quiz": {
+      "question": "[Q37 — Paraphrase: Jess's attitude to Maureen]\n\nPassage (lines 33–35):\nMaureen: 'Is there no cure for that?'\nJess: 'Oh, yeah... There's a cure. You can take a pill. <em>Der.</em>'\n\n'Der' = British slang for 'Obviously, stupid' / 'What kind of question is that?'\n\nQ: Jess's attitude to Maureen as shown in this exchange is ______.\n\nYour pick — B: <strong>belligerent and resentful</strong>\nCorrect — A: <strong>condescending and patronising</strong>\n\nWhat is the precise difference between belligerent and condescending in this context?",
+      "options": [
+        "B is correct because Jess is generally aggressive and hostile throughout the passage",
+        "Belligerent = aggressive, wanting to fight/argue (= general hostility). Condescending = treating someone as inferior, looking down on their intelligence. 'Der' specifically mocks the INTELLIGENCE of Maureen's question ('obviously, idiot') — this is CONDESCENSION (looking down on her), not belligerence (wanting to fight). Jess is generally belligerent elsewhere, but THIS moment toward Maureen = specifically condescending.",
+        "A is wrong because Jess doesn't otherwise treat Maureen differently from others",
+        "B is correct because Jess is resentful of the whole situation and takes it out on Maureen"
+      ],
+      "correctIdx": 0,
+      "answer": "① 'Der' = 'obviously, idiot' = mocking Maureen's intelligence = condescending/patronising (A) / belligerent = wanting to fight = different register",
+      "explanation": "['Der' decoded]\n'Der' = British slang\n= 'Duh' = 'obviously / what kind of dumb question is that?'\n= speaker implies the listener should have known this\n= speaker positions themselves as intellectually superior\n= CONDESCENSION ✓\n\n[Condescending vs Belligerent]\ncondescending = treating someone as less intelligent/capable than yourself\n= 'I can't believe you didn't know that'\n= looking DOWN on the person\n\nbelligerent = aggressive, combative, wanting conflict\n= 'I'm going to fight you / argue with you'\n= CONFRONTATIONAL energy, not necessarily superiority\n\n[Why A fits this moment]\nJess is not fighting with Maureen or arguing aggressively\n= she is DISMISSING Maureen's question as stupid\n= 'you should know this' = patronising\n= A: condescending and patronising ✓\n\n[Why B is Jess's general profile but not THIS moment]\nJess IS belligerent elsewhere (challenging JJ, dismissing Martin)\n= but toward Maureen in lines 33–35\n= the specific mechanism = mockery of intelligence via 'Der'\n= = condescension, not belligerence\n\n[Question asks for THIS SPECIFIC exchange]",
+      "action": "Action Rule (Q37): 'Der' = 'obviously, idiot' = mocking intelligence = condescending. This is NOT belligerence (wanting to fight) — it's superiority performance (looking down). Jess is belligerent generally but condescending toward Maureen specifically via 'Der'. Match the word to the specific mechanism, not the general character trait."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u123_q39_targeting_most_supportive",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 123 — Q39 Targeting (C→B)",
+    "quiz": {
+      "question": "[Q39 — Targeting: Who are the most supportive two?]\n\nEvidence for each character:\nJess: 'What you got? AIDS?' / mocks with 'Der' / 'Oh, is that right?' (line 50: hostile)\nMartin: 'Just belt up and let him talk' (line 5) = defends JJ against Jess\nMaureen: 'Is there no cure for that?' = innocent, non-hostile question / no attacks\nNarrator: is the one being supported\n\nQ: Given this passage only, who are the most supportive two?\n\nYour pick — C: <strong>the narrator and Martin</strong>\nCorrect — B: <strong>Martin and Maureen</strong>\n\nWhy is the narrator excluded from the 'supportive' category?",
+      "options": [
+        "C is correct because the narrator and Martin have the most adult dynamic",
+        "The question asks who is supportive OF OTHERS. The narrator is on the receiving end of support (being interrogated by Jess, defended by Martin) — he is not supporting others. Martin supports JJ ('belt up and let him talk'). Maureen is non-hostile and non-attacking. Jess is hostile throughout. B: Martin (actively defends JJ) + Maureen (no hostility, innocent questions) = the most supportive two.",
+        "B is wrong because Maureen's 'stupid' question shows she doesn't understand the situation",
+        "C is correct because the narrator and Martin share cultural references showing mutual understanding"
+      ],
+      "correctIdx": 0,
+      "answer": "① Narrator = receives support (not giving it) / Martin = actively defends JJ / Maureen = non-hostile = B",
+      "explanation": "[Evidence audit — who supports whom?]\n\nJess:\n= 'What you got? AIDS?' = mocking/attacking\n= 'Der' = condescending\n= line 50: 'Oh, is that right? And this from the girl who can't deal with being dumped' = hostile\n= NOT supportive ✗\n\nMartin:\n= Line 5: 'Just belt up and let him talk' = actively intervenes to protect JJ\n= Line 45: 'Shut up, Jess' = again protects JJ\n= SUPPORTIVE of JJ ✓\n\nMaureen:\n= 'Is there no cure for that?' = genuine innocent question\n= no attacks, no mockery, no hostility\n= SUPPORTIVE by non-hostility ✓\n\nNarrator (JJ):\n= is the SUBJECT of others' support\n= he is being interrogated, defended by Martin, not attacking others\n= NOT the giver of support in this passage ✗\n\n[Why C fails]\nC includes narrator = he receives support but doesn't give it\n= the question asks who ARE supportive (active givers)\n= narrator = passive recipient = excluded\n\n[B = Martin + Maureen]\nMartin = active supporter (intervenes)\nMaureen = passive supporter (non-hostile, innocent)\n= B ✓",
+      "action": "Action Rule (Q39): 'Most supportive' = who actively or passively SUPPORTS others. Narrator = receives support (subject). Jess = hostile. Martin = actively defends JJ twice. Maureen = non-hostile. B = Martin + Maureen. Remember: the person being supported ≠ the supportive one."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u123_meta_pronoun_cultural_specific_moment",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 123 — Meta: Pronoun Logic + Cultural Signal + Specific Moment",
+    "quiz": {
+      "question": "[Unit 123 — Meta Pattern]\n\nQ34: chose D (any three) — missed pronoun logic: 'us' vs 'me' eliminates Jess\nQ35: → C passing acquaintances (direct paraphrase of lines 13–16)\nQ36: → D narrator+Martin (CCR/ABBA = shared cultural generation)\nQ37: chose B (belligerent) — belligerent = general / condescending = specific to 'Der'\nQ39: chose C (narrator+Martin) — narrator receives support, doesn't give it\n\nFour tools cover these errors. Which correctly identifies them?",
+      "options": [
+        "All five are vocabulary errors — unfamiliar words",
+        "Tool 1 = PRONOUN ELIMINATION (Q34): 'us' vs 'me' = Jess disagrees with Speaker 1 = Jess ≠ asker. Tool 2 = CULTURAL REFERENCE AS SIGNAL (Q36): CCR + ABBA = 1970s = same generation = narrator and Martin. Tool 3 = GENERAL vs SPECIFIC MOMENT (Q37): Jess is generally belligerent BUT 'Der' specifically = condescension = A. Tool 4 = ACTIVE vs PASSIVE ROLE (Q39): narrator = receives support (passive) / Martin and Maureen = give support (active) = B.",
+        "All four are targeting errors — wrong paragraph",
+        "All four are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Pronoun elimination + cultural signal + general vs specific + active vs passive role",
+      "explanation": "[Tool 1: Pronoun elimination (Q34)]\n'good enough for US' → Jess says 'not for ME'\n= Jess disagrees with Speaker 1 = can't be Jess\nJJ = subject = can't be asker\n→ Maureen or Martin only (C)\n\n[Tool 2: Cultural reference as signal (Q36)]\nCCR = narrator's favourite band (1960s–70s)\nABBA = Martin would recognise (1970s)\n= shared 1970s cultural literacy = same generation\n= narrator and Martin closest in age (D)\n\n[Tool 3: General vs specific moment (Q37)]\nJess's general profile: belligerent (aggressive, combative)\nThis specific exchange with Maureen via 'Der': condescending (mocking intelligence)\n= question asks about THIS exchange = condescending (A)\n= don't use general character trait when question specifies a moment\n\n[Tool 4: Active vs passive role (Q39)]\nNarrator = receives support = passive recipient\n= being interrogated → cannot be one of the 'most supportive'\nMartin = actively defends (belt up, shut up Jess)\nMaureen = non-hostile (passive support)\n= B: Martin + Maureen\n\n[Combined discipline]\nCharacter questions: specify WHO is doing WHAT in WHICH moment\nDon't generalise a character's overall profile to a specific moment\nDon't confuse the subject of an action with the agent",
+      "action": "Meta Rule (Unit 123):\nPronoun logic: 'us' vs 'me' = speaker separation → eliminate by logical impossibility.\nCultural references: shared 1970s bands = same generation = age inference.\nGeneral vs specific: character's overall trait ≠ this specific exchange — match to the specific mechanism.\nActive vs passive: 'most supportive' = giver, not receiver of support."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
