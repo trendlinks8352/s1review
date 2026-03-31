@@ -3435,5 +3435,103 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u122_q65_paraphrase_contradictory_ambivalence",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 122 — Q65 Paraphrase (B→D)",
+    "quiz": {
+      "question": "[Q65 — Paraphrase: Sandy's INITIAL reaction on seeing Kelly]\n\nPassage (lines 1–3):\n'Not a word in two weeks. She'd feared that something had happened to him,\nbut now she had to face the <em>contradictory thought</em>\nthat he was indeed alive, and perhaps doing things\n<em>best considered in the abstract</em>.'\n\nQ: Sandy's initial reaction was one of ______.\n\nYour pick — B: <strong>despair that he had not returned earlier</strong>\nCorrect — D: <strong>uncertainty in a reconciliation of various aspects of his life</strong>\n\nHow does 'contradictory thought' map to 'uncertainty in a reconciliation'?",
+      "options": [
+        "B is correct because 'not a word in two weeks' shows she felt abandoned",
+        "'Contradictory thought' = she holds two opposing ideas simultaneously (feared he was dead / now must accept he is alive and doing mysterious things). 'Best considered in the abstract' = things too complex or uncomfortable to think about concretely. D: 'uncertainty in a reconciliation of various aspects' = trying to hold together contradictory information = direct paraphrase. B: 'despair' requires emotional hopelessness — her reaction is cognitive confusion, not hopeless grief.",
+        "D is wrong because 'reconciliation' implies she has already resolved the contradiction",
+        "B is correct because 'contradictory thought' implies painful conflict"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'contradictory thought' = two opposing ideas = uncertainty in reconciling them / B = despair (wrong emotional register — she's cognitively uncertain, not hopeless)",
+      "explanation": "[Paraphrase chain → D]\n'contradictory thought'\n= she holds two opposing ideas at once:\n  ① feared he was dead (first thought)\n  ② must accept he is alive (new thought)\n= these are in CONTRADICTION\n= trying to hold them together = UNCERTAINTY IN RECONCILIATION ✓\n\n'best considered in the abstract'\n= his activities are too unclear/uncomfortable to think about concretely\n= = 'various aspects of his life' that are uncertain and hard to reconcile ✓\n\n[Why B (despair) is the wrong emotional register]\ndespair = hopeless, deep grief, giving up\n= requires: Sandy is emotionally broken because he didn't return sooner\n= but Sandy's reaction = COGNITIVE (trying to reconcile contradictions)\n= not purely emotional (hopeless grief)\n= 'contradictory thought' = intellectual/psychological, not a despair trigger\n\n[The 'initial reaction' key]\nInitial = the FIRST thing she feels/processes\n= cognitive surprise + confusion about the contradiction\n= NOT sustained emotional despair\n= D: uncertainty in reconciling conflicting information ✓",
+      "action": "Action Rule (Q65): 'Contradictory thought' = cognitive state (uncertainty) not emotional state (despair). Map: contradictory → uncertainty / reconciliation of information → reconciliation of aspects. B requires emotional hopelessness — the text describes cognitive confusion. Register check: cognitive ≠ despair."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u122_q66_targeting_gate_vs_door",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 122 — Q66 Targeting (→D)",
+    "quiz": {
+      "question": "[Q66 — Targeting: Where does the passage BEGIN?]\n\nPassage evidence:\nLine 8: Sandy 'waving him IN' → Kelly is being invited inside\nLine 13: Kelly 'stood there, RIGHT INSIDE THE DOOR'\n← 'inside the door' = already through the front door = INSIDE the house\n\nWestern house structure:\n🏘️ Street → Gate (大門) → Garden path → Door (玄關) → Inside house\n\nQ: The setting for the beginning of the passage is ______.\n\nCorrect — D: <strong>inside Sandy's house near the foot of the internal stairs</strong>\nWhy do choices B and C fail?",
+      "options": [
+        "C is correct because 'waving him in' implies he was still outside at the gate",
+        "C (front gate outside) = he is still in the garden/outside. B (at the door) = he is at the threshold. But 'right inside the door' = he has already passed through the door = INSIDE the house. 'Waving him in' = Sandy invited him through → he came in → now 'inside the door'. D: inside the house near the stairs = where he stands in line 13. C and B place him still outside or at the threshold.",
+        "B is correct because 'at the door' is the most literal reading of line 13",
+        "D is wrong because no stairs are mentioned until line 16"
+      ],
+      "correctIdx": 0,
+      "answer": "① 'right inside the door' = past the threshold = inside the house / C = outside at gate = contradicted / D = confirmed by line 13",
+      "explanation": "[Western house architecture matters]\nStreet → [Gate] → Garden → [Front Door] → Inside house\n\nC: 'at the front gate outside Sandy's house'\n= Kelly is still in the street/garden area\n= he has NOT yet entered through the front door\n\nB: 'at the door of Sandy's house'\n= Kelly is at the threshold (front door)\n= he is NOT yet inside\n\n[Line 13 evidence]\n'right INSIDE the door'\n= 'inside' = he has passed through the door\n= he is IN the house\n= C and B both place him OUTSIDE or AT the threshold\n= both contradicted by 'right inside'\n\n[Line 8 confirmation]\n'waving him IN'\n= Sandy beckons him to enter\n= the action is completed: he came in\n= now he is 'right inside the door'\n\n[D: near the foot of the internal stairs]\nLine 16–17: Sarah 'called down the stairs'\n= stairs are present in the setting\n= Kelly is inside, near where the stairs are\n= D is consistent with the passage layout ✓\n\n[The 'right' in 'right inside']\n'right inside' = just inside, immediately past the door\n= emphasises he has JUST entered\n= confirms D's 'near the foot of the internal stairs' (just inside = near the bottom of the stairs)",
+      "action": "Action Rule (Q66): 'Right inside the door' = past the threshold = inside the house. Western house structure: gate (outside) → door → inside. C = gate (outside) ✗. B = at door (threshold) ✗. D = inside the house = confirmed by 'right inside the door' and stairs mentioned immediately after."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u122_q68_paraphrase_oscillating_uncertain",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 122 — Q68 Paraphrase (A→B)",
+    "quiz": {
+      "question": "[Q68 — Paraphrase: Why did Kelly stand inside the door?]\n\nPassage (lines 13–16):\n'Kelly just stood there, right inside the door,\nsuddenly <em>oscillating between anger and guilt</em>,\nwondering why he'd come here, why he'd asked Admiral Maxwell for a very special favour,\nand not really knowing the answer now.'\n\nQ: Kelly stood inside the door because he was ______.\n\nYour pick — A: <strong>unable to control his feelings</strong>\nCorrect — B: <strong>uncertain how he should proceed</strong>\n\nWhat is the difference between 'oscillating' and 'unable to control feelings'?",
+      "options": [
+        "A is correct because 'oscillating between anger and guilt' shows he cannot control his emotions",
+        "'Oscillating' = moving back and forth between two states = INDECISION, not loss of control. A: 'unable to control' = feelings spilling out, overwhelmed, explosive. But Kelly: is still standing quietly, thinking — he hasn't broken down or exploded. B: 'uncertain how he should proceed' = he doesn't know what to do next (wondering why he came, not knowing the answer) = UNCERTAINTY OF ACTION, which oscillating CAUSES.",
+        "B is wrong because 'uncertain how to proceed' ignores the emotional content",
+        "A is correct because 'anger and guilt' are strong emotions that overwhelm people"
+      ],
+      "correctIdx": 1,
+      "answer": "② oscillating = moving between states = indecision / 'unable to control' = overwhelmed/explosive = different mechanism / B = uncertainty of action caused by oscillation",
+      "explanation": "[Oscillating decoded]\noscillate = to swing back and forth between two points\n= he swings between ANGER and GUILT\n= he is UNDECIDED between two emotional responses\n= not committing to either\n= INDECISION / UNCERTAINTY ✓\n\n[Why A (unable to control) is wrong]\nunable to control feelings = feelings are overwhelming, uncontainable\n= behaviour: breaking down, crying, exploding, unable to speak\nKelly's actual behaviour:\n= 'just stood there' = physically still\n= 'wondering' = cognitively active but composed\n= no outburst, no loss of composure\n= he IS controlling himself — he's just unsure what to DO\n\n[Paraphrase chain → B]\noscillating (can't decide between anger/guilt)\n+ 'wondering why he'd come' (questioning his own decision)\n+ 'not really knowing the answer now' (lost certainty about his purpose)\n= UNCERTAIN HOW HE SHOULD PROCEED ✓\n\n[The precise distinction]\nA = EMOTIONAL CONTROL failure (feelings escape outward)\nB = DIRECTIONAL UNCERTAINTY (doesn't know what to do next)\nPassage = B: Kelly is paralysed by indecision, not explosive emotion\n\n[Key: internal conflict ≠ loss of control]\nOscillating = internal conflict between two options\n= he hasn't LOST control\n= he is SUSPENDED between two choices\n= B: uncertain how to proceed ✓",
+      "action": "Action Rule (Q68): 'Oscillating' = swinging between options = indecision/uncertainty = B. NOT loss of control = A. Kelly is physically still and cognitively active ('wondering') — he hasn't broken down. Distinction: internal conflict (oscillating) ≠ emotional outburst (unable to control). B captures the paralysis of indecision."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u122_q68_subjective_oscillating_drill",
+    "type": "paraphrase",
+    "isMCQ": false,
+    "source": "Unit 122 — Q68 Paraphrase Drill",
+    "quiz": {
+      "question": "[Q68 — Oscillating Drill]\n\nPassage: 'oscillating between anger and guilt' + 'wondering why he'd come' + 'not knowing the answer now'\n\nComplete:\n① oscillating between two emotions = ________ between two options (not committing to either)\n② 'wondering why he'd come / not knowing' = ________ how he should proceed\n③ Kelly's behaviour = standing still, thinking → emotional ________ (not explosive outburst)\n\n→ Correct answer: ________\n\n(Tap to check)",
+      "answer": "① swinging / undecided  ② uncertain  ③ control  → B (uncertain how he should proceed)",
+      "explanation": "[Full map]\noscillating = swinging back and forth = indecision between anger and guilt\n= he hasn't decided HOW TO FEEL or WHAT TO DO\n\nwondering + not knowing = cognitive uncertainty about his own purpose\n= uncertain what his next action should be\n\nstanding still = behavioural evidence of CONTROLLED paralysis\n= not an emotional outburst = NOT 'unable to control'\n\n[A (unable to control) fails because]\nKelly controls himself physically and verbally throughout\n= he doesn't break down or explode\n= oscillating = internal state, not external loss of control\n\n[B = the paraphrase]\noscillating + wondering + not knowing = UNCERTAIN HOW TO PROCEED ✓",
+      "action": "Drill habit: oscillating + wondering + not knowing = uncertain how to proceed. Oscillating ≠ unable to control. Physical stillness = controlled. Internal swinging = uncertain about direction/action."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u122_meta_cognitive_architecture_oscillating",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 122 — Meta: Cognitive/Emotional Register + Architecture + Oscillating",
+    "quiz": {
+      "question": "[Unit 122 — Meta Pattern]\n\nQ65: chose B (despair) — 'contradictory thought' = cognitive uncertainty, not hopeless grief\nQ66: chose D (confirmed) — 'right inside the door' = inside the house / C = gate = outside\nQ68: chose A (unable to control) — 'oscillating' = indecision / unable to control = loss of containment\n\nThree correction tools cover these errors. Which correctly identifies them?",
+      "options": [
+        "All three are vocabulary errors — unfamiliar words",
+        "Tool 1 = COGNITIVE vs EMOTIONAL REGISTER (Q65): 'contradictory thought' = cognitive state (uncertainty) NOT emotional state (despair). Ask: is this a thinking problem or a feeling problem? Tool 2 = SETTING ARCHITECTURE (Q66): western house = street→gate→door→inside. 'Right inside the door' = past threshold = inside the house = D. Tool 3 = OSCILLATING vs UNABLE TO CONTROL (Q68): oscillating = swinging between options = uncertainty of direction / unable to control = feelings escape outward. Kelly stands still = controlled, but undecided.",
+        "All three are targeting errors — wrong paragraph",
+        "All three are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Tool 1 = cognitive vs emotional / Tool 2 = house architecture / Tool 3 = oscillating = uncertainty not loss of control",
+      "explanation": "[Tool 1: Cognitive vs Emotional register (Q65)]\n'contradictory thought' = thinking state\n= she is trying to PROCESS two incompatible pieces of information\n= cognitive uncertainty, not emotional despair\nFix: Ask 'Is the character THINKING or FEELING here?'\n'Contradictory thought' → thinking → uncertainty (D) not despair (B)\n\n[Tool 2: Setting architecture (Q66)]\nWestern house: street → gate (C) → garden → front door (B) → inside (D)\n'Right inside the door' = he has passed through the front door\n= he is INSIDE the house\n= D confirmed / C (gate) and B (at door) = too far outside\nFix: Know the spatial sequence; 'inside' = past the door\n\n[Tool 3: Oscillating ≠ unable to control (Q68)]\noscillating = pendulum between two states = indecision\n= still controlled externally, unresolved internally\nunable to control = feelings escape, overwhelm, become visible/explosive\nKelly = still standing, wondering = controlled externally\nFix: Internal conflict (oscillating) ≠ external loss of control\nMatch the MECHANISM: oscillating → uncertain (direction) / unable to control → explosive (containment failure)\n\n[Combined register checklist]\nFor emotional-state questions:\n① Is this cognitive (thinking problem) or affective (feeling problem)?\n② Is the character internally conflicted (oscillating) or externally losing control?\n③ Does the setting word ('inside', 'gate', 'door') specify position precisely?",
+      "action": "Meta Rule (Unit 122):\nCognitive vs emotional: 'contradictory thought' = cognitive = uncertainty, not despair.\nArchitecture: 'right inside the door' = inside house. Gate = outside. Door = threshold.\nOscillating: swinging between options = uncertain how to proceed (B), NOT unable to control (A)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
