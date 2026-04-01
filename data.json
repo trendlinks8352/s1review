@@ -3533,5 +3533,110 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u121_q32_paraphrase_fodder_animal_similarity",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 121 — Q32 Paraphrase (C→D)",
+    "quiz": {
+      "question": "[Q32 — Paraphrase: Why 'fodder' instead of 'food'?]\n\nComment I: 'First comes fodder, then comes morality.'\n\nfodder = animal feed (사료, not human food)\nfood = human sustenance\n\nQ: The author uses 'fodder' rather than 'food' to ______.\n\nYour pick — C: <strong>denounce the narrow-mindedness with which many people speak of morality</strong>\nCorrect — D: <strong>emphasise a similarity between human necessities and those of other animals</strong>\n\nWhy does the word 'fodder' specifically signal animal-similarity?",
+      "options": [
+        "C is correct because the author is criticising how people discuss morality",
+        "'Fodder' = animal feed, not human food. By using 'fodder' (animal term) to describe what humans need first, the author deliberately EQUATES human needs with animal needs. This word choice emphasises that humans, like animals, must meet basic physical needs before higher concerns (morality). D: similarity between human necessities and those of other animals = direct paraphrase of this word choice logic. C requires the author to be criticising how people discuss morality — but the passage is about human needs vs morality, not about discourse quality.",
+        "D is wrong because humans eat food, not fodder",
+        "C is correct because 'fodder' sounds dismissive of morality as a concept"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'fodder' = animal feed term applied to humans = deliberate equation of human needs with animal needs = D",
+      "explanation": "[Word choice logic: fodder vs food]\nfood = term for human consumption\nfodder = term for animal consumption (horses, cattle)\n\n= using 'fodder' for humans:\n= author deliberately EQUATES human needs with animal needs\n= 'you are essentially an animal who needs feeding first'\n= the human/animal distinction collapses\n\n[Paraphrase chain → D]\n'fodder' (animal feed) applied to humans\n= humans need what animals need (basic feeding)\n= similarity between human necessities and those of other animals ✓\n\n[Why C fails the content test]\nC: 'denounce narrow-mindedness about morality'\n= requires author to be criticising HOW PEOPLE TALK about morality\n= but Comment I says nothing about HOW people speak\n= it's about the ORDER of priorities (feeding first, morality second)\n= C invents a meta-commentary about discourse = not in the text ✗\n\n[The rhetorical effect of 'fodder']\n'First comes fodder, then comes morality'\n= even if you replace 'fodder' with 'food', the basic meaning is clear\n= but 'fodder' specifically adds: AND you're just an animal when it comes down to it\n= = D: similarity to other animals ✓",
+      "action": "Action Rule (Q32): 'Fodder' = animal feed term. Applied to humans = author equates human needs with animal needs = D. C requires criticism of how people discuss morality — passage doesn't do this. Word-choice questions: always ask 'what connotation does this word add that a simpler word wouldn't?'"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u121_q34_logic_antithesis_herd_instinct",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 121 — Q34 Logic (C→B)",
+    "quiz": {
+      "question": "[Q34 — Logic: Critical reading — what does the critic VALUE most?]\n\nComment II: 'Morality is the herd-instinct in the individual.'\n\nAssume this comment is CRITICAL of morality.\nIf the author sees morality as MERE herd-instinct (following the crowd),\nthen what does the author value MOST?\n\nQ: If Comment II is critical, its author sets highest value on ______.\n\nYour pick — C: <strong>a common set of imperatives</strong>\nCorrect — B: <strong>independence in mind and action</strong>\n\nWhy does the antithesis logic demand B over C?",
+      "options": [
+        "C is correct because 'imperatives' suggests the author values clear rules",
+        "If the author criticises morality as 'herd-instinct' (following others blindly), what they OPPOSE is: blind conformity. What they VALUE = the OPPOSITE: independence from the herd = thinking and acting for oneself. B: 'independence in mind and action' = direct antithesis of herd-instinct. C: 'a common set of imperatives' = shared rules = another form of herd-following = the very thing being criticised.",
+        "B is wrong because independence is not mentioned in Comment II",
+        "C is correct because Comment II mentions 'individual' suggesting value for individual rules"
+      ],
+      "correctIdx": 1,
+      "answer": "② antithesis logic: herd-instinct (criticized) → opposite = independence from herd = B / C = common imperatives = another form of conformity = what IS being criticized",
+      "explanation": "[Antithesis logic — the critical reading technique]\nIf someone criticises X, they VALUE the opposite of X\n\nCriticism: morality = HERD-INSTINCT (following the crowd)\n= what is wrong with morality: it makes people follow others\n= what the author dislikes: conformity, blind following\n\nOpposite of herd-instinct:\n= NOT following the crowd\n= thinking and acting for ONESELF\n= INDEPENDENCE in mind and action = B ✓\n\n[Why C (common set of imperatives) is actually what IS being criticised]\ncommon set of imperatives = rules shared by the group = everyone must follow\n= this is ANOTHER FORM of herd-following\n= it is essentially what morality IS according to Comment II\n= C = the very thing being attacked, not what the critic values ✗\n\n[The 'individual' in Comment II]\n'herd-instinct in the INDIVIDUAL'\n= morality COLONISES the individual to make them herd-follow\n= the individual is the victim of herd-instinct\n= the critic wants to LIBERATE the individual from herd-following\n= = B: independence ✓\n\n[Critical reading rule]\nQuestion asks: 'if critical, author sets HIGHEST VALUE on'\n= find what opposes the thing being criticised\n= herd-following criticised → independence valued = B",
+      "action": "Action Rule (Q34): 'If critical' question = use antithesis logic. Critic opposes X → values the opposite of X. Herd-instinct (conformity) criticised → independence from herd (B) valued. C = common imperatives = another form of shared conformity = what IS being criticised, not what is valued."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u121_q35_logic_definition_applied_strictly",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 121 — Q35 Logic (C→D)",
+    "quiz": {
+      "question": "[Q35 — Logic: Apply the definition mechanically]\n\nComment III: 'Absolute morality is the regulation of conduct in such a way that\n<em>pain shall not be inflicted</em>.'\n\nDefinition: morality = no pain inflicted (EVER)\n\nIn the MORALLY IDEAL SOCIETY of Comment III,\npunishment for crime would be ______.\n\nYour pick — C: <strong>necessary but immoral</strong>\nCorrect — D: <strong>immoral and unnecessary</strong>\n\nWhy must punishment be BOTH immoral AND unnecessary in this ideal society?",
+      "options": [
+        "C is correct because punishing criminals is necessary even if painful",
+        "Apply the definition mechanically. IMMORAL: the definition is 'pain shall not be inflicted' — punishment inflicts pain — therefore punishment = immoral BY DEFINITION. UNNECESSARY: in a 'morally ideal society', everyone is already moral — there is no crime — so there is no crime to punish — punishment is unnecessary. D: both conditions apply. C admits punishment is 'necessary' — but in an ideal society where everyone is moral, there is NO crime, so nothing to punish = cannot be necessary.",
+        "D is wrong because even ideal societies may have occasional crimes",
+        "C is correct because the question says 'for crime' implying crimes still occur"
+      ],
+      "correctIdx": 1,
+      "answer": "② immoral (definition: pain shall not be inflicted) AND unnecessary (ideal society = no crime = nothing to punish) = D",
+      "explanation": "[Two-step mechanical application]\n\nStep 1: Is punishment MORAL or IMMORAL in Comment III's framework?\nComment III's definition: 'pain shall NOT be inflicted'\npunishment = inflicting pain (imprisonment, suffering)\n= punishment VIOLATES the definition\n= punishment = IMMORAL ✓\n\nStep 2: Is punishment NECESSARY or UNNECESSARY in an ideal society?\n'morally ideal society' = everyone follows the absolute moral code\n= no one inflicts pain\n= therefore: NO CRIMES (since crime = inflicting pain)\n= no crime = nothing to punish\n= punishment = UNNECESSARY ✓\n\n[Combined → D]\nimmoral (violates definition) AND unnecessary (no crime in ideal society)\n= D ✓\n\n[Why C fails]\nC: 'necessary but immoral'\n= 'necessary' requires there to be crimes to punish\n= but the MORALLY IDEAL society has no crime\n= necessary = logically impossible in this context\n= C smuggles in real-world thinking (crime always exists)\n= but the question is about a HYPOTHETICAL IDEAL SOCIETY\n\n[The GAMSAT mechanical rule]\nApply the definition to its logical conclusion\n= don't insert real-world commonsense\n= 'ideal society' = work out what that means logically\n= ideal under Comment III = no one ever inflicts pain = no crime = D",
+      "action": "Action Rule (Q35): Apply Comment III's definition MECHANICALLY. Pain = immoral (definition). Ideal society = everyone moral = no crime = unnecessary. Resist real-world thinking ('crime always exists'). In a hypothetical ideal society derived from this definition, D = the only logically consistent answer."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u121_q36_paraphrase_no_condition_irresistible_immutable",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 121 — Q36 Paraphrase (C→A)",
+    "quiz": {
+      "question": "[Q36 — Paraphrase: What is morality according to Comment IV?]\n\nComment IV:\n'There is an imperative which commands a certain conduct <em>immediately</em>,\nwithout having as its condition <em>any other purpose</em> to be attained by it.\nThis imperative may be called Morality.'\n\nQ: For Comment IV, morality is ______.\n\nYour pick — C: <strong>a set of rules adopted by consensus</strong>\nCorrect — A: <strong>irresistible and immutable</strong>\n\nHow do 'immediately' and 'without condition' map to 'irresistible' and 'immutable'?",
+      "options": [
+        "C is correct because morality involves a shared set of rules in society",
+        "'Commands immediately' = no delay, no refusal possible = IRRESISTIBLE (cannot be resisted). 'Without having as its condition any other purpose' = not conditional on outcomes = does not change with circumstances = IMMUTABLE (unchanging). C: 'consensus' = people agreeing to adopt rules = requires CONDITIONS (people must agree, situation must allow it) = directly contradicted by 'without having as its condition any other purpose'.",
+        "A is wrong because 'irresistible' implies force which is not mentioned",
+        "C is correct because 'imperative' suggests shared community rules"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'commands immediately' → irresistible / 'without condition' → immutable / C requires conditions (consensus) = contradicted by 'without condition'",
+      "explanation": "[Two-part paraphrase map → A]\n\n'commands a certain conduct IMMEDIATELY'\n= commands without delay\n= no pause for consideration or refusal\n= you cannot resist it\n= IRRESISTIBLE ✓\n\n'without having as its condition ANY OTHER PURPOSE'\n= the moral command does not depend on achieving any goal\n= it does not change based on circumstances or outcomes\n= it is not conditional on anything\n= it never changes = IMMUTABLE (불변의) ✓\n\n[Why C (consensus) is directly contradicted]\nC: 'set of rules adopted by consensus'\n= consensus = people agree together\n= agreement = a CONDITION (people must decide to agree)\n= this is exactly what Comment IV NEGATES: 'without condition'\n= consensus requires: conditions, deliberation, agreement\n= Comment IV says: no conditions, commands immediately\n= C is the polar opposite of Comment IV's morality ✗\n\n[Kantian categorical imperative connection]\nComment IV = Kant's categorical imperative\n= moral commands that apply regardless of consequences/conditions\n= unconditional = immutable\n= cannot be refused = irresistible\n= A captures both dimensions ✓",
+      "action": "Action Rule (Q36): 'Commands immediately' → irresistible. 'Without condition' → immutable (never changes with circumstances). C requires consensus = a condition = directly contradicted by 'without condition'. Two-step paraphrase: immediate command = irresistible / no conditions = immutable = A."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u121_meta_connotation_antithesis_mechanical",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 121 — Meta: Word Connotation + Antithesis + Mechanical Application",
+    "quiz": {
+      "question": "[Unit 121 — Meta Pattern]\n\nQ32: chose C (denounce narrow-mindedness) — missed 'fodder' = animal term = human-animal similarity\nQ34: chose C (common imperatives) — chose what IS being criticised, not its opposite\nQ35: chose C (necessary but immoral) — inserted real-world thinking into hypothetical ideal society\nQ36: chose C (consensus) — consensus = condition = contradicted by 'without condition'\n\nFour errors, three correction tools. Which correctly identifies them?",
+      "options": [
+        "All four are vocabulary errors — unfamiliar words",
+        "Tool 1 = WORD CONNOTATION (Q32): 'fodder' ≠ 'food'; animal term applied to humans = human-animal similarity signal = D. Tool 2 = ANTITHESIS LOGIC (Q34): critic opposes X → values opposite of X; herd-instinct criticised → independence valued; C = another form of conformity = what IS being criticised. Tool 3 = MECHANICAL DEFINITION APPLICATION (Q35, Q36): apply the text's definition literally. Q35: pain=immoral + ideal=no crime=unnecessary = D. Q36: 'without condition' = immutable; 'commands immediately' = irresistible; consensus requires conditions = C contradicted.",
+        "All four are targeting errors — wrong paragraph",
+        "All four are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Tool 1 = word connotation ('fodder') / Tool 2 = antithesis logic (critic's opposite value) / Tool 3 = mechanical definition (no real-world common sense)",
+      "explanation": "[Tool 1: Word connotation (Q32)]\n'fodder' = animal feed (not human food)\n= applying animal vocabulary to humans\n= author equates human needs with animal needs = D\nFix: When an unusual word is chosen over a common one, ask: 'What connotation does THIS word add?'\n\n[Tool 2: Antithesis logic (Q34)]\nCritic of X → values opposite of X\nherd-instinct criticised → independence valued (B)\nC (common imperatives) = shared rules = conformity = WHAT IS BEING CRITICISED\nFix: Identify what is criticised → find its polar opposite → that is what the critic values\n\n[Tool 3: Mechanical definition application (Q35, Q36)]\nQ35: 'pain shall not be inflicted' = the DEFINITION of morality\n= apply mechanically: punishment = pain = immoral\n= ideal society = everyone moral = no crime = unnecessary\n= DON'T insert: 'but some crime always exists'\nQ36: 'without condition' = the KEY PHRASE\n= consensus (C) = requires agreement (a condition) = contradicted\n= 'commands immediately' = irresistible / 'without condition' = immutable = A\nFix: Apply the text's own definitions and conditions mechanically\n= don't add real-world common sense or background knowledge\n\n[GAMSAT philosophy passages rule]\nPhilosophy texts define terms precisely\n= take the definition at face value\n= follow the logic to its conclusion\n= never soften or modify with real-world exceptions",
+      "action": "Meta Rule (Unit 121):\nWord connotation: unusual word choice = ask what THIS word adds ('fodder' = animal = D).\nAntithesis: critic of X values the opposite of X (not another form of X).\nMechanical application: philosophy texts = apply definitions literally, no real-world exceptions."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
