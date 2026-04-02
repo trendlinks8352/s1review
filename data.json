@@ -3638,5 +3638,89 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u120_q29_paraphrase_learn_do_balance",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 120 — Q29 Paraphrase (B→D)",
+    "quiz": {
+      "question": "[Q29 — Paraphrase: Who provides methodology for LEARN ↔ DO balance?]\n\nPassage — Judy King:\n'Students could be given specific questions to research for a few days.\nThen, over two classes, you'd give them some texts, a graphic or a piece of writing\nand ask them to <em>construct an argument using their notes from their own research</em>.'\n\n= Research (LEARN) → Construct argument (DO) → cyclical structure\n\nQ: Which respondent provides positive methodologies for striking a balance between what students learn and what students do?\n\nYour pick — B: <strong>Roslyn Arnold</strong>\nCorrect — D: <strong>Judy King</strong>\n\nWhy does Judy King's 'research → construct argument' structure specifically answer this question?",
+      "options": [
+        "B is correct because Roslyn's oral presentations require students to both learn and do",
+        "Judy's structure explicitly links LEARNING (research, reading, consolidation) to DOING (constructing an argument from that research). This is a methodology FOR BALANCING the two. Roslyn's focus is on ensuring work authenticity ('not someone else's') and meta-learning ('learn how to learn') — not on structuring a balance between learning and doing as complementary activities.",
+        "D is wrong because Judy's focus is on reducing assignment quantity, not balance",
+        "B is correct because oral presentations require demonstration of both content and skill"
+      ],
+      "correctIdx": 1,
+      "answer": "② Judy = research(Learn) → construct argument(Do) = explicit methodology for balance / Roslyn = authenticity verification + meta-cognition ≠ balance methodology",
+      "explanation": "[Judy King's structure decoded]\nPhase 1: 'given specific questions to research' = LEARN (acquire knowledge)\nPhase 2: 'construct an argument using their own research notes' = DO (apply knowledge)\n\n= explicit cycle: Learn → Do → linked together\n= a METHODOLOGY for balancing the two\n= positive methodology (student-centred, constructive) ✓\n\n[Roslyn Arnold's focus]\n'reflect students' learning, not someone else's' = authenticity (verification)\n'learn how to learn' = meta-cognition\n'Such autonomy in learning' = independence\n= Roslyn's concern = ensuring learning is genuine\n= NOT a methodology for balancing learn vs do\n\n[Category discrimination]\nQuestion asks: methodology for BALANCING learn AND do\n= requires: explicit connection between the two activities\nJudy: research(learn) + construct(do) = explicitly linked = D ✓\nRoslyn: ensures learning is genuine = not about do-balance = B ✗\n\n[The 'positive methodologies' signal]\nPositive = constructive, offering a specific practical approach\nJudy: specific regime (research, texts, construct argument)\nRoslyn: verification mechanism (oral presentations)\n= Judy's approach more explicitly 'positive methodology for balance'",
+      "action": "Action Rule (Q29): 'Balance between learn and do' = find who explicitly connects learning activities to doing activities in a cycle. Judy: research(learn) → construct argument(do) = explicit balance mechanism = D. Roslyn: authenticity checking + meta-learning = different focus. Match the SPECIFIC category the question asks about."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u120_q30_targeting_spectrum_furthest_apart",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 120 — Q30 Targeting (A→B)",
+    "quiz": {
+      "question": "[Q30 — Targeting: Who are FURTHEST APART on content/skills spectrum?]\n\nSpectrum map:\n← skills/capabilities ────────────────── knowledge/exams →\nGuy Goodall: 'general capabilities... at least as important as subject-based knowledge'\nKevin Donnelly: 'go back to exams... international standards... strong consequences for failure'\n\nQ: In terms of range of content and skills, who are furthest apart?\n\nYour pick — A: <strong>Roslyn Arnold and Judy King</strong>\nCorrect — B: <strong>Guy Goodall and Kevin Donnelly</strong>\n\nWhy do Guy and Kevin occupy the opposite poles of the educational spectrum?",
+      "options": [
+        "A is correct because Roslyn and Judy have very different approaches to assessment",
+        "Guy Goodall: general capabilities (communication, teamwork, problem-solving) = at least as important as subject knowledge = SKILLS pole. Kevin Donnelly: return to exams, international standards, formal assessment, consequences for failure = KNOWLEDGE/FORMAL ASSESSMENT pole. These are polar opposites. Roslyn and Judy: both student-centred, both concerned with quality of learning = similar philosophical position = NOT furthest apart.",
+        "B is wrong because Kevin and Guy are both concerned with school effectiveness",
+        "A is correct because Roslyn focuses on process and Judy focuses on product"
+      ],
+      "correctIdx": 1,
+      "answer": "② Guy = general capabilities/skills pole / Kevin = formal exams/knowledge pole = polar opposites / Roslyn+Judy = both student-centred = similar position",
+      "explanation": "[Spectrum analysis]\nEducational priorities spectrum:\n← SKILLS/GENERAL CAPABILITIES ────── FORMAL KNOWLEDGE/EXAMS →\n\nGuy Goodall position:\n= 'general capabilities... at least as important as subject-based knowledge'\n= communication, teamwork, problem-solving, learning on the job\n= explicitly values capabilities EQUALLY to or MORE than content\n= FAR LEFT of spectrum\n\nKevin Donnelly position:\n= 'go back to exams'\n= 'international standards' (academic benchmarks)\n= 'strong consequences for failure'\n= 'school-based assessment... too much emphasis'\n= explicitly values formal academic assessment\n= FAR RIGHT of spectrum\n\n[Why A (Roslyn + Judy) is not furthest apart]\nRoslyn: student authenticity, self-direction, 'learn how to learn'\nJudy: fewer but better assignments, research-based, student-centred\n= both: student-centred learning, quality over quantity\n= similar philosophical base = CLOSE on spectrum, not far apart\n\n[The furthest apart logic]\nFurthest apart = maximum distance on the spectrum\n= Guy (skills) vs Kevin (exams) = maximum distance ✓\n= B ✓",
+      "action": "Action Rule (Q30): Build a mental spectrum before answering. Guy = general capabilities pole. Kevin = formal exams/standards pole. These are opposite ends. Roslyn and Judy = both student-centred = close together. 'Furthest apart' = maximum spectrum distance = Guy and Kevin = B."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u120_q32_targeting_netherlands_workplace_authors",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 120 — Q32 Targeting (→B)",
+    "quiz": {
+      "question": "[Q32 — Targeting: Who made these two statements?]\n\nStatement 1: 'In the Netherlands, senior school students are streamed into four distinct pathways,\nranging from academic to trades to vocational. As a result, the Netherlands doesn't suffer a skills shortage.'\n\nStatement 2: 'The future may not exclusively focus on higher learning but incorporate and emphasise equally\nthe importance of workplace skills. That would include the ability to communicate and to work effectively as a team member.'\n\nQ: Which two respondents most likely made these statements?\n\nCorrect — B: <strong>Guy Goodall and Kevin Donnelly</strong>\n\nMatch each statement to the correct respondent.",
+      "options": [
+        "A (Roslyn Arnold and Judy King) is correct because both focus on practical learning",
+        "Statement 1 (Netherlands streaming + exams) = Kevin Donnelly — he advocates international standards and formal assessment pathways. Statement 2 (workplace skills, communication, teamwork) = Guy Goodall — he explicitly argues these general capabilities are as important as academic knowledge. B = Kevin (Statement 1) + Guy (Statement 2) = correct pairing.",
+        "D (Kevin Donnelly and Wendy Michaels) is correct because both focus on formal assessment",
+        "C (Wendy Michaels and Guy Goodall) is correct because both focus on practical skills"
+      ],
+      "correctIdx": 1,
+      "answer": "② Statement 1 = Kevin (international standards, streaming, no skills shortage) / Statement 2 = Guy (workplace skills, communication, teamwork = general capabilities) = B",
+      "explanation": "[Statement 1 → Kevin Donnelly]\nNetherlands = four distinct pathways (academic to vocational)\n= structured, formal, differentiated assessment system\n= 'doesn't suffer skills shortage' = outcome of rigorous tracking\n= Kevin: 'go back to exams', 'international standards', 'strong consequences'\n= Kevin would admire the Netherlands' structured formal system ✓\n\n[Statement 2 → Guy Goodall]\n'workplace skills... communicate... work as team member'\n= Guy: 'general capabilities including ability to communicate, work as effective team member'\n= these are VERBATIM connections to Guy's actual text\n= 'The future may not exclusively focus on higher learning' = Guy's argument: these skills = as important as academic knowledge ✓\n\n[Why other pairs fail]\nRoslyn Arnold (A): focuses on authenticity/self-direction — not workplace skills or international standards\nJudy King (A): focuses on assignment quality/research — not streaming or workplace skills\nWendy Michaels (D): focuses on teacher training and assessment — not international streaming\n\n[Profile matching discipline]\nKevin = international standards + formal assessment + consequences\nGuy = general capabilities + workplace skills + communication/teamwork\n= B is the only pair that covers both statements ✓",
+      "action": "Action Rule (Q32): Match each statement to the respondent profile. Statement 1 (Netherlands streaming) = Kevin (international standards). Statement 2 (workplace skills, communication) = Guy (general capabilities). Profile matching: Kevin = formal/international / Guy = soft skills/capabilities = B."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u120_meta_role_spectrum_category",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 120 — Meta: Role Definition + Spectrum + Category Match",
+    "quiz": {
+      "question": "[Unit 120 — Meta Pattern]\n\nQ29: chose B (Roslyn) — authenticity checking ≠ learn/do balance methodology\nQ30: chose A (Roslyn+Judy) — both student-centred = close on spectrum, not furthest apart\n\nTwo correction tools cover these errors. Which correctly identifies them?",
+      "options": [
+        "Both are vocabulary errors — unfamiliar words",
+        "Tool 1 = CATEGORY MATCH (Q29): identify the SPECIFIC category asked ('balance between learn AND do' = explicit cycle linking both). Judy = research(learn)→argument(do) = explicit cycle. Roslyn = authenticity + meta-cognition = different category. Tool 2 = SPECTRUM MAPPING (Q30): build a spectrum BEFORE choosing. Guy = general capabilities pole. Kevin = formal exams pole. Roslyn + Judy = student-centred = same zone. Furthest apart = maximum distance = Guy + Kevin = B.",
+        "Both are targeting errors — wrong paragraph",
+        "Both are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Tool 1 = category match (learn↔do cycle) / Tool 2 = spectrum mapping (Guy=skills pole, Kevin=exams pole, Roslyn+Judy=same zone)",
+      "explanation": "[Tool 1: Category match (Q29)]\nQuestion category: 'balance between what students LEARN and what students DO'\n= requires: explicit connection between learning activities and doing activities\n\nJudy: research (learn) → construct argument (do) = explicit cycle ✓\nRoslyn: oral presentations to verify authenticity = verification, not learn↔do balance\n\nFix: Before answering, define the EXACT category the question asks about\n= then match each respondent to that specific category\n= reject respondents who serve a RELATED but DIFFERENT purpose\n\n[Tool 2: Spectrum mapping (Q30)]\nBuild spectrum: skills ←→ formal knowledge/exams\n\nGuy Goodall: capabilities = communication, teamwork, problem-solving = FAR LEFT\nKevin Donnelly: exams, international standards, consequences = FAR RIGHT\nRoslyn Arnold: student authenticity, self-direction = MIDDLE-LEFT\nJudy King: quality assignments, research = MIDDLE-LEFT\nWendy Michaels: teacher training, ongoing assessment = MIDDLE\n\nFurthest apart = Guy + Kevin = maximum distance = B\n\nFix: Draw the spectrum mentally before choosing\n= find the two OPPOSITE ENDS\n= candidates who are both on the same side = not furthest apart\n\n[Respondent profiles for this unit]\nWendy = teacher training → gradual reform\nGuy = general capabilities → soft skills/employer needs\nRoslyn = authenticity verification → process quality\nKevin = international exams → formal rigour\nJudy = quality assignments → deep research learning",
+      "action": "Meta Rule (Unit 120):\nCategory match: define the EXACT category asked, reject respondents serving a related but different purpose.\nSpectrum mapping: for 'furthest apart' questions, build the spectrum mentally first. Guy (skills) and Kevin (exams) = opposite poles. Roslyn + Judy = same student-centred zone = not furthest apart."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
