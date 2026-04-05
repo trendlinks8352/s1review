@@ -3722,5 +3722,173 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u119_q70_paraphrase_perceived_different",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 119 — Q70 Paraphrase (→D)",
+    "quiz": {
+      "question": "[Q70 — Paraphrase: In which types can products be PERCEIVED AS DIFFERENT?]\n\nPassage definitions:\nPure monopoly: 'unique product, no easy substitute'\nPure competition: 'varies little... buyers UNAWARE of any substantial difference'\nMonopolistic: 'products are similar but DISTINCTIVE... differentiated by packaging, price, features'\nOligopolistic: 'products come in several forms or with DIFFERENT OPTIONS'\n\nQ: In which types can products be perceived by buyers as being different from similar products?\n\nCorrect — D: <strong>monopolistic and oligopolistic competitions</strong>\n\nWhy are pure competition and pure monopoly excluded?",
+      "options": [
+        "A (pure and oligopolistic) is correct because pure monopoly has a unique product",
+        "Pure competition: 'buyers UNAWARE of substantial difference' = products NOT perceived as different → excluded. Pure monopoly: product IS unique (no substitute) BUT there ARE no 'similar products' to compare — the question asks about perceived difference FROM similar products = no comparison exists → excluded. D: monopolistic (similar but distinctive = buyers perceive differences) + oligopolistic (several forms/options = buyers perceive differences) = both ✓",
+        "C (pure competition and monopoly) is correct because both have unique characteristics",
+        "D is wrong because oligopolistic competition has high barriers preventing product comparison"
+      ],
+      "correctIdx": 1,
+      "answer": "② Pure competition = buyers unaware of difference (excluded) / Pure monopoly = no similar products to compare (excluded) / Monopolistic + oligopolistic = buyers DO perceive differences = D",
+      "explanation": "[Testing each type]\nPure monopoly:\n= 'unique product, no easy substitute'\n= buyers cannot perceive differences FROM SIMILAR PRODUCTS because there are NO similar products\n= the question asks: perceived as different 'from SIMILAR products'\n= monopoly has no similar products → excluded ✗\n\nPure competition:\n= 'buyers unaware of any substantial difference'\n= explicitly: buyers do NOT perceive difference\n= excluded ✗\n\nMonopolistic competition:\n= 'products are similar but DISTINCTIVE'\n= 'differentiated by packaging, price, features'\n= buyers CAN perceive differences between similar competing products ✓\n\nOligopolistic competition:\n= 'products come in several forms or with different options'\n= e.g. banks with different account types = similar (all banks) but different options\n= buyers perceive differences between similar products ✓\n\n[Combined → D]\nMonopolistic + Oligopolistic = both involve buyers perceiving differences among similar products\n= D ✓\n\n[The subtle monopoly trap]\nPure monopoly = unique = might seem like 'most different'\nBut the question = perceived as different FROM SIMILAR products\n= monopoly has no similar products to compare against\n= wrong category entirely",
+      "action": "Action Rule (Q70): 'Perceived as different FROM SIMILAR PRODUCTS' = two conditions: (1) similar products must exist AND (2) buyers perceive differences. Pure competition = no perceived difference. Pure monopoly = no similar products. Monopolistic + oligopolistic = both conditions met = D."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u119_q71_logic_patents_unnecessary_pure_competition",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 119 — Q71 Logic (D→B)",
+    "quiz": {
+      "question": "[Q71 — Logic: Where is acquisition of patents UNNECESSARY?]\n\nPassage — Pure competition:\n'basic product that varies <em>little</em> from one provider to another.\nBuyers are <em>unaware of any substantial difference</em> in the product.'\n\nPassage — Oligopolistic:\n'Entry... difficult because of... <em>intellectual property</em> & purpose-built machinery'\n\nQ: In which type is the acquisition of patents by producers unnecessary?\n\nYour pick — D: <strong>oligopolistic competition</strong>\nCorrect — B: <strong>pure competition</strong>\n\nWhy does 'intellectual property' in oligopolistic CONFIRM patents are necessary there?",
+      "options": [
+        "D is correct because oligopolistic markets have too many competitors for patents to matter",
+        "Oligopolistic: 'intellectual property' is listed as a BARRIER TO ENTRY = patents are CRUCIAL in oligopoly. Pure competition: products 'vary little' + buyers 'unaware of substantial difference' = no unique technology exists to patent. Patent purpose = protect unique/innovative products from copying. If products are all essentially the same (pure competition), there is nothing unique to patent = patents UNNECESSARY.",
+        "B is wrong because even similar products can be patented",
+        "D is correct because oligopolistic markets are dominated by a few firms who don't need patents"
+      ],
+      "correctIdx": 1,
+      "answer": "② Oligopolistic = 'intellectual property' listed as barrier = patents NECESSARY / Pure competition = products all same = nothing unique to patent = UNNECESSARY = B",
+      "explanation": "[Patent logic: what makes patents useful?]\nPatent = legal protection for a unique product or process\n= useful when: you have something DIFFERENT that others might copy\n= useless when: all products are essentially the same anyway\n\n[Pure competition → patents unnecessary]\n'basic product that varies LITTLE from one provider to another'\n= no product is substantially different\n= buyers are UNAWARE of any substantial difference\n= there is no unique product worth patenting\n= patents = UNNECESSARY in pure competition ✓\n\n[Oligopolistic → patents NECESSARY]\n'intellectual property' listed as barrier to entry\n= intellectual property includes patents\n= patents KEEP NEW COMPETITORS OUT\n= patents are CRUCIAL in oligopolistic competition\n= D (oligopolistic) = wrong answer: patents are most necessary here ✗\n\n[Why D was tempting]\nOligopoly = big banks, airlines = complex organisations\n= might seem like they 'don't need' patents because they're already dominant\nBut: the passage EXPLICITLY mentions 'intellectual property' as their barrier\n= patents = source of their market protection = necessary, not unnecessary\n\n[The 'unnecessary' test]\nAsk: 'Would a patent give any competitive advantage here?'\nPure competition: all products the same = patent gives nothing = unnecessary ✓\nOligopoly: intellectual property = barrier = patent = huge advantage = necessary ✗",
+      "action": "Action Rule (Q71): Find 'unnecessary' = where patents give NO competitive advantage. Pure competition = products all same = nothing unique to protect = patents unnecessary (B). Oligopolistic = 'intellectual property' explicitly mentioned as barrier = patents are crucial = D eliminated."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u119_q72_logic_government_loss_monopoly",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 119 — Q72 Logic (B→A)",
+    "quiz": {
+      "question": "[Q72 — Logic: Where could government RUN AT A LOSS in public interest?]\n\nPassage — Pure monopoly:\n'only ONE provider. Product is UNIQUE and there is NO EASY SUBSTITUTE.'\n\nPassage — Pure competition:\n'very large number of providers... new providers have no difficulty entering the market.\nPrice-rising by any provider will DESTROY his market share.'\n\nQ: In which type could government controlling the industry decide to run at a loss in the public interest?\n\nYour pick — B: <strong>pure competition</strong>\nCorrect — A: <strong>pure monopoly</strong>\n\nWhy does 'no easy substitute' make government loss-running most justifiable in pure monopoly?",
+      "options": [
+        "B is correct because pure competition is the most common market where government intervenes",
+        "Pure monopoly: only one provider + no easy substitute = if this is an essential service (water, rail, power), consumers CANNOT go elsewhere. Government can step in as the monopoly provider and run at a loss to keep prices affordable = public interest justification. Pure competition: many providers competing = market already drives prices down = government has NO REASON to run at a loss; consumers can simply switch to cheaper competitors.",
+        "A is wrong because governments rarely control monopolistic industries",
+        "B is correct because pure competition includes essential services like food"
+      ],
+      "correctIdx": 1,
+      "answer": "② Pure monopoly = only provider + no substitute = essential services without alternatives = government can run at loss for public interest / Pure competition = many providers + easy switching = no justification for government loss",
+      "explanation": "[The 'run at a loss in public interest' logic]\nFor government to justify running at a loss:\n= the service must be ESSENTIAL (people NEED it)\n= AND there must be NO ALTERNATIVE (consumers cannot switch)\n= otherwise: government loss-running = inefficient waste\n\n[Pure monopoly → strongest justification]\n'Only ONE provider' + 'NO EASY SUBSTITUTE'\n= if this is water, electricity, rail = people MUST use it\n= no competition = market cannot discipline price\n= government takes over as monopoly provider\n= runs at a loss to keep essential services affordable\n= PUBLIC INTEREST justification = maximum ✓\n\n[Pure competition → no justification]\n'Very large number of providers'\n'Price-rising by any provider will DESTROY his market share'\n= market self-regulates through competition\n= if one provider is too expensive, consumers switch\n= government loss-running = unnecessary AND wasteful\n= consumers already protected by competition ✗\n\n[Real-world examples (confirming logic)]\nGovernment-run monopolies: national railways, postal service, water utilities\n= all = unique services with no substitute = pure monopoly logic\n= governments run these at a loss for public interest\n\n[Why B (pure competition) was tempting]\nPure competition = basic goods (e.g. food, simple services)\n= might seem 'essential'\nBut: many providers exist = competition = prices already low\n= no need for government loss-running",
+      "action": "Action Rule (Q72): 'Run at loss in public interest' = essential service + no alternative. Pure monopoly = only provider + no substitute = maximum justification (A). Pure competition = many providers + easy switching = market already provides low prices = no justification (B eliminated). Match 'public interest loss' to 'captive consumers with no alternative'."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u119_meta_definition_mapping_logic",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 119 — Meta: Definition Mapping + Logic Application",
+    "quiz": {
+      "question": "[Unit 119 — Meta Pattern]\n\nQ70: → D confirmed (monopolistic+oligopolistic = perceived differences exist)\nQ71: chose D (oligopolistic) — 'intellectual property' in passage = patents NECESSARY there, not unnecessary\nQ72: chose B (pure competition) — many providers = market self-regulates = no justification for loss\n\nTwo correction tools cover Q71 and Q72. Which correctly identifies them?",
+      "options": [
+        "Both are vocabulary errors — 'patents' and 'run at a loss' were misunderstood",
+        "Tool 1 = PASSAGE ANCHOR REVERSAL (Q71): when a passage feature explicitly appears in one type, it CONFIRMS that feature is necessary there (intellectual property in oligopoly = patents crucial = D wrong). Find the type where that feature is ABSENT = unnecessary = B. Tool 2 = 'PUBLIC INTEREST LOSS' LOGIC (Q72): government runs at loss = only justified when consumers have NO ALTERNATIVE. Pure monopoly = no substitute = consumers captive = A. Pure competition = many providers = market self-regulates = no justification = B eliminated.",
+        "Both are targeting errors — wrong paragraph",
+        "Both are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Tool 1 = passage anchor reversal (intellectual property in oligopoly = patents crucial there, find where absent) / Tool 2 = no-alternative logic (monopoly = captive consumers = justifies loss)",
+      "explanation": "[Tool 1: Passage anchor reversal (Q71)]\n'Intellectual property' appears in Oligopolistic section\n= intellectual property = includes patents\n= patents = crucial in oligopoly (entry barrier)\n= D (oligopoly) = patents NECESSARY ✗\n\nWhere is patent-like language ABSENT?\nPure competition = 'varies little, buyers unaware of difference'\n= no unique product to protect\n= patents = UNNECESSARY ✓ = B\n\nFix: When an exam feature (patents) appears IN a passage section\n= that type has that feature = NECESSARY\n= find the type where the feature is MISSING\n\n[Tool 2: No-alternative logic (Q72)]\nQuestion: government COULD run at LOSS in PUBLIC INTEREST\n= why would government run at a loss? = to protect consumers who CANNOT go elsewhere\n\nPure monopoly: only provider + no substitute\n= consumers CANNOT go elsewhere\n= government justification = maximum\n= A ✓\n\nPure competition: many providers + easy entry\n= consumers CAN go elsewhere\n= market self-protects consumers\n= government loss-running = unjustified\n= B ✗\n\nFix: 'Public interest' + 'loss' = identify consumers who have NO CHOICE\n= pure monopoly = captive consumers = A\n\n[Four-type summary]\nPure monopoly: unique, no substitute → government monopoly possible → A (Q72)\nPure competition: all same, many providers → no patents, no government loss needed → B (Q71)\nMonopolistic: similar but distinctive → buyers perceive differences → D (Q70)\nOligopolistic: few large providers, intellectual property barriers → patents crucial → D-wrong (Q71)",
+      "action": "Meta Rule (Unit 119):\nPassage anchor reversal: if a feature appears in type X, it's necessary there. Find where it's absent = unnecessary.\nNo-alternative logic: government runs at loss = captive consumers (monopoly). Market provides alternatives (pure competition) = no government loss justification."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u118_q28_paraphrase_guarded_relationship_skills",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 118 — Q28 Paraphrase (A→C)",
+    "quiz": {
+      "question": "[Q28 — Paraphrase: Who is also 'guarded' about their RELATIONSHIP SKILLS?]\n\nRobert Bathurst:\n'I probably understand people more. There's a wisdom about getting older...'\n= acknowledges understanding but is self-aware and measured about it\n= GUARDED = careful, not boasting, self-monitoring\n\nQ: Who among the following also is guarded about their relationship skills?\n\nYour pick — A: <strong>Jonathan Gornall</strong>\nCorrect — C: <strong>Lucy Ellmann</strong>\n\nWhat is Lucy's specific evidence for 'guarded about relationship skills'?",
+      "options": [
+        "A is correct because Jonathan is cautious and pessimistic about everyone letting you down",
+        "Lucy: 'I'm less tolerant of other people. I'm less able to make friends and less patient with the friends I have.' = self-critical assessment of her own relationship SKILLS. This is 'guarded' = carefully and honestly evaluating her own interpersonal capabilities, with awareness of their limitations. Jonathan's caution is about TIME and WORLD ('everything lets you down') — not about relationship skills specifically.",
+        "C is wrong because Lucy says 'We have made it' showing confidence, not guardedness",
+        "A is correct because Jonathan is wary of people who 'simply be daft'"
+      ],
+      "correctIdx": 1,
+      "answer": "② Lucy = 'less able to make friends, less patient' = self-critical assessment of relationship skills = guarded / Jonathan = caution about time/world ≠ relationship skills",
+      "explanation": "[Guarded decoded]\nguarded = careful, cautious, measured in what you claim about yourself\n= not overclaiming ability\n= honest and self-aware about limitations\n\n[Question's specific category]\n'guarded about their RELATIONSHIP SKILLS'\n= must be: caution specifically about interpersonal/social abilities\n= not caution about time, world, or general life\n\n[Lucy Ellmann → guarded about relationship skills]\n'I'm less tolerant of OTHER PEOPLE' = relationship quality\n'I'm less able to MAKE FRIENDS' = relationship skill assessment\n'less patient with the FRIENDS I have' = relationship quality\n= Lucy is honestly and carefully assessing her OWN social skills\n= acknowledging limitations = GUARDED about relationship skills ✓\n\n[Jonathan Gornall → wrong category]\n'too much time has passed and too little remains'\n'everything and everyone will, sooner or later, let you down'\n= caution/pessimism about TIME and LIFE generally\n= not a specific assessment of HIS OWN relationship skills\n= wrong category = A ✗\n\n[Robert's matching pattern]\nRobert: 'I PROBABLY understand people more' (hedging = guarded)\n= not saying 'I definitely understand people perfectly'\n= cautious claim about understanding = guarded about his relational insight\nLucy: cautious honest claims about her relational limitations = same guardedness ✓",
+      "action": "Action Rule (Q28): 'Guarded about RELATIONSHIP SKILLS' = lock the category (interpersonal abilities). Lucy = 'less able to make friends, less patient' = direct self-assessment of relationship skills. Jonathan = pessimism about time/world = different category. Always match the specific sub-category."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u118_q29_paraphrase_least_likeable_self",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 118 — Q29 Paraphrase (C→A)",
+    "quiz": {
+      "question": "[Q29 — Paraphrase: Who presents herself as LEAST LIKEABLE?]\n\nJenny Eclair:\n'In a <em>bitchy, selfish</em> way, I can tell people: I do know more about this than you do.'\n'I don't have to perform for them.'\n'I'm a lot less tolerant'\n\nJane Shilling:\n'I feel a terrible stab of loss at the thought of how much of life has gone already,\nand how much of it I've squandered.'\n\nQ: Among the women, who presents herself as the least likeable?\n\nYour pick — C: <strong>Jane Shilling</strong>\nCorrect — A: <strong>Jenny Eclair</strong>\n\nWhy does 'bitchy, selfish' = directly self-characterised as unlikeable?",
+      "options": [
+        "C is correct because Jane's regret about squandering life makes her seem irresponsible",
+        "Jenny explicitly labels herself using negative character adjectives: 'BITCHY' (malicious) and 'SELFISH' (self-centred). These are traits that make someone UNLIKEABLE by social standards — and she applies them to herself directly. Jane's sadness about squandered time = emotional and relatable (generates sympathy, not unlikeability). Self-labelling as 'bitchy and selfish' = direct self-characterisation as unlikeable = A.",
+        "A is wrong because Jenny shows loyalty to her small group of friends",
+        "C is correct because Jane admits she has wasted her life"
+      ],
+      "correctIdx": 1,
+      "answer": "② Jenny = 'bitchy, selfish' = explicit negative self-labelling = direct unlikeable self-characterisation / Jane = regret/loss = generates sympathy not unlikeability",
+      "explanation": "[Least likeable = how does the reader perceive this person?]\nLikeable traits: warmth, generosity, kindness, self-awareness\nUnlikeable traits: selfishness, meanness, dismissiveness, bitchiness\n\n[Jenny Eclair's self-characterisation]\n'In a BITCHY, SELFISH way'\n= Jenny applies these labels TO HERSELF\n= bitchy = petty and unkind\n= selfish = only concerned with herself\n= both = clear unlikeable descriptors\n= she is telling the reader: 'I am this kind of person'\n= EXPLICIT SELF-CHARACTERISATION as unlikeable ✓\n\n[Jane Shilling's self-characterisation]\n'terrible stab of LOSS'\n'how much of it I've SQUANDERED'\n= sadness about wasted time\n= this is RELATABLE and SYMPATHETIC\n= readers think: 'poor Jane, she regrets missing out'\n= generates sympathy, NOT unlikeability\n= C ✗\n\n[The 'self-presents' signal]\nQuestion: who 'PRESENTS HERSELF' as least likeable\n= who does the self-labelling\n= Jenny uses negative adjectives about HERSELF\n= Jane uses sad language about circumstances\n= self-labelling as negative traits = A ✓",
+      "action": "Action Rule (Q29): 'Presents herself as least likeable' = find who uses NEGATIVE CHARACTER LABELS about themselves. Jenny: 'bitchy, selfish' = explicit negative self-labelling = A. Jane: 'loss, squandered' = generates sympathy (relatable) not unlikeability. Sympathy-inducing ≠ unlikeable."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u118_q30_targeting_tormented_appearance",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 118 — Q30 Targeting (B→A)",
+    "quiz": {
+      "question": "[Q30 — Targeting: How many of the six expressed similar sentiments to Fay Hayden?]\n\nFay Hayden's TWO key conditions:\n① TORMENTED = actively suffering/distressed about it\n② About APPEARANCE specifically (not time, wisdom, confidence, relationships)\n\nTest each respondent:\n• Jonathan: time/pessimism — not appearance\n• Toyah: grounded, driven, spontaneous — not tormented about appearance\n• Jane: loss/squandered time — appearance mentioned but focus is time, not torment\n• Robert: wisdom, patterns — not appearance\n• Jenny: opportunities, confidence — not appearance\n• Lucy: relationships, family — not appearance\n\nQ: How many of the six expressed similar sentiments?\n\nYour pick — B: <strong>1</strong>\nCorrect — A: <strong>0</strong>",
+      "options": [
+        "B is correct because Jane Shilling mentions looking at pictures and seeing little difference in appearance",
+        "Jane mentions appearance briefly: 'I can see almost no difference in our looks. Except our clothes are nicer.' = she notices MINIMAL change and is POSITIVE about it (nicer clothes). She is NOT tormented about appearance — her distress is about squandered TIME. Fay: actively tormented + refuses to resign to ageing = a specific, intense stance on appearance. No respondent matches BOTH conditions: torment AND appearance-specifically. A = 0 ✓",
+        "A is wrong because Jane Shilling mentions she fears appearance will change soon",
+        "B is correct because Jane says 'it can't last' showing she is worried about appearance deteriorating"
+      ],
+      "correctIdx": 1,
+      "answer": "② Jane mentions appearance but is NOT tormented — she's positive (nicer clothes) and her distress is about TIME, not appearance. 0 respondents match BOTH conditions = A",
+      "explanation": "[Fay Hayden's two conditions to match]\nCondition 1: TORMENTED = actively suffering, distressed\nCondition 2: About APPEARANCE specifically\n\n[Testing Jane Shilling — the most likely candidate]\nJane on appearance: 'I can see almost NO DIFFERENCE in our looks'\n= she sees minimal change in appearance = NOT tormented about appearance\n'Except our CLOTHES are nicer' = positive observation about appearance\n= Jane's appearance-related comment = positive, not distressed\n\nJane's actual distress: 'terrible stab of LOSS at how much of life has gone'\n= she is tormented about TIME, not APPEARANCE\n= different subject ≠ Fay's condition\n\n[Testing all others]\nJonathan: time/pessimism → not appearance\nToyah: positive/grounded → not tormented\nRobert: wisdom/understanding → not appearance\nJenny: opportunities/confidence → not appearance\nLucy: relationships/family → not appearance\n\n[Result: 0 match BOTH conditions]\nNo one = TORMENTED + APPEARANCE specifically\n= A: 0 ✓\n\n[Why 'it can't last' doesn't establish torment]\n'But it can't last' = acknowledging future change (realistic)\n= not active suffering NOW about appearance\n= a calm observation, not Fay's 'tormented' level",
+      "action": "Action Rule (Q30): Apply BOTH of Fay's conditions: (1) tormented AND (2) about appearance specifically. Jane mentions appearance positively ('nicer clothes, almost no difference') and her distress is about TIME. 'It can't last' = calm realism, not torment. 0 respondents meet both conditions = A."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u118_meta_category_self_label_dual_condition",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 118 — Meta: Category Lock + Self-Labelling + Dual Condition",
+    "quiz": {
+      "question": "[Unit 118 — Meta Pattern]\n\nQ28: chose A (Jonathan) — his caution is about time/world, not relationship skills\nQ29: chose C (Jane) — her regret generates sympathy, not unlikeability\nQ30: chose B (1 person) — Jane's appearance comment is positive and her distress is about time, not appearance\n\nThree correction tools. Which correctly identifies them?",
+      "options": [
+        "All three are vocabulary errors — unfamiliar words",
+        "Tool 1 = CATEGORY LOCK (Q28): 'guarded about RELATIONSHIP SKILLS' = lock to interpersonal abilities. Jonathan = time/world caution ≠ relationship skills. Lucy = directly assesses her relationship abilities = correct category. Tool 2 = SELF-LABELLING TEST (Q29): 'least likeable' = who uses NEGATIVE CHARACTER LABELS about themselves. Jenny = 'bitchy, selfish' = explicit negative labels. Jane = emotional regret = sympathy-generating. Tool 3 = DUAL CONDITION TEST (Q30): Fay requires BOTH tormented AND about appearance. Jane: appearance mentioned positively + distress about TIME. Both conditions must be met = 0 match = A.",
+        "All three are targeting errors — wrong paragraph",
+        "All three are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Tool 1 = category lock (relationship skills specifically) / Tool 2 = self-labelling test (negative character labels = unlikeable) / Tool 3 = dual condition test (both tormented AND appearance)",
+      "explanation": "[Tool 1: Category lock (Q28)]\n'Guarded about RELATIONSHIP SKILLS'\n= the specific sub-category = interpersonal abilities\nJonathan: cautious about time and people in general = wrong category\nLucy: directly assesses her ability to make friends and be patient = correct category\n\nFix: Extract the PRECISE sub-category from the question\n= relationship skills ≠ general life caution\n\n[Tool 2: Self-labelling test (Q29)]\n'Presents herself as LEAST LIKEABLE'\n= find who uses negative character LABELS about themselves\nJenny: 'bitchy, selfish' = explicit negative labels applied to self = unlikeable ✓\nJane: 'loss, squandered' = emotional regret = sympathy, not unlikeability\n\nFix: Distinguish emotion (sympathy-generating) from character label (likeable/unlikeable)\nSelf-applied negative character traits = presents as unlikeable\n\n[Tool 3: Dual condition test (Q30)]\nFay: TORMENTED (distress level) + APPEARANCE (subject)\n= both conditions must be met\nJane: appearance comment = positive / distress = about TIME\n= fails condition 1 (not tormented about appearance) AND condition 2 (different subject)\n= 0 respondents = A\n\nFix: List both required conditions before testing each respondent\n= reject anyone who fails EITHER condition",
+      "action": "Meta Rule (Unit 118):\nCategory lock: identify the precise sub-category (relationship skills vs general caution).\nSelf-labelling: 'likeable' questions — who uses negative CHARACTER labels about themselves? Sympathy ≠ unlikeable.\nDual condition: list both requirements before testing. Reject candidates who fail either one."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
