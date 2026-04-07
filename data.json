@@ -3890,5 +3890,236 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u117_q1_paraphrase_statement_ii_vi",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 117 — Q1 Paraphrase (C→D)",
+    "quiz": {
+      "question": "[Q1 — Paraphrase: Which statement conveys SIMILAR meaning to Statement II?]\n\nStatement II:\n'Well practised procedures require <em>minimum attention</em> for competent performance.'\n\nStatement VI:\n'<em>Unfocussed attention</em> controls irrevocable patterns that have become <em>automatic responses</em>.'\n\nStatement V:\n'Learned complex skills like driving a car or dancing can be performed while one's attention is mostly taken by something else.'\n\nQ: Which conveys similar meaning to Statement II?\n\nYour pick — C: <strong>Statement V</strong>\nCorrect — D: <strong>Statement VI</strong>\n\nWhat is the precise 1:1 paraphrase match between II and VI?",
+      "options": [
+        "C is correct because V describes using skills while attention is elsewhere, matching II's minimum attention",
+        "II: 'well-practised procedures' → VI: 'irrevocable patterns that have become AUTOMATIC RESPONSES' (practised = automatic). II: 'minimum attention' → VI: 'UNFOCUSSED attention' (minimum = unfocussed). Both II and VI explain the MECHANISM: why practised things need less attention. V only gives EXAMPLES (driving, dancing) without explaining the mechanism.",
+        "D is wrong because VI uses 'unfocussed' which is different from 'minimum'",
+        "C is correct because V is more specific and concrete than VI"
+      ],
+      "correctIdx": 1,
+      "answer": "② II↔VI: practised=automatic / minimum=unfocussed / both explain mechanism / V only gives examples without the mechanism",
+      "explanation": "[1:1 paraphrase map: II → VI]\nII: 'well-PRACTISED procedures'\n↓\nVI: 'irrevocable patterns that have become AUTOMATIC RESPONSES'\n= practised → automatic (things done many times = automatic) ✓\n\nII: 'MINIMUM attention'\n↓\nVI: 'UNFOCUSSED attention'\n= minimum attention = attention is not directed = unfocussed ✓\n\n[Combined mechanism]\nII: practised things need minimum attention\nVI: automatic responses are controlled by unfocussed attention\n= same mechanism explained in different words ✓\n\n[Why V is LESS precise]\nV: 'driving or dancing can be performed while attention is mostly taken by something else'\n= gives EXAMPLES of the phenomenon (driving = example of practised skill)\n= does NOT explain the mechanism (automatic responses, unfocussed attention)\n= V illustrates, VI explains\n= the question asks for 'similar meaning' = mechanism match = VI (D) ✓\n\n[Why V also partially works but VI is closer]\nV describes the RESULT (can do it while distracted)\nVI describes the CAUSE (unfocussed attention controls automatic responses)\nII describes the CAUSE (practised = minimum attention needed)\nII and VI are both about the causal mechanism = closer match",
+      "action": "Action Rule (Q1): For 'similar meaning' between statements, find 1:1 paraphrase matches at the MECHANISM level. II↔VI: practised=automatic / minimum=unfocussed = mechanism match. V = example only, not mechanism = less precise match."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u117_q2_paraphrase_governs_controllable",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 117 — Q2 Paraphrase (B→A)",
+    "quiz": {
+      "question": "[Q2 — Paraphrase: Which suggests attentiveness is CAPABLE OF BEING CONTROLLED?]\n\nStatement I:\n'This awareness <em>governs</em> how individuals relate to their own thoughts...'\n\nStatement II:\n'Attention can be <em>demanded</em> by novel or impactual situations...'\n\nQ: Which best suggests attentiveness is capable of being controlled?\n\nYour pick — B: <strong>Statement II</strong>\nCorrect — A: <strong>Statement I</strong>\n\nWhy does 'governs' signal controllable and 'demanded' signal externally triggered?",
+      "options": [
+        "B is correct because demanding situations require active control of attention",
+        "'Governs' = the awareness (attention) ITSELF exercises control = attentiveness is the AGENT of control = it IS controllable. 'Demanded BY novel situations' = external situations PULL attention = attention is the RECIPIENT of external forces = not necessarily self-controlled. The question asks if attention is CAPABLE of being controlled = internal agency = 'governs' (I) = A.",
+        "A is wrong because 'governs' describes what awareness does, not what it is capable of",
+        "B is correct because 'sustained effort' in II implies active self-control"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'governs' = attention is the AGENT exercising control = internally controllable / 'demanded by' = attention is the RECIPIENT of external triggers = not self-controlled",
+      "explanation": "[Control direction analysis]\n'governs' (Statement I):\n= attention GOVERNS how individuals relate to their thoughts\n= attention = the SUBJECT/AGENT doing the controlling\n= attention controls something\n= if it controls, it IS capable of control = CONTROLLABLE ✓\n\n'demanded by novel situations' (Statement II):\n= situations DEMAND attention\n= attention = the OBJECT being demanded\n= external situations pull attention\n= attention is REACTIVE, not self-governing\n= NOT evidence of controllability from within ✗\n\n[The 'capable of being controlled' question]\nQuestion: attentiveness CAN BE CONTROLLED\n= is there something that directs/governs it?\n= Statement I: THIS AWARENESS governs = yes, attention self-governs = controllable ✓\n\n['Sustained effort' in II]\n'Continued attention requires sustained effort'\n= effort is needed to maintain attention\n= this describes DIFFICULTY of maintaining attention\n= not that attention is fundamentally controllable\n= could mean it requires effort because it RESISTS control\n\n[Paraphrase chain → A]\n'governs how individuals relate' = attentiveness regulates something\n= has regulatory/control function = IS controllable = A ✓",
+      "action": "Action Rule (Q2): 'Governs' = agent of control = attention IS controllable. 'Demanded by' = recipient of external forces = reactive, not self-controlled. For 'capable of being controlled' questions, find where attention is the AGENT (not the object) of control."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u117_q4_paraphrase_automatic_wrong_destination",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 117 — Q4 Paraphrase (B→D)",
+    "quiz": {
+      "question": "[Q4 — Paraphrase: Which explains 'drove here as usual instead of finding Jill's'?]\n\nScenario: 'I wasn't paying attention and drove here as usual instead of finding my way to Jill's.'\n= habitual route taken automatically instead of intended new destination\n\nStatement II: 'Well practised procedures require minimum attention for competent performance.'\nStatement VI: 'Unfocussed attention controls irrevocable patterns that have become <em>automatic responses</em>.'\n\nQ: Which could be used to explain this lament?\n\nYour pick — B: <strong>Statement II</strong>\nCorrect — D: <strong>Statement VI</strong>\n\nWhy does VI explain the ERROR (wrong destination) while II only explains the general principle?",
+      "options": [
+        "B is correct because the driver was using a well-practised procedure (their usual route)",
+        "II explains WHY practised things need less attention (a general principle). VI explains WHAT HAPPENS: 'unfocussed attention CONTROLS irrevocable patterns' = the automatic pattern (usual route) takes over control and becomes irrevocable = the driver cannot easily override it. VI explains the MECHANISM OF THE ERROR (automatic pattern overrides intention). II only states the principle; VI explains why the error happened.",
+        "D is wrong because 'irrevocable' means the pattern cannot be changed, which is too strong",
+        "B is correct because 'minimum attention' = the driver wasn't paying attention = exact match"
+      ],
+      "correctIdx": 1,
+      "answer": "② VI explains the ERROR MECHANISM: unfocussed attention controls irrevocable patterns = automatic pattern overrides intended destination / II states general principle only",
+      "explanation": "[The lament scenario decoded]\nThe driver: intended to go to Jill's (new destination)\nActual result: drove to usual place (habitual route)\n= the AUTOMATIC PATTERN (usual route) OVERRODE the intention (Jill's)\n= the habit took control\n\n[Why VI explains the error]\nVI: 'Unfocussed attention CONTROLS irrevocable patterns that have become automatic responses'\n= unfocussed attention = driver was on autopilot\n= controls irrevocable patterns = the automatic route takes over\n= IRREVOCABLE = once the pattern starts, it's hard to reverse\n= 'drove here as usual' = the irrevocable automatic pattern completed itself\n= VI directly explains WHY the error happened ✓\n\n[Why II is incomplete]\nII: 'well practised procedures require minimum attention'\n= explains: practised things don't need much attention (general principle)\n= does NOT explain: why the automatic pattern caused an ERROR\n= does NOT explain: why the wrong destination was reached\n= II = principle / VI = error mechanism\n\n[The key word: 'irrevocable']\nirrevocable = once started, cannot easily be stopped or reversed\n= the driver's automatic route pattern = irrevocable\n= once his hands started the familiar route, it completed itself\n= VI's 'irrevocable' = explains why he ended up at the wrong place",
+      "action": "Action Rule (Q4): The scenario = automatic pattern overrides intention. VI: 'unfocussed attention controls irrevocable automatic responses' = explains the error mechanism. II = general principle (practised = less attention). The error requires VI's mechanism (irrevocable pattern takes over) not just II's principle."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u117_q5_logic_most_conceptual_least_contrast",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 117 — Q5 Logic (C→A)",
+    "quiz": {
+      "question": "[Q5 — Logic: Most CONCEPTUAL, relying least on a CONTRAST OF STATES?]\n\nStatement I: 'Attention can be considered as <em>selective awareness</em>. This awareness governs how individuals relate to their own thoughts and to conditions that impinge on them.'\n\nStatement III: '...taking possession by the mind... It implies <em>withdrawal from some things</em> in order to deal effectively with <em>others</em>.'\n\nQ: Which is most conceptual, relying least on a contrast of states of attention?\n\nYour pick — C: <strong>Statement III</strong>\nCorrect — A: <strong>Statement I</strong>\n\nWhy does I contain NO contrast while III contains an implicit contrast?",
+      "options": [
+        "C is correct because III defines what attention is at an abstract level",
+        "I: 'selective awareness... governs...' = a PURE DEFINITION of attention as a concept. No contrast, no states, no comparison. III: 'withdrawal from SOME THINGS in order to deal with OTHERS' = withdrawal (from X) ↔ dealing (with Y) = an implicit contrast between two states. Statement I contains only definition, no contrast of states. Statement I = most purely conceptual = A.",
+        "A is wrong because 'selective' in I implies a contrast between selected and non-selected",
+        "C is correct because III uses more abstract philosophical language"
+      ],
+      "correctIdx": 1,
+      "answer": "② I = pure definition (selective awareness governs) = no contrast / III = 'withdrawal from some + deal with others' = implicit contrast of two states",
+      "explanation": "[What makes a statement 'conceptual' and not 'contrast-based'?]\nConceptual = defines or describes a concept abstractly, without comparing states\nContrast-based = describes attention by comparing two different states (focused vs unfocused, selected vs withdrawn)\n\n[Statement I analysis]\n'Attention = selective awareness. This awareness governs...'\n= PURE DEFINITION\n= no before/after, no state A vs state B\n= 'selective' = a property of attention, not a contrast between selecting and not selecting\n= most purely conceptual ✓\n\n[Statement III analysis]\n'withdrawal from SOME THINGS in order to deal effectively with OTHERS'\n= SOME THINGS (what is withdrawn from) ↔ OTHERS (what is focused on)\n= two contrasting domains: what you withdraw from vs what you engage with\n= contains an implicit contrast of attentional states ✗\n\n[Other statements' contrasts]\nII: novel situations (demanding) ↔ well-practised (minimum attention) = contrast\nV: can do practised skills ↔ attention taken by something else = contrast\nVI: focussed attention ↔ unfocussed attention = explicit contrast\nIII: withdrawal ↔ dealing with others = implicit contrast\nI: no contrast at all = most purely conceptual ✓\n\n[Why 'selective' doesn't create a contrast]\n'Selective awareness' = attention chooses what to notice\n= a PROPERTY of attention, not a comparison between two states\n= like saying 'water is liquid' = a property, not a contrast",
+      "action": "Action Rule (Q5): Test each statement for contrast of states. I = pure definition (no states compared). III = withdrawal from X vs dealing with Y = implicit contrast. 'Selective' in I = a property, not a comparison. Most purely conceptual = no contrast at all = A."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u117_q7_logic_contrary_distractions_destroy",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 117 — Q7 Logic (C→B)",
+    "quiz": {
+      "question": "[Q7 — Logic: Which runs CONTRARY to 'distractions destroy attentiveness'?]\n\nThe experience: 'sometimes distractions DESTROY attentiveness'\n= distractions = external forces that PASSIVELY DAMAGE attention\n= attention is PASSIVE VICTIM of distractions\n\nStatement III:\n'...the taking possession by the mind... It implies <em>withdrawal from some things</em>\nin order to <em>deal effectively with others</em>.'\n\nStatement IV:\n'Two new situations cannot be attended to at the same time.'\n\nQ: Which runs contrary to that experience?\n\nYour pick — C: <strong>Statement IV</strong>\nCorrect — B: <strong>Statement III</strong>\n\nHow does III's 'withdrawal' reverse the passive-victim model of attention?",
+      "options": [
+        "C is correct because IV states attention cannot handle multiple things = distractions destroy it",
+        "The experience: distractions DESTROY attention passively (attention = victim). III: attention ACTIVELY withdraws from things in order to deal effectively with others = attention is the AGENT, not the victim. Withdrawal = ACTIVE choice, not passive destruction. This is CONTRARY to being 'destroyed' by distractions. IV: 'two situations cannot be attended at once' = CONFIRMS that distractions disrupt attention = supports the experience, not contrary to it.",
+        "B is wrong because withdrawal and being destroyed both result in less attention to something",
+        "C is correct because IV implies distractions do reduce attention capacity"
+      ],
+      "correctIdx": 1,
+      "answer": "② III = attention ACTIVELY withdraws (agent) = CONTRARY to passively being destroyed / IV = confirms distractions disrupt = SUPPORTS the experience",
+      "explanation": "[The experience being contrasted]\n'Distractions DESTROY attentiveness'\n= attention is PASSIVE VICTIM\n= distractions = the agent doing the destroying\n= attention = the object being damaged\n\n[Statement III = CONTRARY]\n'withdrawal from some things IN ORDER TO deal effectively with others'\n= attention ITSELF withdraws (= active agent)\n= the withdrawal is PURPOSEFUL (in order to)\n= not destroyed by distractions, but STRATEGICALLY reducing input\n= attention is the CONTROLLER, not the victim\n= CONTRARY to 'destroyed by distractions' ✓\n\n[Active vs Passive — the key distinction]\nExperience: distractions DESTROY attention (passive victim)\nIII: attention WITHDRAWS (active agent doing purposeful selection)\n= complete reversal of the agent/patient relationship\n\n[Statement IV = SUPPORTS the experience]\nIV: 'Two new situations cannot be attended at once'\n= attention has a limited capacity\n= if a distraction occupies attention, the original task suffers\n= this SUPPORTS/CONFIRMS that distractions can destroy attention\n= NOT contrary = C ✗\n\n[Contrary = opposite logic]\nExperience: distractions damage attention (external → passive damage)\nIII: attention actively selects what to withdraw from (internal → active choice)\n= opposite relationship between attention and its environment",
+      "action": "Action Rule (Q7): 'Distractions destroy' = attention is passive victim. Find the statement where attention is the ACTIVE AGENT. III: attention 'withdraws' purposefully = active agent = CONTRARY to passive destruction. IV: confirms distractions disrupt capacity = SUPPORTS the experience. Active/passive reversal = contrary."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u117_meta_mechanism_agent_contrast",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 117 — Meta: Mechanism + Agent/Patient + Contrast Detection",
+    "quiz": {
+      "question": "[Unit 117 — Meta Pattern]\n\nQ1: chose C (V) — V gives examples, VI gives mechanism = mechanism match wins\nQ2: chose B (II) — 'demanded by' = attention is passive / 'governs' = attention is active agent\nQ4: chose B (II) — II = general principle / VI = explains the error mechanism (irrevocable)\nQ5: chose C (III) — III has withdrawal↔others contrast / I has no contrast = most purely conceptual\nQ7: chose C (IV) — IV confirms distractions disrupt / III reverses passive-victim model = contrary\n\nThree correction tools cover all five errors. Which correctly identifies them?",
+      "options": [
+        "All five are vocabulary errors — unfamiliar words",
+        "Tool 1 = MECHANISM vs EXAMPLE (Q1, Q4): 'similar meaning' and 'explain' questions need mechanism matches, not example-only matches. VI = mechanism (automatic responses, irrevocable). V/II = examples or general principles. Tool 2 = AGENT vs PATIENT (Q2, Q7): 'governs' = attention is agent (controllable). 'Demanded by' = attention is patient. III = attention actively withdraws = agent. 'Distractions destroy' = attention is patient. Tool 3 = CONTRAST DETECTION (Q5): test each statement for any before/after or state A vs state B. I = pure definition, no contrast. III = withdrawal↔dealing with others = implicit contrast.",
+        "All five are targeting errors — wrong paragraph",
+        "All five are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Mechanism vs example / Agent vs patient / Contrast detection — three tools covering all five errors",
+      "explanation": "[Tool 1: Mechanism vs Example (Q1, Q4)]\nQ1: V = examples (driving, dancing) / VI = mechanism (automatic responses, unfocussed)\n= 'similar meaning' needs mechanism match = VI ✓\nQ4: II = principle (practised = minimum attention) / VI = error mechanism (irrevocable pattern overrides)\n= 'explain lament' needs the mechanism = VI ✓\n\n[Tool 2: Agent vs Patient (Q2, Q7)]\nQ2: 'governs' = attention GOVERNS = agent = controllable (I)\n'demanded by' = attention is demanded = patient = externally triggered (II)\n= controllable = agent = I ✓\nQ7: Experience: distractions destroy attention = attention is PATIENT\nIII: attention WITHDRAWS = active agent = CONTRARY to patient model ✓\nIV: confirms disruption = supports patient model = not contrary ✗\n\n[Tool 3: Contrast detection (Q5)]\nI: 'selective awareness governs' = pure definition, no state A vs state B\nIII: 'withdrawal from some / deal with others' = two contrasting domains\nI = no contrast = most conceptual ✓\n\n[Summary application]\nMechanism > examples for meaning/explanation questions\nAgent (active) vs Patient (passive) = reveals controllable vs reactive / active vs destroyed\nContrast detection = any before/after or X vs Y = not purely conceptual",
+      "action": "Meta Rule (Unit 117):\nMechanism vs example: 'similar meaning/explain' = find mechanism match, not just examples.\nAgent vs patient: who is doing the action? Attention governs (agent=controllable). Distractions destroy (attention=patient). Contrary = reverse the agent/patient roles.\nContrast detection: most conceptual = no contrast of states. Test each for implicit X vs Y."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u116_q18_paraphrase_trait_theory_overriding",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 116 — Q18 Paraphrase (D→C)",
+    "quiz": {
+      "question": "[Q18 — Paraphrase: Which definition best matches TRAIT THEORY?]\n\nTrait theory key: 'overriding ways of thinking, behaving, feeling and reacting'\n= DOMINANT, CONSISTENT internal patterns that shape everything\n\nDefinition iii: 'The basic personality difference is extrovert/introvert.\nWhile extrovert, the PERSON SHAPES THE ENVIRONMENT;\nwhile introvert, the ENVIRONMENT SHAPES THE PERSON.'\n\nDefinition iv: 'Personality is an integration of several convergent thinking striving selves,\neach endowed with a true memory.'\n\nQ: Which definition is closest to 'trait theories'?\n\nYour pick — D: <strong>iv</strong>\nCorrect — C: <strong>iii</strong>\n\nHow does iii's extrovert/introvert model match 'overriding ways'?",
+      "options": [
+        "D is correct because iv describes how personality integrates different internal components",
+        "Trait theory = OVERRIDING (dominant, consistent) ways of thinking/behaving. Definition iii: extrovert/introvert = a fundamental personality TRAIT that consistently shapes how the person relates to the environment — the trait overrides specific situations. Definition iv: integration of multiple selves = a structural/developmental description, not about consistent dominant ways of behaving. Iii's basic personality difference = a trait that persistently dominates = overriding way.",
+        "C is wrong because iii only describes two types, not multiple traits",
+        "D is correct because 'overriding' means integrating multiple aspects = iv's convergent selves"
+      ],
+      "correctIdx": 1,
+      "answer": "② iii = extrovert/introvert = fundamental trait that consistently shapes behaviour = 'overriding way' / iv = structural integration of selves ≠ consistent dominant behaviour pattern",
+      "explanation": "[Trait theory decoded]\nTrait = a stable, consistent personality characteristic\n'Overriding ways' = this trait DOMINATES behaviour across situations\n= it overrides other factors\n\n[Definition iii → trait theory match]\n'basic personality DIFFERENCE is extrovert/introvert'\n= fundamental TRAIT that defines the person\n'extrovert: PERSON shapes environment' = consistent outward orientation\n'introvert: environment shapes PERSON' = consistent inward orientation\n= in all situations, this basic trait consistently shapes the person's relationship with the world\n= the trait OVERRIDES specific context = OVERRIDING WAY ✓\n\n[Why iv fails]\niv: 'integration of several convergent thinking striving selves'\n= about how multiple internal components INTEGRATE over time\n= developmental/structural description\n= NOT about a dominant consistent way of behaving\n= does not describe something that 'overrides' other influences ✗\n\n[The dichotomy tool]\nInternal/consistent (trait) vs External/variable (situation)\niii: extrovert/introvert = internal, consistent across situations = trait ✓\niv: integration of selves = structural development process, not consistent pattern ✗",
+      "action": "Action Rule (Q18): Trait theory = OVERRIDING (dominant, consistent across situations). Test: does the definition describe something that consistently shapes behaviour regardless of situation? iii = extrovert/introvert = yes (always shapes environment relationship). iv = integration of selves = developmental structure, not consistent overriding pattern."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u116_q20_paraphrase_situation_theory_external",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 116 — Q20 Paraphrase (A→D)",
+    "quiz": {
+      "question": "[Q20 — Paraphrase: Which definition matches SITUATION THEORY?]\n\nSituation theory key: 'consistency of behaviour depends on the <em>characteristics of the occasion</em>\nrather than on underlying types or traits'\n= EXTERNAL SITUATION determines behaviour, NOT internal traits\n\nDefinition ii: 'Hereditary ENDOWS the individual with certain social interests and needs for superiority.'\nDefinition vi: 'Mores and customs LIMIT a person's responses to stimuli and ENVELOPE\nthe possible differences in personality within the SOCIAL MATRIX.'\n\nQ: Which definition is an example of situation theory?\n\nYour pick — A: <strong>ii</strong>\nCorrect — D: <strong>vi</strong>\n\nWhy does 'hereditary' in ii disqualify it from situation theory?",
+      "options": [
+        "A is correct because ii mentions environment providing impressions, showing external influence",
+        "Situation theory = behaviour determined by EXTERNAL situation, NOT internal traits. Definition ii: 'Hereditary endows...' = includes INTERNAL (genetic) factors as causes. This violates the pure external-situation principle. Definition vi: 'Mores and customs LIMIT responses... social matrix' = purely EXTERNAL (social customs, social structure) determines responses. No internal traits mentioned. Vi = pure situation theory. Ii = mixed internal+external = not pure situation theory.",
+        "D is wrong because vi mentions 'personality' which implies internal traits",
+        "A is correct because environment shapes individual in ii, matching external determination"
+      ],
+      "correctIdx": 1,
+      "answer": "② ii includes 'hereditary' (internal) = violates pure external-situation principle / vi = purely external (mores, customs, social matrix) determines responses = pure situation theory",
+      "explanation": "[Situation theory test: external ONLY]\nRequired: behaviour determined by EXTERNAL factors\nProhibited: any reference to internal traits, types, hereditary factors\n\n[Definition ii fails the test]\n'HEREDITARY endows the individual with certain social interests'\n= hereditary = INTERNAL/biological factor\n= the person's internal nature (heredity) causes their characteristics\n= situation theory requires EXTERNAL determination\n= ii has BOTH external (environment provides impressions) AND internal (hereditary)\n= NOT pure situation theory ✗\n\n[Definition vi passes the test]\n'MORES and CUSTOMS limit a person's responses'\n= mores = social norms = EXTERNAL\n= customs = established external practices = EXTERNAL\n'SOCIAL MATRIX' = the social system surrounding the person = EXTERNAL\n= personality differences are 'enveloped' by the social matrix = shaped by external forces\n= no internal traits mentioned = PURE EXTERNAL = situation theory ✓\n\n[Why 'personality' in vi doesn't disqualify it]\n'the possible differences in personality within the social matrix'\n= vi says personality differences exist BUT they are constrained/shaped by external factors\n= the external situation (social matrix) CONTROLS the expression of personality\n= this IS situation theory: external determines behaviour",
+      "action": "Action Rule (Q20): Situation theory = PURELY EXTERNAL. Hereditary (ii) = internal = disqualified. Mores, customs, social matrix (vi) = purely external = qualifies. Test: does the definition contain ANY internal/hereditary cause? If yes → not pure situation theory."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u116_q21_logic_not_factor_analysis",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 116 — Q21 Logic (C→D)",
+    "quiz": {
+      "question": "[Q21 — Logic: Which is NOT related to factor analysis?]\n\nFactor analysis key: 'analyse personality into BASIC BUILDING BLOCKS of behaviour'\n= decompose personality into its fundamental components\n= ANALYTICAL (breaking down) + INTERNAL components\n\nDefinition iv: 'integration of several convergent thinking striving selves'\nDefinition vi: 'Mores and customs limit... envelope within the SOCIAL MATRIX'\n\nQ: Which is NOT related to factor analysis?\n\nYour pick — C: <strong>iv</strong>\nCorrect — D: <strong>vi</strong>\n\nWhy is vi MORE contrary to factor analysis than iv?",
+      "options": [
+        "C is correct because iv describes integration, not decomposition into building blocks",
+        "Factor analysis = decompose into INTERNAL building blocks. Definition iv: integration of 'several convergent thinking striving SELVES' = iv implies multiple internal components (selves) that exist = related to internal components, even if it focuses on integration. Definition vi: 'mores and customs... social matrix' = purely EXTERNAL social forces = NO internal building blocks at all. Vi is about external determination, not internal components. Vi is least related to factor analysis which requires internal components.",
+        "D is wrong because vi also analyses personality structure through the social matrix",
+        "C is correct because integration is the opposite of analysis"
+      ],
+      "correctIdx": 1,
+      "answer": "② iv = integration of multiple internal selves = still involves internal components (related to building blocks) / vi = purely external social forces = no internal components at all = NOT related to factor analysis",
+      "explanation": "[Factor analysis requirement]\nFactor analysis: personality = set of INTERNAL building blocks\n= must involve internal components/traits\n= must be about what is INSIDE the person\n\n[Definition iv → partially related]\n'integration of several convergent thinking striving SELVES'\n= multiple 'selves' = internal components\n= even though iv is about INTEGRATION (not decomposition)\n= the SELVES are internal building blocks that factor analysis could identify\n= iv presupposes internal components exist = RELATED to factor analysis (even if oppositional direction)\n\n[Definition vi → NOT related]\n'Mores and CUSTOMS limit... SOCIAL MATRIX'\n= everything is EXTERNAL\n= no internal components/selves/traits/building blocks\n= personality is not analysed into components\n= behaviour is determined by external social forces\n= factor analysis requires internal building blocks = vi has NONE = NOT RELATED ✓\n\n[The analytical vs external distinction]\nFactor analysis = breaks down internal personality into components\niv = puts together internal components = opposite direction but same domain (internal)\nvi = external factors entirely = completely different domain (external)\n= vi is FURTHEST from factor analysis ✓",
+      "action": "Action Rule (Q21): Factor analysis requires INTERNAL building blocks. iv = integration of internal selves = still in the internal domain (partially related). vi = purely external social forces = no internal components = NOT related. 'Not related' = furthest from the concept's domain. External vs internal = more contrary than integration vs decomposition."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u116_q22_logic_contrast_particular_situations",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 116 — Q22 Logic (B→A)",
+    "quiz": {
+      "question": "[Q22 — Logic: Modified iv + 'in particular situations' contrasts most with which?]\n\nModified iv: 'Personality is an integration of several convergent thinking striving selves,\neach endowed with a true memory... IN PARTICULAR SITUATIONS.'\n\n= personality = situationally integrated = VARIABLE across situations\n\nDefinition i: 'There are FOUR BASIC TEMPERAMENTS: choleric, sanguine, melancholic and phlegmatic.\nPersonality is the BALANCE AND DOMINANCE that the individual achieves within one of these temperaments.'\n\nDefinition ii: 'Hereditary endows the individual with certain social interests...'\n\nQ: Which definition now contrasts MOST with modified iv?\n\nYour pick — B: <strong>ii</strong>\nCorrect — A: <strong>i</strong>\n\nWhy do 'four basic temperaments' create the maximum contrast with 'in particular situations'?",
+      "options": [
+        "B is correct because ii mentions heredity which is fixed, contrasting with situational change",
+        "Modified iv = personality integrates in PARTICULAR SITUATIONS = VARIABLE and situational. Definition i: four fixed temperaments (choleric, sanguine, melancholic, phlegmatic) = STATIC categories established in ancient times. Personality = balance within ONE OF THESE (predetermined). This is maximally FIXED and SITUATION-INDEPENDENT. Definition ii: hereditary + environment = both factors, partly flexible. Definition i = PURELY FIXED categories = maximum contrast with SITUATIONALLY VARIABLE.",
+        "A is wrong because temperaments can still vary across situations",
+        "B is correct because heredity is completely fixed and cannot be changed by situations"
+      ],
+      "correctIdx": 1,
+      "answer": "② Modified iv = situationally variable / i = four fixed temperaments (predetermined categories) = situation-independent = maximum contrast",
+      "explanation": "[Modified iv's key addition]\n'in particular situations'\n= personality integration depends on WHICH SITUATION you are in\n= situationally VARIABLE = changes with context\n\n[Maximum contrast = most SITUATION-INDEPENDENT]\nRequires: personality that does NOT depend on situations\n= fixed regardless of context\n\n[Definition i = maximum contrast]\n'FOUR BASIC TEMPERAMENTS' = pre-set categories (choleric, sanguine, melancholic, phlegmatic)\n= these 4 types are fixed by nature (ancient Greek theory)\n'balance and dominance WITHIN ONE OF THESE'\n= personality = which temperament dominates\n= this is determined independently of any particular situation\n= you ARE choleric/sanguine/etc. in ALL situations\n= situation-INDEPENDENT = maximum contrast with situationally-variable iv ✓\n\n[Why ii is less contrasting]\nii: 'hereditary endows... Environment provides impressions'\n= heredity = fixed (internal)\n= BUT environment ALSO plays a role\n= ii partially acknowledges situational/environmental influence\n= not as purely fixed as i's four temperaments\n\n[The dichotomy]\nFixed/static (not situational) ↔ Variable/situational\ni = maximally fixed (four temperaments) = maximum contrast\nii = partially fixed, partially variable = less contrast",
+      "action": "Action Rule (Q22): Modified iv = personality varies with situation. Find what is MOST situation-independent. i = four fixed temperaments = predetermined, applies in ALL situations = maximum contrast. ii = heredity+environment = partly situational = less contrast. Purely fixed categories = maximum contrast with situationally variable."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u116_meta_internal_external_fixed_variable",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 116 — Meta: Internal/External + Fixed/Variable Dichotomy",
+    "quiz": {
+      "question": "[Unit 116 — Meta Pattern]\n\nQ18: chose D (iv) — iv = structural integration / iii = dominant overriding trait pattern\nQ20: chose A (ii) — ii includes 'hereditary' (internal) / vi = purely external (mores, social matrix)\nQ21: chose C (iv) — iv = integration of internal selves (still internal) / vi = purely external = not related\nQ22: chose B (ii) — ii = partially variable / i = four fixed temperaments = maximally situation-independent\n\nTwo dichotomies explain all four errors. Which correctly identifies them?",
+      "options": [
+        "All four are vocabulary errors — unfamiliar words",
+        "Dichotomy 1 = INTERNAL vs EXTERNAL (Q18, Q20, Q21): trait theory = internal overriding pattern (iii) / situation theory = purely external (vi, not ii which includes hereditary) / factor analysis = NOT vi because vi is external. Dichotomy 2 = FIXED vs VARIABLE/SITUATIONAL (Q18, Q22): trait/temperament theories = fixed across situations (iii, i) / situation theories = variable by context (iv+situations). Classification tool: for each definition, ask (1) internal or external? (2) fixed or situationally variable?",
+        "All four are targeting errors — wrong paragraph",
+        "All four are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Dichotomy 1 = internal vs external / Dichotomy 2 = fixed vs situationally variable — two questions classify all six definitions",
+      "explanation": "[Two-question classification tool]\nQ1: Is the cause of personality INTERNAL (hereditary, traits, selves) or EXTERNAL (mores, customs, social matrix)?\nQ2: Is personality FIXED (consistent across situations) or VARIABLE (changes with situation)?\n\n[Classifying all six definitions]\ni: internal + FIXED (four temperaments = same always) → Type theory, maximum contrast with situational\nii: internal (hereditary) + partially external (environment) → Mixed\niii: internal + FIXED (extrovert/introvert = consistent trait) → TRAIT THEORY ✓ (Q18)\niv: internal (multiple selves) + can be variable → Integrative\nv: internal (affective personality = hard shell) + fixed\nvi: EXTERNAL (mores, customs, social matrix) + determines responses → SITUATION THEORY ✓ (Q20)\n\n[Application to each question]\nQ18 (trait = overriding/fixed internal): iii = internal + fixed = trait theory ✓\nQ20 (situation = external): vi = purely external / ii = mixed internal+external ✗\nQ21 (NOT factor analysis = NOT internal building blocks): vi = external = NOT internal = least related ✓\nQ22 (contrast with situationally variable): i = most fixed = maximum contrast ✓\n\n[The checklist]\nFor each theory definition:\n① Internal or external?\n② Fixed or situationally variable?\n= Two checks classify any personality definition",
+      "action": "Meta Rule (Unit 116):\nTwo classification questions: (1) internal or external? (2) fixed or situationally variable?\nTrait theory = internal + fixed. Situation theory = external + variable. Factor analysis = internal (building blocks). Type theory = fixed categories. Apply both questions before choosing."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
