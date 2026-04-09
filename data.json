@@ -4121,5 +4121,26 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u115_q60_logic_culinary_cipher_zero",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 115 — Q60 Logic (C→A)",
+    "quiz": {
+      "question": "[Q60 — Logic: How many reviews are 'culinary ciphers'?]\n\nDefinition: 'culinary ciphers = <em>innocuous-sounding</em> words and phrases designed to OBSCURE rather than enlighten'\n= must sound HARMLESS on the surface while hiding critical intent\n\nReview A: 'adapted for use in <em>germ warfare</em>'\nReview B: '<em>horrendous</em> pizza... <em>grudgingly</em>'\nReview C: '<em>appalling</em>... absolute disgrace'\nReview D: '<em>sponge-dry</em>... bog-papery... biffed'\n\nQ: How many of the four criticisms could be classified as culinary ciphers?\n\nYour pick — C: <strong>2</strong>\nCorrect — A: <strong>0</strong>\n\nWhy does every single review FAIL the 'innocuous-sounding' test?",
+      "options": [
+        "C is correct because Review A (germ warfare) and Review D (technical-sounding) use indirect language",
+        "ALL four reviews fail because NONE use innocuous-sounding language: A = 'germ warfare' (openly aggressive, not innocuous). B = 'horrendous', 'grudgingly' (bluntly negative). C = 'appalling', 'absolute disgrace' (explicitly harsh). D = 'bog-papery', 'biffed' (vividly negative slang). The cipher test requires language that SOUNDS harmless while hiding criticism — none of these sound harmless. They all openly display their hostility. Answer = 0 = A.",
+        "A is wrong because Review D uses technical food terms that could seem neutral",
+        "C is correct because Reviews A and D use metaphorical language that obscures the criticism"
+      ],
+      "correctIdx": 1,
+      "answer": "② ALL four reviews openly display hostility — none sound innocuous. 0 qualify = A",
+      "explanation": "[The two-part cipher test]\nCondition 1: INNOCUOUS-SOUNDING = words that seem harmless/neutral on the surface\nCondition 2: DESIGNED TO OBSCURE = criticism is hidden, not openly stated\nBOTH must apply simultaneously\n\n[Testing each review]\nReview A: 'adapted for use in GERM WARFARE'\n= germ warfare = aggressive military weapon reference\n= NOT innocuous-sounding at all\n= openly hostile metaphor ✗\n\nReview B: 'HORRENDOUS pizza... GRUDGINGLY'\n= horrendous = explicitly terrible\n= grudgingly = resentfully (openly negative attitude)\n= no hiding ✗\n\nReview C: 'APPALLING... ABSOLUTE DISGRACE'\n= appalling = explicitly shocking\n= absolute disgrace = maximum condemnation\n= no cipher, pure direct attack ✗\n\nReview D: 'SPONGE-DRY... BOG-PAPERY... BIFFED'\n= sponge-dry, bog-papery = vivid negative textures\n= biffed = British slang for ruined/messed up\n= these are VIVIDLY negative, not innocuous\n= a reader immediately understands the criticism ✗\n\n[Why C was tempting]\nReview A: 'germ warfare' = a METAPHOR → might seem like indirect/coded language\nReview D: technical food vocabulary → might seem neutral\nBut: the cipher definition requires the language to SOUND harmless\n= germ warfare sounds hostile, not harmless\n= bog-papery sounds unpleasant, not harmless\n= metaphorical ≠ innocuous-sounding\n\n[The key distinction]\nMetaphorical/indirect ≠ innocuous\nInnocuous = sounds genuinely neutral or positive\n= none of these reviews sound neutral or positive at any point\n= answer = 0 = A",
+      "action": "Action Rule (Q60): 'Innocuous-sounding' = must SOUND harmless/neutral on the surface. Test: would a naive reader think this is a compliment or neutral observation? All four reviews sound immediately negative — none pass the innocuous test. Metaphorical ≠ innocuous. 0 qualify = A."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
