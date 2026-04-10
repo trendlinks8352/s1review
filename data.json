@@ -4142,5 +4142,89 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u113_q54_targeting_outside_home",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 113 — Q54 Targeting (C→B)",
+    "quiz": {
+      "question": "[Q54 — Targeting: Which shows ways to save money OUTSIDE THE HOME?]\n\nOption A (Joan Bakewell): 'I never waste food... cook a meal... use leftovers... rubber bands and paper clips... Jiffy bag'\nOption B (Liberty Ross): 'avoid expensive taxis... walking everywhere... drive my Skoda, fuel efficient'\nOption C (Jonathan Aitken): 'visit a supermarket at 11 pm... products past their sell-by date'\n\nQ: Which of the options shows ways to save money OUTSIDE THE HOME?\n\nYour pick — C\nCorrect — B\n\nWhy does 'supermarket' (C) fail the 'outside the home' test?",
+      "options": [
+        "C is correct because going to a supermarket is an activity that happens outside the home",
+        "The test is: where does the SAVING BEHAVIOUR occur? C's supermarket trip = outside the home, BUT the saving is achieved by buying food THAT WILL BE CONSUMED AT HOME. The destination of the saving = home. B: 'avoid expensive taxis... walking everywhere... fuel efficient car' = the saving itself occurs in TRANSIT/OUTSIDE contexts — transportation costs are inherently outside-the-home expenses. B's savings stay outside.",
+        "B is wrong because driving a car involves coming home eventually",
+        "C is correct because supermarket visits are the most common outside-home savings activity"
+      ],
+      "correctIdx": 1,
+      "answer": "② C = supermarket (outside location, but savings serve HOME consumption) / B = transportation costs (inherently outside-the-home domain) = the saving itself is external",
+      "explanation": "[The spatial test: where does the saving APPLY?]\n\nOption C: 'visit supermarket at 11 pm, buy half-price food'\n= The ACT occurs outside (supermarket)\n= But the SAVING applies to food that goes HOME\n= the purpose/destination = home consumption\n= saving = home-linked ✗\n\nOption B: 'avoid taxis, walk, drive fuel-efficient car'\n= taxis, congestion charges = transportation costs\n= these costs exist ONLY outside the home\n= walking = outside activity\n= fuel efficiency = outside mobility cost\n= the saving itself = entirely in the outside-home domain ✓\n\n[Why A also fails]\nA: 'never waste food, use leftovers, collect rubber bands'\n= all household management activities\n= rubber bands, Jiffy bags = home/office supply domain\n= entirely within-home savings ✗\n\n[The key distinction]\nC: outside location → saves money → for home use\nB: outside domain (transport) → saves money → on outside costs\n= B's savings have no home component",
+      "action": "Action Rule (Q54): 'Outside the home' = the SAVING BEHAVIOUR must apply to external costs. C = buys food outside but for home consumption = home-linked. B = transportation costs (taxis, fuel) = inherently outside domain. Ask: 'What is the saving being applied TO?' Transport costs = outside. Food for home = home."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u113_q55_paraphrase_proud_stingy",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 113 — Q55 Paraphrase (D→A)",
+    "quiz": {
+      "question": "[Q55 — Paraphrase: Who is most PROUD of their STINGY ways?]\n\nTwo conditions: PROUD (boasting, self-satisfied) + STINGY (miserly, extreme frugality)\n\nOption A (Joan Bakewell): 'I collect rubber bands and paper clips... I haven't bought a Jiffy bag in TEN YEARS.'\nOption D (Keith Harris): 'I was earning £10 a week... I put my wages straight into the bank. I was very careful.'\n\nQ: Who is most proud of their stingy ways?\n\nYour pick — D\nCorrect — A\n\nWhy does 'ten years without buying a Jiffy bag' = proud + stingy while D = careful but not stingy?",
+      "options": [
+        "D is correct because putting wages straight into the bank is a very disciplined form of frugality",
+        "STINGY requires: extreme, almost irrational frugality about trivial things. D: earning £10 and banking it = CAREFUL and DILIGENT — a sensible financial habit, not extreme miserliness. A: collecting rubber bands and paper clips + 'haven't bought a Jiffy bag in TEN YEARS' = extreme penny-pinching about trivial items (Jiffy bags are cheap) = genuinely stingy. A also delivers this with pride: 'I never waste food... I also collect...' = declarative pride. D sounds modest/careful, not proudly stingy.",
+        "A is wrong because rubber bands and paper clips are just recycling habits",
+        "D is correct because strict budgeting from a young age is the most impressive form of frugality"
+      ],
+      "correctIdx": 1,
+      "answer": "② D = careful/diligent (sensible, not extreme) / A = collecting trivial items + 10 years no Jiffy bag = extreme miserliness delivered with declarative pride = stingy + proud",
+      "explanation": "[Two-condition test]\nCondition 1: STINGY = miserly, extreme about trivial things\nCondition 2: PROUD = boastful, self-satisfied tone\n\n[Testing D]\n'Earning £10 a week... put wages straight into bank... very careful'\n= banking wages = prudent financial habit\n= 'very careful' = measured, responsible\n= NOT extreme or irrational = NOT stingy\n= tone = reflective, not boastful\n= fails both conditions ✗\n\n[Testing A]\n'I collect RUBBER BANDS and PAPER CLIPS'\n= collecting cheap office supplies others throw away = miserly\n'I haven't bought a JIFFY BAG in TEN YEARS'\n= Jiffy bags = very cheap postal bags = refusing to buy them for a DECADE = extreme\n= this is genuinely stingy (irrational about trivial, cheap items)\n= delivered as a boast ('I haven't...') = PROUD ✓\n\n[The tone of pride in A]\n'I NEVER waste food' = declarative\n'I ALSO collect rubber bands' = adding another proud achievement\n'haven't bought a Jiffy bag in TEN YEARS' = the duration itself is the boast\n= A presents extreme frugality as a BADGE OF HONOUR = proud stingy ✓\n\n[Why C also fails]\nC: 'living on a wage of £5.60... in prison... bankrupt'\n= survival necessity, not pride\n= forced frugality, not chosen with pride",
+      "action": "Action Rule (Q55): 'Proud of stingy ways' = BOTH conditions: (1) extreme/irrational frugality about trivial things AND (2) boastful/proud tone. A = rubber bands + paper clips + 10 years no Jiffy bag = stingy about trivial items, delivered as achievements. D = careful banking = sensible, not stingy. C = survival necessity = not proud."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u113_q56_logic_out_of_sync_banking",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 113 — Q56 Logic (A→D)",
+    "quiz": {
+      "question": "[Q56 — Logic: Which quote is most OUT OF SYNC with the other three?]\n\nA: 'never waste food... use leftovers... collect rubber bands... recycle'\nB: 'avoid taxis... walk everywhere... fuel efficient car'\nC: 'supermarket at 11 pm... half-price products'\nD: 'earning £10... put wages straight into the bank... very careful with money'\n\nQ: Which has a tone most out of sync with the other three?\n\nYour pick — A\nCorrect — D\n\nWhat category do A, B, C share that D does not?",
+      "options": [
+        "A is wrong because it is the most extreme example, not the most different in type",
+        "A, B, C all describe specific CONSUMPTION BEHAVIOUR CHANGES (how you spend differently day-to-day): A = food habits + recycling, B = transport choices, C = shopping timing. All three = active lifestyle frugality tips with specific behaviours. D: 'put wages into the bank' = a FINANCIAL STORAGE action, not a consumption behaviour change. D describes what you do WITH money after earning, not HOW you spend differently. Different category = out of sync = D.",
+        "D is correct because banking was a common and obvious savings strategy",
+        "A is most out of sync because it covers too many different areas (food, supplies, etc.)"
+      ],
+      "correctIdx": 1,
+      "answer": "② A+B+C = consumption behaviour changes (specific frugal actions in daily life) / D = financial storage action (banking wages) = different category = out of sync",
+      "explanation": "[Category analysis]\nThe question: tone 'out of sync' = different TYPE of saving advice\n\n[A, B, C — all share the same category]\nA: 'never WASTE food... use LEFTOVERS... COLLECT rubber bands'\n= active behaviour changes in daily consumption\n= HOW you use things differently\n\nB: 'AVOID expensive taxis... WALK everywhere... DRIVE fuel efficient car'\n= active behaviour changes in transportation consumption\n= HOW you travel differently\n\nC: 'VISIT supermarket at 11 pm... BUY half-price products'\n= active behaviour change in shopping consumption\n= WHEN and HOW you buy differently\n\nCommon theme A+B+C: SPECIFIC ACTIONS that change consumption behaviour\n\n[D — different category]\n'I was EARNING £10... I put wages STRAIGHT INTO THE BANK'\n= what you do with income AFTER earning\n= financial management, not consumption behaviour\n= no specific frugal action in daily life\n= no 'instead of X, do Y' structure\n= purely about SAVING vs SPENDING the money you have\n\n[D is out of sync]\nA, B, C = consumption frugality tips (how to spend less day-to-day)\nD = income management tip (save what you earn)\n= different advice category = out of sync ✓",
+      "action": "Action Rule (Q56): 'Out of sync' = find the one that belongs to a DIFFERENT CATEGORY. A+B+C = specific consumption behaviour changes (frugal daily actions). D = banking wages = financial storage, not consumption behaviour. Category difference: daily frugality actions vs income management. D = out of sync."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u113_meta_spatial_tone_category",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 113 — Meta: Spatial Test + Tone + Category",
+    "quiz": {
+      "question": "[Unit 113 — Meta Pattern]\n\nQ54: chose C (supermarket) — outside location but saving serves home consumption\nQ55: chose D (banking) — careful/diligent but not stingy or proudly boastful\nQ56: chose A (food recycling) — extreme but same category as B+C\n\nThree tools cover all three errors. Which correctly identifies them?",
+      "options": [
+        "All three are vocabulary errors",
+        "Tool 1 = SPATIAL DESTINATION TEST (Q54): 'outside the home' = saving must apply to EXTERNAL costs. C = buys food for home use = home-linked. B = transport costs = entirely external. Tool 2 = DUAL CONDITION TEST (Q55): both PROUD + STINGY must apply. D = careful/sensible (not stingy). A = trivial item hoarding (stingy) + boastful declarations (proud) = both ✓. Tool 3 = CATEGORY CLASSIFICATION (Q56): A+B+C = consumption behaviour changes / D = income storage = different category = out of sync.",
+        "All three are targeting errors",
+        "All three are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Spatial destination + dual condition + category classification — three tools",
+      "explanation": "[Tool 1: Spatial destination test (Q54)]\nQuestion: 'outside the home'\n= not where the ACTION occurs, but where the SAVING APPLIES\nC: action outside → saving for home use = home-linked ✗\nB: action outside → saving on external costs (transport) = truly outside ✓\n\n[Tool 2: Dual condition test (Q55)]\nProud AND stingy — both must apply\nD: careful/sensible → neither stingy (not extreme) nor proudly boastful ✗\nA: rubber bands/Jiffy bags → stingy (trivial extreme) + declarative boasting → proud ✓\n\n[Tool 3: Category classification (Q56)]\nDefine the dominant category of A, B, C:\n= specific consumption behaviour changes\nD: income storage (banking) = different category\n= out of sync = D ✓\nA = extreme version of same category = not out of sync ✗",
+      "action": "Meta Rule (Unit 113):\nSpatial: 'outside home' = where the saving APPLIES, not where the action occurs.\nDual condition: test BOTH required qualities separately — one failure = eliminated.\nCategory: 'out of sync' = find the one that belongs to a different TYPE of advice, not just an extreme version."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
