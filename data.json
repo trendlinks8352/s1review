@@ -4226,5 +4226,68 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u112_q58_targeting_satire_hospital_poem",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 112 — Q58 Targeting (A→D)",
+    "quiz": {
+      "question": "[Q58 — Targeting: Classify 'In the Children's Hospital (1935)']\n\nPoem evidence:\n'Now let the legless boy show the great lady / How well he can manage his crutches'\n= a royal/noble visitor watching a disabled boy perform for her approval\n\n'But would the sound of your sticks on the floor / Thundered in her skull for evermore!'\n= final lines: fierce anger — the poet wishes the sound would haunt the visitor\n\nPoetry types: A=descriptive/image/mood, B=advice/philosophy, C=personal experience, D=criticism through satire\n\nQ: This poem belongs to type ______.\n\nYour pick — A (descriptive/image)\nCorrect — D (criticism through satire)\n\nWhy does the final couplet eliminate all types except D?",
+      "options": [
+        "A is correct because the poem vividly describes the hospital ward and the boy's crutches",
+        "The final two lines: 'But would the sound of your sticks... Thundered in her skull for evermore!' = explicit wish for the visitor to be haunted by guilt = ANGER directed at the royal visitor's superficial pity. This is SATIRICAL CRITICISM: the 'great lady' is mocked for treating the boy's suffering as performance. A (descriptive) = no criticism. B (philosophy) = no advice given. C (personal experience) = not the poet's own suffering. D = criticism of the lady's callousness through bitter irony = D ✓",
+        "A is correct because the poem creates a vivid image of the hospital setting",
+        "C is correct because the poet witnesses the scene personally"
+      ],
+      "correctIdx": 1,
+      "answer": "② Final couplet = anger/wish for guilt = satirical attack on the visitor's shallowness = D / A = no critical voice, just imagery",
+      "explanation": "[The targeting failure: 'legless, crutches' → philosophical interpretation]\nThe poem DOES contain vivid imagery (crutches, ward, sticks)\n= this explains why A (descriptive) seems plausible\n= BUT imagery alone ≠ the poem's PURPOSE\n\n[The satirical target: the 'great lady']\n'Now let the legless boy SHOW the great lady'\n= the boy is made to perform for her\n= 'How WELL he can manage his crutches'\n= ironic: she evaluates his suffering as a demonstration\n\n'The will of the Princess. Come, Tommy'\n= the child is commanded for royal entertainment\n= the poet's tone here = sickened, angry\n\n[The clinching final lines]\n'But would the sound of your sticks on the floor / Thundered in her skull for evermore!'\n= 'your sticks' = addressed to the lady\n= the poet WISHES she would be haunted\n= explicit expression of anger at her callousness\n= SATIRE = using the superficial visit to expose the lady's moral emptiness\n\n[Why the subjective reading (A) is the error]\nYou focused on: legless + crutches = hospital imagery\nYou assigned: philosophical/respectful meaning to 'the loss'\nBut the tone: anger, irony, haunting = CRITICAL, not respectful\n= you imported your own emotional response to disability\n= the poem's actual target = the royal visitor's shallowness",
+      "action": "Action Rule (Q58): In poetry classification — scan ALL stanzas before classifying. The FINAL lines usually reveal the true purpose. 'Thundered in her skull' = anger at the visitor = satire (D). Early vivid imagery does not make a poem 'descriptive' if the dominant purpose is criticism."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u112_q61_paraphrase_philosophical_not_satire",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 112 — Q61 Paraphrase (D→B)",
+    "quiz": {
+      "question": "[Q61 — Classify 'from The Vanity of Human Wishes']\n\nPoem evidence:\n'Where then shall hope and fear their objects find?'\n'Must dull suspense corrupt the stagnant mind?'\n→ questions about human limitation and mental stagnation\n\nFinal lines:\n'But leave to heaven the measure and the choice,\nSafe in his power, whose eyes discern afar\n... Secure whate'er he gives, he gives the best.'\n→ resolution: submit to divine providence, accept what God gives\n\nPoetry types: A=descriptive, B=advice/philosophy, C=personal experience, D=criticism through satire\n\nQ: This poem belongs to type ______.\n\nYour pick — D (satire) — 'negative words like suspense, stagnant, ambush'\nCorrect — B (advice/philosophy)\n\nHow do the FINAL lines reveal B and eliminate D?",
+      "options": [
+        "D is correct because 'suspense', 'stagnant', 'specious', 'ambush' create a critical, mocking tone",
+        "Satire (D) requires: mocking a specific target with irony. The poem does use dark vocabulary BUT the final resolution is 'leave to heaven... he gives the best' = ACCEPTANCE and SUBMISSION to divine providence. This is not satire (mocking) but PHILOSOPHY (advice about how to live: accept God's will, do not rely on earthly hope/fear). The dark words describe the human condition being examined, not a satirical target being mocked.",
+        "B is wrong because Samuel Johnson is criticising human vanity, not giving neutral advice",
+        "D is correct because 'The Vanity of Human Wishes' in the title signals satirical criticism"
+      ],
+      "correctIdx": 1,
+      "answer": "② Final lines = 'leave to heaven... he gives the best' = acceptance/philosophical resolution / satire requires mockery of a target — this poem resolves with wisdom, not mockery",
+      "explanation": "[The paraphrase failure: dark words → satire assumption]\nYou saw: suspense, stagnant, ambush, specious (all negative)\nYou concluded: negative tone = satire/criticism\nBut: negative vocabulary ≠ satirical tone\n\n[What satire requires]\nSatire (D) = mocking a specific target through irony/exaggeration\n= the poet LAUGHS AT or SCORNS something specific\n= example from Unit 112: 'The English Are So Nice!' = mocks English niceness\n\n[What this poem actually does]\n'Where then shall hope and fear their objects find?'\n= examining human existential questions\n'Must dull suspense corrupt the stagnant mind?'\n= describing the danger of passive/stagnant living\n\n[The CRUCIAL final lines — the resolution]\n'But leave to heaven the measure and the choice'\n= advice: surrender judgment to God\n'Safe in his power, whose eyes discern afar'\n= trust in God's larger vision\n'Secure whate'er he gives, he gives the best'\n= accept divine providence: whatever God gives is best\n\n= this is PHILOSOPHICAL ADVICE about how to live\n= B: poetry that offers advice or philosophy ✓\n\n[The title is not satire in content]\n'Vanity of Human Wishes' = a philosophical observation\n= human hopes are vain/futile (philosophical)\n= not a mocking satire of specific people",
+      "action": "Action Rule (Q61): Don't classify by vocabulary — classify by PURPOSE and RESOLUTION. Dark vocabulary = examining a difficult theme (philosophical). Final lines reveal purpose: 'leave to heaven... he gives the best' = accept divine will = PHILOSOPHICAL ADVICE (B). Satire needs a mocked target; this poem ends with acceptance, not mockery."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u112_meta_final_lines_purpose_vocabulary",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 112 — Meta: Final Lines + Purpose vs Vocabulary",
+    "quiz": {
+      "question": "[Unit 112 — Meta Pattern]\n\nQ58: chose A (descriptive) — focused on imagery/vocabulary, missed the satirical anger in final lines\nQ61: chose D (satire) — saw negative words, guessed satire, missed the philosophical resolution in final lines\n\nBoth errors share the same root. Which correctly identifies it?",
+      "options": [
+        "Both are vocabulary errors — unfamiliar poetic words",
+        "Both errors = classified by SURFACE VOCABULARY instead of FINAL PURPOSE. Q58: vivid imagery (crutches, ward) → assumed descriptive, but final lines = satirical anger at the lady. Q61: dark words (suspense, stagnant, ambush) → assumed satire, but final lines = philosophical acceptance. Fix: always read to the END. Final lines = where the poet reveals their TRUE purpose. Ask: 'What does the poem resolve to? What is the poet ultimately doing?'",
+        "Both are targeting errors — wrong stanza analysed",
+        "Both are paraphrasing errors about individual words"
+      ],
+      "correctIdx": 1,
+      "answer": "② Both classified by early/surface vocabulary instead of reading the final resolution — final lines reveal true purpose",
+      "explanation": "[The shared error]\nQ58: early stanzas = vivid hospital imagery → classified as A (descriptive)\nFINAL LINES: 'Thundered in her skull for evermore!' = satire/anger = D ✓\n\nQ61: early stanzas = dark vocabulary (suspense, stagnant) → classified as D (satire)\nFINAL LINES: 'he gives the best' = philosophical acceptance = B ✓\n\n[The fix: final lines = purpose declaration]\nPoets typically BUILD toward their point\n= early stanzas: set up the subject/problem\n= final stanzas: deliver the POINT/RESOLUTION\n\nFor classification questions:\n1. Read the final lines FIRST (or last)\n2. Ask: 'What is the poet ULTIMATELY doing?'\n3. Then classify:\n   = anger/mockery at end → D (satire)\n   = advice/acceptance at end → B (philosophy)\n   = celebration/mood at end → A (descriptive)\n   = personal reflection at end → C (personal experience)\n\n[Vocabulary ≠ classification]\nNegative vocabulary → can appear in ANY type\nPhilosophical poems use negative vocabulary to describe the problem\nSatirical poems use ironic/positive vocabulary to mock\nDescriptive poems use vivid vocabulary to paint pictures\n= vocabulary alone does not determine type",
+      "action": "Meta Rule (Unit 112): For poetry classification — always read to the END. Final lines = the poet's true purpose revealed. Q58 final = anger at visitor = satire. Q61 final = accept divine will = philosophy. Never classify from early-stanza vocabulary alone."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
