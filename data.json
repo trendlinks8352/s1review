@@ -4289,5 +4289,152 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u111_q28_paraphrase_staff_development_promotes",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 111 — Q28 Paraphrase (D→B)",
+    "quiz": {
+      "question": "[Q28 — Paraphrase: Which quality encourages STAFF DEVELOPMENT in accord with B6?]\n\nB6 = 'The attitude of a staff member's immediate BOSS to staff development'\n\nL6: 'Trusts people; delegates WHOLE JOBS; keeps promises; PROMOTES FROM WITHIN'\nA6: 'Manages; parcels out jobs; oversees all major developments; uses JOB-HIRE to bring OUTSIDE EXPERIENCE'\n\nQ: Which leadership quality most likely encourages staff development?\n\nYour pick — D: <strong>A6</strong>\nCorrect — B: <strong>L6</strong>\n\nWhy does 'promotes from within' = staff development and 'outside job-hire' = its opposite?",
+      "options": [
+        "D is correct because A6 brings in experienced people who can mentor existing staff",
+        "Staff development = growing existing employees' skills and advancing them. L6: 'promotes FROM WITHIN' = existing staff are developed and advanced internally. 'Delegates WHOLE JOBS' = gives full responsibility = develops capability. A6: 'uses job-hire to bring OUTSIDE EXPERIENCE' = bypasses existing staff by hiring externally = the opposite of developing internal staff. A6 replaces staff with outsiders; L6 grows staff from within.",
+        "B is wrong because delegates whole jobs could overwhelm under-developed staff",
+        "D is correct because A6 'oversees all major developments' shows investment in growth"
+      ],
+      "correctIdx": 1,
+      "answer": "② L6 = promotes from within + delegates whole jobs = internal development / A6 = outside job-hire = bypasses and replaces internal staff = opposite of development",
+      "explanation": "[Paraphrase chain: staff development → L6]\nStaff development = growing and advancing existing employees\n\nL6: 'PROMOTES FROM WITHIN'\n= existing staff rise through the ranks\n= their development is rewarded with advancement ✓\n\nL6: 'DELEGATES WHOLE JOBS'\n= gives full responsibility to staff\n= they learn by doing complete tasks\n= builds capability and trust = development ✓\n\n[Why A6 is the OPPOSITE]\nA6: 'uses JOB-HIRE to bring OUTSIDE EXPERIENCE into the company'\n= when expertise is needed, they hire externally\n= existing staff are NOT developed for those roles\n= internal staff are bypassed in favour of ready-made external hires\n= A6 = anti-development by replacement ✗\n\n[The key distinction]\nDevelopment = internal growth path (L6)\nReplacement = external acquisition (A6)\n= these are fundamentally opposite approaches to building capability",
+      "action": "Action Rule (Q28): 'Staff development' = growing INTERNAL employees. L6 'promotes from within' + 'delegates whole jobs' = direct match. A6 'outside job-hire' = replaces rather than develops internal staff = opposite. Development = internal growth path."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u111_q29_paraphrase_participation_mbwa",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 111 — Q29 Paraphrase (B→D)",
+    "quiz": {
+      "question": "[Q29 — Paraphrase: Which leadership quality FORESHADOWS B7?]\n\nB7 = 'The MODES OF PARTICIPATION of management in staff development'\n= how management actively PARTICIPATES — specific modes/methods of involvement\n\nL2: 'Available, good listener'\nL8: 'MBWA (manages by walking around)'\n\nQ: Which leadership practice most likely foreshadows a positive interpretation of B7?\n\nYour pick — B: <strong>L2</strong>\nCorrect — D: <strong>L8</strong>\n\nWhy is 'walking around' a MODE of participation while 'listening' is not?",
+      "options": [
+        "B is correct because being available and a good listener enables participation through open communication",
+        "B7 requires: specific MODES (methods/styles) of PARTICIPATION (active involvement). L2 'available, good listener' = passive availability — people come to you. L8 'MBWA — manages by walking around' = the manager GOES TO the staff = active, visible MODE of participation. MBWA is a recognised management methodology that directly describes HOW management participates in staff development. Listening = passive reception; MBWA = active participatory mode.",
+        "D is wrong because walking around is informal and doesn't constitute a formal mode",
+        "B is correct because communication is the foundation of all participation modes"
+      ],
+      "correctIdx": 1,
+      "answer": "② L2 = passive availability (people come to you) / L8 = MBWA = active mode of going to staff = specific participatory METHOD = direct match for B7",
+      "explanation": "[B7 decoded]\n'Modes of PARTICIPATION of MANAGEMENT in staff development'\n= how management actively ENGAGES with staff\n= specific METHODS of being involved\n= requires: active, visible, directional behaviour\n\n[L2 → passive reception]\n'Available, good LISTENER'\n= staff can approach the leader\n= the leader receives input\n= PASSIVE: waiting for participation to come to them\n= not a MODE of active management participation ✗\n\n[L8 → active participatory mode]\n'MBWA — manages by WALKING AROUND'\n= the manager physically moves through the workplace\n= engages with staff in THEIR environment\n= proactive, visible, directional\n= a specific named management METHODOLOGY\n= directly = a MODE of management participation ✓\n\n[The key distinction]\nPassive reception (L2) ≠ active mode of participation\nMBWA = named methodology = specific mode\n= L8 = direct paraphrase of 'modes of participation' ✓",
+      "action": "Action Rule (Q29): 'Modes of participation' = active methods of management involvement. L8 MBWA = specific named methodology for active management participation. L2 = passive availability (people come to leader) ≠ an active mode. Active method vs passive reception."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u111_q30_paraphrase_policy_integrity_reliability",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 111 — Q30 Paraphrase (D→A)",
+    "quiz": {
+      "question": "[Q30 — Paraphrase: Which climate aspect is most aligned to quality A4?]\n\nA4: 'Establishes, and WORKS WITHIN, POLICY'\n= creates and consistently adheres to policy rules\n\nB5: 'The company's accepted balance of INTEGRITY, RELIABILITY and innovation'\nB8: 'The TIME-FRAME EXPECTATION for results from any particular development session'\n\nQ: Which B aspect is most aligned to A4?\n\nYour pick — D: <strong>B8</strong>\nCorrect — A: <strong>B5</strong>\n\nHow does 'works within policy' = integrity and reliability?",
+      "options": [
+        "D is correct because establishing policy involves setting time-frames for implementation",
+        "'Establishes and works WITHIN policy' = creates rules AND consistently follows them. Working within policy = acting consistently according to agreed standards = RELIABILITY (you can be counted on). Establishing policy = defining principles and rules = INTEGRITY (adherence to principles). B5: 'accepted balance of INTEGRITY, RELIABILITY' = direct paraphrase of A4's policy-based management. B8 (time-frame) has no logical connection to policy adherence.",
+        "A is wrong because integrity and reliability are personal traits, not organisational policy",
+        "D is correct because policy sets time boundaries for decision-making"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Works within policy' = consistent adherence = RELIABILITY / 'Establishes policy' = principled rule-setting = INTEGRITY / B5 = direct paraphrase / B8 = time-frame has no policy connection",
+      "explanation": "[A4 decoded]\n'Establishes policy' = creates organisational rules and principles\n'Works WITHIN policy' = consistently operates according to those rules\n= does not deviate from established principles\n\n[Paraphrase map → B5]\n'Establishes policy' → INTEGRITY\n= integrity = principled conduct, adherence to standards\n= creating and maintaining policy = acting with integrity\n\n'Works WITHIN policy' → RELIABILITY\n= reliability = you can be counted on to behave consistently\n= consistently following policy = reliable behaviour\n\n[B5: 'integrity, reliability and innovation']\n= A4 maps directly to: integrity (principled) + reliability (consistent)\n= B5 ✓\n\n[Why B8 has no connection]\nB8 = 'time-frame expectation for results'\n= about WHEN outcomes are expected\n= policy adherence has nothing to do with time-frames\n= different domain entirely ✗\n\n[The function vs value distinction]\nA4 = describes a BEHAVIOUR (following policy)\nB5 = describes a VALUE (integrity + reliability)\n= behaviour → underlying value = correct paraphrase direction",
+      "action": "Action Rule (Q30): 'Works within policy' = consistent rule-following = RELIABILITY. 'Establishes policy' = principled standard-setting = INTEGRITY. B5 captures both. B8 (time-frame) has zero logical connection to policy. Match BEHAVIOUR to underlying VALUE."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u111_q31_paraphrase_patronage_common_touch",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 111 — Q31 Paraphrase (A→B)",
+    "quiz": {
+      "question": "[Q31 — Paraphrase: Which grouping encourages PATRONAGE?]\n\nPatronage = personal favours based on relationships, not merit\n= requires: personal closeness, accessibility, informal bonds\n\nA: L3 & L5 — 'Decisive and tough' + 'Tolerates open disagreement'\nB: L1 & L2 — 'Common touch, gets hands dirty' + 'Available, good listener'\n\nQ: Which grouping most likely encourages patronage by leaders?\n\nYour pick — A\nCorrect — B\n\nWhy do 'common touch' and 'availability' create the conditions for patronage?",
+      "options": [
+        "A is correct because decisive tough leaders create loyal followers who depend on their protection",
+        "Patronage = personal favours based on who you know/like, not merit. Conditions for patronage: personal familiarity + private access. L1 'common touch, gets hands dirty' = the leader creates PERSONAL BONDS with staff (informal, friendly). L2 'available, good listener' = staff can always privately access the leader. These two qualities create intimate personal relationships = the exact social foundation for patronage (favouring those you're close to). L3 (decisive/tough) + L5 (tolerates disagreement) = professional conflict-management, not relationship-building = not patronage conditions.",
+        "B is wrong because a good listener treats everyone equally",
+        "A is correct because decisive leaders choose personal favourites to implement decisions"
+      ],
+      "correctIdx": 1,
+      "answer": "② L1 (personal bond through common touch) + L2 (private access through availability) = social foundation for patronage / L3+L5 = professional conflict traits ≠ relationship-based patronage",
+      "explanation": "[Patronage mechanism]\nPatronage = favouring people based on PERSONAL RELATIONSHIP, not merit\n= requires: ① personal closeness ② private access ③ informal bond\n\n[L1 → personal closeness]\n'Common touch, gets hands DIRTY'\n= leader works alongside staff informally\n= creates a sense of personal connection and familiarity\n= 'he's one of us' feeling = personal bond ✓\n\n[L2 → private access]\n'AVAILABLE, good listener'\n= staff can always approach the leader directly\n= private conversations are possible\n= personal requests can be made = patronage channel ✓\n\n[Combined: L1 + L2 = patronage conditions]\nPersonal closeness (L1) + private access (L2)\n= staff develop personal relationships with the leader\n= patronage: leader favours those they're close to\n\n[Why L3+L5 don't create patronage]\nL3: 'decisive and tough; seeks immediate workable solutions'\n= professional task focus, not relationship building\nL5: 'tolerates open disagreement'\n= open, transparent conflict handling\n= the opposite of private/personal favouritism ✗",
+      "action": "Action Rule (Q31): Patronage = personal favours need personal closeness + private access. L1 'common touch' = personal bond. L2 'available' = private access channel. These create the social conditions for patronage. L3+L5 = professional conflict traits = no personal bond = no patronage foundation."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u111_q32_logic_least_likely_controls_contradiction",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 111 — Q32 Logic (A→D)",
+    "quiz": {
+      "question": "[Q32 — Logic: Which B principle is LEAST LIKELY to be adopted by L1-L9 leaders?]\n\nKey leader trait: L4 = 'SIMPLIFIES AND REMOVES CONTROLS'\n\nB1: 'Development of staff is evident in the changing of their goals, ideals and motivation'\nB4: 'Defined objectives, planned procedures and OTHER CONTROLS are NECESSARY for aligning development'\n\nQ: Which B principle is least likely to be adopted by document A leaders?\n\nYour pick — A: <strong>B1</strong>\nCorrect — D: <strong>B4</strong>\n\nWhy is B4 (controls necessary) directly contradicted by L4 (removes controls)?",
+      "options": [
+        "A is correct because changing goals and motivation is inconsistent with clear leadership direction",
+        "Find the DIRECT CONTRADICTION between L1-L9 and B1-B4. L4: 'SIMPLIFIES AND REMOVES CONTROLS' = the leader's approach explicitly ELIMINATES controls. B4: 'controls ARE NECESSARY for aligning development' = explicitly states controls are essential. These are polar opposites: L4 removes what B4 declares necessary. B1 (changing goals/motivation) has no direct contradiction in the leader traits — it could co-exist. B4 vs L4 = perfect antithesis.",
+        "D is wrong because some leaders might still use controls selectively",
+        "A is correct because motivation-focused development seems too soft for decisive leaders"
+      ],
+      "correctIdx": 1,
+      "answer": "② L4 = 'removes controls' DIRECTLY contradicts B4 = 'controls are necessary' — perfect antithesis / B1 = no direct contradiction in leader traits",
+      "explanation": "[The direct contradiction test]\nFor 'least likely to be adopted' = find the B principle that DIRECTLY CONTRADICTS a core leader trait\n\n[L4 vs B4 — the perfect antithesis]\nL4: 'Simplifies and REMOVES CONTROLS'\n= the leader's explicit policy = eliminate controls\n\nB4: 'Defined objectives, planned procedures and other CONTROLS ARE NECESSARY'\n= the explicit position = controls are essential/required\n\n= REMOVES ↔ NECESSARY\n= polar opposition on the same topic (controls)\n= a leader characterised by L4 would fundamentally reject B4 ✓\n\n[Why B1 is not the least likely]\nB1: 'Development is evident in the changing of goals, ideals and motivation'\n= about how to identify development\n= no L1-L9 trait explicitly opposes this\n= some leaders might disagree, but no DIRECT contradiction\n= B1 ≠ least likely ✗\n\n[The logical structure]\nLeast likely = most directly contradicted\nDirect contradiction = same topic, opposite position\nControls: L4 (removes) ↔ B4 (necessary) = same topic, polar opposite positions\n= B4 = least likely to be adopted by leaders who embody L4",
+      "action": "Action Rule (Q32): 'Least likely' = most directly contradicted. Test each B against all L1-L9 traits. L4 'removes controls' vs B4 'controls necessary' = same topic, polar opposite = direct antithesis = D. B1 has no direct L-trait contradiction."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u111_q34_paraphrase_habitual_action_timeframe",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 111 — Q34 Paraphrase (B→C)",
+    "quiz": {
+      "question": "[Q34 — Paraphrase: Which B principles relate to HABITUAL achievement?]\n\nHabitual = repeated over time, consistent, ongoing\n= requires: ACTION (repeated behaviour) + TIME (sustained over a period)\n\nB3: 'Development requires ACTION by and INVOLVEMENT of the staff member'\nB8: 'The TIME-FRAME EXPECTATION for results from any particular development session'\nB4: 'Defined objectives, planned procedures and controls... for aligning development'\nB6: 'The ATTITUDE of a staff member's immediate boss to staff development'\n\nQ: Which pair most relates to habitual achievement?\n\nYour pick — B: <strong>B4 & B6</strong>\nCorrect — C: <strong>B3 & B8</strong>\n\nWhy does action + time-frame = habitual, while attitude + controls = not habitual?",
+      "options": [
+        "B is correct because B4 (controls) ensures consistency and B6 (boss attitude) drives repeated motivation",
+        "'Habitual' = repeated actions over time. B3 'ACTION and INVOLVEMENT' = the repeated behaviour component (what you keep doing). B8 'TIME-FRAME EXPECTATION' = the sustained duration component (over how long). Action × Time = HABIT. B4 (controls) + B6 (boss attitude) = structural conditions, not the mechanism of habit formation itself. Habit = doing something repeatedly (B3) across time (B8).",
+        "C is wrong because time-frame is just about scheduling, not habit formation",
+        "B is correct because boss attitude determines whether staff keep trying over time"
+      ],
+      "correctIdx": 1,
+      "answer": "② B3 = repeated ACTION component of habit / B8 = TIME component of habit / Action × Time = habitual / B4+B6 = structural conditions, not the habit mechanism",
+      "explanation": "[Habitual decoded]\nHabitual = performed repeatedly, consistently, over time\n= NOT a one-off event\n= requires TWO elements: DOING IT (action) + SUSTAINED OVER TIME\n\n[B3 → action component]\n'Development requires ACTION by and INVOLVEMENT of the staff member'\n= staff must actively and repeatedly DO things\n= involvement = ongoing participation\n= the BEHAVIOUR component of habituation ✓\n\n[B8 → time component]\n'TIME-FRAME EXPECTATION for results'\n= results are expected over a DURATION\n= not instant — sustained across time\n= the DURATION component of habituation ✓\n\n[B3 + B8 = habitual achievement]\nRepeated action (B3) sustained over time (B8)\n= the mechanism of habit formation\n= C: B3 & B8 ✓\n\n[Why B4+B6 don't capture 'habitual']\nB4: 'planned procedures and controls'\n= structural conditions/framework\n= describes HOW development is organised, not the repetition over time\n\nB6: 'boss attitude'\n= an influence factor\n= describes a person's stance, not a repeated-action mechanism\n\n= B4+B6 = contextual conditions / B3+B8 = the mechanism itself",
+      "action": "Action Rule (Q34): 'Habitual' = action × time. B3 = repeated action (involvement). B8 = time-frame (duration). These two together = the habit mechanism. B4 = controls (structure), B6 = attitude (influence) = contextual factors, not the habit mechanism. Habit = what you do (B3) for how long (B8)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u111_meta_cross_document_paraphrase",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 111 — Meta: Cross-Document Paraphrase",
+    "quiz": {
+      "question": "[Unit 111 — Meta Pattern]\n\nQ28: chose D (A6=outside hire) — outside hire = replaces internal staff ≠ develops them\nQ29: chose B (L2=available) — passive reception ≠ active mode of participation\nQ30: chose D (B8=time-frame) — no logical connection between policy and time\nQ31: chose A (L3+L5=decisive) — professional conflict traits ≠ personal bond for patronage\nQ32: chose A (B1) — no direct contradiction / B4 vs L4 = direct antithesis\nQ34: chose B (B4+B6) — structure+attitude ≠ the action×time habit mechanism\n\nOne shared principle explains most errors. Which correctly identifies it?",
+      "options": [
+        "All six are vocabulary errors — unfamiliar management terms",
+        "All six = cross-document paraphrase failure: the question gives a concept (staff development, participation, policy, patronage, habitual) and requires mapping it to the CORRECT L or B item. The error = choosing an item that SOUNDS related but does not match the SPECIFIC MECHANISM or CONCEPT. Fix: define the concept precisely first (what EXACTLY does this word mean?), then test each option against that precise definition.",
+        "All six are targeting errors — wrong document consulted",
+        "All six are Too Extreme errors"
+      ],
+      "correctIdx": 1,
+      "answer": "② Cross-document paraphrase failure: chose related but imprecise matches. Fix: define the concept precisely before testing options.",
+      "explanation": "[The shared error pattern]\nEach question gives a CONCEPT and asks which L or B item matches\nThe error = choosing something in the same general DOMAIN but wrong MECHANISM\n\nQ28: staff development → chose outside hire (same domain: hiring) but wrong direction (replaces not develops)\nQ29: modes of participation → chose good listener (same domain: engagement) but passive not active mode\nQ30: policy adherence → chose time-frame (same domain: management) but wrong connection\nQ31: patronage → chose decisive/tough (same domain: leadership) but professional not personal\nQ32: least likely → chose B1 (same domain: development principles) but no direct contradiction\nQ34: habitual → chose controls+attitude (same domain: climate) but structure not mechanism\n\n[The fix: precise definition first]\nBefore matching, define the concept:\n'Staff development' = internal growth and advancement (not replacement)\n'Modes of participation' = ACTIVE methods of involvement (not passive reception)\n'Policy' = principled rule-following = INTEGRITY + RELIABILITY\n'Patronage' = personal relationship favouritism (needs bond + access)\n'Least likely' = direct contradiction (same topic, opposite position)\n'Habitual' = repeated action (B3) × sustained time (B8)\n\n[Then test each option against the precise definition]\n= reject options that are in the right domain but wrong mechanism",
+      "action": "Meta Rule (Unit 111): Cross-document paraphrase = define the concept PRECISELY before matching. Generic domain proximity ≠ correct paraphrase. Test each option: does it match the SPECIFIC MECHANISM, not just the general area?"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
