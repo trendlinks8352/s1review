@@ -4436,5 +4436,194 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u110_q48_vocab_acronym_see",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 110 — Q48 Vocab (D→C)",
+    "quiz": {
+      "question": "[Q48 — Vocab: Why does AAVSO appear under 'see American Association of Variable Star Observers'?]\n\nInstructions:\n'Cross-references (using <em>see</em>) direct the reader from <em>acronyms</em> or synonyms or sub-entries or alternate forms of entries to main entries.'\n\nIndex: 'AAVSO <em>see</em> American Association of Variable Star Observers'\n\nQ: The entry under AAVSO refers to AAVSO because AAVSO is ______.\n\nYour pick — D: <strong>a subentry to a main entry</strong>\nCorrect — C: <strong>an acronym for another entry</strong>\n\nWhat is an acronym and why does AAVSO qualify?",
+      "options": [
+        "D is correct because AAVSO appears under the main entry American Association",
+        "Acronym = a word formed from the INITIAL LETTERS of a longer name. AAVSO = A(merican) A(ssociation of) V(ariable) S(tar) O(bservers) = each letter = first letter of a word in the full name = classic acronym. The instructions state 'see' is used for acronyms → C is the direct match. D (subentry) = items listed UNDER a main heading in the index, not a separate abbreviated form.",
+        "C is wrong because AAVSO could simply be an alternate form of the name",
+        "D is correct because AAVSO is listed separately as a sub-item under the main entry"
+      ],
+      "correctIdx": 1,
+      "answer": "② AAVSO = A+A+V+S+O = initial letters of each word = acronym / instructions: 'see' used for acronyms = C",
+      "explanation": "[Acronym definition]\nacronym = a word formed from the FIRST LETTERS of a series of words\nA - American\nA - Association of\nV - Variable\nS - Star\nO - Observers\n= AAVSO = classic acronym ✓\n\n[Instructions → C]\n'see directs reader FROM acronyms... TO main entries'\n= AAVSO (acronym) → see → American Association (main entry)\n= C: 'an acronym for another entry' = direct instruction match ✓\n\n[Why D (subentry) is wrong]\nSubentry = an item listed UNDER a main heading (indented below)\n= AAVSO appears as its own heading, not indented under another\n= it's a separate entry that REFERS elsewhere via 'see'\n= not a subentry but a cross-reference from an acronym\n\n[Key vocab to know]\nacronym (약어, 두문자어) = word made from initial letters: NATO, NASA, AAVSO\nsynonym (동의어) = different word, same meaning\nsubentry = item listed beneath a main heading in the index\ncross-reference = 'see' or 'see also' directing to another entry",
+      "action": "Action Rule (Q48): 'See' = cross-reference used for acronyms, synonyms, or alternate forms. AAVSO = initial letters of each word = acronym. Instructions explicitly say 'see' is used for acronyms = C. D (subentry) = wrong structure (AAVSO is its own heading, not listed under another)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u110_q50_paraphrase_asterisk_main_entry",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 110 — Q50 Paraphrase (D→B)",
+    "quiz": {
+      "question": "[Q50 — Paraphrase: What does the asterisk (*) after 'moiré patterns* 13 341' mean?]\n\nInstructions:\n'Where the title of an article appears as a sub-entry, as shown by an <em>asterisk (*)</em>,\nthe reader is encouraged to seek out the <em>main entry under this title</em> where further sub-entries, cross-references and references may be found.'\n\nQ: The asterisk in 'moiré patterns* 13 341' indicates ______.\n\nYour pick — D: <strong>indicates that moiré patterns is the most important of the subentries</strong>\nCorrect — B: <strong>refers the reader to an entry whose title is moiré patterns</strong>\n\nWhy does the asterisk signal 'go find the main entry' not 'most important'?",
+      "options": [
+        "D is correct because asterisks often signal importance or priority in reference texts",
+        "The instructions explicitly define asterisk function: 'the reader is encouraged to seek out the MAIN ENTRY under this title'. Asterisk = 'there is a full main entry with this exact title elsewhere in the index'. B: 'refers the reader to an entry whose title is moiré patterns' = direct paraphrase of 'seek out the main entry under this title'. D (most important) is never mentioned in the instructions — it is a background knowledge assumption about asterisks that does NOT apply here.",
+        "B is wrong because the asterisk refers to aberration, not moiré patterns",
+        "D is correct because 13 341 shows moiré patterns has a larger volume reference"
+      ],
+      "correctIdx": 1,
+      "answer": "② Instructions explicitly define asterisk = 'seek out the main entry under this title' = B / D = assumed meaning from background knowledge, not from the instructions",
+      "explanation": "[Asterisk function per instructions]\n'Where the title of an article appears as a sub-entry, as shown by an ASTERISK (*),\nthe reader is encouraged to seek out the MAIN ENTRY under this title'\n\n= asterisk signals: this sub-entry title HAS a full main entry elsewhere\n= the reader should go find that main entry\n\n[Paraphrase chain → B]\n'seek out the main entry under this title'\n= go find the entry WHOSE TITLE is moiré patterns\n= 'refers the reader to an entry whose title is moiré patterns' (B) ✓\n\n[Why D (most important) fails]\n'Most important of the subentries'\n= not mentioned anywhere in the instructions\n= this is BACKGROUND KNOWLEDGE about how asterisks work generally\n= the instructions say: asterisk = directs to main entry, NOT 'marks importance'\n= D = importing external assumption about asterisks ✗\n\n[The anti-background-knowledge rule]\nFor instructions/reference text questions:\n= ONLY use what the instructions SAY\n= never apply general knowledge about symbol meanings\n= the instructions define every symbol's specific function\n= D's 'importance' meaning is general usage, not this index's definition",
+      "action": "Action Rule (Q50): Instructions define symbol meanings exactly. Asterisk = 'seek out the main entry under this title' = refers reader to a main entry with that title = B. D = general asterisk meaning (importance) = background knowledge = never use when instructions define the symbol explicitly."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u110_q52_paraphrase_see_also_related_topics",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 110 — Q52 Paraphrase (A→D)",
+    "quiz": {
+      "question": "[Q52 — Paraphrase: What does 'see also Refractory' under Abrasive mean?]\n\nInstructions:\n'References (using <em>see also</em>) are sometimes given at the end of an entry or a set of sub-entries\nto refer the reader to <em>related topics</em>.'\n\nIndex: 'Abrasive... see also Refractory'\n\nQ: The inclusion of Refractory under Abrasive ______.\n\nYour pick — A: <strong>points to another section that will yield the same information</strong>\nCorrect — D: <strong>points to another similar area of interest</strong>\n\nWhy does 'see also' = related (not identical) and how does that eliminate A?",
+      "options": [
+        "A is correct because see also directs readers to additional sources of the same information",
+        "'See also' function per instructions: 'refer the reader to RELATED TOPICS' (not identical topics). D: 'similar area of interest' = related topics = direct paraphrase. A: 'same information' = identical content = would require just 'see', not 'see also'. The distinction: 'see' = synonym/alternate form (same content), 'see also' = related but different area. Abrasive and Refractory are related industrial materials, not synonyms.",
+        "D is wrong because similar area could mean the same thing in different words",
+        "A is correct because Abrasive and Refractory share similar industrial applications"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'See also' = related topics (instructions explicit) = D (similar area) / A = same information = would require 'see' not 'see also'",
+      "explanation": "['See' vs 'see also' distinction — critical]\n'see' → used for: acronyms, synonyms, alternate forms\n= directs to the SAME content in a different form\n= effectively: 'go here instead'\n\n'see also' → used for: related topics\n= 'there is RELATED but DIFFERENT information over there'\n= not the same content, but a similar area\n\n[Paraphrase chain → D]\n'see also' = refer to RELATED TOPICS\n= Refractory = a related but distinct industrial material\n= 'similar area of interest' (D) = related topics ✓\n\n[Why A fails]\nA: 'points to another section that will yield the SAME information'\n= same information = synonyms/alternate forms\n= that would require 'see' not 'see also'\n= A confuses 'see' and 'see also' functions\n\n[Even without knowing 'Refractory']\nYou don't need to know what refractory means\n= the instruction tells you 'see also' = related topics\n= related topics ≠ same information\n= D (similar area) > A (same information) ✓\n\n[Abrasive vs Refractory for context]\nAbrasive = material used for grinding/polishing (e.g. sandpaper)\nRefractory = material resistant to heat used in industrial furnaces\n= related industrial materials but NOT the same",
+      "action": "Action Rule (Q52): 'See also' = related topics (instructions say so explicitly). D = similar area of interest = related. A = same information = what 'see' (not 'see also') is for. Know the distinction: see = same/alternate form / see also = related but different. You don't need to know 'Refractory' — just apply 'see also' = related."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u110_meta_instructions_only_source",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 110 — Meta: Instructions = Only Source",
+    "quiz": {
+      "question": "[Unit 110 — Meta Pattern]\n\nQ48: chose D (subentry) — subentry = wrong structure; instructions say 'see' = for acronyms = C\nQ50: chose D (most important) — imported general asterisk meaning; instructions say asterisk = main entry reference\nQ52: chose A (same information) — confused 'see' with 'see also'; instructions say 'see also' = related topics\n\nAll three share one error. Which correctly identifies it?",
+      "options": [
+        "All three are vocabulary errors — unfamiliar words like acronym and refractory",
+        "All three = BACKGROUND KNOWLEDGE IMPORTATION: choosing based on general assumptions about symbol meanings ('asterisk = important', 'subentry = listed under', 'see also = same') instead of using the instructions' EXPLICIT DEFINITIONS. Fix: for reference/instructional texts, the instructions define EVERY symbol and term. Use only the definitions given, not background knowledge about how symbols work in other contexts.",
+        "All three are targeting errors — wrong instruction bullet point consulted",
+        "All three are paraphrasing errors about single words"
+      ],
+      "correctIdx": 1,
+      "answer": "② All three = imported background knowledge instead of using instructions' explicit definitions. Fix: instructions = the ONLY source for symbol meanings in this question type.",
+      "explanation": "[Q48: Background knowledge error]\nBackground knowledge: 'subentry' = secondary item under main item\nInstruction says: 'see' = for acronyms, synonyms, alternate forms\nAAVSO = initial letters = acronym → C (not D/subentry) ✓\n\n[Q50: Background knowledge error]\nBackground knowledge: asterisk (*) often = important/primary/starred\nInstruction says: asterisk = 'seek out the main entry under this title'\n= = refers reader to main entry with that title = B ✓\n\n[Q52: Background knowledge error]\nBackground knowledge: 'see also' = more of the same but maybe different angle\nInstruction says: 'see also' = RELATED topics (not same information)\n= different from 'see' which = synonyms/alternate forms\n= D (similar area) not A (same information) ✓\n\n[The core rule for reference text questions]\nWhen questions refer to a document with EXPLICIT INSTRUCTIONS:\n= treat the instructions as the ONLY VALID SOURCE for definitions\n= do NOT use your background knowledge about how symbols generally work\n= test each answer against the instruction text, not your assumptions\n\n[Symbol function summary for Unit 110]\n'see' = acronym/synonym/alternate form → same content elsewhere\n'see also' = related topics → connected but different content\n'*' (asterisk) = full main entry exists with this title → go find it\nbold type = volume and page numbers\nitalics = names for objects, plants or animals (identification purposes)",
+      "action": "Meta Rule (Unit 110): Reference/instructional texts define their own symbol system. ONLY use the instructions' definitions, never background knowledge about symbols. 'see' = acronym/synonym. 'see also' = related topics. '*' = main entry reference. Test every answer against the instruction text."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u109_q71_targeting_wise_self_sufficient",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 109 — Q71 Targeting (B→C)",
+    "quiz": {
+      "question": "[Q71 — Targeting: How is Jude's son portrayed?]\n\nPassage:\n'He was Age masquerading as Juvenility' — NOT a typical child\n'doubly awake... regarding his companions' whole rounded lives rather than their immediate figures'\n= sees the whole picture of people's lives, not just the surface\n'sitting passive' — does not join in\n\nQ: Jude's son is portrayed as ______.\n\nYour pick — B: <strong>vulnerable and endearing</strong>\nCorrect — C: <strong>wise and self-sufficient</strong>\n\nWhy does 'Age masquerading as Juvenility' eliminate B and confirm C?",
+      "options": [
+        "B is correct because the boy is only ten years old and travelling alone for the first time",
+        "'Age masquerading as Juvenility' = ancient wisdom dressed in a child's body. 'Whole rounded lives' = he sees beyond surfaces to deep truths = WISE. 'Sitting passive' = he doesn't need others, observes from within himself = SELF-SUFFICIENT. B (vulnerable and endearing) = a typical child's traits — but the passage deliberately contrasts him AGAINST typical children. C precisely maps the two passage signals: ancient wisdom = wise / internal self-containment = self-sufficient.",
+        "C is wrong because self-sufficient children don't travel to meet absent parents",
+        "B is correct because the boy is described as enslaved and dwarfed, suggesting vulnerability"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Age masquerading as Juvenility' = ancient wisdom in young body = wise / 'sitting passive, whole rounded lives' = self-contained observation = self-sufficient",
+      "explanation": "['Age masquerading as Juvenility' decoded]\nAge = ancient wisdom, maturity, accumulated experience\nJuvenility = childlike appearance\nmasquerading = disguised as\n= ancient wisdom wearing a child's mask\n= NOT a typical vulnerable child\n= the opposite of typical childhood ✗ (eliminates B)\n\n['Whole rounded lives' decoded]\n'regarding his companions... whole rounded lives rather than their immediate figures'\n= he sees their ENTIRE life arc, not just how they look\n= depth of perception beyond age = WISE ✓\n\n['Sitting passive' decoded]\n= he does not join the travellers who close their eyes\n= he stays awake, internally self-contained\n= does not need external engagement = SELF-SUFFICIENT ✓\n\n[Why B (vulnerable and endearing) fails]\nvulnerable = susceptible to harm, needing protection\nendearing = lovably innocent, childlike\n= these describe a TYPICAL 10-year-old's traits\n= but the passage contrasts him AGAINST typical children\n= 'even the kitten curled up... he remained just as before'\n= he is NOT like the others = B is for the others, not him",
+      "action": "Action Rule (Q71): 'Age masquerading as Juvenility' = the key signal. He is the OPPOSITE of a typical child. Test choices against this: B (vulnerable/endearing) = typical child traits = eliminated. C (wise/self-sufficient) = ancient wisdom + self-contained observation = matches the 'Age' signal."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u109_q72_paraphrase_capitalising_myth_solemnity",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 109 — Q72 Paraphrase (C→A)",
+    "quiz": {
+      "question": "[Q72 — Paraphrase: What effect does capitalising certain words have?]\n\nCapitalised words: 'Age', 'Juvenility', 'Divinity', 'Atlantic of Time'\n= ordinary concepts elevated to abstract universals\n\nQ: Capitalising certain words in this passage has the effect of ______.\n\nYour pick — C: <strong>emphasising by opposition the fact that this is no more than a little boy</strong>\nCorrect — A: <strong>adding the solemnity and dignity of myth to the boy's character</strong>\n\nWhy does capitalisation ELEVATE the boy rather than DIMINISH him?",
+      "options": [
+        "C is correct because 'Age masquerading as Juvenility' contrasts ancient and young",
+        "Capitalising common nouns = ELEVATING them to mythic/universal status. 'Age', 'Divinity', 'Juvenility' capitalised = the boy IS associated with these grand, mythic concepts. A: 'solemnity and dignity of MYTH' = exactly what capitalisation achieves by treating ordinary words as proper nouns (like mythic figures). C: 'no more than a little boy' = DIMINISHES him — the opposite of what capitalisation does. Capitalisation = upward elevation, not downward reduction.",
+        "A is wrong because the boy is a real child, not a mythical figure",
+        "C is correct because the contrast between Age and Juvenility minimises the boy"
+      ],
+      "correctIdx": 1,
+      "answer": "② Capitalising common nouns = elevates them to mythic/universal status = adds solemnity and dignity (A) / C = diminishes ('no more than') = opposite direction",
+      "explanation": "[The effect of capitalising common nouns]\nIn literature, capitalising a common noun:\n= transforms it into a proper noun with archetypal status\n= it becomes a universal concept, not just an instance\n\nAge (capitalised) = not just 'old age' but AGE as a cosmic force\nJuvenility = not just 'youth' but JUVENILITY as a universal state\nDivinity = not just 'godliness' but DIVINITY as a transcendent quality\n\n= the boy is associated with these GRAND, MYTHIC forces\n= he embodies universal archetypes, not just a typical child\n\n[Paraphrase chain → A]\ncapitalised mythic concepts → boy gains MYTHIC STATURE\n= 'solemnity and dignity of MYTH' added to his character ✓\n\n[Why C is the opposite direction]\nC: 'no more than a little boy'\n= DIMINISHES him\n= 'no more than' = minimising language\n= capitalisation ELEVATES, not DIMINISHES\n= C has the direction of the effect REVERSED ✗\n\n[The 'opposition' in C is the trap]\nC mentions 'emphasising by opposition'\n= Hardy does use contrast (Age vs Juvenility)\n= but the effect of capitalisation is elevation, not reduction\n= the contrast makes the boy MORE remarkable, not less",
+      "action": "Action Rule (Q72): Capitalisation of common nouns = upward elevation to mythic/universal status. A = adds solemnity and dignity of myth = upward. C = 'no more than a little boy' = downward/diminishing = wrong direction. Effect direction matters: capitalisation always elevates."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u109_q74_targeting_constrained_body",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 109 — Q74 Targeting (C→A)",
+    "quiz": {
+      "question": "[Q74 — Targeting: What impression does the narrator give of Jude's son?]\n\nPassage evidence:\n'Age masquerading as Juvenility... doing it SO BADLY that his real self showed through crevices'\n= ancient self barely contained in a child's body\n'enslaved and dwarfed Divinity'\n= divine nature = imprisoned and made small\n\nQ: The narrator gives the impression that Jude's son ______.\n\nYour pick — C: <strong>cannot understand the world and so withdraws from it</strong>\nCorrect — A: <strong>feels constrained within a boy's body</strong>\n\nWhy does 'real self showed through crevices' + 'dwarfed' = A not C?",
+      "options": [
+        "C is correct because the boy sits passively and does not engage with the travellers",
+        "'Cannot understand' would make the boy LESS than others. But 'Age masquerading as Juvenility... real self showed through CREVICES' = his ancient/larger self is leaking through the cracks of his child body = he EXCEEDS the body, not fails to understand. 'Enslaved and dwarfed Divinity' = his divine nature is imprisoned and made small by the physical form. A: 'constrained within a boy's body' = the body LIMITS him = direct paraphrase of 'dwarfed' + 'enslaved' + 'real self cracking through'.",
+        "A is wrong because the boy is physically comfortable in his body",
+        "C is correct because he doesn't join the other travellers showing withdrawal from the world"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Real self showed through crevices' + 'enslaved and dwarfed Divinity' = his nature is TOO LARGE for the body = constrained (A) / C = misreads passivity as incomprehension",
+      "explanation": "['Real self showed through crevices' decoded]\n= his true nature is bigger than his child's body\n= it SEEPS THROUGH the gaps (crevices) in the child exterior\n= the body is too small to contain what he IS\n= he is CONSTRAINED by the physical form ✓\n\n['Enslaved and dwarfed Divinity' decoded]\nenslaved = trapped, imprisoned, not free\ndwarfed = made smaller than natural size\nDivinity = his true cosmic/divine nature\n= his divine nature is imprisoned AND minimised by his child's body\n= CONSTRAINED within a boy's body ✓\n\n[Why A = constrained in body]\nAll evidence points to: his true self is too big for the body\n= the body CONSTRAINS him\n= A: 'feels constrained within a boy's body' ✓\n\n[Why C fails]\nC: 'cannot understand the world and so withdraws'\n= implies the boy is LIMITED IN PERCEPTION\n= but he actually SEES TOO MUCH (whole rounded lives, Atlantic of Time)\n= he doesn't withdraw from failure to understand\n= he sits passively because he already perceives everything\n= passivity ≠ withdrawal from incomprehension\n= C misreads the cause of his passivity ✗",
+      "action": "Action Rule (Q74): 'Real self showed through crevices' + 'enslaved and dwarfed' = his nature is TOO LARGE for the body = constrained (A). C assumes passivity = failure to understand. But he sits passively because he perceives TOO MUCH, not too little. His passivity = transcendence, not incomprehension."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u109_q75_paraphrase_melancholic_temporal_vastness",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 109 — Q75 Paraphrase (B→D)",
+    "quiz": {
+      "question": "[Q75 — Paraphrase: Which quotation conveys the MELANCHOLIC side of the boy's nature?]\n\nMelancholic = a deep, heavy sadness; a sombre, brooding quality; longing or sorrow\n\nA: 'He then seemed to be doubly awake' — heightened perception\nB: 'like an enslaved and dwarfed Divinity' — physical constraint, imprisonment\nC: 'He was Age masquerading as Juvenility' — paradoxical identity\nD: 'his face took a back view over some great Atlantic of Time' — dark, vast temporal imagery\n\nQ: Which conveys the melancholic side?\n\nYour pick — B\nCorrect — D\n\nHow does 'great Atlantic of Time' evoke melancholy while 'enslaved and dwarfed' evokes something different?",
+      "options": [
+        "B is correct because being enslaved and dwarfed evokes sadness and suffering",
+        "'Enslaved and dwarfed Divinity' = constraint and limitation = OPPRESSION or FRUSTRATION but not the deep sorrowful longing of melancholy. D: 'face took a BACK VIEW over some great ATLANTIC OF TIME' = gazing backward over an immense, dark, endless expanse of time = MELANCHOLIC imagery: brooding over the vastness of time, a sense of ancient sorrow and weight. The 'back view' = looking backward = nostalgic/retrospective sadness. 'Atlantic of Time' = dark, immeasurable, lonely = the emotional register of melancholy.",
+        "D is wrong because the Atlantic of Time refers to his recent travel by ship",
+        "B is correct because being enslaved makes someone deeply sad"
+      ],
+      "correctIdx": 1,
+      "answer": "② B = constraint/oppression (not melancholy) / D = backward gaze over vast dark temporal expanse = the imagery of brooding sorrowful melancholy",
+      "explanation": "[Melancholy decoded]\nMelancholic = deep, heavy sadness; brooding quality; sorrow about the vastness of time/existence\n= not anger, not frustration, not constraint\n= the feeling of being small before something immense and irreversible\n\n[Testing D: 'great Atlantic of Time']\n'face took a BACK VIEW'\n= he looks backwards = retrospective, wistful, nostalgic\n\n'some great ATLANTIC of Time'\n= Atlantic = vast, dark, endless ocean\n= Time = immeasurable\n= the boy gazes backward over an incomprehensible expanse of time\n= the scale = oppressive, immense, melancholic\n= this is the emotional register of MELANCHOLY ✓\n\n[Testing B: 'enslaved and dwarfed Divinity']\nEnslaved = imprisoned, trapped\nDwarfed = made small\n= his divine nature is constrained\n= emotional register: FRUSTRATION, OPPRESSION, LIMITATION\n= not the brooding backward-looking sadness of melancholy\n= B = constraint/limitation, not deep temporal sorrow ✗\n\n[A and C also considered]\nA: 'doubly awake' = heightened perception = alertness, not sadness\nC: 'Age masquerading as Juvenility' = paradoxical identity = observation, not sadness\n\n[The BACK VIEW = key signal]\n= looking backward = the quintessential melancholic gesture\n= combined with ATLANTIC of TIME = overwhelming temporal scale\n= D = melancholy ✓",
+      "action": "Action Rule (Q75): Melancholic = brooding backward-looking sorrow about vastness and time. D = 'back view over great Atlantic of Time' = backward gaze + dark immeasurable temporal expanse = melancholy. B = 'enslaved and dwarfed' = constraint/oppression = different emotion (frustration). Match the SPECIFIC emotional register, not just 'negative'."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u109_meta_contra_typical_direction_register",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 109 — Meta: Contra-typical + Direction + Emotional Register",
+    "quiz": {
+      "question": "[Unit 109 — Meta Pattern]\n\nQ71: chose B (vulnerable/endearing) — typical child traits, but this boy is contra-typical\nQ72: chose C (no more than a boy) — capitalisation ELEVATES; C DIMINISHES = wrong direction\nQ74: chose C (cannot understand) — passivity = transcendence not incomprehension\nQ75: chose B (enslaved/dwarfed) — constraint not melancholy; D = backward-gaze = temporal sorrow\n\nThree correction tools. Which correctly identifies them?",
+      "options": [
+        "All four are vocabulary errors — Hardy's archaic language was unfamiliar",
+        "Tool 1 = CONTRA-TYPICAL SIGNAL (Q71): 'Age masquerading as Juvenility' = he is the OPPOSITE of a typical child. Reject choices describing typical child traits (B). Tool 2 = DIRECTION OF EFFECT (Q72): capitalisation = upward elevation to mythic status. C = downward ('no more than') = wrong direction. Always identify: does this device ELEVATE or DIMINISH? Tool 3 = EMOTIONAL REGISTER PRECISION (Q74, Q75): passivity ≠ incomprehension (Q74 = too much perception); enslaved ≠ melancholy (Q75 = constraint/frustration ≠ temporal sorrow).",
+        "All four are targeting errors — wrong paragraph analysed",
+        "All four are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Contra-typical signal + direction of effect + emotional register precision — three tools",
+      "explanation": "[Tool 1: Contra-typical signal (Q71)]\n'Age masquerading as Juvenility'\n= explicitly signals: NOT a typical child\n= reject all answers describing typical child traits\n= B (vulnerable/endearing) = typical child = eliminated\n= C (wise/self-sufficient) = unusual, not-typical = correct\n\n[Tool 2: Direction of effect (Q72)]\nCapitalisation = ELEVATES to mythic/universal status\nA = adds solemnity/dignity = upward ✓\nC = 'no more than' = downward/diminishing = wrong direction\nFix: identify the DIRECTION of the literary device before choosing\n\n[Tool 3: Emotional register precision (Q74, Q75)]\nQ74: passivity = he perceives TOO MUCH (not too little)\n= not 'cannot understand' but 'has already grasped everything'\n= constraint (A) = body too small for his perception\n\nQ75: enslaved/dwarfed = CONSTRAINT/OPPRESSION register\nmelancholy = BROODING TEMPORAL SORROW register\n= different emotions: frustration/limitation ≠ deep backward-looking sadness\n= D = backward gaze over Atlantic of Time = melancholy's specific register\n\n[Hardy's technique throughout]\nHe builds a paradox: cosmic/ancient soul trapped in a 10-year-old's body\n= the body CONSTRAINS the soul (not 'cannot understand')\n= the soul looks backward over eternity (melancholy)\n= the soul is ELEVATED by mythic language (capitalisation)",
+      "action": "Meta Rule (Unit 109):\nContra-typical signal: 'Age masquerading' = not a typical child → reject typical child traits.\nDirection of effect: capitalisation = upward elevation; 'no more than' = downward → wrong direction.\nEmotional register: passivity ≠ incomprehension (he sees too much). Enslaved/dwarfed ≠ melancholy (different emotions). Match the specific emotional register."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
