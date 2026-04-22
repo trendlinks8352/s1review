@@ -4625,5 +4625,110 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u107_q79_paraphrase_actor_hollow_showman",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 107 — Q79 Paraphrase (A→D)",
+    "quiz": {
+      "question": "[Q79 — Paraphrase: What is the COMMON PERCEPTION of Napoleon?]\n\nPassage (lines 1–3):\n'...many theatrical and histrionic touches, that have led people to speak of him as <em>'nothing but' an actor</em>...'\n\nQ: A common perception of Napoleon Bonaparte is that he was a ______.\n\nYour pick — A: <strong>creative artist</strong>\nCorrect — D: <strong>hollow showman</strong>\n\nWhy does 'nothing but an actor' = hollow showman, NOT creative artist?",
+      "options": [
+        "A is correct because the passage describes Napoleon as an 'artist manqué'",
+        "'Nothing but an actor' = dismissive = ALL PERFORMANCE, NO substance. 'Hollow showman' = exactly this: hollow = empty inside, showman = performer for effect. 'Creative artist' = the AUTHOR's positive reassessment ('artist manqué') — not the public's dismissive common perception. The question asks for COMMON perception = dismissive public view = D.",
+        "D is wrong because a showman has real skills that Napoleon demonstrated in battle",
+        "A is correct because theatrical and histrionic confirm artistic creativity"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'nothing but an actor' = dismissive = hollow (no substance) showman (all performance) = D / 'artist manqué' = AUTHOR's view, not common perception",
+      "explanation": "['Nothing but an actor' decoded]\n'nothing but' = ONLY this, nothing more (dismissive)\n= all surface, no real substance\n\n[D = hollow showman]\nholllow = empty, no real substance beneath the performance\nshowman = person who performs for effect\n= D: direct paraphrase of 'nothing but an actor' ✓\n\n[Source distinction]\nCommon perception (public): 'nothing but an actor' → D (hollow showman)\nAuthor's own view: 'artist manqué' → sympathetic, complex\n= the question asks for COMMON perception\n= A (creative artist) = author's view, not public's = wrong source ✗",
+      "action": "Action Rule (Q79): 'Common perception' ≠ 'author's view'. Public says 'nothing but an actor' = hollow showman (D). Author says 'artist manqué' = sympathetic. Always check: whose view does the question ask for?"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u107_q80_paraphrase_magic_score_infuse_vigour",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 107 — Q80 Paraphrase (B→A)",
+    "quiz": {
+      "question": "[Q80 — Paraphrase: To 'magic a dry score' (line 5) means to ______]\n\nPassage (lines 4–5):\n'His great memory for facts was <em>transmuted</em> by the imagination\njust as a great orchestral conductor <em>'magics' a dry score</em>.'\n\ndry score = lifeless sheet music / conductor 'magics' = brings to life\n\nQ: To magic a dry score means to ______.\n\nYour pick — B: <strong>give a score the illusion of substance</strong>\nCorrect — A: <strong>infuse a score with richness and vigour</strong>\n\nWhy 'genuine infusion' (A) not 'illusion' (B)?",
+      "options": [
+        "B is correct because a conductor creates the illusion of music from silent marks on paper",
+        "'Transmuted' = genuinely transformed, not illusory. The conductor draws out the REAL potential of the score — the music was already in the notes. A: 'infuse with richness and vigour' = real enrichment. B: 'illusion of substance' = fake substance. Genuine transformation ≠ creating an illusion.",
+        "A is wrong because richness and vigour are not mentioned in the passage",
+        "B is correct because 'dry' implies the score lacks real substance"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Transmuted' = genuine real transformation / conductor activates REAL potential = infuses with richness (A) / B = illusion = fake = contradicts 'transmuted'",
+      "explanation": "[The conductor metaphor]\ndry score = has potential but is static on paper\nconductor 'magics' = genuinely ACTIVATES that potential\n= the music was always there — conductor makes it LIVE\n\n[A = genuine infusion]\n'Infuse with richness and vigour' = real enrichment ✓\n\n[B = wrong direction]\n'Illusion of substance' = fake richness\n'Transmuted' = real transformation, not deception\n= B contradicts 'transmuted' ✗",
+      "action": "Action Rule (Q80): 'Transmuted' = genuine transformation. Conductor genuinely enriches (A), not fakes (B). Genuine transformation ≠ illusion."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u107_q82_paraphrase_apology_defence",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 107 — Q82 Paraphrase (D→C)",
+    "quiz": {
+      "question": "[Q82 — Paraphrase: 'apology' (line 11) closest in meaning to ______]\n\nPassage (lines 10–12):\n'his own apology: \"I am ambitious... my ambition is so intimately allied to my whole being that it CANNOT BE SEPARATED from it.\"'\n\nQ: 'Apology' is closest in meaning to ______.\n\nYour pick — D: <strong>an excuse for a self-acknowledged fault</strong>\nCorrect — C: <strong>a defence of one's natural tendencies</strong>\n\nHow does 'cannot be separated from my whole being' reveal defence, not excuse?",
+      "options": [
+        "D is correct because Napoleon acknowledges he is called ambitious and tries to excuse it",
+        "D = excuse for a fault = admitting wrongdoing + seeking forgiveness. But Napoleon says ambition 'CANNOT BE SEPARATED from my whole being' = it IS his nature, not a fault to excuse. He is DEFENDING his nature as inseparable from himself. Classical 'apology' = formal defence speech (Socrates' Apology = his defence, not his sorry). C = defence of natural tendencies ✓",
+        "C is wrong because Napoleon admits 'this is an error' showing he acknowledges a fault",
+        "D is correct because Napoleon knows he was wrong to be ambitious"
+      ],
+      "correctIdx": 1,
+      "answer": "② Napoleon does NOT admit a fault — he says ambition is inseparable from his nature = DEFENDS natural tendencies (C) / classical 'apology' = formal defence, not sorry",
+      "explanation": "[Napoleon's statement decoded]\n'this is an error' = HE SAYS the accusation of ambition is the error\n= he disputes the fault, not admits it\n\n'cannot be separated from my whole being'\n= ambition = his nature = not a fault but his identity\n= DEFENDING his natural tendency\n\n[Classical 'apology']\n= formal defence speech\n= Socrates' Apology = his trial defence\n= Napoleon's apology = his formal defence of his nature\n= C: defence of natural tendencies ✓\n\nD: excuse = admits fault + seeks forgiveness = Napoleon does neither ✗",
+      "action": "Action Rule (Q82): Classical 'apology' = formal defence (not 'sorry'). Napoleon defends his nature as inseparable = C. D requires admitting a fault — Napoleon says the accusation itself is the error."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u107_q83_paraphrase_author_empathises_fascinating",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 107 — Q83 Paraphrase (D→B)",
+    "quiz": {
+      "question": "[Q83 — Paraphrase: Author's attitude toward Napoleon?]\n\nAuthor tone signals:\n• 'a truer assessment would be to say...' = corrects/defends Napoleon\n• 'artist manqué' = sympathetic framing\n• explores 'dual man' theory with depth = intellectually engaged\n\nQ: The author's attitude is ______.\n\nYour pick — D: <strong>He finds the polarised nature disturbing</strong>\nCorrect — B: <strong>He empathises with Napoleon and finds his complexities fascinating</strong>",
+      "options": [
+        "D is correct because the author presents Napoleon as both theatrical and genuine — a disturbing contradiction",
+        "'A truer assessment' = author DEFENDS Napoleon = empathy. 'Artist manqué' = sympathetic framing = empathy. Deep exploration of 'dual man' theory = intellectual fascination. B = empathises + finds fascinating ✓. D = disturbing = the author would distance himself — he does the opposite (defends and engages deeply).",
+        "B is wrong because the author ultimately calls him 'nothing but an actor'",
+        "D is correct because the author cannot reconcile the different aspects of Napoleon's character"
+      ],
+      "correctIdx": 1,
+      "answer": "② Author defends Napoleon ('truer assessment') + explores complexity with depth = empathises + fascinating (B) / D = disturbing requires distancing — author does opposite",
+      "explanation": "[Author's stance markers]\n'A TRUER ASSESSMENT' = corrects the dismissive public view = defends Napoleon ✓\n'artist manqué' = sympathetic artistic framing ✓\nDeep exploration of 'dual man' = fascinated engagement ✓\n\n[B = empathises + fascinating]\nEmpathy = defends against dismissal\nFascinating = engaged deeply with complexity\n= B ✓\n\n[D = disturbing]\ndisturbing = unsettling, want to distance\n= if disturbed, would NOT spend so much time defending and exploring\n= opposite of what the author does ✗",
+      "action": "Action Rule (Q83): Quality of engagement reveals attitude. Author defends (empathy) and explores deeply (fascination) = B. Disturbing = distancing — author engages the opposite way."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u107_meta_source_genuine_classical",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 107 — Meta: Source + Genuine vs Illusion + Classical Vocab",
+    "quiz": {
+      "question": "[Unit 107 — Meta Pattern]\n\nQ79: chose A (creative artist) — author's view / question asked for COMMON perception\nQ80: chose B (illusion) — transmuted = genuine, not illusory\nQ82: chose D (excuse for fault) — classical apology = defence, not sorry\nQ83: chose D (disturbing) — deep engagement = fascination not disturbance\n\nThree tools. Which correctly identifies them?",
+      "options": [
+        "All four are vocabulary errors",
+        "Tool 1 = SOURCE DISTINCTION (Q79, Q83): whose view does the question ask for? Common perception ≠ author's view. Tool 2 = GENUINE vs ILLUSION (Q80): 'transmuted' = real transformation. A = real richness. B = fake illusion = contradicts transmuted. Tool 3 = CLASSICAL VOCABULARY (Q82): 'apology' = formal defence speech (not sorry). Napoleon defends his nature, does not apologise for a fault.",
+        "All four are targeting errors",
+        "All four are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Source distinction + genuine vs illusion + classical vocabulary",
+      "explanation": "[Tool 1: Source distinction]\nQ79: common perception (public) = 'nothing but an actor' = hollow showman\nQ83: author's view = empathises + fascinating\nAlways identify whose view the question asks for\n\n[Tool 2: Genuine vs illusion]\n'Transmuted' = genuine transformation\nConductor genuinely activates real potential\n= A (real richness) not B (fake illusion)\n\n[Tool 3: Classical vocabulary]\n'Apology' in classical use = formal defence speech\nNapoleon defends his nature = C\nD = modern colloquial 'sorry' = wrong register",
+      "action": "Meta Rule (Unit 107): Source distinction / Genuine vs illusion / Classical vocabulary. Three tools for high literary texts."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
