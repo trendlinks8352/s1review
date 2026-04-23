@@ -4730,5 +4730,89 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u106_q54_paraphrase_safety_pin_vulnerability",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 106 — Q54 Paraphrase (C→D)",
+    "quiz": {
+      "question": "[Q54 — Paraphrase: Safety pin through cheek/earlobe = expression of wearer's ______]\n\nPassage (lines 11–18):\n'aspects of the Punk Look appealed... for the love and care that we give to very small children, especially to injured ones'\n'those pale scratched faces and scraped knees... ill-fitting, often half-undone jackets'\n'for that Punk trademark... the outsize safety pin... it could not help but remind every mother of the awful moment when she ran one just like it into her darling instead of into his nappy.'\n\nQ: The safety pin is an expression of the wearer's ______.\n\nYour pick — C: <strong>carelessness</strong>\nCorrect — D: <strong>vulnerability</strong>\n\nHow does the 'nappy/baby' image make vulnerability the correct reading?",
+      "options": [
+        "C is correct because wearing a safety pin through skin suggests reckless disregard for pain",
+        "The safety pin reminds mothers of accidentally pricking their BABY (darling/nappy = infant care context). Babies = the ultimate symbol of vulnerability and helplessness. The Punk Look references 'injured ones', 'scraped knees', 'scratched faces' = damaged and unprotected children. D: vulnerability = being exposed and unprotected like an injured child. C: carelessness = the wearer doesn't care = but the context is about what was done TO them (neglect), not their own attitude.",
+        "D is wrong because the safety pin is designed to be aggressive and threatening",
+        "C is correct because the safety pin shows the wearer ignores safety conventions"
+      ],
+      "correctIdx": 1,
+      "answer": "② Safety pin → baby/nappy → injured infant = vulnerability. The Punk Look channels the image of an unprotected child, not carelessness about self.",
+      "explanation": "[The nappy/baby connection]\n'remind every mother of the awful moment when she ran one just like it into her DARLING instead of into his NAPPY'\n= safety pin = accidental injury TO A BABY\n= nappy = infant = ultimate vulnerable being\n\n[Context of vulnerability]\n'love and care... for very small children, especially INJURED ones'\n'pale scratched faces and scraped knees' = hurt, unprotected\n'fluffy Easter-chick hair' = baby-like softness\n= the Punk Look channels the imagery of an unprotected, injured child\n\n[Paraphrase chain → D]\nbaby imagery + injured children + scratched/scraped = VULNERABILITY\n= the wearer presents as unprotected, exposed, potentially harmed\n= D: vulnerability ✓\n\n[Why C (carelessness) fails]\nCarelessness = the person doesn't care / is reckless\n= but the context is about WHAT SOCIETY FAILED TO DO for these children\n= the neglect was done BY OTHERS (callous teachers, immature parents)\n= the safety pin = symbol of a wound inflicted on the vulnerable\n= NOT: 'I don't care about safety'\n= C gets the direction of the carelessness wrong ✗",
+      "action": "Action Rule (Q54): Safety pin → nappy/baby → injured infant = vulnerability. The Punk Look channels unprotected/injured child imagery (D). Carelessness (C) reverses the direction — the neglect was done TO them, not by them."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u106_q55_targeting_compassion_author_vs_public",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 106 — Q55 Targeting (A→C)",
+    "quiz": {
+      "question": "[Q55 — Targeting: Author's PREDOMINANT ATTITUDE toward Punk adopters]\n\nTwo different emotional registers in the passage:\n① What PEOPLE IN BRITAIN felt (line 20): 'rage, guilt, COMPASSION and fear'\n② What the AUTHOR (Alison Lurie) presents: 'demand for attention', 'callous/helpless' parents, 'miserable baby'\n\nQ: The writer's predominant attitude toward those who adopted the Punk style is most akin to ______.\n\nYour pick — A: <strong>rage</strong>\nCorrect — C: <strong>compassion</strong>\n\nWhy does the author's framing reveal compassion, not rage?",
+      "options": [
+        "A is correct because the passage describes the Punk Look as intended to offend and frighten",
+        "Rage = what some PEOPLE IN BRITAIN felt. The AUTHOR's framing: Punk adopters are children demanding attention from 'parents too immature or exhausted', 'callous teachers', a 'welfare state that seemed uninterested'. She explains THEIR PAIN and the social neglect behind it — this is COMPASSION (understanding/empathising with their suffering). Rage would mean the author judges them negatively. She judges the SOCIETY that failed them.",
+        "C is wrong because Lurie describes the Look as 'disturbing' showing she disapproves",
+        "A is correct because she says the Look was 'viciously angry' showing she shares the anger"
+      ],
+      "correctIdx": 1,
+      "answer": "② A = what some people felt (public emotion) / Author's framing = explains the social neglect that caused Punk = understands their pain = COMPASSION (C)",
+      "explanation": "[The crucial distinction]\nQuestion: WRITER's attitude\n= not: what British people felt\n= not: what the Punk wearers felt\n= what ALISON LURIE thinks about the Punk adopters\n\n[Author's framing of Punk adopters]\n'In the language of clothes, the Punk style was a DEMAND FOR ATTENTION'\n= she reads it as a cry for help, not mere aggression\n\n'against those who should have paid attention to these kids in the past:\nparents who were too immature or too exhausted;\ncallous or helpless teachers and social workers'\n= she explains the CAUSE: they were failed by society\n= she attributes blame to the SOCIETY, not to the Punk wearers\n\n[The 'miserable baby' reading]\n'a viciously angry, MISERABLE BABY'\n= miserable = suffering, in pain\n= she sees them as suffering children demanding to be seen\n= COMPASSION for their pain ✓\n\n[Why A (rage) is wrong]\nRage is listed among what 'people in Britain' felt (line 20)\n= this is the PUBLIC'S reaction\n= the AUTHOR does not rage at Punk wearers\n= she explains and interprets their pain = compassion",
+      "action": "Action Rule (Q55): Separate AUTHOR's attitude from PUBLIC's reaction. Public felt rage/guilt/fear. Author explains the social neglect behind Punk = understands their pain = compassion (C). Rage = what she describes others feeling, not what she herself feels toward them."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u106_q56_logic_clothing_profound_attitudes",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 106 — Q56 Logic (→B)",
+    "quiz": {
+      "question": "[Q56 — Logic: The passage supports which view of clothing styles?]\n\nPassage opening: 'In the LANGUAGE OF CLOTHES, the Punk style was a DEMAND for attention'\n= clothes = language = communication of something deeper\nPassage content: Punk = cry of rage, political protest, social commentary, expression of parental neglect\n\nCorrect — B: <strong>expressions of profound individual and social attitudes</strong>\n\nHow does 'language of clothes' + the whole passage support B over the other choices?",
+      "options": [
+        "B is correct because clothing communicates deep individual and social meaning",
+        "'In the LANGUAGE OF CLOTHES' = opening metaphor = clothes COMMUNICATE something profound. The Punk Look communicates: individual pain (neglected children), social critique (failed by parents/welfare), political attitude (protest toward action). B: 'expressions of profound individual AND social attitudes' = directly paraphrases 'language of clothes' + the whole passage's argument. The other choices miss the 'language/communication' metaphor that frames everything.",
+        "C is correct because Punk was designed to disguise real feelings behind aggressive appearance",
+        "D is correct because Punk emerged in response to changing social aesthetics"
+      ],
+      "correctIdx": 0,
+      "answer": "① 'Language of clothes' = clothes communicate profound meaning / Punk = individual pain + social critique + political protest = profound individual and social attitudes = B",
+      "explanation": "['Language of clothes' opening]\nThe FIRST WORDS: 'In the language of clothes'\n= the author's thesis: clothing = a form of language\n= language expresses meaning, attitudes, messages\n= therefore clothing expresses PROFOUND ATTITUDES\n\n[What Punk communicates per the passage]\nIndividual attitudes: demand for attention, miserable baby, rage of neglect\nSocial attitudes: critique of callous parents, welfare state, social workers\nPolitical: 'fashion moving toward political protest, possibly toward political action'\n\n= PROFOUND INDIVIDUAL AND SOCIAL ATTITUDES = B ✓\n\n[Why other choices fail]\nA: 'creation of capitalism' = never mentioned\nC: 'disguise essential feelings' = opposite of what Punk does (it REVEALS, not disguises)\nD: 'art forms of taste and aesthetics' = too narrow; Punk is about attitudes, not aesthetics\n\n[The 'language' metaphor is the key]\nIf clothes = language → they COMMUNICATE\nCommunication of profound attitudes = B",
+      "action": "Action Rule (Q56): 'Language of clothes' = opening thesis = clothing communicates profound attitudes. B = 'expressions of profound individual and social attitudes' = direct paraphrase of the passage's entire argument. C reverses the direction (reveals, not disguises). The opening metaphor frames the whole passage."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u106_meta_author_vs_public_image_chain",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 106 — Meta: Author vs Public + Image Chain",
+    "quiz": {
+      "question": "[Unit 106 — Meta Pattern]\n\nQ54: chose C (carelessness) — direction wrong: neglect was done TO them, not by them / baby = vulnerability\nQ55: chose A (rage) — mixed up AUTHOR's attitude with PUBLIC's reaction\n\nTwo correction tools. Which correctly identifies them?",
+      "options": [
+        "Both are vocabulary errors — unfamiliar words",
+        "Tool 1 = IMAGE CHAIN TRACING (Q54): safety pin → nappy → baby → injured infant = vulnerability. Don't read the symbol directly (pin = aggressive) — trace the image chain the author builds (pin → baby accident → unprotected child). Tool 2 = AUTHOR vs PUBLIC SEPARATION (Q55): passage lists what 'people in Britain felt' (rage/guilt/fear/compassion) AND what the author thinks. These are different. Author's framing = explains social neglect = compassion for Punk wearers. Never conflate the two.",
+        "Both are targeting errors — wrong paragraph",
+        "Both are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Image chain tracing (Q54: pin→baby→vulnerability) + author vs public separation (Q55: author=compassion, public=rage)",
+      "explanation": "[Tool 1: Image chain tracing (Q54)]\nSurface reading: safety pin = aggressive/sharp = carelessness or aggression\nImage chain the author builds:\npin → reminds mothers → pricking their darling → nappy (baby)\n= baby context → VULNERABILITY\n\nFix: trace the metaphorical chain, not the surface meaning\nThe author deliberately connects pin to baby = vulnerability signal\n\n[Tool 2: Author vs public separation (Q55)]\nPassage structure: describes public reaction AND implies author's interpretation\n\n'People in Britain felt RAGE, guilt, compassion and fear'\n= listing public emotional reactions\n\nAuthor's framing: explains the social neglect that caused Punk\n= she understands their pain = her attitude = COMPASSION\n\nFix: identify WHOSE emotion is described\n= public emotion ≠ author's attitude\n= question asks for AUTHOR's predominant attitude",
+      "action": "Meta Rule (Unit 106):\nImage chain: trace the metaphor the author builds (pin→baby→vulnerability) not the surface meaning.\nAuthor vs public: always identify whose emotion/attitude is described. The author's framing and the public's reaction are different things."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
