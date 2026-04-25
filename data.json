@@ -4814,5 +4814,110 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u105_q97_paraphrase_hiding_not_analysing",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 105 — Q97 Paraphrase (C→D)",
+    "quiz": {
+      "question": "[Q97 — Paraphrase: How does modern psychiatry deal with society's problems?]\n\nPassage (lines 5–7):\n'It helps society REPRESS unpleasant, embarrassing facts —\neconomic problems, political problems, religious conflicts, and so forth.\nIt SANITISES the state. It's a GARBAGE DISPOSAL procedure.'\n\nQ: Modern psychiatry deals with the problems of society by ______.\n\nYour pick — C: <strong>analysing them</strong>\nCorrect — D: <strong>hiding them</strong>\n\nWhy do 'repress', 'sanitise', 'garbage disposal' all paraphrase 'hiding'?",
+      "options": [
+        "C is correct because psychiatry analyses mental conditions caused by social problems",
+        "All three passage words mean removing/concealing, not understanding: REPRESS = suppress, push down and out of sight. SANITISE = clean up (remove the 'dirty' reality). GARBAGE DISPOSAL = throw away what is unwanted. None of these words involve analysis or understanding. D: 'hiding them' = making them disappear from view = direct paraphrase of all three. C (analysing) = the opposite — analysis requires confronting and examining, not removing.",
+        "D is wrong because psychiatry does bring social problems to public attention",
+        "C is correct because Freud originally intended psychiatry for analysis"
+      ],
+      "correctIdx": 1,
+      "answer": "② repress + sanitise + garbage disposal = all mean REMOVING FROM SIGHT = hiding (D) / analysing (C) = confronting and examining = opposite direction",
+      "explanation": "[Three synonyms all pointing to 'hiding']\nREPRESS = push down, suppress, remove from conscious awareness\nSANITISE = clean up, make look acceptable by removing the unpleasant\nGARBAGE DISPOSAL = throw away what is unwanted\n\n= all three = REMOVE PROBLEMS FROM SIGHT, not address them\n\n[Paraphrase chain → D]\nrepress + sanitise + garbage disposal\n= making problems disappear from view\n= HIDING THEM ✓\n\n[Why C (analysing) is the opposite]\nAnalysis = examining, understanding, bringing to light\n= you cannot repress/sanitise while analysing\n= Szasz's whole argument: psychiatry should analyse (Freud's intention)\n= but MODERN psychiatry does the opposite = hides = D\n\n[Szasz's core argument]\nFreud: psychiatry should UNDO repression (reveal/analyse)\nModern psychiatry: IS the agent of repression (hides)\n= C describes what psychiatry SHOULD do / D describes what it ACTUALLY does",
+      "action": "Action Rule (Q97): Three passage words (repress, sanitise, garbage disposal) all mean removing from sight = hiding (D). C (analysing) = confronting = the opposite. Szasz criticises modern psychiatry for hiding, not analysing, social problems."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u105_q98_paraphrase_symptoms_not_causes",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 105 — Q98 Paraphrase (C→A)",
+    "quiz": {
+      "question": "[Q98 — Paraphrase: 'It helps society repress unpleasant, embarrassing facts' is consistent with ______]\n\nPassage argument:\nSzasz: psychiatry labels social problems (economic/political/religious conflicts) as mental illness.\nThis means: instead of addressing ROOT CAUSES → treats individual as the 'patient'\n= addresses the SYMPTOM (the person's behaviour) not the CAUSE (the social structure)\n\nQ: This type of repression is consistent with ______.\n\nYour pick — C: <strong>the rectification of social problems</strong>\nCorrect — A: <strong>treating the symptoms, rather than the causes, of mental illness</strong>\n\nWhy does 'rectification' (C) describe the opposite of what Szasz says?",
+      "options": [
+        "C is correct because psychiatry does attempt to correct social problems at the individual level",
+        "Rectification = correcting/fixing the problem itself. But Szasz says psychiatry DISGUISES social problems as mental illness, treating the person (symptom) instead of the economic/political cause. A: 'treating SYMPTOMS not CAUSES' = the person's behaviour = the visible symptom / the social structure = the real cause. C: rectification = actually fixing the social problem. Szasz says psychiatry does NOT fix social problems — it hides them. C = positive/solution-oriented = wrong.",
+        "A is wrong because mental illness has no clear 'cause' in Szasz's view",
+        "C is correct because psychiatry does make social corrections over time"
+      ],
+      "correctIdx": 1,
+      "answer": "② C = rectification = actually fixing the problem = NOT what Szasz says / A = treating symptoms not causes = psychiatry addresses the person (visible) not the society (root) = correct",
+      "explanation": "[Szasz's argument decoded]\nSocial problems (economic/political) = ROOT CAUSES\nPerson's behaviour or distress = VISIBLE SYMPTOM\n\nPsychiatry does: labels the person as mentally ill\n= treats the symptom (the person) ✓\n= IGNORES the cause (the social structure) ✓\n\n[Paraphrase chain → A]\n'helps society repress unpleasant facts' =\n= society's embarrassing problems (causes) are hidden\n= only the individual (symptom) is treated\n= A: 'treating SYMPTOMS rather than CAUSES' ✓\n\n[Why C fails]\nRectification = correction = actually fixing\n= if psychiatry RECTIFIED social problems\n= the problems would be solved\n= but Szasz says they are REPRESSED (not solved)\n= C is the opposite of what Szasz describes\n\n['Rectification' positive connotation trap]\nRectification = positive word (improvement, correction)\n= Szasz's whole argument = psychiatry does NOT improve things\n= it merely hides them\n= positive connotation words = eliminate for Szasz",
+      "action": "Action Rule (Q98): Szasz says psychiatry hides social problems (not fixes them). A = symptoms not causes = correct (person treated, not society). C = rectification = actually fixing = the opposite of hiding. Positive solution words (rectification) = eliminated when Szasz's argument is about concealment."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u105_q99_paraphrase_liability_discourages",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 105 — Q99 Paraphrase (A→D)",
+    "quiz": {
+      "question": "[Q99 — Paraphrase: Psychiatry is like primitive religion because it ______]\n\nPassage (lines 7–11):\n'If there is a bad harvest, it's because we haven't prayed enough\nor because we ate the wrong food. It isn't because we didn't FERTILISE THE SOIL\nor because we are STUPID AND DON'T KNOW HOW TO FARM PROPERLY;\nit's some INTERVENTION OF A DEITY which we can placate by a prayer.'\n\nPrimitive religion: deflects blame from human error → to supernatural cause\n\nQ: Psychiatry is like primitive religion in that it ______.\n\nYour pick — A: <strong>places human misfortunes in perspective</strong>\nCorrect — D: <strong>discourages society from accepting liability for the condition of the world</strong>\n\nWhy does the farming/deity analogy specifically demonstrate D?",
+      "options": [
+        "A is correct because both psychiatry and religion help people contextualise suffering",
+        "The analogy: real cause = 'we didn't fertilise the soil' (human error/responsibility). Attributed cause = 'intervention of a deity' (supernatural). By blaming the deity, people AVOID accepting liability for bad farming = they escape accountability. Psychiatry does the same: real cause = social/economic problems. Attributed cause = mental illness. By labelling problems as mental illness, society avoids accepting liability for the conditions that created the problem. D = discourages LIABILITY acceptance = direct paraphrase of the analogy.",
+        "D is wrong because the passage says 'we are stupid' showing individual blame",
+        "A is correct because the analogy shows how religion contextualises a bad harvest"
+      ],
+      "correctIdx": 1,
+      "answer": "② The analogy: blame deity (not farming error) = avoid liability for bad farming / psychiatry: blame mental illness (not social causes) = society avoids liability = D",
+      "explanation": "[The farming analogy decoded]\nReal cause of bad harvest:\n= 'didn't fertilise the soil' / 'stupid and don't know how to farm properly'\n= HUMAN ERROR = human RESPONSIBILITY/LIABILITY\n\nWhat they say instead:\n= 'some intervention of a deity' / 'haven't prayed enough'\n= SUPERNATURAL CAUSE = NOT our fault\n\n= By attributing to deity → they ESCAPE LIABILITY for their own farming mistakes\n\n[Psychiatry parallel]\nReal cause of social problems:\n= economic inequality, political failures, social neglect\n= HUMAN/SOCIAL RESPONSIBILITY\n\nWhat psychiatry says instead:\n= it's a mental illness\n= MEDICAL/DISEASE CAUSE = not society's fault\n\n= By attributing to illness → society ESCAPES LIABILITY for the conditions it created\n\n[Paraphrase chain → D]\ndeflecting blame from human error → to supernatural/medical cause\n= DISCOURAGES accepting liability\n= D ✓\n\n[Why A (places in perspective) fails]\n'Perspective' = contextualises, helps understand\n= too gentle/positive a reading\n= the analogy is about BLAME DEFLECTION, not perspective-giving\n= A describes a neutral/helpful function; Szasz is making a CRITICAL argument",
+      "action": "Action Rule (Q99): The farming/deity analogy = deflect blame from human error to supernatural = avoid liability. Psychiatry: deflect from social causes to mental illness = society avoids liability. D = discourages accepting liability = direct match. A = 'perspective' = too positive/neutral for Szasz's critical argument."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u105_q100_targeting_our_responsibility",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 105 — Q100 Targeting (C→B)",
+    "quiz": {
+      "question": "[Q100 — Targeting: What does Szasz IMPLY is the best way to treat human problems?]\n\nSzasz's criticism logic:\nPsychiatry does: deflects responsibility onto 'mental illness' / 'deity' / external cause\nSzasz criticises this: because it avoids confronting real human causes and responsibilities\n\nTherefore Szasz implies: the best approach is the OPPOSITE of deflection\n= acknowledge our OWN responsibility for problems\n\nQ: Human problems are best treated by acknowledging ______.\n\nYour pick — C: <strong>that they are often beyond our control</strong>\nCorrect — B: <strong>our responsibility for them</strong>\n\nWhy does C describe EXACTLY what Szasz criticises, making it the wrong answer?",
+      "options": [
+        "C is correct because Szasz says even primitive religion recognised problems as beyond human control",
+        "C: 'beyond our control' = exactly what psychiatry DOES (labels problems as illness/external cause) = what Szasz CRITICISES. B: 'our responsibility' = what the farmer should have accepted ('I didn't fertilise properly') instead of blaming the deity. Szasz's implied ideal: accept that bad harvests happen because of OUR farming decisions = accept liability. Human problems best treated by accepting we caused them and can address them.",
+        "B is wrong because Szasz doesn't say we should feel guilty for social problems",
+        "C is correct because Szasz says we should be humble about the limits of human understanding"
+      ],
+      "correctIdx": 1,
+      "answer": "② C = 'beyond our control' = exactly what psychiatry/religion does (deflect) = what Szasz criticises / B = 'our responsibility' = what the farmer should accept = Szasz's implied ideal",
+      "explanation": "[The reverse logic for 'implies' questions]\nSzasz CRITICISES: psychiatry deflects responsibility → says problems are external\n= 'beyond our control' = C = what psychiatry does\n\nSzasz's IDEAL (implied inverse): accept our actual responsibility\n= 'we didn't fertilise the soil' = our error, our responsibility\n= B: 'our responsibility for them' ✓\n\n[The farmer should have said]\n'Our harvest failed because we didn't farm properly'\n= accepting OWN RESPONSIBILITY = B ✓\n\nInstead they said:\n'The deity intervened'\n= problems beyond our control = C\n= what Szasz mocks ✗\n\n[Why C is Szasz's negative example]\nC: 'often beyond our control'\n= this IS the primitive religion position\n= this IS the psychiatric position\n= Szasz spends the whole passage criticising this attitude\n= choosing C = agreeing with what Szasz attacks\n\n[The 'implies' question technique]\nWhen asked what the author IMPLIES:\n= find the argument they are making\n= the implied ideal = the OPPOSITE of what they criticise\n= criticises deflection → implies acceptance of responsibility (B)",
+      "action": "Action Rule (Q100): 'Implies' question = find the author's implied ideal = opposite of what they criticise. Szasz criticises: 'problems are beyond our control' (C). Szasz implies: 'accept our responsibility for them' (B). C = exactly the position Szasz attacks = eliminated."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u105_meta_szasz_liability_implication",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 105 — Meta: Szasz's Core Thesis",
+    "quiz": {
+      "question": "[Unit 105 — Meta Pattern]\n\nQ97: chose C (analysing) — repress/sanitise/garbage disposal = hiding, not analysing\nQ98: chose C (rectification) — positive word / Szasz says psychiatry HIDES not fixes\nQ99: chose A (perspective) — too positive; analogy = blame deflection = liability avoidance\nQ100: chose C (beyond control) — this IS what Szasz attacks, not what he implies\n\nAll four share one underlying error. Which correctly identifies it?",
+      "options": [
+        "All four are vocabulary errors — unfamiliar words like sanitise and liability",
+        "All four = failing to apply Szasz's core thesis consistently. Szasz's argument: psychiatry = blame deflection tool that discourages accepting liability. Fix: before answering any question, state Szasz's thesis: 'psychiatry hides social problems by labelling them as mental illness, helping society avoid responsibility'. Then test each choice: does it match HIDING and BLAME DEFLECTION (Szasz's description of psychiatry)? Or does it match ACKNOWLEDGING RESPONSIBILITY (Szasz's implied ideal)?",
+        "All four are targeting errors — wrong paragraph",
+        "All four are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② All four = not applying Szasz's thesis consistently. Thesis: psychiatry = blame deflection. Fix: classify each choice as 'matches hiding/deflection' or 'matches responsibility acceptance' before answering.",
+      "explanation": "[Szasz's core thesis]\nPsychiatry = hides social problems + deflects responsibility onto 'mental illness'\n= the opposite of acknowledging real human causes\n\n[Four-question classification]\nQ97: 'analysing' = confronting/revealing = opposite of hiding ✗ → 'hiding' = matches thesis ✓\nQ98: 'rectification' = positive solving = opposite of hiding ✗ → 'symptoms not causes' = matches thesis ✓\nQ99: 'perspective' = neutral/positive framing = opposite of blame deflection ✗ → 'discourages liability' = matches thesis ✓\nQ100: 'beyond our control' = deflects responsibility = matches PSYCHIATRY not Szasz's ideal ✗ → 'our responsibility' = matches Szasz's implied opposite ✓\n\n[The classification tool]\nBefore each question, ask:\n'Does this choice describe HIDING/DEFLECTING (= psychiatry's function per Szasz)?'\n'Or does this choice describe ACKNOWLEDGING/RESPONSIBILITY (= Szasz's implied ideal)?'\n\nFor Q97/98/99: correct answer = describes hiding/deflecting\nFor Q100 ('implies' question): correct answer = describes responsibility (the inverse)\n\n[The four-word signature of Szasz]\nREPRESS / SANITISE / GARBAGE DISPOSAL / PLACATE\n= all mean: hide, remove, deflect\n= any paraphrase of these = the 'hiding' cluster",
+      "action": "Meta Rule (Unit 105): Szasz thesis = psychiatry hides social problems + deflects liability. Classify every choice: hiding/deflection (correct for descriptive questions) vs responsibility/acknowledgment (correct for 'implies what he values' questions). Four signature words: repress, sanitise, garbage disposal, placate = all mean 'hiding'."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
