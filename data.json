@@ -4919,5 +4919,89 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u104_q21_paraphrase_buddha_nature_shared",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 104 — Q21 Paraphrase (D→B)",
+    "quiz": {
+      "question": "[Q21 — Paraphrase: Buddhist attitude toward animals stems from the conviction that ______]\n\nPassage (lines 2–4):\n'...non-violence toward animals symbolises the reverence that one ought to have for all being,\nand at the FOUNDATION of this reverence is the PERVASIVE REALITY of the BUDDHA-NATURE\n(inner lightsomeness or intelligibility).'\n\nQ: The Buddhist attitude stems from the conviction that ______.\n\nYour pick — D: <strong>animals, being more helpless than humans, need protecting</strong>\nCorrect — B: <strong>all of creation shares in the same spirit</strong>\n\nWhy does 'pervasive reality of the Buddha-nature' = same spirit in all, not helplessness?",
+      "options": [
+        "D is correct because Buddhist non-violence protects animals from human aggression",
+        "'Pervasive reality of the Buddha-nature' = Buddha-nature exists IN ALL BEINGS pervasively (everywhere). This is the FOUNDATION of reverence = the reason for non-violence is that all creatures share this universal spiritual reality (Buddha-nature = the same spirit). D: helplessness = a very different reason (animals need protection because they are weak) = not what the passage says. The reason is universal shared spiritual nature, not animal weakness.",
+        "B is wrong because the passage focuses on animals, not all of creation",
+        "D is correct because Buddhist ethics prioritises protecting the vulnerable"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Pervasive reality of Buddha-nature' = this spiritual reality exists in ALL beings = all creation shares the same spirit (B) / D = helplessness = wrong reason (passage says shared nature, not weakness)",
+      "explanation": "[Paraphrase chain → B]\n'pervasive reality of the Buddha-nature'\n= pervasive = present throughout ALL beings\n= Buddha-nature = a shared universal spiritual quality\n= FOUNDATION of reverence = why we respect animals\n= because all creatures share this same spiritual reality\n\n= 'all of creation shares in the SAME SPIRIT' = B ✓\n\n[Why D (helplessness) fails]\nhelpless = weak, needing protection from external help\n= this would make animal reverence = charity/protection\n= but the passage says reverence is based on SHARED SPIRITUAL REALITY\n= not on animal weakness\n\n[The key concept: non-violence from shared nature]\nIf all beings share Buddha-nature:\n= harming an animal = harming something that shares your own spiritual essence\n= reverence comes from recognition of shared identity, not pity for the weak",
+      "action": "Action Rule (Q21): 'Pervasive reality of Buddha-nature' = this spirit exists in ALL beings = shared universal nature = B. D (helplessness) = wrong cause: the passage says reverence is from shared spiritual nature, not animal weakness."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u104_q22_targeting_spontaneous_not_reflective",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 104 — Q22 Targeting (B→C)",
+    "quiz": {
+      "question": "[Q22 — Targeting: Buddhist attitude ASSUMES that animals ______]\n\nPassage (lines 8–11):\n'...praise the SPONTANEITY of trees and animals,\nin contrast to the PAINFUL REFLECTIVITY of human beings.\nWhereas a pine tree or a fish just IS WHAT IT IS, without fuss and labour,\na human being has to become human through education, experience, meditation...'\n\nKey contrast:\nAnimals = spontaneous / no reflection / just ARE\nHumans = painfully reflective / must labour to become themselves\n\nQ: The Buddhist attitude assumes that animals ______.\n\nYour pick — B: <strong>are happy with their situation</strong>\nCorrect — C: <strong>do not reason and reflect</strong>\n\nWhy does 'painful reflectivity' specifically confirm C and rule out B?",
+      "options": [
+        "B is correct because animals are described as spontaneous which implies contentment",
+        "'Painful reflectivity' = animals LACK reflectivity. 'A pine tree or fish just IS what it is' = they exist without the reasoning/reflection that humans use. C: 'do not reason and reflect' = direct paraphrase of 'without fuss, just is what it is'. B: 'happy with their situation' = emotional state = not what the passage describes. The passage focuses on COGNITIVE CAPACITY (reasoning/reflection), not emotional state (happiness).",
+        "C is wrong because the passage doesn't say animals lack intelligence",
+        "B is correct because 'spontaneous' implies a state of natural contentment"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Painful reflectivity' = humans have it, animals don't = animals do NOT reason/reflect (C) / B = happiness = wrong category (cognitive not emotional)",
+      "explanation": "[The contrast structure]\nAnimals: SPONTANEITY = 'just IS what it is, without fuss'\n= no effort of reflection or reasoning\n= simply exist as they are\n\nHumans: PAINFUL REFLECTIVITY = must think, meditate, educate themselves\n= the pain comes from over-thinking and self-consciousness\n\n[Paraphrase chain → C]\nanimals don't have 'painful reflectivity'\n= they don't reason and reflect (C) ✓\n\n[Why B (happy with situation) fails]\nB = an emotional state (happiness, contentment)\n= the passage describes a COGNITIVE STATE (reasoning/reflection)\n= the passage says animals are SPONTANEOUS, not that they are HAPPY\n= spontaneous ≠ happy\n= a pine tree is spontaneous — we don't say it is 'happy with its situation'\n= B imports an emotional reading into a cognitive description ✗",
+      "action": "Action Rule (Q22): 'Spontaneous' = not reflective (cognitive) NOT happy (emotional). 'Painful reflectivity' = humans reason, animals don't. C = do not reason and reflect = direct paraphrase. B = happiness = wrong category. Cognitive capacity ≠ emotional state."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u104_q24_vocab_holistic_total",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 104 — Q24 Vocab (B→A)",
+    "quiz": {
+      "question": "[Q24 — Vocab: 'holistic' (line 13) is closest in meaning to ______]\n\nContext (lines 11–13):\n'Whereas a pine tree or fish just is what it is, without fuss and labour,\na human being has to BECOME human through education, experience, meditation...\nJapan always loved the image of HOLISTIC, spontaneous perfection.'\n\n= holistic perfection = the kind of perfection a pine tree HAS (not achieved in parts)\n= opposed to: piece-by-piece human self-improvement\n\nQ: 'Holistic' is closest in meaning to ______.\n\nA: total / B: sacred / C: hollow / D: impulsive\n\nYour pick — B: <strong>sacred</strong>\nCorrect — A: <strong>total</strong>\n\nHow does the pine tree context reveal 'total' over 'sacred'?",
+      "options": [
+        "B is correct because Buddhist reverence makes the natural world sacred",
+        "The pine tree is 'holistic' in that it IS perfect as a WHOLE, with no missing parts — its perfection is complete and total, not built up in stages. 'Total' = the whole complete thing, nothing lacking. 'Sacred' = religiously holy = the passage discusses spiritual themes but holistic specifically means completeness/wholeness in this context. A: total = complete/whole = contrasts with humans who must work towards a partial, incomplete state.",
+        "A is wrong because 'total' doesn't capture the spiritual dimension of the passage",
+        "B is correct because the Japanese reverence for nature gives it a sacred quality"
+      ],
+      "correctIdx": 1,
+      "answer": "② Pine tree = perfect AS A WHOLE without parts needing completion = TOTAL (complete, whole) / sacred = religious holiness = different concept",
+      "explanation": "[Holistic decoded in context]\n'holistic perfection' = contrasted with human becoming\n\nHuman: must become human through education, experience, meditation\n= perfection assembled in PARTS over time\n= never quite whole at any given moment\n\nPine tree: 'just IS what it is'\n= its perfection is COMPLETE AS A WHOLE\n= nothing missing, nothing to add\n= TOTAL / WHOLE / COMPLETE perfection ✓\n\n[Paraphrase chain → A]\nholistic = of the whole, treating something as a complete unified system\n= total = the whole thing, complete\n= A ✓\n\n[Why B (sacred) fails]\nsacred = holy, religiously revered\n= the passage is about Buddhist themes but 'holistic' is not about religious holiness\n= it is about structural completeness vs partial assembly\n= sacred adds a religious connotation that 'holistic' doesn't have here\n\n[Holistic definition]\nholistic = relating to the WHOLE rather than its parts\n= total = the whole\n= the pine tree's perfection = whole/total = A ✓",
+      "action": "Action Rule (Q24): 'Holistic perfection' = perfection of the whole, not assembled in parts. Contrast: humans build themselves piece by piece / pine tree IS complete as a whole. Total = the whole = A. Sacred = religious = different concept. Context: completeness vs partial assembly."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u104_meta_contrast_structure_nature_human",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 104 — Meta: Nature/Human Contrast Structure",
+    "quiz": {
+      "question": "[Unit 104 — Meta Pattern]\n\nQ21: chose D (helpless animals) — reverence from shared Buddha-nature, not animal weakness\nQ22: chose B (happy with situation) — spontaneous = cognitive (no reflection), not emotional (happy)\nQ24: chose B (sacred) — holistic = total/complete-as-whole, not religiously holy\n\nAll three errors share the same structural mistake. Which correctly identifies it?",
+      "options": [
+        "All three are vocabulary errors — unfamiliar Buddhist terminology",
+        "All three = importing an EXTRA CONNOTATION not in the passage. Q21: 'helpless' = added emotional connotation of weakness (passage = shared spiritual nature). Q22: 'happy' = added emotional state (passage = cognitive state: no reflection). Q24: 'sacred' = added religious holiness (passage = structural completeness: whole vs parts). Fix: for each paraphrase, strip away additional connotations. Match only what the passage EXPLICITLY describes.",
+        "All three are targeting errors — wrong stanza analysed",
+        "All three are Too Extreme errors"
+      ],
+      "correctIdx": 1,
+      "answer": "② All three = added extra connotations: D adds helplessness / B adds happiness / B adds religious holiness. Fix: strip added connotations, match only what passage says.",
+      "explanation": "[The structural mistake: connotation addition]\nQ21: passage says 'shared Buddha-nature' (spiritual unity)\nD adds: helplessness/weakness = NOT in passage\nCorrect = all share same spirit (no added connotation) = B\n\nQ22: passage says 'spontaneous, without fuss, just IS what it is' (cognitive)\nB adds: happiness/contentment (emotional) = NOT in passage\nCorrect = no reasoning/reflection (stays cognitive) = C\n\nQ24: passage says 'holistic perfection' in contrast to piecemeal human becoming\nB adds: religious holiness (sacred) = NOT what holistic means here\nCorrect = total/complete (structural) = A\n\n[The passage's actual contrast structure]\nThis passage is built on ONE central contrast:\n\nNATURE (animals, pine trees, fish):\n= spontaneous / holistic / no fuss / Buddha-nature present / no reflection\n\nHUMAN BEINGS:\n= painful reflectivity / piecemeal becoming / fuss and labour / must work to achieve\n\nAll questions in Unit 104 test whether you correctly read this contrast\n= Q21: reverence = shared nature (not weakness)\n= Q22: spontaneous = no reflection (not happy)\n= Q24: holistic = whole/complete (not sacred)",
+      "action": "Meta Rule (Unit 104): The passage's core structure = nature (spontaneous/whole/Buddha-nature) vs humans (reflective/piecemeal/labour). For each answer, strip any added emotional (happiness), weakness (helpless), or religious (sacred) connotations not in the passage. Match only what the contrast structure says."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
