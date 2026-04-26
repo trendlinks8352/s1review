@@ -5003,5 +5003,68 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u103_q17_targeting_letter_vs_sound",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 103 — Q17 Targeting (C→D)",
+    "quiz": {
+      "question": "[Q17 — Targeting: Which are identified as LETTERS OF ALPHABETS?]\n\nPassage items:\n'The LETTER <em>alif</em>...' (line 1) = explicitly a letter\n'The LETTER <em>ta</em>, which is the THIRD LETTER of the Arabic and Somali alphabets' (line 5) = explicitly a letter\n'...pronounce the LETTER <em>tha</em>...' (line 6) = explicitly a letter\n'<em>balif</em>' = what alif became after injury = a SOUND, not a letter\n'<em>ba</em> SOUNDED like <em>fa</em>' = fa = a sound, not identified as a letter here\n'the SOUND <em>t</em>...' (final lines) = explicitly a sound\n\nQ: Which of the following are ALL identified as letters of alphabets?\n\nYour pick — C: <strong>ba, t, ta</strong>\nCorrect — D: <strong>alif, ta, tha</strong>\n\nWhy must you check the LABEL before each item (letter vs sound)?",
+      "options": [
+        "C is correct because ba, t and ta are all used in the pronunciation examples",
+        "The passage explicitly marks items with 'the LETTER X' or 'the sound X'. Alif, ta, tha = all preceded by 'the letter' = confirmed letters. Ba = only appears in sound context ('ba sounded like fa') / 't' = explicitly 'the sound t' (not 'the letter t') / balif = what alif became = a distorted sound. D: alif + ta + tha = all three confirmed by 'the letter' label = D ✓",
+        "D is wrong because tha is not an Arabic letter",
+        "C is correct because t, ta and ba are the sounds actually used in pronunciation"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'The LETTER alif/ta/tha' = explicit letter label / 'the SOUND t', 'sounded like fa', 'balif' = sound labels = not letters / D = all three with 'the letter' prefix = correct",
+      "explanation": "[Label-based targeting]\nFor each item, check: is it labelled 'the LETTER X' or 'the SOUND X'?\n\nalif: 'The LETTER alif' = LETTER ✓\nta: 'the LETTER ta, which is the third letter of the Arabic and Somali alphabets' = LETTER ✓\ntha: '...pronounce the LETTER tha...' = LETTER ✓\n\nba: 'ba when struck again sounded like fa' = ba is a SOUND in context here, no 'the letter' label ✗\nt: '...it was as if the SOUND t was altogether absent' = explicitly SOUND ✗\nbalif: what alif 'became' after injury = distorted output sound ✗\nfa: 'sounded like fa' = sound comparison ✗\n\n[The category rule]\nPassage provides explicit labels:\n'the letter' = formal alphabet letter\n'the sound' = phonetic output\n= the question asks for LETTERS specifically\n= only items explicitly labelled 'the letter' qualify\n\n[D = alif + ta + tha]\nAll three = explicitly 'the letter' = D ✓",
+      "action": "Action Rule (Q17): Check the label before each item. 'The letter X' = qualifies. 'The sound X' / 'sounded like X' / 'became X' = does not qualify. Only alif, ta, tha are explicitly labelled as letters. ba, t, fa, balif = sound context."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u103_q18_paraphrase_tongue_pain_teeth",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 103 — Q18 Paraphrase (C→D)",
+    "quiz": {
+      "question": "[Q18 — Paraphrase: Why did Askar turn 'ta' into 'sha'?]\n\nPassage evidence:\n'I bit my tongue' (line 1) = tongue was injured\n'my mouth was a pool of blood' (line 3) = serious oral injury\nPhonetics: 'ta' requires pressing the tongue TIP to the BACK OF UPPER TEETH\n= after biting tongue = pressing tongue to teeth = PAINFUL\n\nQ: The most likely reason is that he ______.\n\nYour pick — C: <strong>had lost control over his broken bottom jaw</strong>\nCorrect — D: <strong>found it painful to press his tongue to his upper teeth</strong>\n\nWhy does C over-extrapolate and D precisely maps the evidence?",
+      "options": [
+        "C is correct because losing jaw control would affect multiple sounds, explaining the confusion",
+        "C: 'broken bottom jaw' = NOT in the passage. The passage says 'I bit my tongue' = the tongue is injured, not the jaw. Over-extrapolation: adding a 'broken jaw' not mentioned. D: 'painful to press his tongue to his upper teeth' = direct cause-effect from passage evidence: tongue injury (bit my tongue) + ta phonetics (tongue must press upper teeth) = pressing an injured tongue = painful = D. D maps passage fact to phonetic mechanism precisely.",
+        "D is wrong because the passage doesn't mention the upper teeth specifically",
+        "C is correct because 'pool of blood' suggests the jaw was displaced"
+      ],
+      "correctIdx": 1,
+      "answer": "② C adds 'broken jaw' not in passage = over-extrapolation / D = tongue bitten (passage) + ta requires tongue on upper teeth (phonetics) = painful = D",
+      "explanation": "[What the passage gives us]\nFact 1: 'I bit my tongue' = tongue is injured\nFact 2: 'mouth was a pool of blood' = serious oral damage\nFact 3: NO mention of jaw being broken or damaged\n\n[Phonetic mechanism of 'ta']\nTo say 'ta': tongue tip must press against back of upper teeth\n= for an injured tongue = pressing on teeth = PAIN\n\n[Paraphrase chain → D]\nBit tongue (injury) + ta requires tongue on upper teeth (phonetics)\n= pressing injured tongue to upper teeth = painful\n= D: 'found it painful to press his tongue to his upper teeth' ✓\n\n[Why C fails the anchor test]\nC: 'broken bottom jaw'\n= jaw = NOT mentioned in the passage\n= 'pool of blood' ≠ 'broken jaw' (pool of blood = mouth injury generally)\n= C invents a specific injury not in the text\n= over-extrapolation from 'pool of blood' to 'broken jaw' ✗\n\n[The precise mapping rule]\nStart ONLY from what the passage says:\n= tongue injury\nApply the phonetic mechanism:\n= ta = tongue on upper teeth\nConclusion:\n= injured tongue + teeth contact = painful = D ✓",
+      "action": "Action Rule (Q18): 'Broken jaw' is NOT in the passage — C over-extrapolates. The evidence: 'bit my tongue' = tongue injured. 'Ta' phonetics = tongue must press upper teeth. Injured tongue + pressing teeth = painful = D. Never invent injuries not stated in the passage."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u103_meta_label_checking_anchor",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 103 — Meta: Label Checking + Anchor Test",
+    "quiz": {
+      "question": "[Unit 103 — Meta Pattern]\n\nQ17: chose C (ba, t, ta) — 't' is explicitly labelled 'the sound t'; ba = sound context only\nQ18: chose C (broken jaw) — jaw not in passage; 'bit my tongue' = tongue injury only\n\nTwo correction tools. Which correctly identifies them?",
+      "options": [
+        "Both are vocabulary errors — unfamiliar phonetic terms",
+        "Tool 1 = LABEL CHECKING (Q17): for classification questions, check the EXACT label given to each item ('the letter X' vs 'the sound X'). Never classify from context alone — require the explicit label. Tool 2 = ANCHOR TEST (Q18): every detail in your chosen answer must trace back to a specific passage line. 'Broken jaw' has no passage anchor. 'Bit my tongue' = tongue injury. 'Ta phonetics' = tongue on upper teeth. Start only from what the passage states.",
+        "Both are targeting errors — wrong section of the passage",
+        "Both are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Label checking (Q17: 'the letter' vs 'the sound' prefix) + anchor test (Q18: 'broken jaw' has no passage evidence)",
+      "explanation": "[Tool 1: Label checking (Q17)]\nThe passage uses precise labels:\n'The letter alif' = letter\n'The letter ta, which is the third letter' = letter\n'The letter tha' = letter\n'the sound t' = sound (NOT letter)\n'ba sounded like fa' = sound context\n\nFix: For classification questions, require the EXACT LABEL\n= 'the letter X' = qualifies / anything else = does not\n= never classify from context alone\n\n[Tool 2: Anchor test (Q18)]\nFor each element in your answer, ask: 'Where in the passage is this?'\nC: 'broken bottom jaw' → search passage → NOT FOUND → eliminated\nD: 'painful to press tongue to upper teeth' → \n  tongue injury ('bit my tongue') → FOUND\n  ta = tongue on upper teeth → phonetic mechanism → logical\n= D passes anchor test ✓\n\nFix: Before finalising, anchor every detail of your answer to a specific line\n= if you cannot point to a line = the detail is invented = eliminate",
+      "action": "Meta Rule (Unit 103):\nLabel checking: 'the letter X' vs 'the sound X' — require the exact label, never infer category from context alone.\nAnchor test: every detail in your answer must trace to a specific passage line. 'Broken jaw' = no anchor = eliminated. Start only from stated facts."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
