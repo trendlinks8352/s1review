@@ -5066,5 +5066,26 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u102_q3_paraphrase_fame_prison_like",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 102 — Q3 Paraphrase (D→B)",
+    "quiz": {
+      "question": "[Q3 — Paraphrase: Steinberg suggests conventional fame is ______]\n\nPassage:\n'This <em>monumentalisation</em> of people, this <em>freezing of life</em>,\nis the terrible <em>curse</em> of consciousness of fame.\nAnybody with instinct <em>destroys</em> conventional fame and misleads his admirers\nand biographers by being unreliable and therefore unpleasant.'\n\nQ: Steinberg suggests that for famous people conventional fame is ______.\n\nYour pick — D: <strong>easily destroyed</strong>\nCorrect — B: <strong>prison-like</strong>\n\nWhy do 'monumentalisation', 'freezing of life' and 'curse' map to prison-like, not easily destroyed?",
+      "options": [
+        "D is correct because 'destroys conventional fame' shows fame is fragile and easily broken",
+        "'Freezing of life' + 'monumentalisation' = you are FIXED, IMMOBILISED, cannot move or change = like being trapped. 'Curse' = something you cannot escape. B: 'prison-like' = trapped, immobilised, constrained = direct paraphrase of these three images. D: 'destroys conventional fame' = the person WITH INSTINCT destroys fame — not that fame itself is easily destroyed. The fame is described as a trap (curse/freeze), not as fragile.",
+        "B is wrong because Steinberg doesn't use imprisonment imagery",
+        "D is correct because the passage says anyone with instinct destroys fame"
+      ],
+      "correctIdx": 1,
+      "answer": "② monumentalisation + freezing of life + curse = immobilised/trapped = prison-like (B) / D misreads: the person destroys fame (not: fame is easily destroyed)",
+      "explanation": "[Three images all pointing to imprisonment]\nMONUMENTALISATION:\n= turning a living person into a monument/statue\n= statues cannot move = FROZEN, FIXED\n\nFREEZING OF LIFE:\n= your living self is frozen into a fixed image\n= you cannot evolve or change = IMMOBILISED\n\nCURSE:\n= something inescapable, you are trapped by it\n= cannot free yourself from it = IMPRISONED\n\n[Paraphrase chain → B]\nFixed + immobilised + inescapable\n= prison-like = B ✓\n\n[Why D is the wrong subject]\n'Anybody with instinct DESTROYS conventional fame'\n= SUBJECT = 'anybody with instinct' (the person)\n= OBJECT = 'conventional fame'\n= the PERSON destroys fame\n= NOT: fame is easily destroyed\n= D misidentifies WHO is doing the destroying\n\n[The grammar trap in D]\nD: 'easily destroyed' = fame is fragile\nPassage: 'destroys conventional fame' = the instinctive person actively breaks free of fame\n= these are different: passive fragility (D) vs active resistance (passage)\n= D inverts the subject-object relationship",
+      "action": "Action Rule (Q3): Three passage images (monumentalisation, freezing of life, curse) all = trapped/immobilised = prison-like (B). D misreads the grammar: 'anybody destroys fame' = the person acts, not: fame is fragile. Check WHO destroys WHAT before choosing D."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
