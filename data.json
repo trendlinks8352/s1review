@@ -5087,5 +5087,68 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u101_q53_paraphrase_co_feeling_not_supremacy",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 101 — Q53 Paraphrase (B→C)",
+    "quiz": {
+      "question": "[Q53 — Paraphrase: In Czech/Polish/German/Swedish, 'compassion' equivalent words ______]\n\nPassage (lines 1–5):\n'In other languages — Czech, Polish, German, and Swedish — this word is translated\nby a noun formed of an equivalent prefix combined with the word that means <em>FEELING</em>\n(Czech, sou-cit; Polish, wspól-czucie; German, Mit-gefühl; Swedish, med-känsla).'\n\nPassage (lines 19–21):\n'This kind of compassion (in the sense of soucit, wspólczucie, Mitgefühl, medkänsla)\ntherefore signifies the maximal capacity of affective imagination,\nthe art of emotional telepathy. In the hierarchy of sentiments, then, it is SUPREME.'\n\nQ: These words approximately ______.\n\nYour pick — B: <strong>include the idea of supremacy</strong>\nCorrect — C: <strong>carry the idea of co-feeling but not of pity</strong>\n\nWhy is 'supreme' the AUTHOR'S EVALUATION, not a component of the word's meaning?",
+      "options": [
+        "B is correct because the passage says this kind of compassion is 'supreme' in the hierarchy",
+        "'Supreme' = the AUTHOR's judgment about the VALUE of this compassion in the hierarchy of sentiments. The WORD ITSELF is composed of: prefix (with/co-) + feeling (soucit/Mitgefühl). C: 'co-feeling' = the actual COMPONENT MEANING of these words. 'Not pity' = correct because they come from 'feeling' not 'suffering' (pity = condescension from Latin 'suffering'). B confuses the author's praise of the concept with the word's linguistic composition.",
+        "C is wrong because these words also include the idea of suffering",
+        "B is correct because supremacy is the core meaning implied by the compound structure"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Supreme' = author's valuation at the end / word's actual components = co-(with) + feeling = CO-FEELING / not pity = comes from 'feeling' not 'suffering' = C",
+      "explanation": "[What the words are MADE OF]\nCzech sou-cit: sou (with/co) + cit (feeling)\nPolish wspól-czucie: wspól (together) + czucie (feeling)\nGerman Mit-gefühl: Mit (with) + gefühl (feeling)\nSwedish med-känsla: med (with) + känsla (feeling)\n\n= all = CO (with) + FEELING\n= 'co-feeling' = the ACTUAL COMPONENT MEANING ✓\n\n[Why NOT pity]\npity = condescension (lines 8–10)\n= 'to take pity on a woman means we are better off than she'\n= pity = from 'suffering' root + condescension\n= these words come from 'feeling' root = NOT pity ✓\n\n[C = co-feeling but not pity]\n= the component meaning (co-feeling) + the distinction from pity (not pity)\n= C ✓\n\n[Why B (supremacy) is the wrong category]\n'Supreme' appears at the END of the passage\n= it is the AUTHOR'S JUDGMENT: 'in the hierarchy, it is supreme'\n= this is an EVALUATION OF THE CONCEPT, not a COMPONENT OF THE WORD\n= the words don't mean 'supreme' — the author VALUES them supremely\n= B confuses the author's praise with the word's linguistic content\n\n[The two-level distinction]\nWord COMPONENTS (linguistic): co + feeling = C\nAuthor's EVALUATION of the concept: supreme, maximal = NOT part of word meaning",
+      "action": "Action Rule (Q53): 'Supreme' = author's evaluation at the end of the passage, NOT a component of the word. The words are built from: co (with) + feeling = co-feeling (C). Not pity = they use 'feeling' root, not 'suffering' root. Separate: word composition vs author's praise of the concept."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u101_q55_targeting_pity_latin_compassion",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 101 — Q55 Targeting (C→A)",
+    "quiz": {
+      "question": "[Q55 — Targeting: 'Pity' has approximately the same meaning as which word, for which languages?]\n\nPassage (lines 6–10):\n'In languages that derive from Latin, <em>compassion</em> means:\nwe cannot look on coolly as others suffer; or, we sympathise with those who suffer.\n<em>Another word</em> with approximately the same meaning, <em>pity</em>\n(French pitié; Italian, pietà etc.), connotes a certain condescension towards the sufferer.'\n\n= 'Another word' = another word with APPROXIMATELY THE SAME MEANING AS COMPASSION\n= in LATIN-DERIVED languages (French, Italian mentioned)\n\nQ: 'Pity' has approximately the same meaning as ______.\n\nYour pick — C: <strong>suffering, in languages derived from Latin</strong>\nCorrect — A: <strong>compassion, in languages derived from Latin</strong>\n\nWhy does 'another word with approximately the same meaning' confirm A?",
+      "options": [
+        "C is correct because pity comes from 'passio' which means suffering",
+        "'Another word with approximately the SAME MEANING' = pity ≈ compassion (in the same context). The context: 'In languages that derive from Latin' (the paragraph's opening). So pity ≈ compassion, in Latin-derived languages = A. C: pity = suffering is about word DERIVATION (etymology) not meaning. The passage explicitly says pity has 'approximately the same MEANING' as compassion, but ADDS condescension. The meaning comparison = compassion, not suffering.",
+        "A is wrong because pity adds condescension, making it different from compassion",
+        "C is correct because 'passio' = suffering = the root of pity"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Another word with approximately the same meaning' = pity ≈ compassion / 'in languages derived from Latin' = the paragraph's context = A",
+      "explanation": "[The referent of 'another word']\n'Another word with approximately the SAME MEANING'\n= same meaning as what? = as COMPASSION (the topic of the paragraph)\n= in what languages? = in languages derived from Latin (the paragraph's context)\n\n[Paraphrase chain → A]\n'Another word' (pity) with 'approximately the same meaning' (as compassion)\n'In languages that derive from Latin' (paragraph context: French pitié, Italian pietà)\n= pity ≈ compassion, in Latin-derived languages\n= A ✓\n\n[Why C (suffering in Latin) fails]\nC: pity = suffering\n= this describes pity's ETYMOLOGY (it comes from 'passio' = suffering)\n= NOT the same as: what meaning pity HAS\n= the passage says pity has 'approximately the same MEANING as compassion'\n= meaning ≠ etymology\n= C conflates MEANING with DERIVATION ✗\n\n[The condescension note]\n'Pity connotes a certain condescension'\n= pity has the SAME basic meaning as compassion\n= but ADDS condescension (looking down on the sufferer)\n= similar meaning + added condescension = A (approximately same as compassion) ✓",
+      "action": "Action Rule (Q55): 'Another word with approximately the same meaning' = pity ≈ compassion. The paragraph's opening = 'in languages derived from Latin'. A = compassion, Latin-derived = correct targeting. C = suffering = etymology (derivation), not meaning. Meaning ≠ derivation."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u101_meta_author_eval_vs_word_meaning",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 101 — Meta: Author's Evaluation vs Word Meaning",
+    "quiz": {
+      "question": "[Unit 101 — Meta Pattern]\n\nQ53: chose B (supremacy) — 'supreme' = author's praise / word's actual meaning = co-feeling\nQ55: chose C (suffering in Latin) — suffering = etymology / pity's MEANING ≈ compassion\n\nTwo correction tools. Which correctly identifies them?",
+      "options": [
+        "Both are vocabulary errors — unfamiliar linguistic terms",
+        "Tool 1 = AUTHOR'S EVALUATION vs WORD COMPOSITION (Q53): 'supreme' = the author's judgment about the concept's VALUE at the end of the passage. The word's actual linguistic COMPONENTS = co + feeling = co-feeling (C). Separate: what the word IS MADE OF vs how the author VALUES it. Tool 2 = MEANING vs ETYMOLOGY (Q55): pity's MEANING ≈ compassion ('approximately the same meaning'). Pity's ETYMOLOGY = passio = suffering. The question asks for meaning, not derivation. Conflating the two = targeting the wrong level.",
+        "Both are targeting errors — wrong paragraph",
+        "Both are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Tool 1 = author's evaluation vs word composition / Tool 2 = meaning vs etymology",
+      "explanation": "[Tool 1: Author's evaluation vs word composition (Q53)]\nWord COMPOSITION (what the word is built from):\n= prefix (co/with/together) + root (feeling)\n= co-feeling\n\nAuthor's EVALUATION (what the author thinks of the concept):\n= 'supreme in the hierarchy of sentiments'\n= 'maximal capacity of affective imagination'\n\nFix: the question asks about the words' MEANING (what they express)\n= composition level = co-feeling ✓\n= evaluation level = supreme ✗ (not part of word meaning)\n\n[Tool 2: Meaning vs etymology (Q55)]\nMEANING of pity = what pity conveys in use = ≈ compassion + condescension\nETYMOLOGY of pity = where the word comes from = passio = suffering\n\nFix: 'pity has approximately the same MEANING as' = meaning question\n= look for: what pity is used to EXPRESS\n= not: what root it was built from\n= compassion = what pity means (A)\n= suffering = what pity derives from (C) = wrong level",
+      "action": "Meta Rule (Unit 101):\nAuthor's evaluation vs word composition: 'supreme' = author praises the concept / word = co + feeling = co-feeling. Separate what the word IS from what the author THINKS of it.\nMeaning vs etymology: meaning = what the word expresses in use. Etymology = what root it comes from. Questions about meaning → use the meaning level."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
