@@ -5213,5 +5213,68 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u99_q34_logic_aspects_basketball",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 99 — Q34 Logic (→B)",
+    "quiz": {
+      "question": "[Q34 — Logic: Which aspects does the basketball comment relate to?]\n\nSelf-concept aspects:\nI = What one believes oneself to BE ('I am...')\nII = What one believes OTHERS THINK of oneself\nIII = What one WOULD LIKE to be\nIV = What one believes others would LIKE ONE TO BE\n\nComment:\n'I WANT TO BE a basketball player' → Aspect ___\n'the coach WON'T put me on the team → I RECKON HE MUST THINK I'm too short' → Aspects ___\n\nQ: This comment relates to ______.\n\nCorrect — B: <strong>aspects I, II and III only</strong>\n\nMap each clause to its aspect.",
+      "options": [
+        "A (II and III only) is correct because the comment is about wanting to play and the coach's opinion",
+        "Aspect III: 'I WANT TO BE a basketball player' = what the speaker would like to be. Aspect II: 'the coach WON'T put me on the team → he must THINK I'm too short' = what the speaker believes the coach thinks of them. Aspect I: 'I RECKON he must think I'M TOO SHORT' = the speaker now believes this about themselves (I believe I am too short). IV is absent: the speaker doesn't say the coach wants them to be a certain way — only that the coach thinks they're too short.",
+        "D (I, III and IV only) is correct because the coach's refusal implies what he wants from the player",
+        "C (I, II and IV only) is correct because the comment shows the speaker's self-assessment and coach's opinion"
+      ],
+      "correctIdx": 1,
+      "answer": "② I = 'I reckon I'm too short' (self-belief) / II = 'he must think I'm too short' (belief about what coach thinks) / III = 'I want to be a basketball player' (wish) / IV = absent",
+      "explanation": "[Mapping each clause]\n\n'I WANT TO BE a basketball player'\n= want to be = ASPIRATION\n= Aspect III: what one would like to be ✓\n\n'the coach won't put me on the team'\n= this leads to:\n'I RECKON HE MUST THINK I'm too short'\n= 'he must think' = what I believe the coach thinks of me\n= Aspect II: what one believes others think of oneself ✓\n\n'I RECKON he must think I'M TOO SHORT'\n= 'I reckon' = I believe / I think\n= 'I'm too short' = a belief about what I AM\n= Aspect I: what one believes oneself to be ✓\n\n[Aspect IV — why it is absent]\nIV = what one believes others would LIKE ONE TO BE\n= the coach would need to WANT the speaker to change into something specific\n= the coach simply THINKS the speaker is too short (belief about current state)\n= NOT: the coach wants the speaker to BE something specific\n= IV ✗\n\n[B = I + II + III only]\nAll three present / IV absent = B ✓",
+      "action": "Action Rule (Q34): Map each clause separately. 'I want to be' = III. 'He must think I'm too short' = II (coach's thought) + I (speaker now believes it too: 'I reckon I'm too short'). Aspect IV requires others to WANT you to be something — the coach just thinks you're too short (current assessment) = IV absent = B."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u99_q35_logic_perception_vs_evaluation",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 99 — Q35 Logic (→D)",
+    "quiz": {
+      "question": "[Q35 — Logic: Which is an EVALUATION of a perception relating to Aspect IV?]\n\nAspect IV = 'What one believes others would like one to be'\nEvaluation = 'a person's view of its CORRECTNESS, WORTH, VALUE or IMPORTANCE'\n\nC: 'They think I should take pride in being an indigenous person.'\nD: 'They're RIGHT to think I should be proud of being an indigenous person.'\n\nQ: Which is the evaluation of a perception that relates to Aspect IV?\n\nCorrect — D\n\nWhy does 'they're RIGHT' in D add evaluation that C lacks?",
+      "options": [
+        "C is correct because it describes what others believe about the speaker's identity",
+        "C = pure PERCEPTION (Aspect IV): 'they think I should be...' = I perceive that others want me to be a certain way. D = EVALUATION of that perception: 'they're RIGHT to think...' = I assess/judge their perception as CORRECT (right = value judgment). 'Right' = the speaker evaluates the correctness/worth of the perception. C has no evaluation — it just states the perception. D adds the evaluation layer ('right') on top of the same perception.",
+        "D is wrong because being proud is a feeling, not an evaluation of self-concept",
+        "C is correct because evaluation requires agreement, and 'should' implies agreement"
+      ],
+      "correctIdx": 1,
+      "answer": "② C = pure perception (they think I should...) / D = perception + evaluation ('they're RIGHT' = correctness judgment) = D",
+      "explanation": "[Perception vs Evaluation structure]\nPerception = 'Others think/believe/want X about me'\nEvaluation = 'I judge that perception as correct/worthy/important'\n\n[Testing C]\n'THEY THINK I should take pride in being an indigenous person'\n= what I believe others want me to be\n= pure PERCEPTION (Aspect IV) ✓ but no evaluation\n= no judgment added about whether this perception is correct ✗\n\n[Testing D]\n'THEY'RE RIGHT to think I should be proud of being an indigenous person'\n= structure: they're RIGHT (evaluation) + to think I should be proud (the perception)\n= 'they're right' = the speaker JUDGES the perception as CORRECT\n= EVALUATION of correctness ✓\n= This IS an evaluation of a perception relating to Aspect IV ✓\n\n[The 'right' = evaluation marker]\nQuestion says: evaluation = 'a person's view of its CORRECTNESS, WORTH, VALUE or IMPORTANCE'\n'RIGHT' = correct = directly matches 'correctness'\n= right = evaluation of correctness = D ✓\n\n[Structure comparison]\nC: [Perception of what others want] = Aspect IV perception only\nD: [Perception of what others want] + [evaluation: they're right] = Aspect IV + evaluation",
+      "action": "Action Rule (Q35): Evaluation requires a VALUE JUDGMENT on top of the perception. C = just the perception ('they think I should'). D = perception + 'they're right' = judgment of CORRECTNESS = evaluation. The word 'right' = directly matches the definition of evaluation ('correctness, worth, value'). Look for judgment words: right, wrong, important, worthwhile."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u99_meta_aspect_mapping_eval",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 99 — Meta: Aspect Mapping + Evaluation Layer",
+    "quiz": {
+      "question": "[Unit 99 — Meta Pattern]\n\nQ34: Paraphrasing oops — identifying which aspects appear in the basketball comment\nQ35: C vs D — pure perception vs perception + evaluation\n\nTwo core tools for this unit. Which correctly identifies them?",
+      "options": [
+        "Both are vocabulary errors — unfamiliar psychological terms",
+        "Tool 1 = CLAUSE-BY-CLAUSE MAPPING (Q34): map EACH CLAUSE separately to one aspect. 'I want to be' = III. 'He must think' = II (his belief about coach). 'I reckon I'm too short' = I (self-belief). IV = absent (coach doesn't WANT anything from the speaker, just thinks he's too short). Tool 2 = PERCEPTION + EVALUATION LAYER (Q35): C = pure perception (describes what others want). D = perception + evaluation ('they're right' = correctness judgment). Evaluation requires an explicit VALUE JUDGMENT word (right, wrong, important, worthwhile) added on top of the perception.",
+        "Both are targeting errors — wrong aspect identified",
+        "Both are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Clause-by-clause mapping (Q34) + perception vs evaluation layer (Q35)",
+      "explanation": "[Tool 1: Clause-by-clause mapping (Q34)]\nDo NOT try to classify the whole comment at once\n= split into individual clauses\n= map each clause to exactly one aspect\n\n'I want to be' = III (aspiration)\n'he must think I'm too short' = II (belief about others' thought)\n'I reckon I'm too short' = I (self-belief)\nCoach refusing ≠ wanting something from speaker = IV absent\n\n[Tool 2: Perception + evaluation (Q35)]\nPure perception = 'they think/want me to be X'\nEvaluation = perception + 'X is correct/wrong/important/worthwhile'\n\nC: only perception layer\nD: perception + 'they're right' = evaluation layer\n\n'Evaluation' marker words: right, wrong, important, worthwhile, correct, good\n= if you see these words JUDGING the perception = evaluation present\n\n[Aspect IV distinction]\nIV = 'what one believes others would LIKE ONE TO BE'\n= requires: others have a PREFERENCE for what you become\n= different from: others simply THINK something about your current state\n= Q34 coach: thinks speaker is too short (assessment) ≠ wants speaker to be taller (preference) = IV absent",
+      "action": "Meta Rule (Unit 99):\nClause-by-clause: split comments into individual clauses, map each to exactly one aspect. Don't classify the whole comment at once.\nPerception vs evaluation: evaluation = perception + explicit value judgment word ('right', 'wrong', 'important'). C = perception only. D = perception + 'right' = evaluation.\nAspect IV: requires others to WANT you to be something. Merely THINKING something about you ≠ wanting you to be something."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
