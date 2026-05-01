@@ -5150,5 +5150,68 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u100_q94_paraphrase_proficient_not_use",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 100 — Q94 Paraphrase (C→B)",
+    "quiz": {
+      "question": "[Q94 — Paraphrase: It is UNLIKELY that an English speaker would ______]\n\nPassage (lines 4–7):\n'...to pronounce them as if you were one of the select few\nto whom French is <em>second nature</em> when your reader or hearer is not\n(and it is <em>ten thousand to one</em> that neither you nor they <em>will be</em>)'\n\n= 'will be' = will be one of those to whom French is SECOND NATURE\n= 'ten thousand to one' = extremely unlikely\n\nQ: According to lines 4–7, it is unlikely that an English speaker would ______.\n\nYour pick — C: <strong>use French words within an English sentence</strong>\nCorrect — B: <strong>be thoroughly proficient in French</strong>\n\nWhy does C misread the whole passage's argument?",
+      "options": [
+        "C is correct because the passage discourages using French words in English",
+        "C: unlikely to USE French words. But the whole passage is about people who DO use French words (faddists, fools, English writing and talk). The passage criticises not the USE but the PRONUNCIATION as if native. 'Ten thousand to one that neither you nor they will be' = will be [to whom French is second nature] = thoroughly proficient. B: unlikely to be THOROUGHLY PROFICIENT = direct paraphrase of 'ten thousand to one' + 'second nature'. C gets the wrong behaviour (use vs proficiency).",
+        "B is wrong because the passage is about pronunciation, not proficiency",
+        "C is correct because the passage says only 'select few' use French words"
+      ],
+      "correctIdx": 1,
+      "answer": "② C = use French words (passage says people DO this) / B = be thoroughly proficient = 'ten thousand to one that you will be [like those to whom French is second nature]' = D",
+      "explanation": "['Will be' decoded]\n'ten thousand to one that neither you nor they WILL BE'\n= will be = will be one of those TO WHOM FRENCH IS SECOND NATURE\n= 'second nature' = thoroughly proficient, naturally fluent\n\n[Paraphrase chain → B]\n'ten thousand to one' = extremely unlikely\n'will be [to whom French is second nature]' = thoroughly proficient\n= unlikely to be thoroughly proficient in French = B ✓\n\n[Why C (use French words) fails]\nThe passage premise: English people ARE using French words ('using and pronouncing')\n= the passage takes usage as given and criticises the MANNER of pronunciation\n= nobody says English people are unlikely to USE French words\n= the problem is: they use French words BUT pronounce them badly\n= C gets the wrong behaviour: the issue is proficiency, not usage\n\n[The crucial substitution]\n'will be' is a pro-VP — it stands for the whole predicate:\n'to whom French is second nature'\n= that's what 'neither you nor they WILL BE'\n= thoroughly proficient = B ✓",
+      "action": "Action Rule (Q94): 'Will be' = stands for 'to whom French is second nature' = thoroughly proficient. 'Ten thousand to one' = extremely unlikely. B = unlikely to be thoroughly proficient = correct. C = usage — but passage takes usage as given, criticises pronunciation manner. Wrong behaviour targeted."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u100_q96_paraphrase_minor_concession",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 100 — Q96 Paraphrase (A→C)",
+    "quiz": {
+      "question": "[Q96 — Paraphrase: French words SHOULD BE PRONOUNCED ______]\n\nPassage (lines 14–17):\n'To say a French word in the middle of an English sentence EXACTLY as it would be said\nby a French person... <em>should not be attempted</em>.'\n\nPassage (lines 20–22):\n'All that is necessary is a POLITE ACKNOWLEDGMENT of indebtedness to the French language\nindicated by <em>some approach in some part of the word</em> to the foreign sound.'\n\nQ: French words should be pronounced ______.\n\nYour pick — A: <strong>in a completely French way</strong>\nCorrect — C: <strong>with a minor concession to their French pronunciation</strong>\n\nHow do 'polite acknowledgment' + 'some approach in some part' = minor concession?",
+      "options": [
+        "A is correct because borrowing French words means respecting their original pronunciation",
+        "A: 'completely French way' = exactly as a French person would say it = 'should NOT be attempted' (lines 14–17). A is explicitly rejected. C: 'minor concession' = polite acknowledgment + some approach in some part. 'Some approach in some PART' = not the whole word, just a portion = minor. 'Polite acknowledgment' = concession (recognising the French origin). C = partial, polite gesture = minor concession = C ✓",
+        "C is wrong because 'some approach' means trying to get close, not making a concession",
+        "A is correct because the passage says readers should understand the French origin"
+      ],
+      "correctIdx": 1,
+      "answer": "② A = completely French way = 'should NOT be attempted' (explicit rejection) / C = polite acknowledgment + some approach in some part = minor concession",
+      "explanation": "[A is explicitly rejected]\n'To say a French word EXACTLY as it would be said by a French person... should NOT be attempted'\n= A = completely French way = exactly the behaviour Fowler forbids\n= A ✗\n\n[Paraphrase chain → C]\n'All that is necessary is a POLITE ACKNOWLEDGMENT'\n= all you need is a polite gesture of recognition\n= acknowledgment/recognition = concession ✓\n\n'indicated by SOME APPROACH IN SOME PART of the word'\n= some approach = partial, not complete\n= in SOME PART = not the whole word, just a portion\n= MINOR = limited, partial\n\n= polite (concession) + some approach in some part (minor)\n= C: 'a minor concession to their French pronunciation' ✓\n\n[The 'minor' mapping]\nSOME approach (not full approach) = minor\nIN SOME PART (not all of the word) = minor\n= two signals both pointing to: partial/minor\n\n[Why D (best of both) fails]\nD: combines best elements of both languages\n= the passage doesn't say achieve the best of both\n= it says just acknowledge partially = modest/minor gesture",
+      "action": "Action Rule (Q96): A = completely French = explicitly 'should not be attempted'. C = minor concession: 'polite acknowledgment' (concession) + 'some approach in some part' (minor = partial). Two passage phrases combine to make 'minor concession'."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u100_meta_misidentified_behaviour_explicit_rejection",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 100 — Meta: Misidentified Behaviour + Explicit Rejection",
+    "quiz": {
+      "question": "[Unit 100 — Meta Pattern]\n\nQ94: chose C (use French words) — passage takes usage as given; the unlikely thing is PROFICIENCY\nQ96: chose A (completely French) — passage explicitly says 'should not be attempted'\n\nTwo correction tools. Which correctly identifies them?",
+      "options": [
+        "Both are vocabulary errors — unfamiliar terms like 'proficient' and 'concession'",
+        "Tool 1 = IDENTIFY THE CORRECT BEHAVIOUR (Q94): the passage criticises PRONUNCIATION MANNER, not usage. 'Ten thousand to one that neither you nor they will be [proficient]' = proficiency is what's unlikely, not usage. Always identify what SPECIFIC BEHAVIOUR the passage is discussing before matching. Tool 2 = EXPLICIT REJECTION CHECK (Q96): before finalising, check if the passage EXPLICITLY REJECTS your choice. 'Should not be attempted' = A (completely French) = rejected directly. If a choice is explicitly forbidden in the passage, eliminate immediately.",
+        "Both are targeting errors — wrong paragraph",
+        "Both are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Misidentified behaviour (Q94: use vs proficiency) + explicit rejection check (Q96: 'should not be attempted' = A eliminated)",
+      "explanation": "[Tool 1: Identify correct behaviour (Q94)]\nPassage focus: people WHO USE French words, and HOW they pronounce them\n= usage = assumed/given = NOT the unlikely behaviour\n= proficiency = unlikely (ten thousand to one)\n\nFix: before answering, ask 'what specific behaviour is the passage discussing?'\n= behaviour = pronunciation manner\n= unlikely thing = proficiency, not usage\n\n[Tool 2: Explicit rejection check (Q96)]\nA: 'completely French way'\nPassage line 14–17: 'To say a French word EXACTLY as a French person would... should NOT be attempted'\n= passage EXPLICITLY REJECTS A\n\nFix: scan passage for 'should not', 'must not', 'is not', 'cannot' near the behaviour described in each choice\n= if your chosen answer is explicitly rejected = eliminate immediately\n\n[The full Q96 solution]\nA = explicitly rejected ✗\nC = 'polite acknowledgment' (lines 20–22) + 'some approach in some part' = minor concession ✓",
+      "action": "Meta Rule (Unit 100):\nIdentify correct behaviour: clarify what SPECIFIC behaviour is unlikely/recommended before matching choices.\nExplicit rejection check: scan the passage for direct negations ('should not be attempted') — if your choice matches a rejected behaviour, eliminate immediately."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
