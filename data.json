@@ -5276,5 +5276,68 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u97_q12_targeting_public_face_formal",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 97 — Q12 Targeting (B→D)",
+    "quiz": {
+      "question": "[Q12 — Targeting: Power's view of the PUBLIC FACE of Yankees]\n\nPassage 2 (Power):\n'...a strict attention to <em>conventional form</em>,\nwhich gives a <em>frigid restraint</em> to their air\nthat nevertheless does not sink far beneath the surface...'\n\n= this is the PUBLIC/SURFACE layer (does not sink far beneath)\n\nCompare with private:\n'In their domestic relations they are proverbial as the kindest husbands...'\n\nQ: Which best describes Power's view of the PUBLIC FACE of Yankees?\n\nA: unwillingly submissive / B: unashamedly superior / C: naturally introverted / D: stiffly formal\n\nYour pick — B: <strong>unashamedly superior</strong>\nCorrect — D: <strong>stiffly formal</strong>\n\nWhy does 'public face' specifically lock to D and not B?",
+      "options": [
+        "B is correct because Power says Yankees are proverbially superior as husbands and fathers",
+        "'Stiffly formal' = direct paraphrase of 'strict attention to CONVENTIONAL FORM' (formal) + 'FRIGID restraint' (stiff/cold). This is explicitly described as a surface quality ('does not sink far beneath the surface'). B (superior) = describes a general attitude, not a specific description of public behaviour. 'Unashamedly superior' is not what Power says — he describes their formal public manner, not superiority. The question's key qualifier is PUBLIC FACE.",
+        "D is wrong because 'frigid' means cold-blooded, not formal",
+        "B is correct because Power disagrees with those who call Yankees 'naturally cold-blooded' showing he sees them positively"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'conventional form' + 'frigid restraint' = stiffly formal (D) / B = superiority = not described in public face section / 'surface' qualifier locks to public-layer only",
+      "explanation": "[Target lock: PUBLIC FACE]\nQuestion requires: Power's view of the PUBLIC/SURFACE behaviour\n= 'does not sink far BENEATH THE SURFACE' = the surface layer\n\n[Evidence for D]\n'strict attention to CONVENTIONAL FORM'\n= formal = following strict conventions ✓\n'FRIGID restraint'\n= frigid = cold and stiff ✓\n= stiffly formal = F(rigid) + formal = D ✓\n\n[Why B (superior) is wrong target]\nB: 'unashamedly superior'\n= Power does not describe Yankees as superior in the public face section\n= Power's disagreement with 'cold-blooded, selfish' reading shows he's DEFENDING them\n= but this is his overall stance, not what he says about their public face\n\n[The domestic/public split]\nPublic face: 'conventional form' + 'frigid restraint' = stiff formality\nDomestic face: 'kindest husbands', 'most indulgent fathers' = warm and generous\n= the question asks for PUBLIC = D\n= mixing the domestic (warm) into the public face = targeting error",
+      "action": "Action Rule (Q12): 'Public face' = surface layer only. 'Conventional form' + 'frigid restraint' + 'does not sink far beneath surface' = the public layer = stiffly formal (D). Domestic qualities (kind husbands) = different layer. Lock onto the correct layer before matching."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u97_q15_targeting_wealth_over_integrity",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 97 — Q15 Targeting (→C)",
+    "quiz": {
+      "question": "[Q15 — Targeting: Which populations VALUE WEALTH OVER INTEGRITY?]\n\nTest condition: wealth over integrity = values money/success + lacks moral principle\n\nYankees (Passage 3):\n'...who made the country RICH' → wealth ✓\n'UNSCRUPULOUS American' → without moral principle = lacks integrity ✓\n\nAmericans in the West (Bird's quote):\n'The ALMIGHTY DOLLAR is the true divinity' → worships money ✓\n'boy who gets on by CHEATING... praised as smart boy' → integrity abandoned for success ✓\n\nQ: Which of the two populations value wealth over integrity?\n\nCorrect — C: <strong>both Americans in the West and Yankees</strong>\n\nHow does 'unscrupulous' confirm Yankees and 'cheating = smart' confirm Western Americans?",
+      "options": [
+        "A is correct because only Yankees are described as 'unscrupulous' in the passage",
+        "Yankees: 'UNSCRUPULOUS' = without moral principles = lacks integrity + 'made the country RICH' = wealth valued. Western Americans: 'ALMIGHTY DOLLAR = true divinity' = wealth worshipped + boy who gets on by CHEATING is praised = integrity abandoned for success. Both populations show wealth valued over integrity. C = both ✓",
+        "B is correct because Bird describes only the West's worship of money",
+        "D is correct because both groups are criticised for prejudice, not specifically for valuing wealth"
+      ],
+      "correctIdx": 1,
+      "answer": "② Yankees: unscrupulous (no integrity) + made country rich (wealth) / Western Americans: almighty dollar (wealth worship) + cheating praised (no integrity) = both = C",
+      "explanation": "[Test condition: wealth > integrity]\nWealth = values money/financial success\nOver integrity = sacrifices moral principle for it\n\n[Yankees — dual condition]\nWealth: 'who made the country RICH'\n= they created national wealth = wealth valued ✓\nLacks integrity: 'UNSCRUPULOUS American'\n= unscrupulous = without ethical scruple = no integrity ✓\n= Yankees: wealth + no integrity = condition met ✓\n\n[Western Americans — dual condition]\nWealth worship: 'The ALMIGHTY DOLLAR is the true DIVINITY'\n= dollar = a god = wealth worshipped above all ✓\nLacks integrity: 'boy who gets on by CHEATING at his lessons is PRAISED as a smart boy'\n= cheating = dishonesty = abandoning integrity\n= praised for it = integrity NOT valued ✓\n= Western Americans: wealth worship + integrity abandoned = condition met ✓\n\n[C = both]\nBoth populations pass the dual condition test\n= C: both Americans in the West and Yankees ✓\n\n[Key vocab]\nunscrupulous → lacks integrity (no moral principles)\nalmighty dollar = true divinity → wealth worship\ncheating praised as smart → integrity abandoned for success",
+      "action": "Action Rule (Q15): Test BOTH conditions for EACH population: (1) wealth valued? (2) integrity lacking? Yankees: unscrupulous (integrity ✗) + made country rich (wealth ✓). Western Americans: almighty dollar (wealth ✓) + cheating praised (integrity ✗). Both pass = C."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u97_meta_layer_lock_dual_condition",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 97 — Meta: Layer Lock + Dual Condition",
+    "quiz": {
+      "question": "[Unit 97 — Meta Pattern]\n\nQ12: chose B (superior) — missed 'public face' qualifier; mixed domestic/public layers\nQ15: correctly got C — dual condition test worked\n\nTwo tools for this unit. Which correctly identifies them?",
+      "options": [
+        "Both are vocabulary errors — unfamiliar 19th century vocabulary",
+        "Tool 1 = LAYER LOCK (Q12): before answering, identify which LAYER the question targets (public face vs domestic). Lock to that layer's evidence only: 'conventional form' + 'frigid restraint' + 'does not sink beneath surface' = public layer = D. The domestic layer (kind husbands) is a different layer — don't mix them. Tool 2 = DUAL CONDITION TEST (Q15): for 'values X over Y' questions, test BOTH conditions for EACH population: (1) Is X present? (2) Is Y absent/violated? Yankees and Western Americans both: wealth present + integrity violated = both qualify = C.",
+        "Both are targeting errors only",
+        "Both are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Layer lock (Q12: public ≠ domestic) + dual condition test (Q15: wealth present + integrity absent for both populations)",
+      "explanation": "[Tool 1: Layer lock (Q12)]\nPassage 2 has TWO layers:\nPublic face: 'conventional form', 'frigid restraint', 'does not sink beneath surface'\nDomestic face: 'kindest husbands', 'most indulgent fathers'\n\nFix: BEFORE answering, identify which layer the question targets\n= 'public face' → lock to public layer evidence only\n= domestic evidence = forbidden\n\n[Tool 2: Dual condition test (Q15)]\n'Values wealth over integrity' = TWO conditions:\n① Wealth: valued, worshipped, prioritised\n② Integrity: lacking, violated, sacrificed\n\nFor EACH population, test both:\nYankees: ① rich country ✓ ② unscrupulous ✓ → both\nWest: ① almighty dollar ✓ ② cheating praised ✓ → both\n\nFix: for comparative questions, build a grid:\n[Population | Condition 1 | Condition 2]\n[Yankees | rich country ✓ | unscrupulous ✓]\n[West | almighty dollar ✓ | cheating praised ✓]\nBoth rows complete = C",
+      "action": "Meta Rule (Unit 97):\nLayer lock: identify which layer the question targets before answering. Public ≠ domestic. Evidence from wrong layer = eliminated.\nDual condition test: 'values X over Y' = test both conditions for each population. Build a mental grid. Both conditions met for both = C."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
