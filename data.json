@@ -5339,5 +5339,110 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u96_q89_paraphrase_played_not_understood",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 96 — Q89 Paraphrase (A→D)",
+    "quiz": {
+      "question": "[Q89 — Paraphrase: The AIM of introducing referees is to ______]\n\nPassage key words:\nLines 3–7: 'International Cricket Council CODE OF CONDUCT... new regulations for PLAYER BEHAVIOUR'\nLine 12: 'game is PLAYED according to the spirit and laws' (not: laws are UNDERSTOOD)\nLines 27–30: 'prevent what he described as a McEnroe situation'\n\nQ: The aim of introducing referees at international cricket matches is to ______.\n\nYour pick — A: <strong>ensure the spirit and laws of the game are UNDERSTOOD</strong>\nCorrect — D: <strong>improve player BEHAVIOUR</strong>\n\nWhy does 'played' → 'understood' = a paraphrase trap?",
+      "options": [
+        "A is correct because the passage mentions 'spirit and laws of the game' explicitly",
+        "A uses words from the passage ('spirit and laws') but CHANGES the verb: passage says 'PLAYED according to' (action) → A says 'UNDERSTOOD' (knowledge). Players don't misbehave because they don't understand the rules — they know the rules but choose aggression (sledging, abusive language, disputing). The problem = behaviour, not understanding. D: 'improve player BEHAVIOUR' = direct paraphrase of 'code of conduct', 'player behaviour', 'prevent McEnroe situation'. Behaviour = the actual target of all the measures.",
+        "D is wrong because the passage focuses on captains, not players generally",
+        "A is correct because the code's first rule involves the spirit and laws"
+      ],
+      "correctIdx": 1,
+      "answer": "② A = familiar words (spirit/laws) but 'understood' = wrong verb — problem is behaviour not knowledge / D = 'player behaviour' + 'code of conduct' + 'McEnroe situation' = all point to improving behaviour",
+      "explanation": "[The verb substitution trap]\nPassage: 'game is PLAYED according to the spirit and the laws'\nA: 'spirit and laws of the game are UNDERSTOOD'\n\n= same nouns (spirit, laws) but different VERB\nPLAYED = doing/acting correctly\nUNDERSTOOD = knowing/comprehending\n\n= the problem is NOT lack of knowledge\n= players know the rules — they violate them through behaviour\n= sledging, abuse, disputing = BEHAVIOURAL violations ✗\n= A replaces an action problem with a knowledge problem = wrong ✗\n\n[Why D is the correct aim]\nLines 3: 'code of CONDUCT' = rules about behaviour\nLines 6–7: 'new regulations for PLAYER BEHAVIOUR'\nLine 30: 'prevent... McEnroe situation' = aggressive, abusive conduct\n\n= the whole system = aimed at controlling player BEHAVIOUR\n= D: 'improve player behaviour' = direct paraphrase of the passage's overarching purpose ✓\n\n[The 'familiar words' trap]\nA contains passage words: 'spirit', 'laws', 'game'\n= creates visual familiarity = feels right\n= but the VERB is wrong\n= always check: is the verb/action correct, not just the nouns",
+      "action": "Action Rule (Q89): Familiar words from the passage (spirit, laws) + changed verb (understood instead of played) = paraphrase trap. The problem is BEHAVIOUR not knowledge. 'Code of conduct' + 'player behaviour' + 'McEnroe situation' = all point to D (improve player behaviour). Always check the verb, not just the nouns."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u95_q21_paraphrase_defining_characteristics",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 95 — Q21 Paraphrase (C→B)",
+    "quiz": {
+      "question": "[Q21 — Paraphrase: Structural descriptions of ANY PATTERN include ______]\n\nPassage (lines 4–10):\n'All the patterns in figure 1 are Ts because they all share a COMMON STRUCTURE...\na T is a vertical bar joined at its upper end to the middle of a horizontal bar.\nThus the structural description for a T is... a GENERAL FORMULA for a T.'\n\n= Structural description = the common structure = what makes something 'that thing' ('T-ness')\n\nQ: Structural descriptions of any pattern include ______.\n\nYour pick — C: <strong>a formula for applying the structural description</strong>\nCorrect — B: <strong>the defining characteristics of the basic pattern</strong>\n\nHow does C misuse 'formula' and why does B capture the actual meaning?",
+      "options": [
+        "C is correct because the passage says structural description is 'a general formula'",
+        "Passage: 'structural description IS a general formula' = the description ITSELF = the formula (equation: description = formula). C: 'a formula FOR APPLYING the structural description' = a separate formula used to apply the description = creates two layers (description + formula for applying it) = not what the passage says. B: 'defining characteristics of the basic pattern' = what makes something what it is (T-ness = the defining characteristic of T) = correct paraphrase of 'common structure' + 'general formula'.",
+        "B is wrong because 'characteristics' is too vague for a structural description",
+        "C is correct because you need a formula to apply the structural description to new cases"
+      ],
+      "correctIdx": 1,
+      "answer": "② C misreads: description = formula (one thing) as description needs formula (two things) / B = defining characteristics = 'common structure' + 'T-ness' = correct",
+      "explanation": "[The equation in the passage]\nPassage: 'the structural description IS a general formula'\n= X IS Y = X and Y are the SAME THING\n= structural description = general formula (one entity)\n\n[C's misreading]\nC: 'a formula FOR APPLYING the structural description'\n= implies: description (one thing) + formula to apply it (another thing)\n= two separate entities\n= this is NOT what the passage says\n= the passage says description IS the formula (same thing)\n= C creates an extra layer that doesn't exist ✗\n\n[Why B is correct]\n'The defining characteristics of the basic pattern'\n= defining = what makes something what it is\n= characteristics = the structural properties\n= the passage: 'T-ness' = what all the Ts share = the defining characteristic\n= 'common structure' = the shared defining characteristic\n= B: defining characteristics of basic pattern = correct abstraction ✓\n\n[Why A is too specific]\nA: 'vertical and horizontal elements'\n= this is T-specific (only T has these specific elements)\n= question asks: 'any pattern' = must be a general description\n= A cannot apply to 'any pattern', only to T ✗\n\n[The 'formula' word trap]\nSeeing 'formula' in both passage and C = feels like a match\nBut: HOW formula is used is different\nPassage: description = formula (identity)\nC: formula for applying description (tool for application)\n= same word, different relationship = word trap",
+      "action": "Action Rule (Q21): 'Structural description IS a general formula' = description = formula (one thing, identity). C treats them as two things (description + formula for applying it) = extra layer = wrong. B = defining characteristics = common structure = T-ness = what makes something that thing = correct. Watch for familiar words used in different relationships."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u94_q94_paraphrase_collective_imagination_redefined",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 94 — Q94 Paraphrase (A→C)",
+    "quiz": {
+      "question": "[Q94 — Paraphrase: The author questions whether 'cool' is ______]\n\nPassage (lines 2–3):\n'Does it exist in the <em>recesses of the collective imagination</em>\nor is it <em>made over by successive generations</em>?'\n\n= Two possibilities:\n① collective imagination = shared unconscious cultural idea\n② made over by successive generations = re-created/changed over time\n\nQ: In lines 2–3, the author questions whether 'cool' is ______.\n\nYour pick — A: <strong>something hard for some age groups to imagine, or something people of any age can identify</strong>\nCorrect — C: <strong>an enduring concept that evokes common associations within the community, or one that is continually being redefined</strong>\n\nHow do the two halves of C map to the passage?",
+      "options": [
+        "A is correct because 'collective imagination' relates to how different age groups understand cool",
+        "C maps two passage phrases precisely. [Phrase 1]: 'recesses of the COLLECTIVE IMAGINATION' → 'evokes COMMON ASSOCIATIONS within the community' (collective = common/community; imagination recesses = shared associations). [Phrase 2]: 'made over by SUCCESSIVE GENERATIONS' → 'CONTINUALLY being REDEFINED' (successive generations making it over = continually redefining it). A imports 'age groups' — not in the passage. The passage asks about GENERATIONAL CHANGE vs FIXED SHARED CONCEPT, not age-group comprehension.",
+        "C is wrong because 'enduring' contradicts the idea of being continually redefined",
+        "A is correct because generations = age groups = related concepts"
+      ],
+      "correctIdx": 1,
+      "answer": "② C = 2-part paraphrase: collective imagination → common community associations / made over by generations → continually redefined / A = 'age groups' = not in passage",
+      "explanation": "[Two-part paraphrase map → C]\n\nPart 1:\n'recesses of the COLLECTIVE IMAGINATION'\n= collective = shared by the group/community\n= imagination recesses = deep, unconscious associations\n→ C: 'evokes COMMON ASSOCIATIONS within the COMMUNITY' ✓\n\nPart 2:\n'MADE OVER by SUCCESSIVE GENERATIONS'\n= made over = remade, reshaped\n= successive generations = one after another over time\n→ C: 'CONTINUALLY BEING REDEFINED' ✓\n\n[Why A is wrong]\nA: 'hard for some age groups to imagine' / 'people of any age can identify'\n= 'age groups' = NOT in the passage\n= the passage asks: is cool a FIXED concept or CHANGING concept?\n= not: can people of different ages understand it?\n= A imports an age-comprehension reading that the passage never suggests ✗\n\n[The core dichotomy]\nQuestion: fixed cultural concept (in collective imagination) vs evolving concept (made over by generations)\nC: enduring+common associations vs continually redefined = correct paraphrase of this dichotomy ✓",
+      "action": "Action Rule (Q94): Map each phrase separately. 'Collective imagination' → common community associations. 'Made over by successive generations' → continually being redefined. A imports 'age groups' — not in passage. The dichotomy = fixed shared concept vs evolving redefined concept."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u94_q95_paraphrase_pursuing_opposite",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 94 — Q95 Paraphrase (B→C)",
+    "quiz": {
+      "question": "[Q95 — Paraphrase: Which best expresses the meaning of paragraph 2, sentence 2?]\n\nPassage (lines 6–8):\n'But the paradox of cool is that <em>the harder you search for it the more difficult it is to find</em>.\nThe act of looking is itself <em>antithetical</em> to the nature of cool,\nbecause cool is about being rather than doing.'\n\nQ: Which best expresses this meaning?\n\nB: 'If you stop concentrating on being cool, it will just naturally happen.'\nCorrect — C: '<em>Actively pursuing</em> cool has the effect of <em>conveying quite the opposite</em>.'\n\nWhy does B over-extrapolate and C stay within the passage's stated meaning?",
+      "options": [
+        "B is correct because if searching is the problem, stopping the search is the solution",
+        "C maps the passage precisely: 'actively pursuing' = 'the harder you search for it' + 'the act of looking'. 'Conveying quite the opposite' = 'antithetical to the nature of cool' (opposite). B: 'naturally happen if you stop' = a LOGICAL INFERENCE beyond the passage. The passage states only: searching makes it harder to find. It does NOT say: stop searching and it happens. B adds an unstated positive consequence = over-extrapolation.",
+        "C is wrong because 'conveying' implies communication, not seeking",
+        "B is correct because the passage implies cool comes naturally to those who don't seek it"
+      ],
+      "correctIdx": 1,
+      "answer": "② C = 'actively pursuing' (act of looking/searching) + 'quite the opposite' (antithetical) = exact paraphrase / B = adds unstated positive consequence (stop = it happens naturally) = over-extrapolation",
+      "explanation": "[Paraphrase map → C]\n\n'the harder you search for it' + 'The act of LOOKING is itself...'\n→ C: 'ACTIVELY PURSUING cool' ✓\n\n'ANTITHETICAL to the nature of cool'\n= antithetical = the opposite, contrary\n→ C: 'has the effect of CONVEYING QUITE THE OPPOSITE' ✓\n\n[Why B over-extrapolates]\nB: 'If you STOP concentrating, it will JUST NATURALLY HAPPEN'\n\nWhat the passage ACTUALLY SAYS:\n= searching makes it harder (the effect of searching)\n\nWhat the passage DOES NOT SAY:\n= what happens if you STOP searching\n= whether cool 'naturally happens' then\n= B draws a conclusion from absence of the problem, not from passage evidence\n\n[The over-extrapolation trap]\nLogical reasoning: if A causes problem → removing A = no problem\n= this is reasonable logic but NOT what the passage states\n= the passage = what DOES happen when you search (antithetical effect)\n= the passage ≠ what happens when you stop\n\n[The 'meaning of the sentence' instruction]\nQuestion: 'best expresses the MEANING OF THE SENTENCE'\n= stay within what the sentence EXPLICITLY STATES\n= do not add unstated consequences\n= C stays within the stated effect / B adds unstated consequence = C ✓",
+      "action": "Action Rule (Q95): 'Meaning of the sentence' = stay within what is EXPLICITLY STATED. Passage states: actively searching = antithetical effect. C = activley pursuing + opposite = direct paraphrase. B adds: stop searching = it naturally happens = NOT stated. Don't extrapolate consequences from absence of the described behaviour."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u94_meta_two_part_paraphrase_no_extrapolation",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 94 — Meta: Two-part Paraphrase + No Extrapolation",
+    "quiz": {
+      "question": "[Unit 94 — Meta Pattern]\n\nQ94: chose A (age groups) — passage asks fixed vs changing concept, not age comprehension\nQ95: chose B (stop and it happens) — adds unstated consequence = over-extrapolation\n\nTwo correction tools. Which correctly identifies them?",
+      "options": [
+        "Both are vocabulary errors — unfamiliar words like antithetical and recesses",
+        "Tool 1 = TWO-PART PARAPHRASE MAPPING (Q94): for alternative questions ('X or Y?'), map EACH PART separately. 'Collective imagination' → common associations. 'Made over by generations' → continually redefined. A fails because 'age groups' is imported. Tool 2 = OVER-EXTRAPOLATION CHECK (Q95): 'meaning of the sentence' = only what is EXPLICITLY STATED. B adds an unstated positive consequence (stop = it naturally happens). The passage only states: searching = antithetical effect. Nothing about what happens when you stop.",
+        "Both are targeting errors — wrong paragraph",
+        "Both are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Two-part paraphrase mapping (Q94) + over-extrapolation check (Q95)",
+      "explanation": "[Tool 1: Two-part paraphrase mapping (Q94)]\nFor 'X or Y' questions: map each half independently\n\nHalf 1: 'recesses of collective imagination'\n→ enduring concept evoking common associations\n\nHalf 2: 'made over by successive generations'\n→ continually being redefined\n\nFix: never map the whole phrase at once\n= split into components, match each separately\n= A fails because it imports 'age groups' (new concept not in either half)\n\n[Tool 2: Over-extrapolation check (Q95)]\nPassage states: actively searching = antithetical (makes you seem opposite)\nPassage does NOT state: stop searching = cool happens naturally\n\nFix: for 'meaning of the sentence' questions:\n= list only what the sentence EXPLICITLY CLAIMS\n= reject any choice that adds unstated consequences\n= B adds: 'naturally happen if you stop' = not stated ✗\n= C stays: 'pursuing = opposite effect' = exactly stated ✓",
+      "action": "Meta Rule (Unit 94):\nTwo-part mapping: for 'X or Y' questions, map each half separately. Reject choices that import new concepts.\nOver-extrapolation: 'meaning of the sentence' = explicitly stated only. Reject choices adding unstated consequences (logical but not stated = still wrong)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
