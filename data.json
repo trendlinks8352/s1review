@@ -5444,5 +5444,26 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u93_q89_targeting_feet_belong_to_lecturer",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 93 — Q89 Targeting (C→B)",
+    "quiz": {
+      "question": "[Q89 — Targeting: In the film, the 'feet' (line 6) belong to ______]\n\nPassage (lines 5–7):\n'The first shot is at the level of feet, a TRACKING SHOT OF A PAIR OF FEET WALKING.\nAnd the second shot is a close-up of the STUDENT, SEATED,\nand he turns his head quickly.'\n\nPassage (lines 15–16):\n'The feet are a little bit distant, right? With the idea\nthat the feet are distant and the FELLOW HEARS THEM ANYWAY'\n\nPassage (lines 20–22):\n'the long shot of the FEET COMING DOWN THE CORRIDOR\nand then a shot of OUR GUY STANDING UP'\n\nQ: The 'feet' belong to ______.\n\nYour pick — C: <strong>a student in the film</strong>\nCorrect — B: <strong>the lecturer in the film</strong>\n\nWhy is the student REACTING to the feet, not OWNING them?",
+      "options": [
+        "C is correct because the film is about students at a film school",
+        "The film shows: feet walking → student REACTS (turns head, stands up). If the feet belonged to the student, the student would be reacting to their own feet = nonsensical. The context: the student HEARS the feet coming ('fellow hears them anyway') and RISES as an act of homage. The feet are APPROACHING from a distance (corridor) = someone arriving = the lecturer. Student reaction (standing up) = act of homage toward the approaching lecturer (owner of feet).",
+        "B is wrong because the lecturer isn't described as walking in the passage",
+        "C is correct because the student stands up and could be the one walking"
+      ],
+      "correctIdx": 1,
+      "answer": "② Student REACTS to the feet (hears them, turns head, stands up) = feet belong to someone approaching = the lecturer / if student owned the feet = reacting to own walking = nonsensical",
+      "explanation": "[The reaction logic]\nShot 1: feet walking (approaching)\nShot 2: student SEATED hears them + turns head quickly\n= the student is REACTING to approaching footsteps\n= you cannot react to your own feet walking\n= the feet must belong to SOMEONE ELSE = the lecturer ✓\n\n['Fellow hears them anyway' (line 16)]\n= 'the fellow' = the student\n= 'hears them' = hears the FEET\n= the student hears the feet from a distance\n= student is stationary hearing someone approach ✓\n\n[Lines 20–22 — clincher]\n'long shot of FEET COMING DOWN THE CORRIDOR'\n= feet are coming toward the student\n= approach = someone arriving\n\n'then a shot of OUR GUY STANDING UP'\n= our guy = the student stands up as a response\n= standing up = act of homage toward the arriving person\n= arriving person = lecturer (the one the student wants to show homage to)\n\n[The homage context]\nThe whole scene is designed to show HOMAGE to the lecturer\n= student stands up when lecturer arrives\n= feet = lecturer / rising student = act of homage = B ✓",
+      "action": "Action Rule (Q89): Student REACTS to the feet — turns head, stands up, hears them. If student owned the feet = reacting to own walking = absurd. Feet = approaching from corridor = the arriving lecturer. Student rising = act of homage toward the arriving feet-owner = B."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
