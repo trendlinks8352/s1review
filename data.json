@@ -5465,5 +5465,68 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u92_q77_paraphrase_first_world_not_universal",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 92 — Q77 Paraphrase (A→C)",
+    "quiz": {
+      "question": "[Q77 — Paraphrase: The first sentence points out that ______]\n\nPassage (lines 1–3):\n'If a new charter of the rights of people (in the <em>\"First World\"</em>) were to be drawn up,\nthere is no doubt that the right to be a tourist...\nwould be PROMINENT among its clauses.'\n\nQ: The first sentence points out that ______.\n\nYour pick — A: <strong>people have a universal claim to holidays abroad</strong>\nCorrect — C: <strong>holidays overseas are considered essential by people in Western societies</strong>\n\nWhy does 'universal' (A) over-expand the passage's 'First World' qualifier?",
+      "options": [
+        "A is correct because the right to a holiday should apply to everyone universally",
+        "'FIRST WORLD' = wealthy Western/developed nations — a specific subset of humanity. A: 'UNIVERSAL' = all people everywhere = expands First World to everyone. C: 'WESTERN SOCIETIES' = direct paraphrase of 'First World'. 'PROMINENT among clauses' → 'CONSIDERED ESSENTIAL'. A inflates a regional/class observation into a universal claim the passage never makes.",
+        "C is wrong because 'essential' is stronger than 'prominent'",
+        "A is correct because the passage says 'no doubt' showing strong universal certainty"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'First World' = Western wealthy nations (specific) / 'universal' = all people (too broad) / C = Western societies + considered essential = precise paraphrase",
+      "explanation": "[Scope mapping]\n'First World' = Western, wealthy, developed nations\n= a SPECIFIC SUBSET of humanity, not all people\n\n[Why A is Too Broad]\n'universal claim' = all people everywhere have this claim\n= universalises what the passage limits to 'First World'\n= A expands the scope beyond the passage ✗\n\n[Paraphrase chain → C]\n'First World' → 'WESTERN SOCIETIES' ✓\n= exact equivalent in modern usage\n\n'would be PROMINENT among its clauses'\n= prominent = important, central, highlighted\n→ 'considered ESSENTIAL' ✓\n= essential = necessary and important\n\n[Why 'no doubt' doesn't make it universal]\n'There is no doubt' = the author is certain about this claim\n= but the claim is STILL limited to First World people\n= certainty ≠ universality",
+      "action": "Action Rule (Q77): 'First World' = Western/developed nations specifically. A = 'universal' = all people = scope too broad. C = 'Western societies' = direct equivalent + 'considered essential' = 'prominent'. Always preserve the scope qualifiers the passage includes."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u92_q78_paraphrase_dreams_reality_not_costly",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 92 — Q78 Paraphrase (A→C)",
+    "quiz": {
+      "question": "[Q78 — Paraphrase: Why do tourists look 'bewildered, dazed, even at times despondent'?]\n\nPassage (lines 4–8):\n'The mythology of tourism is that of the <em>idyll</em>...\nBut whereas the ancient poets knew that idylls were an ART FORM,\nmodern tourists are PERSUADED TO BELIEVE that they can be BOUGHT\nfor the PRICE OF A PLANE TICKET and a hotel room.'\n\n= tourists believe the dream (idyll) is purchasable → reality disappoints\n\nQ: Tourists look bewildered/despondent because they ______.\n\nYour pick — A: <strong>do not realise that holiday pleasures are so costly</strong>\nCorrect — C: <strong>confuse their dreams with reality</strong>\n\nWhy does 'costly' (A) misread the 'price' reference?",
+      "options": [
+        "A is correct because 'price of a plane ticket' shows tourists are surprised by holiday costs",
+        "'Price of a plane ticket' = the cost they PAY believing it will buy the idyll (the dream). The tourists KNOW they pay for the ticket — their confusion is that they believe PAYING = GETTING THE DREAM. A: 'so costly' = tourists are shocked by the price of holidays. But the passage says they're bewildered because the dream CANNOT be bought — not because the price is too high. C: 'confuse their dreams with reality' = they mistake the art-form idyll for a purchasable reality = the actual cause.",
+        "C is wrong because the passage doesn't mention dreams explicitly",
+        "A is correct because 'price' implies the cost surprise is the main issue"
+      ],
+      "correctIdx": 1,
+      "answer": "② A misreads 'price': problem is NOT 'too expensive' but 'can't buy the dream'. C = idyll/mythology (dream) confused with purchased reality = correct cause of bewilderment",
+      "explanation": "['Price' in context — what it actually means]\nPassage: tourists believe they can 'BUY' the idyll 'FOR THE PRICE of a plane ticket'\n= the claim = paying money → getting the dream\n= the error = thinking money can purchase an art-form/fantasy\n\n[Why they are bewildered]\n= they paid the price expecting the dream (idyll)\n= they got a hotel room and a beach — NOT the idyll\n= the dream wasn't purchasable after all\n= bewildered = reality didn't match the dream\n\n[Paraphrase chain → C]\n'idyll' + 'mythology' = DREAMS (the art-form fantasy)\n'persuaded to believe they can be bought' = mistaking dream for purchasable REALITY\n= CONFUSE THEIR DREAMS WITH REALITY ✓\n\n[Why A is wrong]\nA: 'do not realise holiday pleasures are SO COSTLY'\n= requires: tourists are shocked by the HIGH PRICE\n= but the passage doesn't say the price is surprisingly high\n= the problem is that even after paying, you DON'T get the dream\n= cost level ≠ the issue / dream-reality confusion = the issue ✗",
+      "action": "Action Rule (Q78): 'Price of a plane ticket' = money they pay believing it buys the idyll (dream). The bewilderment = reality doesn't match the purchased dream (dream-reality confusion). A misreads as 'too expensive'. C = confuse dreams with reality = the actual cause. The price is not too high — the dream is not purchasable at any price."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u92_meta_scope_and_cause_misreading",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 92 — Meta: Scope Expansion + Cause Misreading",
+    "quiz": {
+      "question": "[Unit 92 — Meta Pattern]\n\nQ77: chose A (universal) — 'First World' is specific, not universal\nQ78: chose A (costly) — 'price' = buying a dream / not: holiday is too expensive\n\nTwo correction tools. Which correctly identifies them?",
+      "options": [
+        "Both are vocabulary errors — unfamiliar words like idyll and First World",
+        "Tool 1 = SCOPE PRESERVATION (Q77): preserve ALL qualifiers the passage includes. 'First World' ≠ 'universal'. Never expand a limited claim into a broader one. C keeps 'Western societies' = correct scope. Tool 2 = CAUSE IDENTIFICATION (Q78): identify the ACTUAL CAUSE of the described effect, not a superficially related word. 'Price' in context = the mechanism of buying the dream, not cost level. Tourists are bewildered because dream ≠ purchased reality (C), not because it's too expensive (A).",
+        "Both are targeting errors — wrong paragraph",
+        "Both are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Scope preservation (Q77: First World ≠ universal) + cause identification (Q78: price = dream-buying mechanism, not cost level)",
+      "explanation": "[Tool 1: Scope preservation (Q77)]\nPassage scope: 'First World' = Western developed nations\nA expands: 'universal' = all people everywhere\n= inflating a specific claim into a universal one\n\nFix: check every qualifier in the question's target sentence\n= 'First World' is a scope limiter\n= the correct answer must preserve that scope\n= C: 'Western societies' = exact scope equivalent ✓\n\n[Tool 2: Cause identification (Q78)]\nEffect: tourists look bewildered/despondent\nCause question: WHY?\n\nA's cause: 'too costly' = surprise at high price\nPassage's actual cause: dream believed purchasable → reality disappoints\n\nFix: identify the MECHANISM, not just the associated word\n'price' in passage = mechanism of dream-buying\n'price' in A = cost level\n= same word, different meaning in context\n= C's cause: dreams confused with reality = the actual mechanism ✓\n\n[Both errors: surface-level word matching]\nQ77: 'no doubt' → assumed = 'universal certainty' (wrong scope expansion)\nQ78: 'price' → assumed = 'costly' (wrong causal reading)\n= familiar words in the question led to surface-matching rather than meaning-matching",
+      "action": "Meta Rule (Unit 92):\nScope preservation: 'First World' ≠ 'universal'. Never expand a scoped claim without passage support.\nCause identification: ask 'what is the actual mechanism causing this effect?' Don't match words superficially — match meanings. 'Price' = buying-dream mechanism (not cost level)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
