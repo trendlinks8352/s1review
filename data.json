@@ -5591,5 +5591,68 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u90_q3_paraphrase_perform_for_themselves",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 90 — Q3 Paraphrase (B→C)",
+    "quiz": {
+      "question": "[Q3 — Paraphrase: Paul Hindemith's comment suggests that perfect musicians ______]\n\nPassage:\n'He would take a horse... and ride to a mountain FAR AWAY FROM HOUSES AND MEN.\nThere he would play his instrument and sing FOR HIS OWN ENLIGHTENMENT.'\n\nQ: This comment suggests that perfect musicians ______.\n\nYour pick — B: <strong>can only perform in solitude</strong>\nCorrect — C: <strong>perform for themselves and reject audiences</strong>\n\nWhy does B's 'only' eliminate it, and why does 'reject audiences' follow from 'far away from men'?",
+      "options": [
+        "B is correct because the musician specifically goes far away from all people to perform",
+        "'Can ONLY perform in solitude' = performing elsewhere is IMPOSSIBLE for perfect musicians. But the passage describes HOW the perfect musician exercises his art — it doesn't say he cannot perform elsewhere. C: 'for his own enlightenment' = performs for himself (not for audiences). 'Far away from houses and men' = he removes himself from where audiences are = functionally rejects/excludes audiences. C captures both: the purpose (for himself) and the implication (audiences excluded).",
+        "C is wrong because 'reject' is too strong when the musician just travels to the mountains",
+        "B is correct because the passage implies the musician only performs in the mountains"
+      ],
+      "correctIdx": 1,
+      "answer": "② B = 'only' = too absolute (passage = how he exercises art, not only possible way) / C = 'for himself' (enlightenment) + 'reject audiences' (far from men = audiences excluded) = both dimensions captured",
+      "explanation": "[Why B fails: the 'only' trap]\n'Can ONLY perform in solitude'\n= performing in non-solitude is IMPOSSIBLE\n= this is a very strong claim\n= the passage says: a perfect musician WOULD do this\n= not: he is INCAPABLE of performing otherwise\n= 'only' over-restricts ✗\n\n[Paraphrase chain → C]\n\n'for his OWN ENLIGHTENMENT'\n= the purpose is his own development/insight\n= not for applause, recognition, or audience reaction\n= PERFORM FOR THEMSELVES ✓\n\n'far away from HOUSES AND MEN'\n= he actively places himself where there are no people\n= no people = no audience = audiences functionally EXCLUDED\n= going away from men = rejecting/excluding the audience relationship\n= REJECT AUDIENCES ✓ (in intent, not literally saying 'go away')\n\n[The GAMSAT 'intent over text' principle]\nThe passage doesn't say 'he rejects audiences'\nBut: going far from men + performing for own enlightenment\n= his intent = not performance for others\n= the best fit inference = reject audiences\n\n[Why A and D also fail]\nA: 'practise' = technical skill development ≠ 'enlightenment' (spiritual/artistic fulfilment)\nD: 'contact with nature' = means/setting, not the purpose = purpose is enlightenment",
+      "action": "Action Rule (Q3): 'Only' in B = too absolute (passage = how he exercises art, not the only way). C maps two elements: 'for his own enlightenment' → performs for himself / 'far from houses and men' → audiences excluded/rejected. Intent inference is required: the 'why' of going to the mountain = to exclude audiences."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u90_q5_paraphrase_abstracts_as_idea",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 90 — Q5 Paraphrase (D→C)",
+    "quiz": {
+      "question": "[Q5 — Paraphrase: Roy Campbell's comment suggests 'Lovers of Humanity' ______]\n\nPassage:\n'I hate \"Humanity\" and all such ABSTRACTS: but I love PEOPLE.\nLovers of \"Humanity\" generally hate people and children,\nand keep parrots or puppy dogs.'\n\nQ: This comment suggests that 'Lovers of Humanity' ______.\n\nYour pick — D: <strong>love no more than they hate</strong>\nCorrect — C: <strong>only love people as an idea</strong>\n\nWhy does D miss the OBJECT of love/hate, and C capture the 'abstracts' correctly?",
+      "options": [
+        "D is correct because the passage says they hate people and children while claiming to love Humanity",
+        "D: 'love no more than they hate' = a QUANTITY comparison (how much they love vs hate). But the passage is about WHAT they love (abstracts/ideas) vs what they actually dislike (real people, children). C: 'only love people as AN IDEA' = 'Humanity' is an abstract = an idea in the mind. They love the abstract IDEA of people (Humanity) while hating actual real people. D misses the key distinction: abstract vs concrete. C = 'abstracts' → 'an idea' = correct paraphrase.",
+        "C is wrong because the passage doesn't use the word 'idea'",
+        "D is correct because they hate children and parrots showing they hate more than they love"
+      ],
+      "correctIdx": 1,
+      "answer": "② D = quantity comparison (how much) / passage = object comparison (what = abstracts vs real people) / C = 'Humanity' (abstract) → 'an idea' = correct paraphrase",
+      "explanation": "[The passage's core distinction]\nWhat they claim to love: 'Humanity' = ABSTRACT = a concept/idea in the mind\nWhat they actually do: 'hate PEOPLE and children' = real, concrete individuals\n\n= the critique: they love the ABSTRACT version of humanity\n= but dislike actual CONCRETE humans\n\n[Paraphrase chain → C]\n'Humanity' and 'all such ABSTRACTS'\n= abstracts = things that exist as ideas, not physical realities\n→ 'love people AS AN IDEA' = love the abstract concept, not real people ✓\n\n[Why D fails]\nD: 'love NO MORE than they hate'\n= asks: is the QUANTITY of love ≥ the quantity of hate?\n= this is a quantity/balance question\n\nThe passage: 'I HATE Humanity... I LOVE people'\n= the point is not the amount of love/hate\n= the point is: WHAT is loved/hated (abstract vs concrete)\n= D misidentifies the TYPE of argument being made ✗\n\n[The abstract/concrete distinction]\nLovers of Humanity: love ABSTRACT 'Humanity'\nReality: hate CONCRETE people and children\n= C captures this: 'only love people AS AN IDEA' (= as an abstract, not as real individuals)\n= C ✓",
+      "action": "Action Rule (Q5): The argument = abstract vs concrete, NOT quantity of love vs hate. D = quantity (how much) = wrong dimension. C = 'Humanity' (abstract) → 'as an idea' = people loved only in abstract form, not as real individuals. 'Abstracts' → 'an idea' = the core paraphrase."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u90_meta_only_trap_and_object_vs_quantity",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 90 — Meta: 'Only' Trap + Object vs Quantity",
+    "quiz": {
+      "question": "[Unit 90 — Meta Pattern]\n\nQ3: chose B (can ONLY perform in solitude) — 'only' = too absolute for what the passage says\nQ5: chose D (love no more than hate) — quantity argument / passage = what they love vs hate (object)\n\nTwo correction tools. Which correctly identifies them?",
+      "options": [
+        "Both are vocabulary errors — unfamiliar words like enlightenment and abstracts",
+        "Tool 1 = 'ONLY/NEVER/MUST' CHECK (Q3): when a choice contains absolute restrictors, verify the passage explicitly supports this degree. Passage says musician WOULD do this (describes how he exercises art) ≠ can ONLY perform this way. C avoids the absolute restriction. Tool 2 = OBJECT vs QUANTITY (Q5): identify whether the argument is about WHAT is loved/hated (object) or HOW MUCH (quantity). Passage = what they love is 'abstracts' vs what they dislike is real people = object argument. D = quantity argument = wrong dimension. C = love people as an idea (= abstract) = correct object.",
+        "Both are targeting errors — wrong sentence analysed",
+        "Both are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Only' absolute check (Q3) + object vs quantity dimension (Q5)",
+      "explanation": "[Tool 1: 'Only' absolute check (Q3)]\nB: 'can ONLY perform in solitude'\n= absolute: performing elsewhere = IMPOSSIBLE\n= passage: musician WOULD do this = describes his method\n= does NOT say: the only possible way\n\nFix: when a choice includes 'only/never/must', check passage explicitly supports it\n= if passage is descriptive (he does this) ≠ prescriptive (the only way) → reject 'only'\n\n[Tool 2: Object vs Quantity (Q5)]\nD: 'love NO MORE than hate' = QUANTITY dimension\n= asks: how much love vs hate?\n\nPassage: 'I hate Humanity... I love people'\n= 'Humanity' = abstract / 'people' = concrete\n= argument type = OBJECT dimension (what is loved)\n= not: how much love/hate\n\nFix: before choosing, identify what TYPE of argument the passage makes\n= abstract vs concrete = object argument → C\n= quantity of love/hate = irrelevant here → D eliminated",
+      "action": "Meta Rule (Unit 90):\n'Only/never/must' check: absolute restrictors require explicit passage support. Descriptive passages ≠ prescriptive absolutes.\nObject vs quantity: identify whether the argument is about WHAT (object) or HOW MUCH (quantity). 'Abstracts vs real people' = object argument. 'Love vs hate amount' = quantity argument = wrong dimension."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
