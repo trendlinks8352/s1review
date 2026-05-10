@@ -5528,5 +5528,68 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u91_q59_paraphrase_privileged_access",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 91 — Q59 Paraphrase (B→D)",
+    "quiz": {
+      "question": "[Q59 — Paraphrase: What does 'I asked and you let me hear' (line 10) suggest?]\n\nPoem context (lines 10–14):\n'I asked and you let me hear\nThe soft vowelly tongue to be heard now\n<em>No more for ever. For me.</em>\nYou enact old scenes, old ways...'\n\n= a dying language / the speaker alone hears it / a vanishing cultural transmission\n\nQ: The phrasing suggests that the last of his tribe ______.\n\nYour pick — B: <strong>is cut off from rest of society, unable to communicate</strong>\nCorrect — D: <strong>has something to which the speaker feels privileged to have access</strong>\n\nWhy does 'No more for ever. For me.' confirm D over B?",
+      "options": [
+        "B is correct because the poem describes Willie as lonely and isolated in city crowds",
+        "'No more for ever. FOR ME' = the language will die, but for NOW the speaker has exclusive access to it. 'For me' = the speaker alone receives this. 'I asked' = the speaker had to seek it out (it is not freely given) = access required effort = PRIVILEGED ACCESS. B: unable to communicate = his general social isolation, but in this specific moment he IS communicating (the speaker asked and he let her hear). D: the dying language available to her alone = something rare and precious = privileged access.",
+        "D is wrong because 'privileged' implies social class advantage",
+        "B is correct because 'no more for ever' means communication is already lost"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'No more for ever' = dying language / 'For me' = speaker alone receives it / 'I asked' = sought it out = access required effort = PRIVILEGED ACCESS (D) / B = general isolation ≠ this specific moment of communication",
+      "explanation": "['No more for ever. For me.' decoded]\n'No more for ever' = the language/culture is dying\n= after this, it will be gone\n\n'For me' = BUT RIGHT NOW the speaker has access\n= she alone hears what will soon disappear\n= this is EXCLUSIVE, RARE access\n\n['I asked' decoded]\n= the speaker had to REQUEST it\n= not freely available — required seeking out\n= effort to obtain = something not easily accessed\n= PRIVILEGED ✓\n\n[Paraphrase chain → D]\nDying language + exclusive access + required seeking\n= 'something to which the speaker feels PRIVILEGED to have ACCESS' ✓\n\n[Why B fails in this specific moment]\nB: 'cut off from rest of society, unable to communicate'\n= describes Willie's GENERAL social isolation (true in the poem overall)\n= but in THIS LINE (10): he IS communicating\n= 'you LET ME HEAR' = he actually shared the language\n= lines 12–14: he enacts old scenes for her\n= he is NOT unable to communicate in this moment\n= B describes his general condition, not what this specific line suggests ✗\n\n[Focus vs. context]\nThe question: what does THIS LINE (10) suggest?\n= focus on the SPEAKER'S experience of this moment\n= privilege of access = D ✓\n= not: Willie's general life condition = B ✗",
+      "action": "Action Rule (Q59): 'No more for ever. For me.' = dying language, speaker has exclusive rare access. 'I asked' = had to seek it = privileged access (D). B = general isolation = true overall but not what THIS line suggests. This specific moment = he IS communicating = D, not B."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u91_q60_paraphrase_dramatic_fulfilling",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 91 — Q60 Paraphrase (A→B)",
+    "quiz": {
+      "question": "[Q60 — Paraphrase: Lines 15–18 suggest the speaker sees that past life as ______]\n\nPoem lines 15–18:\n'You singer of ancient tribal songs,\nYou <em>leader once</em> in the corroboree,\nYou <em>twice in fierce tribal fights</em>\nWith wild enemy blacks from over the river,'\n\nContext: contrasted with present:\n'Lonely and lost... displaced person... lonely in teeming city crowds'\n\nQ: The speaker sees the past life as ______.\n\nYour pick — A: <strong>nostalgic and dreamy</strong>\nCorrect — B: <strong>dramatic and fulfilling</strong>\n\nWhy does 'leader' + 'fierce fights' = dramatic/fulfilling rather than nostalgic/dreamy?",
+      "options": [
+        "A is correct because the speaker looks back with longing at what was lost",
+        "'Leader once' = he had AUTHORITY and a defined role = FULFILLING (meaningful, purposeful). 'Fierce tribal fights' = intense, active, engaged with the world = DRAMATIC (vivid, intense). Contrasted with present: 'lonely, lost, displaced' = passive, purposeless. A: 'nostalgic and dreamy' = emotional longing, vague. But the poem gives SPECIFIC ACTIVE descriptions (leader, fighter) = not dreamy but vigorous and purposeful. The speaker presents the past as a full life with roles and challenges = dramatic and fulfilling.",
+        "B is wrong because 'fierce fights' suggests a negative or violent past",
+        "A is correct because the speaker is looking back from a sad present which creates nostalgia"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'leader once' = authority + purpose = FULFILLING / 'fierce fights' = intensity + active engagement = DRAMATIC / A = nostalgic/dreamy = vague emotional state ≠ the specific active vigour described",
+      "explanation": "[Lines 15–18 — what kind of past?]\n\n'LEADER once in the corroboree'\n= he had a defined role with status and purpose\n= FULFILLING: a life with meaning, position, identity ✓\n\n'TWICE in FIERCE tribal fights'\n= not once but twice = repeated, significant engagement\n= fierce = intense, full-blooded\n= DRAMATIC: vivid, eventful, high-stakes ✓\n\n[The contrast that confirms B]\nPast: leader, fighter, singer, part of a community\n= active, purposeful, vigorous\n\nPresent: lonely, lost, displaced, alone in city crowds\n= passive, purposeless, disconnected\n\n= the contrast makes the PAST = full and active = dramatic and fulfilling ✓\n\n[Why A (nostalgic and dreamy) fails]\nNostalgic = feeling of longing for the past (describes the SPEAKER's emotion, not the past itself)\nDreamy = vague, unreal quality\n\nBut lines 15–18 = specific, concrete, active descriptions:\n= leader (specific role) / twice (specific count) / fierce fights (specific events)\n= these are VIVID and REAL, not vague or dreamy\n= the question asks how the speaker 'sees the life described' = the quality of the past life\n= B: dramatic (vivid, intense) + fulfilling (purposeful) = the past life's actual quality ✓",
+      "action": "Action Rule (Q60): 'Leader once' = purpose and authority = fulfilling. 'Fierce tribal fights' = intensity, active engagement = dramatic. B = dramatic and fulfilling = the quality of the past life described. A = nostalgic/dreamy = the speaker's emotional state, not the past life's quality. Questions about 'how the speaker sees X' = the quality of X, not the speaker's emotional state."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u91_meta_specific_moment_vs_life_quality",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 91 — Meta: Specific Moment vs Life Quality",
+    "quiz": {
+      "question": "[Unit 91 — Meta Pattern]\n\nQ59: chose B (unable to communicate) — B = general isolation / this specific line = he IS communicating\nQ60: chose A (nostalgic and dreamy) — A = speaker's emotional state / question asks quality of the past life\n\nTwo correction tools. Which correctly identifies them?",
+      "options": [
+        "Both are vocabulary errors — unfamiliar poetic terms",
+        "Tool 1 = GENERAL vs SPECIFIC MOMENT (Q59): B describes Willie's general social isolation (true overall). But the question targets THIS LINE — in this specific moment, he IS communicating. 'No more for ever. For me.' = privileged exclusive access. Focus on what THIS line suggests, not the overall poem condition. Tool 2 = LIFE QUALITY vs SPEAKER'S EMOTION (Q60): A (nostalgic/dreamy) = the speaker's emotional state looking back. The question asks how the speaker 'sees the life' = the quality of the PAST LIFE itself. Lines 15–18 = leader + fierce fights = dramatic (vivid) and fulfilling (purposeful). Distinguish: the past life's qualities vs the speaker's feelings about the past.",
+        "Both are targeting errors — wrong line analysed",
+        "Both are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② General vs specific moment (Q59) + life quality vs speaker's emotion (Q60)",
+      "explanation": "[Tool 1: General vs specific moment (Q59)]\nWillie's general condition: lonely, displaced, isolated (true throughout poem)\nBut line 10 specifically: 'I asked and you LET ME HEAR' = he DID communicate\n\nFix: when a question targets a specific line, focus on THAT LINE's meaning\n= B describes his general condition, not what this line suggests\n= 'No more for ever. For me.' = privileged, exclusive, rare access = D\n\n[Tool 2: Life quality vs speaker's emotion (Q60)]\nA (nostalgic/dreamy) = how the SPEAKER FEELS about the past\nB (dramatic/fulfilling) = the QUALITY OF THE PAST LIFE itself\n\nFix: when asked 'how the speaker sees the life', answer = qualities of the life described\n= not the speaker's emotional response to it\n= past life = leader + fierce fights = specific active qualities = dramatic+fulfilling\n\n[Combined discipline]\nFor poetry questions about specific lines: focus on that line, not overall poem tone\nFor 'how the speaker sees X': describe X's qualities, not the speaker's feelings about X",
+      "action": "Meta Rule (Unit 91):\nGeneral vs specific moment: a specific line may say the opposite of the overall condition. Focus on what THAT LINE suggests.\nLife quality vs speaker's emotion: 'how the speaker sees the life' = the life's qualities (dramatic, fulfilling). Not the speaker's feelings (nostalgic, dreamy)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
