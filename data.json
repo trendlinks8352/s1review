@@ -5654,5 +5654,26 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u89_q28_paraphrase_aesthetic_satisfaction_direction",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 89 — Q28 Paraphrase (D→B)",
+    "quiz": {
+      "question": "[Q28 — Paraphrase: What did the Seventh Symphony provide Schönberg (lines 4–10)?]\n\nPassage (lines 4–10):\n'Perhaps I feared lest the impression might fade... But this time...\nthe impressions made on me by the Seventh... are <em>permanent</em>.'\n'I had the impression of <em>perfect repose</em> based on <em>artistic harmony</em>;\nof something that set me in motion without simply upsetting my centre of gravity...\nthat drew me <em>calmly and pleasingly</em> into its orbit...'\n\nQ: In lines 4–10 it seems that the Seventh Symphony provided Schönberg with ______.\n\nYour pick — D: <strong>a precious experience that he feared would never be repeated</strong>\nCorrect — B: <strong>an aesthetic satisfaction that offered a new and pleasing direction</strong>\n\nWhy does 'permanent' contradict D, and how do lines 7–10 map to B?",
+      "options": [
+        "D is correct because Schönberg was afraid to write immediately lest the impression fade",
+        "D: 'feared would never be repeated' = he feared it would be a one-off. But 'the impressions ARE PERMANENT' = the opposite — he is reassured it will last. D misreads 'feared lest it fade' (feared losing it) as 'feared it wouldn't recur' (different fear). B: 'perfect repose + artistic harmony + extraordinary pleasure' = AESTHETIC SATISFACTION. 'Drew me calmly and pleasingly into its orbit' = new PLEASING DIRECTION (orbit = trajectory/direction). B maps both elements from the passage.",
+        "B is wrong because 'new direction' is not explicitly stated in the passage",
+        "D is correct because Schönberg says 'permanent' meaning he fears losing the experience"
+      ],
+      "correctIdx": 1,
+      "answer": "② D misreads 'fear': feared fading (losing it) ≠ feared it wouldn't recur / 'permanent' = reassurance = D eliminated / B = perfect repose+harmony+pleasure = aesthetic satisfaction / orbit = direction = B",
+      "explanation": "[D's misreading of 'feared']\nPassage: 'I feared lest the impression might FADE'\n= he feared the memory/feeling would DIM over time\n= fear of LOSING the impression\n\nD: 'he feared it would NEVER BE REPEATED'\n= fear of NOT EXPERIENCING IT AGAIN\n= different fear (recurrence vs preservation)\n\n'The impressions... ARE PERMANENT'\n= he discovers: the impression will NOT fade\n= it is lasting/enduring\n= this directly contradicts D's claim that it would never recur\n= D ✗\n\n[Paraphrase chain → B]\n\n'perfect REPOSE based on ARTISTIC HARMONY'\n+ 'extraordinary PLEASURE'\n= AESTHETIC SATISFACTION ✓\n\n'drew me CALMLY AND PLEASINGLY into its ORBIT'\n= 'pleasingly' → PLEASING ✓\n= 'orbit' = trajectory, course = DIRECTION ✓\n= new orbit = a new pleasing DIRECTION ✓\n\n[The contrast that confirms 'new' direction]\nPast experience: 'lashes one... lose his balance' = violent upheaval\nThis time: 'set me in motion WITHOUT simply upsetting my centre of gravity'\n= different from before = NEW kind of motion\n= + 'calmly and pleasingly' = pleasing direction\n= new AND pleasing direction = B ✓",
+      "action": "Action Rule (Q28): 'Feared lest impression fade' = feared losing the feeling (not: feared no recurrence). 'Impressions are permanent' = contradicts D directly. B: 'perfect repose + artistic harmony + extraordinary pleasure' = aesthetic satisfaction / 'drew me pleasingly into its orbit' = pleasing + orbit=direction. The contrast with past violent experience confirms the 'new' aspect."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
