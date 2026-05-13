@@ -5675,5 +5675,131 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u88_q90_paraphrase_mobile_shift_attention",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 88 — Q90 Paraphrase (D→C)",
+    "quiz": {
+      "question": "[Q90 — Paraphrase: Symmetry in a painting ______]\n\nPassage I (lines 4–6):\n'This is the case also with works which are symmetrical,\nfor then the observer's attention is made <em>mobile</em>\nby the rapidity with which the observer drops the problem of understanding structure.'\n\nQ: According to Passage I, symmetry in a painting ______.\n\nYour pick — D: <strong>distracts the observer from the centre of interest</strong>\nCorrect — C: <strong>helps the observer to shift attention</strong>\n\nWhy does 'made mobile' = 'shift attention' and not 'distracted'?",
+      "options": [
+        "D is correct because symmetry removes the need to focus on the centre of interest",
+        "'Mobile' = able to move freely, not fixed in one place. The observer's attention becomes MOBILE = it can SHIFT freely. C: 'shift attention' = attention moves = direct paraphrase of 'made mobile'. D: 'distracts' = diverts attention in a negative/uncontrolled way = adds a negative connotation not in the passage. 'Made mobile' = neutral/positive freedom of movement. Distraction implies disruption; mobility implies free flow.",
+        "C is wrong because symmetry would fix attention on the balanced structure",
+        "D is correct because symmetry replaces the need for a centre of interest"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Made mobile' = attention can move freely = shift attention (C) / 'distract' = negative uncontrolled diversion = not what 'mobile' means",
+      "explanation": "['Made mobile' decoded]\nmobile = capable of movement, free to move\n= attention is no longer fixed\n= it can SHIFT from point to point\n\n[Paraphrase chain → C]\n'attention is made MOBILE'\n= attention can SHIFT freely ✓\n= C: 'helps the observer to SHIFT ATTENTION' ✓\n\n[Why D (distracts) fails]\ndistracts = pulls attention away in an uncontrolled, disruptive way\n= 'distract' has a NEGATIVE connotation (prevents focus, causes confusion)\n= but 'made mobile' = neutral/positive: free movement of attention\n= C: 'distract from centre of interest' implies the painting has a centre and symmetry disrupts it\n= but symmetrical paintings (like modern art) may NOT have a centre of interest\n= D adds a negative connotation and assumes a centre exists ✗",
+      "action": "Action Rule (Q90): 'Made mobile' = attention moves freely = shift attention (C). 'Distract' = negative, disruptive = adds connotation not in passage. Mobile = neutral free movement. Shift = neutral movement to new position. Match the VALENCE (neutral/positive) of 'mobile', not a negative interpretation."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u88_q91_targeting_shadows_enhance_no_centre",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 88 — Q91 Targeting (A→B)",
+    "quiz": {
+      "question": "[Q91 — Targeting: If a painting LACKS a centre of interest, shadows ______]\n\nPassage I (lines 7–9):\n'Whether or not a painting LACKS A CENTRE OF INTEREST may be determined\nby observing whether or not it is DESTROYED by the effects of shadows.\n(Intrusions of the environment are effects of time.\nBut they are WELCOMED by a painting which makes NO ATTEMPT TO FOCUS the observer's attention.)'\n\nQ: If a painting lacks a centre of interest, shadows ______.\n\nYour pick — A: <strong>will destroy it</strong>\nCorrect — B: <strong>may enhance it</strong>\n\nWhy does 'welcomed' = enhance, and when does 'destroy' apply?",
+      "options": [
+        "A is correct because shadows destroy the subtle effects in complex paintings",
+        "'Welcomed' = received positively = shadows are BENEFICIAL in this case = they may ENHANCE the painting. B: 'welcomed' → 'may enhance' ✓. A: 'destroyed by shadows' = what happens to paintings WITH a centre of interest (shadows disrupt the focus). The question's condition = lacks a centre = the OPPOSITE case. A applies the WRONG condition (has centre, not lacks centre).",
+        "B is wrong because shadows could still damage paintings without a focal point",
+        "A is correct because all paintings can be damaged by environmental intrusions"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Welcomed' (lacks centre) = beneficial = enhance (B) / 'Destroyed' applies to paintings WITH a centre = wrong condition for A",
+      "explanation": "[The passage's conditional structure]\nCondition 1 (HAS centre of interest):\n= shadows DESTROY the painting\n= shadows disrupt the focused structure\n\nCondition 2 (LACKS centre of interest):\n= shadows are WELCOMED\n= no fixed focus to disrupt\n= shadows move attention freely = welcome\n\n[Question condition: LACKS a centre]\n= we are in Condition 2\n= shadows = WELCOMED = positive = ENHANCE ✓\n= B ✓\n\n[Why A fails]\nA: 'will DESTROY it'\n= applies to Condition 1 (HAS centre)\n= but the question specifies LACKS centre = Condition 2\n= applying Condition 1 logic to a Condition 2 question = wrong ✗\n\n['Welcomed' → 'may enhance']\nwelcomed = received with approval, positively\n= something welcomed = it helps/improves the situation\n= 'may enhance' = can improve the painting ✓",
+      "action": "Action Rule (Q91): Two conditions: HAS centre (shadows destroy) / LACKS centre (shadows welcomed). Question specifies LACKS centre → welcomed → enhance (B). A applies the wrong condition (destroy = has centre). Always identify which condition the question targets."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u88_q93_vocab_renounce_fixed_inflexible",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 88 — Q93 Paraphrase (A→B)",
+    "quiz": {
+      "question": "[Q93 — Paraphrase: A composer may renounce harmony because it is ______]\n\nPassage II (lines 4–6):\n'...he <em>renounces</em> harmony and its effect of fusing sounds in a <em>fixed relationship</em>...'\n\nrenounce = to give up / abandon\nfixed relationship = sounds locked into a set, unchanging pattern\n\nQ: A composer may renounce harmony because it is ______.\n\nYour pick — A: <strong>unstable</strong>\nCorrect — B: <strong>inflexible</strong>\n\nHow does 'fixed relationship' → 'inflexible'?",
+      "options": [
+        "A is correct because harmony creates tension between sounds that feels unstable",
+        "'Fixed relationship' = sounds are in a SET, UNCHANGING relationship = they cannot adapt or move = INFLEXIBLE. B: 'inflexible' = not flexible, cannot be changed = direct paraphrase of 'fixed'. A: 'unstable' = not steady, liable to change = the OPPOSITE of 'fixed'. A reverses the meaning: fixed = stable/unchanging ≠ unstable. The composer RENOUNCES harmony because it is too FIXED (inflexible), not because it is unstable.",
+        "B is wrong because inflexible doesn't capture the musical nature of harmony",
+        "A is correct because harmony can destabilise compositions by locking sounds together"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Fixed relationship' = set/unchanging = INFLEXIBLE (B) / 'unstable' = liable to change = OPPOSITE of 'fixed' = wrong direction",
+      "explanation": "[Vocab: renounce]\nrenounce = give up, abandon, reject\n= the composer ABANDONS harmony\n\n[Why he abandons it]\n'its effect of fusing sounds in a FIXED RELATIONSHIP'\n= fixed = set, rigid, cannot change\n= sounds are locked together in one pattern\n\n[Paraphrase chain → B]\nfixed = not flexible = INFLEXIBLE ✓\n= B: inflexible = direct synonym of 'fixed'\n\n[Why A (unstable) is the opposite]\nfixed = stable, unchanging, reliable\nunstable = NOT stable, liable to change\n= fixed and unstable = ANTONYMS\n= the problem is: harmony is too STABLE/FIXED (can't adapt)\n= A says the opposite of what the passage means ✗\n\n[The logic of renouncing]\nComposer gives up harmony BECAUSE it is TOO FIXED/INFLEXIBLE\n= he wants sounds to be free/flexible\n= harmony = the constraint = inflexible = B ✓",
+      "action": "Action Rule (Q93): 'Fixed relationship' = sounds in a set, unchanging pattern = inflexible (B). 'Unstable' = opposite of fixed = wrong direction. Renounce harmony BECAUSE it is too fixed (inflexible) — he wants more freedom. Key vocab: renounce = give up/abandon."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u88_q95_targeting_several_people_not_creator",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 88 — Q95 Targeting (A→D)",
+    "quiz": {
+      "question": "[Q95 — Targeting: 'In architecture, where labour is divided as it is in music' (line 15) — both are ______]\n\nPassage II (lines 8–15):\n'In addition, musicians, since they are <em>several people rather than one person</em>\nas a painter or sculptor is...\nIn architecture, where LABOUR IS DIVIDED as it is in music...'\n\nQ: Both architecture and music ______.\n\nYour pick — A: <strong>are functional</strong>\nCorrect — D: <strong>are usually executed by people other than the creator</strong>\n\nWhy does 'labour is divided + several people' = executed by others?",
+      "options": [
+        "A is correct because both architecture and music serve functional purposes in society",
+        "'Several people rather than one person' = multiple people involved. 'Labour is divided' = the work is split among different people. A composer writes the score but PERFORMERS (freemen, not servants) execute it. In architecture, the architect designs but builders/workers execute it. D: 'executed by people OTHER THAN THE CREATOR' = the creator ≠ the executor = direct paraphrase of 'several people' + 'labour divided'. A = functional = not mentioned in this context = importing background knowledge.",
+        "D is wrong because the passage says musicians are 'freemen', not separated from the creator",
+        "A is correct because both music and architecture follow structural laws"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Several people' + 'labour divided' = creator ≠ executor = executed by people other than the creator (D) / A = functional = background knowledge = not in this passage",
+      "explanation": "[Passage evidence for D]\n'musicians, since they are SEVERAL PEOPLE rather than ONE PERSON as a painter is'\n= music = many people involved (composer + performers)\n= the composer creates, the performers execute\n= creator ≠ executor\n\n'In architecture, where LABOUR IS DIVIDED as it is in music'\n= architecture: architect designs, workers build\n= the creator does not personally execute all the work\n\n[Paraphrase chain → D]\nSeveral people + labour divided\n= one person creates, others execute\n= 'executed by people OTHER THAN THE CREATOR' ✓\n\n[Why A (functional) fails]\n'Functional' = serves a practical purpose\n= NOT mentioned in this passage section about music and architecture\n= A = background knowledge import about architecture/music\n= the passage is about labour division, not function\n= A ✗",
+      "action": "Action Rule (Q95): 'Several people' + 'labour divided' = creator ≠ executor = D (executed by people other than the creator). A = functional = background knowledge not in passage. Always use PASSAGE EVIDENCE, not general knowledge about architecture or music."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u88_q96_targeting_centre_parallels_climax",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 88 — Q96 Targeting (B→C)",
+    "quiz": {
+      "question": "[Q96 — Targeting: Which aspect of Passage I parallels 'single overwhelming climax' in Passage II?]\n\nPassage II (lines 2–4):\n'A composer at this moment frees his music of a single overwhelming CLIMAX.\nSeeking an interpenetration and non-obstruction of sounds...'\n= abandons: one dominant focal peak\n\nPassage I (lines 1–2):\n'The enjoyment of a modern painting carries one's attention NOT TO A CENTRE OF INTEREST\nbut all over the canvas...'\n= abandons: one dominant focal point\n\nQ: Which aspect of Passage I most closely parallels 'single overwhelming climax'?\n\nYour pick — B: <strong>symmetry</strong>\nCorrect — C: <strong>a centre of interest</strong>\n\nWhy is 'centre of interest' the parallel, not 'symmetry'?",
+      "options": [
+        "B is correct because symmetry creates a single powerful focal effect similar to a climax",
+        "'Single overwhelming climax' = ONE dominant peak/focal point in music. Passage I = 'centre of INTEREST' = one dominant focal point in painting (attention drawn to a specific area). Both = the concept of a single dominant focus that modern art/music abandons. B: symmetry = a technique that HELPS move attention around — it is NOT the single focal point being abandoned. C: centre of interest = the single focal concept that painting abandons = parallel to the single climax that music abandons.",
+        "C is wrong because a 'climax' is temporal but 'centre of interest' is spatial",
+        "B is correct because symmetry = balance = similar to the balance of a climax"
+      ],
+      "correctIdx": 1,
+      "answer": "② Single climax (music) = one dominant focal peak abandoned / Centre of interest (painting) = one dominant focal point abandoned = C / Symmetry = technique enabling movement = different concept",
+      "explanation": "[The parallel structure]\nPassage II: composer abandons 'SINGLE OVERWHELMING CLIMAX'\n= abandons: ONE dominant peak\n= modern music: attention spreads, not focused on one climax\n\nPassage I: modern painting NOT to 'A CENTRE OF INTEREST'\n= abandons: ONE dominant focal point\n= modern painting: attention goes ALL OVER THE CANVAS, not one spot\n\n[The parallel]\nSingle climax (one dominant peak in music)\n= Centre of interest (one dominant focal point in painting)\n= BOTH = the concept of a SINGLE DOMINANT FOCUS\n= BOTH = what modern art ABANDONS\n= C ✓\n\n[Why B (symmetry) is the wrong concept]\nSymmetry in Passage I = a TECHNIQUE that helps the observer move attention\n= it is a METHOD that facilitates free movement\n= NOT the thing being abandoned\n= symmetry is something modern paintings HAVE that helps observers shift attention\n= it is not the 'single focus' concept\n\n[The abandonment structure]\nBoth passages: modern art/music = abandons ONE dominant focus\nPassage I: that dominant focus = centre of interest\nPassage II: that dominant focus = single overwhelming climax\n= parallel = C ✓",
+      "action": "Action Rule (Q96): 'Single overwhelming climax' = one dominant focal peak that modern music abandons. Find what Passage I abandons as its one dominant focus = 'centre of interest'. C = correct parallel. Symmetry (B) = a technique enabling movement = different concept = not what's being abandoned."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u88_meta_conditions_valence_background",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 88 — Meta: Conditions + Valence + Background Knowledge",
+    "quiz": {
+      "question": "[Unit 88 — Meta Pattern]\n\nQ90: chose D (distracts) — 'mobile' = neutral/positive / 'distract' = negative connotation added\nQ91: chose A (destroy) — applied the WRONG condition (has centre vs lacks centre)\nQ93: chose A (unstable) — 'fixed' = stable/rigid / 'unstable' = opposite direction\nQ95: chose A (functional) — background knowledge / passage = labour division only\nQ96: chose B (symmetry) — symmetry = technique / centre of interest = the focal concept abandoned\n\nThree correction tools cover all five. Which correctly identifies them?",
+      "options": [
+        "All five are vocabulary errors — unfamiliar art and music terms",
+        "Tool 1 = VALENCE MATCHING (Q90, Q93): 'mobile' = neutral positive (not negative). 'Fixed' = stable/rigid (not unstable = opposite). Match the emotional/directional register, not just the meaning. Tool 2 = CONDITION TARGETING (Q91): passage has TWO conditions. 'Lacks centre' = condition 2 (shadows welcomed = enhance). 'Has centre' = condition 1 (shadows destroy). Always identify which condition the question targets before answering. Tool 3 = PASSAGE ANCHOR ONLY (Q95, Q96): Q95 = 'functional' = background knowledge, not in passage. Q96 = 'symmetry' = technique in Passage I, not the abandoned focal concept. Only use what the passage explicitly states.",
+        "All five are targeting errors — wrong passage section used",
+        "All five are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Valence matching + condition targeting + passage anchor only — three tools",
+      "explanation": "[Tool 1: Valence matching (Q90, Q93)]\nQ90: 'mobile' = neutral free movement\n→ C: 'shift' = neutral movement ✓\n→ D: 'distract' = negative disruptive = wrong valence ✗\n\nQ93: 'fixed' = stable, rigid, unchanging\n→ B: 'inflexible' = not flexible = same valence ✓\n→ A: 'unstable' = not stable = OPPOSITE valence ✗\n\nFix: check the word's emotional/directional charge before choosing\n\n[Tool 2: Condition targeting (Q91)]\nTwo conditions in passage:\nHAS centre → shadows DESTROY\nLACKS centre → shadows WELCOMED\n\nQuestion: LACKS centre → welcomed → enhance (B)\nA applies HAS centre logic = wrong condition ✗\n\nFix: always identify which condition the question specifies before matching\n\n[Tool 3: Passage anchor only (Q95, Q96)]\nQ95: 'functional' = general knowledge about architecture/music\n= NOT in the passage text = reject\n= passage says: labour divided, several people = D\n\nQ96: 'symmetry' = a technique described in Passage I\n= NOT the concept being abandoned\n= centre of interest = what's abandoned = parallel to climax = C\n\nFix: match only to PASSAGE TEXT, never to background knowledge",
+      "action": "Meta Rule (Unit 88):\nValence: match the charge (neutral/positive/negative) of the passage word. 'Mobile' = neutral, 'fixed' = stable — don't reverse directions.\nCondition: identify which condition (has/lacks centre) before answering. Wrong condition = wrong answer.\nPassage anchor: reject background knowledge. Only use what the passage explicitly states."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
