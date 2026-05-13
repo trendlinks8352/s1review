@@ -5801,5 +5801,110 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u87_q96_paraphrase_separate_entities_staging",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 87 — Q96 Paraphrase (C→B)",
+    "quiz": {
+      "question": "[Q96 — Paraphrase: Connection between installation art and theatre via 'staging']\n\nPassage (lines 1–5):\n'Installation art is one example of a new image of modern art:\ninstallation bric-a-brac, films and videos — things lying around, <em>staging meanings</em>.\nInstallations break up pleasure because they are literally broken up and\nthe pleasure or meaning <em>isn't all concentrated in a single object</em>.'\n\nQ: What connection does Collings make between installation art and theatre?\n\nYour pick — C: <strong>The 'staginess' of both sets them apart from other art forms</strong>\nCorrect — B: <strong>In both, meaning is contributed by separate entities interacting in time and space</strong>\n\nHow does 'isn't concentrated in a single object' → 'separate entities interacting'?",
+      "options": [
+        "C is correct because both installation art and theatre have a quality of being 'staged'",
+        "'Staging meanings' = like theatre, multiple elements (actors, props, set) in time and space CREATE meaning together. 'Isn't all concentrated in a SINGLE OBJECT' = meaning is spread across MULTIPLE SEPARATE elements. B: 'separate entities interacting in time and space' = the multiple elements + time + space = direct paraphrase. C: 'staginess' = the theatrical quality of SEEMING staged = not the mechanism of how meaning is created. B describes the MECHANISM (separate entities interacting). C describes a QUALITY (looking theatrical).",
+        "B is wrong because 'entities' is too abstract for what Collings describes",
+        "C is correct because installation art is designed to be watched like a play"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Isn't in a single object' = spread across multiple elements / 'staging meanings' = elements interacting in time and space / B = separate entities interacting = mechanism / C = staginess = aesthetic quality = different concept",
+      "explanation": "[The theatrical parallel]\nTheatre: actors + props + set + time + space → meaning\n= many SEPARATE ENTITIES (actors, props, lighting)\n= INTERACTING across TIME (narrative) and SPACE (stage)\n\nInstallation art: bric-a-brac + films + videos + things lying around\n= many SEPARATE ENTITIES scattered\n= INTERACTING across TIME and SPACE (of the gallery)\n\n[Paraphrase chain → B]\n'staging meanings' + 'things lying around' + 'isn't in a single object'\n= multiple separate elements + interaction in time/space = B ✓\n\n[Why C (staginess) fails]\n'Staginess' = the quality of APPEARING theatrical/staged\n= an aesthetic quality or impression\n= but B asks about the MECHANISM (HOW meaning is created)\n= the mechanism = separate entities interacting ✓\n= C describes an appearance, not the underlying connection ✗",
+      "action": "Action Rule (Q96): 'Not concentrated in a single object' + 'staging meanings' = multiple separate elements interacting in time/space = B. C = 'staginess' = an aesthetic quality = different from the mechanism. B describes HOW meaning is created; C describes what it LOOKS LIKE."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u87_q97_paraphrase_dumbed_down_short_cut",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 87 — Q97 Paraphrase (D→B)",
+    "quiz": {
+      "question": "[Q97 — Paraphrase: Collings believes commentaries on modern art have ______]\n\nPassage (lines 7–11):\n'The arguments are straightforwardly unreal, with everyone happily talking\nin <em>short-cut versions</em> of formerly difficult ideas\n<em>only roughly connected</em> to the short-cuts everyone else is using.\nAnd the artworks only roughly seem to stand for the ideas.'\n\nQ: Commentaries on modern art have ______.\n\nYour pick — D: <strong>caused the fragmentation one sees in modern art itself</strong>\nCorrect — B: <strong>become 'dumbed down' to the extent that they bear little relation to the art</strong>\n\nHow does 'short-cut versions + only roughly connected' = 'dumbed down + little relation'?",
+      "options": [
+        "D is correct because commentaries on fragmented installation art have caused fragmentation in the art",
+        "'Short-cut versions of formerly difficult ideas' = simplified, reduced versions = DUMBED DOWN. 'Only ROUGHLY connected' to what others are saying + 'artworks only roughly SEEM TO STAND for the ideas' = the commentaries barely relate to each other and to the actual art = LITTLE RELATION TO THE ART. B maps both: short-cut = dumbed down / only roughly = little relation. D: fragmentation = refers to art's physical form, not commentaries causing art's nature.",
+        "B is wrong because 'dumbed down' is too colloquial for an academic observation",
+        "D is correct because short-cut commentaries fragment the discussion into disconnected pieces"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Short-cut versions' = simplified = dumbed down / 'only roughly connected' to art = little relation = B / D = fragmentation of art form = different concept",
+      "explanation": "['Short-cut versions' decoded]\n'short-cut versions of formerly DIFFICULT ideas'\n= originally complex ideas → now presented in simplified form\n= DUMBED DOWN = simplified/reduced in complexity ✓\n\n['Only roughly connected' decoded]\n'only ROUGHLY connected to the short-cuts everyone else is using'\n= barely connected to the discourse\n'artworks only ROUGHLY seem to stand for the ideas'\n= artworks barely represent the ideas being discussed\n= LITTLE RELATION TO THE ART ✓\n\n[Paraphrase chain → B]\nshort-cut (dumbed down) + roughly connected (little relation)\n= B: 'dumbed down' + 'bear little relation to the art' ✓\n\n[Why D fails]\nD: 'caused the fragmentation one sees in modern art itself'\n= this would require: commentaries CAUSED art's fragmented form\n= the passage is about commentary quality/accuracy\n= NOT about what caused art to become fragmented\n= D reads a causal relationship not in the passage ✗",
+      "action": "Action Rule (Q97): 'Short-cut versions' = dumbed down (simplified). 'Only roughly connected' = little relation. B maps both precisely. D = fragmentation of art form = different topic (commentaries didn't cause art's fragmentation; the passage criticises their accuracy/depth)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u87_q98_targeting_needs_help_distinguishing",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 87 — Q98 Targeting (B→C)",
+    "quiz": {
+      "question": "[Q98 — Targeting: Implication of paragraph 3 for the AVERAGE PERSON]\n\nPassage (lines 14–16):\n'The art must be unconventional but the galleries must be conventional\n<em>so you can tell it's really art in them</em>\nand not just something left over from a party or a murder.'\n\nQ: An implication of the third paragraph is that the average person ______.\n\nYour pick — B: <strong>prefers art that is closely related to ordinary experience</strong>\nCorrect — C: <strong>needs help distinguishing between art and non-art</strong>\n\nWhy does 'so you can tell it's really art' confirm C?",
+      "options": [
+        "B is correct because the passage describes installation art as made from everyday objects like bric-a-brac",
+        "The passage explicitly states galleries must be conventional 'SO YOU CAN TELL it's really art... and not just something left over from a party or a murder'. This means: without the conventional gallery context = people cannot tell what is art and what isn't. C: 'needs help distinguishing between art and non-art' = the conventional gallery = the HELP needed. B: 'prefers art related to ordinary experience' = about preference/taste = not what the passage says (it says they need HELP to IDENTIFY art, not that they PREFER ordinary art).",
+        "C is wrong because the passage doesn't explicitly say ordinary people can't tell art from non-art",
+        "B is correct because grungy realistic ordinariness is described as pleasurable"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'So you can tell it's really art' = without conventional gallery context = cannot identify art = needs HELP distinguishing (C) / B = preference for ordinary art = different reading",
+      "explanation": "['So you can tell' decoded]\n'galleries must be conventional SO YOU CAN TELL it's really art'\n= IF galleries weren't conventional:\n→ you COULDN'T TELL what is art\n→ you might think it's left over from a party\n\n= the conventional gallery = the mechanism that tells you 'this is art'\n= without it = you can't distinguish art from non-art\n\n[Implication → C]\nAverage person: cannot distinguish art from non-art without help\n= NEEDS HELP distinguishing between art and non-art\n= C ✓\n\n[Why B (preference) fails]\nB: 'prefers art closely related to ordinary experience'\n= about what kind of art they PREFER\n= the passage makes no statement about their taste or preference\n= the passage says: they need help IDENTIFYING art\n= identifying ≠ preferring ✗",
+      "action": "Action Rule (Q98): 'So you can tell it's really art' = without conventional gallery, can't distinguish art from non-art = needs help distinguishing (C). B = preference/taste = different reading. The passage is about IDENTIFICATION ability, not preference."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u87_q99_paraphrase_bland_reserve_dryness",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 87 — Q99 Paraphrase (C→A)",
+    "quiz": {
+      "question": "[Q99 — Paraphrase: In contrast to their art, modern artists are ______]\n\nPassage (lines 17–19):\n'The things artists say on TV or in magazine articles...\nWith very few exceptions they tend to be full of <em>reserve and dryness</em>\neven though their art might be vivid.'\n\nQ: Collings suggests that in contrast to their art, modern artists are ______.\n\nYour pick — C: <strong>meek</strong>\nCorrect — A: <strong>bland</strong>\n\nHow do 'reserve and dryness' map to 'bland' and not 'meek'?",
+      "options": [
+        "C is correct because 'reserve' means holding back = meek/submissive",
+        "'Reserve and DRYNESS' = lacking personality/interest, flat, characterless = BLAND. A: bland = dull, lacking strong character = direct paraphrase of 'dryness'. C: meek = submissive, lacking assertiveness = captures 'reserve' but NOT 'dryness'. The passage uses BOTH 'reserve' AND 'dryness' — the combination points to blandness (uninteresting, characterless) not meekness (submissiveness). A captures the full combination better.",
+        "A is wrong because 'bland' is too harsh a description for reserved artists",
+        "C is correct because artists 'hold back' their opinions, suggesting meekness"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Reserve AND dryness' together = bland (characterless, uninteresting) / C = meek = submissive = captures 'reserve' only, misses 'dryness' / A captures both elements",
+      "explanation": "[The two-word combination]\n'RESERVE and DRYNESS'\n= reserve = holding back, not expressing freely\n= dryness = lacking warmth, personality, colour\n\n[Paraphrase chain → A]\nreserve + dryness\n= characterless, flat, uninteresting, lacking vivid personality\n= BLAND ✓\n= bland = dull and uninteresting, lacking strong flavour/character\n\n[Why C (meek) only captures half]\nC: meek = submissive, timid, lacking assertiveness\n= captures RESERVE (holding back) ✓\n= does NOT capture DRYNESS (flat/characterless) ✗\n= meek ≠ dry\n\n[The contrast confirmed]\nArt: VIVID (bright, striking, lively)\nArtists' words: reserve + dryness = BLAND (the opposite of vivid)\n= vivid ↔ bland = perfect contrast\n= vivid ↔ meek = not a perfect contrast\n\n[A maps the contrast]\nvivid art vs bland speech = A ✓\nvivid art vs meek speech = C ✗ (meek ≠ dull/dry)",
+      "action": "Action Rule (Q99): 'Reserve AND dryness' = both words matter. Bland = captures both (flat, characterless, uninteresting). Meek = captures only reserve (submissive). The contrast: vivid art vs bland speech = A. Vivid ↔ bland = perfect antonym pair. Check: does the choice capture ALL elements?"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u87_meta_mechanism_vs_quality_identification",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 87 — Meta: Mechanism vs Quality + Full-word Mapping",
+    "quiz": {
+      "question": "[Unit 87 — Meta Pattern]\n\nQ96: chose C (staginess) — aesthetic quality / B = mechanism of meaning-creation\nQ97: chose D (fragmentation) — wrong causal reading / B = short-cut+roughly = dumbed down+little relation\nQ98: chose B (preference) — identification ≠ preference / C = needs help to identify\nQ99: chose C (meek) — captures reserve only / A = bland = captures both reserve+dryness\n\nThree correction tools cover all four. Which correctly identifies them?",
+      "options": [
+        "All four are vocabulary errors — unfamiliar words",
+        "Tool 1 = MECHANISM vs QUALITY (Q96): B = HOW meaning is created (mechanism: separate entities interacting). C = WHAT IT LOOKS LIKE (quality: staginess). Match the type of connection asked. Tool 2 = FULL TWO-ELEMENT MAPPING (Q99): 'reserve AND dryness' = two words, both must be captured. Bland = both (flat + characterless). Meek = reserve only. Always verify all elements of a compound description are covered. Tool 3 = IDENTIFICATION vs PREFERENCE (Q98): passage says 'so you can TELL it's art' = identification ability. B says 'prefers' = preference/taste. Distinguishing = C, not preference = B.",
+        "All four are targeting errors — wrong paragraph",
+        "All four are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Mechanism vs quality (Q96) + full two-element mapping (Q99) + identification vs preference (Q98)",
+      "explanation": "[Tool 1: Mechanism vs quality (Q96)]\nB: HOW meaning is created = separate entities interacting = mechanism\nC: WHAT it looks like = staginess = aesthetic quality\n\nFix: identify what TYPE of connection the question asks about\n= mechanism (how) or quality (what it looks/feels like)\n\n[Tool 2: Full two-element mapping (Q99)]\n'Reserve AND dryness' = two distinct qualities\nBlend = reserve (holding back) + dryness (flat/characterless) = both ✓\nMeek = reserve (holding back) only = incomplete ✗\n\nFix: when a description has TWO elements, verify the chosen answer captures BOTH\n= incomplete capture = wrong answer\n\n[Tool 3: Identification vs preference (Q98)]\n'So you can TELL it's art' = IDENTIFICATION\nB: 'prefers' = PREFERENCE\n\nFix: distinguish between ABILITY (can identify) and TASTE (prefers)\n= the passage is about identification ability, not preference\n\n[Summary applications]\nQ96: mechanism = B / quality = C (wrong type)\nQ97: commentaries degraded (short-cut + roughly) = B / caused fragmentation = D (wrong causal direction)\nQ98: identification ability = C / preference = B (wrong category)\nQ99: reserve+dryness = bland (A) / meek = reserve only (incomplete)",
+      "action": "Meta Rule (Unit 87):\nMechanism vs quality: match the type of relationship asked (how meaning is made vs what it looks like).\nFull two-element mapping: compound descriptions require both elements captured. Meek = reserve only = incomplete.\nIdentification vs preference: 'can tell' = identification ability / 'prefers' = taste. Different categories."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
