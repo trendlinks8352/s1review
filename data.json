@@ -5906,5 +5906,110 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u86_q84_paraphrase_consolation_conscripted",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 86 — Q84 Paraphrase (A→C)",
+    "quiz": {
+      "question": "[Q84 — Paraphrase: Why did Esquire describe a glamorous man as 'Tall, Dark and Drafted'?]\n\nPassage (Extract 1, lines 1–2):\n'Shortly after World War Two broke out, Esquire,\nperhaps <em>putting the best face on things</em>,\nwrote that a glamorous man was 'Tall, Dark and DRAFTED'.'\n\ndrafted = conscripted into the military\n'putting the best face on things' = making a difficult situation sound positive\n\nQ: The reason Esquire described the man this way was to ______.\n\nYour pick — A: <strong>promote fashions with a military influence</strong>\nCorrect — C: <strong>provide some consolation for being conscripted</strong>\n\nHow does 'putting the best face on things' + 'drafted' map to C?",
+      "options": [
+        "A is correct because the passage says 'fashion began to show a military influence' showing military themes were being promoted",
+        "'Putting the best face on things' = making an unpleasant situation seem positive = CONSOLATION. 'Drafted' = CONSCRIPTED (forced military service). By calling a drafted man 'glamorous', Esquire made the best face of being conscripted = providing consolation. A: 'promote fashions with military influence' = about fashion promotion = but the passage is about consoling men being forced into service, not about promoting military fashion styles.",
+        "C is wrong because consolation implies the situation was bad, but glamorous = positive",
+        "A is correct because 'vogue' and 'battle jackets' show military fashion was being promoted"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Putting the best face on things' = consolation / 'drafted' = conscripted / making being drafted sound glamorous = providing consolation for conscription = C",
+      "explanation": "['Putting the best face on things' decoded]\n= making a negative/difficult situation sound as positive as possible\n= providing comfort/consolation for something unavoidable\n\n['Drafted' = conscripted]\n= drafted = called up for compulsory military service\n= conscripted = the formal term = C ✓\n\n[Paraphrase chain → C]\n'putting the best face on things' → CONSOLATION\n'drafted' → CONSCRIPTED\n= making being conscripted sound glamorous\n= providing consolation for being conscripted\n= C ✓\n\n[Why A (military fashion) fails]\nA: 'promote fashions with a military influence'\n= this would mean: Esquire is advertising military-style clothes\n= but the 'Tall, Dark and Drafted' line is about consoling men being called up\n= NOT about promoting specific military-influenced fashion items\n\n['Drafted' in the phrase]\n= 'Tall' and 'Dark' = traditionally handsome attributes\n= 'Drafted' = placed alongside these as if equally glamorous\n= the IRONY/CONSOLATION: being drafted is positioned as a handsome trait\n= consolation mechanism ✓",
+      "action": "Action Rule (Q84): 'Putting the best face on things' = consolation mechanism. 'Drafted' = conscripted. C: consolation for being conscripted = correct paraphrase. A = military fashion promotion = different topic. The headline is about consoling draftees, not promoting military fashion."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u86_q86_paraphrase_simile_trap_prototype",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 86 — Q86 Paraphrase (C→D)",
+    "quiz": {
+      "question": "[Q86 — Paraphrase: The 'prototype' (line 9) is best described as ______]\n\nPassage (Extract 2, lines 9–12):\n'...a new American prototype:\n\"He's a confident, alert, both-feet-on-the-ground sort of guy,\nas rugged as a redwood and as good-natured as a puppy —\nbut <em>as active as a split atom</em> and as dangerous to fool around with.\"'\n\nQ: The 'prototype' is best described as ______.\n\nC: a constituent of the atom that had recently been split\nD: an image of a fashionable postwar American man\n\nYour pick — C\nCorrect — D\n\nWhy does 'as active as a split atom' = simile (cannot be the answer) while D captures the actual subject?",
+      "options": [
+        "C is correct because the split atom is explicitly mentioned as defining the prototype",
+        "'As active as a SPLIT ATOM' = a simile describing how active the man is. The subject = the MAN (prototype). Split atom = the COMPARISON POINT, not the subject. C takes the simile's comparison term (split atom) and treats it as if it describes the prototype itself. D: 'an image of a fashionable POSTWAR AMERICAN MAN' = the prototype IS a man described with fashionable postwar qualities (confident, alert, rugged, active). D identifies the actual subject.",
+        "D is wrong because 'prototype' implies an original model, not just an image",
+        "C is correct because the text specifically highlights the split atom as a defining characteristic"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'As active as a split atom' = simile (comparison tool, not the subject) / the subject = the MAN being described / D = postwar American man image = the actual prototype",
+      "explanation": "[Simile structure decoded]\n'as active as a SPLIT ATOM'\n= simile: AS [quality] AS [comparison term]\n= the man = the SUBJECT being described\n= split atom = the COMPARISON TERM\n= simile describes a quality of the subject, not the subject itself\n\n[The 'prototype' = what is being described]\nprototype = the ideal type / the model\n= 'a new American prototype'\n= the man described: confident, alert, rugged, good-natured, active\n= a postwar AMERICAN MAN with fashionable/ideal qualities\n= D: 'image of a fashionable postwar American MAN' ✓\n\n[Why C fails]\nC: 'a constituent of the atom that had recently been split'\n= treats 'split atom' as if it is what the prototype IS\n= but split atom = just a comparison (how active the man is)\n= C confuses the simile's comparison term with the subject\n= the prototype = the MAN, not any component of an atom ✗\n\n[The simile trap rule]\nIn GAMSAT, simile terms (as X as Y) often appear in answer choices\n= the comparison term (Y) is tempting because it appears in the text\n= but Y describes HOW the subject is, not WHAT the subject is\n= always identify: is this word the SUBJECT or the COMPARISON?",
+      "action": "Action Rule (Q86): 'As active as a split atom' = simile. Split atom = comparison term, not the subject. The prototype = the MAN being described. D = postwar American man image = the actual subject. Simile rule: comparison terms in as-as structures ≠ the subject being described."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u86_q87_targeting_hindsight_1990s_unfavourable",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 86 — Q87 Targeting (C→A)",
+    "quiz": {
+      "question": "[Q87 — Targeting: Author's intention in saying 'In hindsight, he seems like someone you might want to run over with a truck']\n\nIntroductory note:\n'This unit centres on two adapted extracts from <em>Men in Style</em>,\na book written in the <em>1990s</em> by Woody Hochswender.'\n\nThe 1948 Bold Dominant Male Look = celebrated at the time\n'In hindsight' = the author's 1990s perspective looking back at 1948\n'Run over with a truck' = strongly unfavourable in 1990s terms\n\nQ: The author's intention is to ______.\n\nYour pick — C: <strong>reveal the author's own attitude to the type of postwar American man he described</strong>\nCorrect — A: <strong>acknowledge that such men would, in general, not be described favourably in the 1990s</strong>\n\nWhy does 'in hindsight' + the 1990s publication date demand A over C?",
+      "options": [
+        "C is correct because the author is expressing his personal dislike of the macho postwar type",
+        "'In HINDSIGHT' = looking back from the PRESENT (1990s). The book is written in the 1990s. In 1948, the Bold Dominant Male was celebrated. In the 1990s perspective, he 'would want to be run over with a truck' = the 1990s finds this type unfavourable. A: 'in general, not be described favourably in the 1990s' = captures the TEMPORAL SHIFT (1948 glamorous → 1990s unfavourable). C = only the author's personal attitude, not the temporal shift. 'Hindsight' = a 1990s general perspective, not necessarily just the author's personal feeling.",
+        "A is wrong because the comment is clearly the author's personal view, not a general observation",
+        "C is correct because the 'run over with a truck' comment is extremely personal in tone"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Hindsight' = 1990s perspective looking back at 1948 / book written in 1990s = temporal shift / A captures: 1948 glamorous → 1990s unfavourable / C = personal attitude only, misses the temporal shift purpose",
+      "explanation": "[The temporal structure]\n1948: Bold Dominant Male = glamorous, celebrated (Esquire)\n1990s: author writes the book\n\n'In HINDSIGHT' = looking back from 1990s perspective to 1948\n= what was admired then = now seen as unfavourable\n\n['Run over with a truck' = 1990s unfavourability]\n= strongly negative assessment\n= in the 1990s, this macho type = no longer admired\n\n[Paraphrase chain → A]\n'hindsight' (temporal shift from 1948 to 1990s)\n+ 'run over with a truck' (unfavourable)\n= men of this type would NOT be described FAVOURABLY in the 1990s = A ✓\n\n[Why C fails]\nC: 'reveal the AUTHOR'S OWN attitude'\n= focuses on the author's personal feelings\n= but 'in hindsight' = a historical/general perspective\n= the point is: SOCIETY'S VIEW changed from 1948 to 1990s\n= not just: the author personally dislikes this type\n\n[The intro note = essential]\nThe book = written in 1990s = author writes from 1990s perspective\n= without this, you miss the temporal shift\n= with this: 1948 glamour → 1990s unfavourability = A ✓",
+      "action": "Action Rule (Q87): Read the introductory note FIRST — book written in 1990s. 'In hindsight' = temporal shift (1948 admired → 1990s unfavourable). A captures the temporal shift (general 1990s perspective). C = personal attitude = misses the hindsight mechanism. Intro note = essential context for macro-structure questions."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u86_q88_targeting_pqr_all_three",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 86 — Q88 Targeting (A→D)",
+    "quiz": {
+      "question": "[Q88 — Targeting: WWI altered the men's fashion landscape FOREVER as a result of ______]\n\nQuestion scope: 'according to what is conveyed by the TWO EXTRACTS'\n\nP: restricted availability of materials for civilian dress (Extract 1: fabric restrictions)\nQ: shifts in what people saw as desirable in American men (Extract 2: Bold Dominant Male Look + prototype)\nR: returning soldiers' changed expectations of civilian dress (Extract 2: 'reluctant to sacrifice comfort and practicality of military clothes')\n\nQ: Which could legitimately end the sentence?\n\nYour pick — A: <strong>P only</strong>\nCorrect — D: <strong>any of P, Q or R</strong>\n\nWhy does scanning only Extract 1 miss Q and R?",
+      "options": [
+        "A is correct because fabric restrictions are the primary concrete change described in Extract 1",
+        "P = Extract 1, paragraph 2 (fabric restrictions). Q = Extract 2 (Bold Dominant Male Look = new desirable image). R = Extract 2 ('reluctant to sacrifice comfort... military clothes' = changed expectations). All three = results of WWII altering men's fashion forever. Stopping at P after finding a match in Extract 1 = premature closure. The question says 'two extracts' = must scan BOTH. D = all three qualify = D.",
+        "D is wrong because Q and R are about postwar preferences, not direct war effects",
+        "A is correct because the passage says 'on a practical level' only for fabric restrictions"
+      ],
+      "correctIdx": 1,
+      "answer": "② P = Extract 1 (fabric restrictions) / Q = Extract 2 (new desirable image) / R = Extract 2 (changed expectations) / all three = results of WWII altering fashion = D / stopping at P = premature closure",
+      "explanation": "[Mapping all three to 'altered forever']\n\nP: 'the war ALTERED the men's fashion landscape forever.\nOn a PRACTICAL LEVEL, it brought FABRIC RESTRICTIONS'\n= P directly anchored to 'altered forever' in Extract 1 ✓\n\nQ: Extract 2, 'a NEW AMERICAN PROTOTYPE: Bold Dominant Male Look'\n'SHIFTS IN WHAT PEOPLE SAW AS DESIRABLE in American men'\n= war created a new ideal image = permanently shifted what was desirable ✓\n\nR: Extract 2, 'After the war, men were RELUCTANT TO SACRIFICE\nthe COMFORT AND PRACTICALITY of military clothes'\n= soldiers returning with changed expectations = altered civilian fashion forever ✓\n\n[Why stopping at P = premature closure]\nQuestion: 'according to the TWO EXTRACTS'\n= mandatory to scan BOTH extracts\n= finding P in Extract 1 → stopping = missing Q and R in Extract 2\n\n[D = any of P, Q or R]\nAll three qualify as results of WWII altering men's fashion\n= 'any of' = any one of these is a legitimate answer\n= D ✓",
+      "action": "Action Rule (Q88): 'According to the TWO EXTRACTS' = must scan BOTH. Finding P in Extract 1 is not enough. Q (new desirable image) and R (changed expectations) = Extract 2. All three qualify = D. Never stop scanning when you find one match in two-extract questions."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u86_meta_simile_intro_note_two_extracts",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 86 — Meta: Simile Trap + Intro Note + Two-Extract Scan",
+    "quiz": {
+      "question": "[Unit 86 — Meta Pattern]\n\nQ84: chose A (military fashion) — missed 'putting the best face' = consolation mechanism\nQ86: chose C (split atom) — simile comparison term ≠ the subject\nQ87: chose C (author's attitude) — missed 'hindsight' = temporal shift from 1948 to 1990s\nQ88: chose A (P only) — premature closure, missed Extract 2\n\nThree correction tools cover all four. Which correctly identifies them?",
+      "options": [
+        "All four are vocabulary errors — unfamiliar words",
+        "Tool 1 = SIMILE TRAP (Q86): in 'as X as Y' structures, Y is the comparison term, not the subject. The prototype = the MAN, not the split atom. Tool 2 = INTRO NOTE FIRST (Q87): always read the introductory publication date/context. 1990s publication + 'hindsight' = temporal shift from 1948 to 1990s. Without this, you miss the macro-structure. Tool 3 = TWO-EXTRACT OBLIGATION (Q88): when question says 'two extracts', scan BOTH before answering. Premature closure (stopping at Extract 1) = misses Q and R from Extract 2.",
+        "All four are targeting errors — wrong paragraph",
+        "All four are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Simile trap (comparison term ≠ subject) + intro note first (publication date = temporal context) + two-extract obligation (must scan both)",
+      "explanation": "[Tool 1: Simile trap (Q86)]\n'As active as a SPLIT ATOM'\n= subject = the man / comparison = split atom\n= the prototype = the MAN described\n= C takes comparison term as the answer = wrong\n= D identifies the actual subject (postwar American man) = correct\n\n[Tool 2: Intro note first (Q87)]\nIntro: 'book written in the 1990s'\n'In hindsight' = 1990s perspective looking back at 1948\n= 1948 glamour → 1990s unfavourable = temporal shift\n= A: not described favourably in the 1990s = captures temporal shift ✓\n= C: author's personal attitude = misses temporal shift ✗\n\nFix: circle the date/context in the intro note before reading the passage\n\n[Tool 3: Two-extract obligation (Q88)]\nQuestion says: 'two extracts'\n= mandatory: scan BOTH before answering\nP = Extract 1 / Q and R = Extract 2\nStopping at P = premature closure = misses Q and R\n= D = all three qualify = correct answer\n\nFix: when 'two extracts' or 'the passage as a whole' appears\n= find evidence in ALL sections before finalising",
+      "action": "Meta Rule (Unit 86):\nSimile trap: in 'as X as Y', Y = comparison term. Find the actual SUBJECT being described.\nIntro note: always read the introductory date/context first. It provides the macro-structure for temporal questions.\nTwo-extract obligation: 'two extracts' = must scan both. Never stop at the first matching extract."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
