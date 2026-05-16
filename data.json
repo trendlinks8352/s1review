@@ -6011,5 +6011,89 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u85_q68_paraphrase_universal_assertion",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 85 — Q68 Paraphrase (A→B)",
+    "quiz": {
+      "question": "[Q68 — Paraphrase: Which poem offers a UNIVERSAL ASSERTION about the human condition?]\n\nPoem A: 'Seven ones are seven. I can't remember that year...\n<em>my mind, my daughter, my apple-tree, my lips</em>'\n= personal biographical narrative (first person: 'my')\n\nPoem B: 'He who bends to himself a Joy / Does the wingèd life destroy;\nBut he who kisses the Joy as it flies / Lives in Eternity's sunrise.'\n= no 'I' or 'my' / states a timeless truth about how to approach Joy\n\nQ: Which poem offers a universal assertion about the human condition?\n\nYour pick — A\nCorrect — B\n\nWhy is B's assertion 'universal' while A's is 'personal'?",
+      "options": [
+        "A is correct because ageing is a universal human experience that everyone can relate to",
+        "Universal assertion = a claim that applies to ALL people, stated as a timeless truth without personal specifics. B: 'He who bends to himself a Joy DESTROYS...' / 'He who kisses the Joy LIVES...' = universal pronouncements about human behaviour toward joy (no personal 'I', no specific situation). A: 'my mind, my daughter, my apple-tree' = deeply personal and biographical = an individual's experience, not a universal assertion. Relatable topic ≠ universal assertion.",
+        "B is wrong because it only has four lines and is too short to make a universal assertion",
+        "A is correct because it covers multiple stages of life making it universal"
+      ],
+      "correctIdx": 1,
+      "answer": "② B = timeless truth about ALL people ('he who...') with no personal specifics = universal assertion / A = personal biographical ('my...') = individual experience ≠ universal assertion",
+      "explanation": "[Universal assertion defined]\nUniversal assertion = a statement that applies to ALL people\n= stated as a timeless truth\n= no personal 'I', no specific circumstance\n= uses: 'he who...', 'those who...', 'whoever...' = all-encompassing\n\n[Poem B = universal assertion]\n'He who BENDS to himself a Joy... DESTROYS'\n'He who KISSES the Joy as it flies... LIVES'\n= applies to ANY person who does these things\n= no specific person, no specific time\n= a philosophical maxim about ALL humans and Joy ✓\n\n[Poem A = personal biography]\n'my mind' / 'my daughter' / 'my apple-tree' / 'my lips'\n= deeply personal = ONE PERSON'S life experience\n= ageing = universal topic BUT narrated through a specific 'I'\n= the topic is universal, but the ASSERTION MODE is personal\n\n[The key distinction]\nRelatable experience (A) ≠ Universal assertion (B)\n= 'I've experienced ageing' = relatable but personal\n= 'he who does X will experience Y' = universal rule\n= question asks for UNIVERSAL ASSERTION = B ✓",
+      "action": "Action Rule (Q68): Universal assertion = applies to ALL people, stated as a rule (he who... will...). No personal 'I'. B = 'he who bends... destroys / he who kisses... lives' = timeless rule for everyone. A = 'my daughter, my apple-tree' = personal biography. Relatable topic ≠ universal assertion."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u85_q70_targeting_loosest_structure",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 85 — Q70 Targeting (B→C)",
+    "quiz": {
+      "question": "[Q70 — Targeting: Which poem is LOOSEST IN STRUCTURE?]\n\nPoem B: 4 lines, rhymes: Joy/destroy, flies/sunrise = AABB rigid rhyme scheme\nPoem C: no stanza divisions / no regular rhyme / lines flow freely / enjambment throughout\n= 'Steel lines melt / Into the rim of the horizon / Where plain and sky are welded...'\n\nQ: Which poem is loosest in structure?\n\nYour pick — B\nCorrect — C\n\nWhy is B's brevity NOT looseness, while C's form IS loose?",
+      "options": [
+        "B is correct because its four-line structure is simple and unelaborate",
+        "Loosest in structure = fewest formal constraints. B: 4 lines with PERFECT rhyme (Joy/destroy, flies/sunrise) = highly structured despite being short. Short ≠ loose. C: no stanza breaks, no rhyme scheme, lines flow through enjambment continuously, no punctuation constraining the poem = fewest formal constraints = LOOSEST. Structure ≠ length. B is short but rigidly structured. C is long but formally unconstrained.",
+        "C is wrong because it has many lines suggesting a complex structure",
+        "B is correct because it lacks the complex social commentary of D, making it structurally simple"
+      ],
+      "correctIdx": 1,
+      "answer": "② B = short but rigidly structured (AABB rhyme) / C = no rhyme scheme, no stanza breaks, enjambment = fewest constraints = loosest / short ≠ loose",
+      "explanation": "[Structure assessment criteria]\nStructure = formal constraints: rhyme scheme / stanza divisions / regular meter / punctuation patterns\n\n[Poem B — short but TIGHT]\n4 lines: 'Joy / destroy / flies / sunrise'\n= Joy rhymes with destroy (lines 1-2)\n= flies rhymes with sunrise (lines 3-4)\n= AABB rhyme scheme = RIGID formal constraint\n= brief but tightly structured ✗\n\n[Poem C — long but LOOSE]\n'Steel lines melt / Into the rim of the horizon / Where plain and sky are welded...'\n= no stanza breaks = continuous flow\n= no regular rhyme pattern\n= enjambment throughout (sentences run over lines)\n= very few formal constraints\n= LOOSEST STRUCTURE ✓\n\n[The short ≠ loose distinction]\nShort poem = simple/brief in length\nLoose structure = few formal rules applied\n= these are independent dimensions\n= B = short AND tight\n= C = long AND loose\n\n[Structure questions in poetry]\nAlways check: rhyme scheme / stanza patterns / enjambment / meter\n= NOT: length, topic complexity, or personal preference",
+      "action": "Action Rule (Q70): 'Loosest in structure' = fewest formal constraints. B = short but tight (AABB rhyme). C = no rhyme, no stanzas, continuous enjambment = fewest constraints = loosest. Short ≠ loose. Always check formal constraints, not poem length."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u85_q71_targeting_least_concrete_images",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 85 — Q71 Targeting (D→B)",
+    "quiz": {
+      "question": "[Q71 — Targeting: Which poem is most CONCEPTUAL/ABSTRACT relying LEAST ON CONCRETE IMAGES?]\n\nPoem B: 'Joy', 'wingèd life', 'Eternity's sunrise'\n= no physical objects / pure philosophical concepts\n\nPoem D: 'bomb', 'hood', 'collar', 'betting-shops', 'stocks and shares', 'chalk and cheese'\n= social concepts BUT expressed through specific physical objects\n\nQ: Which poem is most conceptual and abstract, relying LEAST on concrete images?\n\nYour pick — D\nCorrect — B\n\nWhy does D's use of 'bomb/hood/collar' disqualify it despite being conceptual in theme?",
+      "options": [
+        "D is correct because it deals with abstract social concepts like justice, morality and inequality",
+        "D discusses abstract THEMES (injustice, hypocrisy) but uses concrete images to express them: bomb, hood (physical clothing), collar (white collar = physical), betting-shops (physical places), chalk and cheese (physical objects). B: 'Joy', 'wingèd life', 'Eternity's sunrise' = no physical objects = pure abstractions. Question asks: LEAST ON CONCRETE IMAGES = B has zero concrete images. D uses many concrete images DESPITE its abstract theme.",
+        "B is wrong because Eternity's sunrise uses 'sunrise' which is a concrete natural image",
+        "D is correct because social morality is more abstract than joy or eternity"
+      ],
+      "correctIdx": 1,
+      "answer": "② D = abstract themes but expressed through concrete images (bomb/hood/collar) / B = no concrete objects at all (Joy/Eternity = pure abstractions) = B",
+      "explanation": "[The crucial distinction: theme vs image]\nTheme = what the poem is ABOUT (abstract or concrete)\nImage = what is DESCRIBED (abstract or concrete)\n\n[Poem D]\nTheme: abstract social commentary (injustice, hypocrisy)\nImages: bomb / hood / collar / betting-shops / chalk and cheese\n= CONCRETE OBJECTS used to express abstract themes\n= uses many concrete images ✗\n\n[Poem B]\nTheme: philosophical comment on Joy\nImages: Joy (abstract) / wingèd life (metaphor/abstract) / Eternity's sunrise (conceptual)\n= no physical objects described\n= pure abstract concepts ✓\n\n[The question's key constraint: 'relying LEAST on concrete images']\n= this asks about IMAGES (what's described), not themes (what it's about)\n= D's themes are abstract but IMAGES are concrete = many concrete images = disqualified\n= B's theme AND images are abstract = ZERO concrete images = most abstract/conceptual ✓\n\n[The 'conceptual' part of the question]\n'Most conceptual AND abstract' + 'RELYING LEAST ON CONCRETE IMAGES'\n= both conditions must be met\n= D: conceptual theme ✓ but concrete images ✗\n= B: conceptual theme ✓ and no concrete images ✓",
+      "action": "Action Rule (Q71): Distinguish THEME (what the poem is about) from IMAGES (what it describes). D = abstract theme but concrete images (bomb/hood/collar). B = abstract theme AND abstract images (Joy/Eternity = no physical objects). 'Least on concrete images' = check what is DESCRIBED, not what the theme is."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u85_meta_assertion_mode_structure_image",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 85 — Meta: Assertion Mode + Structure vs Length + Theme vs Image",
+    "quiz": {
+      "question": "[Unit 85 — Meta Pattern]\n\nQ68: chose A (personal biography) — relatable topic ≠ universal assertion / B = rule for all people\nQ70: chose B (short poem) — short ≠ loose / B = short+tight / C = long+loose\nQ71: chose D (abstract theme) — abstract theme ≠ abstract images / D has concrete images\n\nThree correction tools. Which correctly identifies them?",
+      "options": [
+        "All three are vocabulary errors — unfamiliar poetry terms",
+        "Tool 1 = ASSERTION MODE not topic (Q68): 'Universal assertion' = how the claim is stated ('he who...') not the topic. A's topic is universal but spoken personally ('my...'). B = universal claim mode, no personal 'I'. Tool 2 = STRUCTURE not length (Q70): loose structure = few formal constraints. Short ≠ loose. B = short+rigid (AABB). C = long+loose (no rhyme/stanzas). Tool 3 = IMAGES not theme (Q71): 'relying least on concrete images' = check what is DESCRIBED. D = abstract theme BUT concrete images. B = no concrete images at all.",
+        "All three are targeting errors — wrong poem analysed",
+        "All three are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Assertion mode not topic + structure not length + images not theme — three tools for poetry classification",
+      "explanation": "[Tool 1: Assertion mode, not topic (Q68)]\nA's topic = ageing = universal experience\nBut A's MODE = personal ('I', 'my')\n\nB's topic = joy\nBut B's MODE = universal rule ('he who...')\n\nUniversal assertion = MODE, not topic\n= B ✓\n\n[Tool 2: Structure, not length (Q70)]\nStructure = formal constraints: rhyme / stanza / enjambment\nLength = number of lines\n\nB = 4 lines (short) + AABB rhyme = tight\nC = many lines (long) + no rhyme/stanzas = loose\n\n'Loosest' = fewest formal constraints = C ✓\n\n[Tool 3: Images, not theme (Q71)]\nTheme = what the poem is ABOUT\nImage = what objects/things are DESCRIBED\n\nD = abstract theme (social injustice)\nD's images = bomb/hood/collar = CONCRETE\n\nB = abstract theme (Joy, Eternity)\nB's images = Joy/Eternity = ABSTRACT = no concrete objects\n\n'Relying least on concrete images' = check images, not theme = B ✓\n\n[Combined poetry analysis discipline]\nFor each question: identify WHICH DIMENSION is being measured\n= assertion mode? / structure formality? / image concreteness?\n= then test each poem on THAT DIMENSION ONLY",
+      "action": "Meta Rule (Unit 85):\nUniversal assertion: check the assertion MODE ('he who...' = universal). Topic universality ≠ assertion universality.\nLoose structure: check formal constraints (rhyme/stanzas/enjambment), not poem length.\nAbstract images: check what is DESCRIBED (images), not what the poem is ABOUT (theme)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
