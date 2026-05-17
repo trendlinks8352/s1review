@@ -6095,5 +6095,89 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u84_q74_logic_apply_categories_empathy_spatial",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 84 — Q74 Logic (→B)",
+    "quiz": {
+      "question": "[Q74 — Logic: Apply categories to place names]\n\nPassage (lines 10–12) defines four naming categories:\n• Provoke empathy = evokes human emotional response\n• Spatially inventive = captures active interaction with space (not just static description)\n• Names facts = objective physical description\n• Mechanically associative = mechanically borrowed from familiar (English) concepts\n\nQ: Which pair BEST FITS (provoke empathy | spatially inventive)?\n\nA: Deep Well | Spring Grove\nB: Cape Catastrophe | Mount Inspection\nC: Mount Misery | Cape Disappointment\nD: Lake Wyangan | Spit Junction\n\nCorrect — B: Cape Catastrophe + Mount Inspection\n\nHow does 'Catastrophe' = provoke empathy and 'Inspection' = spatially inventive?",
+      "options": [
+        "C is correct because both Mount Misery and Cape Disappointment evoke strong emotional responses",
+        "Cape CATASTROPHE = 'catastrophe' = disaster = strong emotional word = PROVOKES EMPATHY ✓. Mount INSPECTION = 'inspection' implies climbing the mountain to survey/observe the landscape = active spatial interaction = SPATIALLY INVENTIVE ✓. C: both names (Misery/Disappointment) = both evoke emotions = both in the SAME category (provoke empathy) = NOT a pair. A: Deep Well = physical fact, not empathy. D: Lake Wyangan/Spit Junction = geographical facts.",
+        "B is wrong because 'catastrophe' is too strong an emotion to be called 'empathy'",
+        "C is correct because misery and disappointment are exactly the emotions a traveller would feel"
+      ],
+      "correctIdx": 1,
+      "answer": "② Cape Catastrophe = emotional word = provoke empathy ✓ / Mount Inspection = surveying from height = active spatial interaction = spatially inventive ✓ / C = both in same category (empathy)",
+      "explanation": "[Category definitions from the passage]\nProvoke empathy = evokes emotional/human response\nSpatially inventive = captures active use/exploration of space\n\n[Testing B]\nCape CATASTROPHE:\n= 'catastrophe' = terrible event/disaster\n= immediately evokes strong emotion (dread, horror)\n= PROVOKES EMPATHY ✓\n\nMount INSPECTION:\n= 'inspection' = act of examining, surveying from a vantage point\n= climbing the mountain to look over the landscape\n= active SPATIAL INTERACTION (not just describing the mountain's shape)\n= SPATIALLY INVENTIVE ✓\n\n[Testing C]\nMount MISERY: evokes emotion → provoke empathy ✓\nCape DISAPPOINTMENT: evokes emotion → provoke empathy ✓\n= BOTH in the SAME category = not a PAIR covering both categories ✗\n\n[The key: one from each category]\nThe question requires: one name = provoke empathy AND one name = spatially inventive\n= B: Catastrophe (empathy) + Inspection (spatial) = correct pair ✓",
+      "action": "Action Rule (Q74): Apply category definitions mechanically. 'Provoke empathy' = emotional word (Catastrophe). 'Spatially inventive' = active spatial interaction (Inspection = surveying from height). C = both are empathy words = wrong (same category). No passage evidence needed — apply the definitions to the names."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u84_q75_logic_fits_worst_clancys_cascade",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 84 — Q75 Logic (A→D)",
+    "quiz": {
+      "question": "[Q75 — Logic: Which pair FITS WORST (names facts | mechanically associative)?]\n\nCategory definitions:\n• Names facts = objective physical description of the landscape\n• Mechanically associative = names borrowed from familiar (English/British) concepts\n\nTest each 'names facts' candidate:\nA: Halfway Creek = location fact (halfway = physical position) ✓\nB: Sandy Hollow = texture/material fact (sandy = physical property) ✓\nC: Double Bay = quantity/shape fact (double = number of bays) ✓\nD: Clancy's Cascade = person's name + waterfall = NOT a physical fact\n\nQ: Which pair fits WORST?\n\nYour pick — A: <strong>Halfway Creek | Blackheath</strong>\nCorrect — D: <strong>Clancy's Cascade | Wentworth Falls</strong>\n\nWhy does 'Clancy's' disqualify D from 'names facts'?",
+      "options": [
+        "A is correct because 'Halfway Creek' is too vague to be a factual description",
+        "'Clancy's Cascade' = person's name (Clancy) + landform. A person's name is NOT an objective physical fact about the landscape. 'Clancy' = associative/commemorative (named after a person). This means D fails the FIRST column ('names facts') immediately. A, B, C all pass 'names facts': Halfway (position fact), Sandy (material fact), Double (count fact). D is the worst fit because it fails 'names facts' outright.",
+        "D is wrong because Wentworth Falls could also be named after a person",
+        "A is correct because Blackheath is clearly a mechanical association with London, making A the most mismatched"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Clancy's' = person's name = NOT an objective physical fact = fails 'names facts' immediately / A,B,C all pass 'names facts' (position/material/count) = D fits worst",
+      "explanation": "[Names facts test]\nNames facts = objective physical description\n= the name describes the LANDSCAPE'S physical properties\n\nA: HALFWAY Creek = physical position (midpoint) = fact ✓\nB: SANDY Hollow = physical material (sand) = fact ✓\nC: DOUBLE Bay = physical count/shape = fact ✓\nD: CLANCY'S Cascade = PERSON'S NAME + waterfall\n= 'Clancy' = proper noun (human) = NOT a landscape property\n= commemorates a person = associative/commemorative\n= NOT an objective physical fact = FAILS 'names facts' ✗\n\n[Why D = worst fit]\nD fails the FIRST column immediately\n= if you fail the first condition, the pair fits worst\n= regardless of whether 'Wentworth Falls' fits 'mechanically associative'\n\n[The comparison]\nA/B/C = first column passes (physical facts)\nD = first column fails (person's name) = worst match ✓\n\n['Fits worst' = fails at least one condition completely]\nFits worst = the pair is LEAST suited to the given categories\n= D: one component completely fails the category definition = worst ✓",
+      "action": "Action Rule (Q75): 'Fits worst' = find the pair where at least one component fails its category completely. Test 'names facts' column first: Halfway/Sandy/Double = physical facts ✓. Clancy's = person's name = NOT a physical fact = fails immediately = D fits worst."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u84_meta_apply_definitions_not_scan",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 84 — Meta: Apply Definitions, Not Scan",
+    "quiz": {
+      "question": "[Unit 84 — Meta Pattern]\n\nQ74: targeting oops — place names not in passage / must APPLY category definitions to new examples\nQ75: chose A (Halfway Creek) — failed to test 'Clancy's' against 'names facts' definition\n\nOne core correction principle covers both. Which correctly identifies it?",
+      "options": [
+        "Both are vocabulary errors — unfamiliar Australian place names",
+        "APPLICATION QUESTIONS: Q74 and Q75 require APPLYING definitions from the passage to examples NOT IN THE PASSAGE. These are not scanning questions — you will not find 'Catastrophe' or 'Clancy' in the passage. Method: (1) Extract the category definitions from the passage. (2) Apply each definition to the examples in the answer choices. (3) Test each choice systematically against BOTH categories. For Q74: which name evokes emotion? + which captures active spatial use? For Q75: does this name describe a physical fact? — 'Clancy's' = person = fails immediately.",
+        "Both are targeting errors — found wrong paragraph",
+        "Both are paraphrasing errors about the category names"
+      ],
+      "correctIdx": 1,
+      "answer": "② Application questions = extract definitions from passage + apply to NEW examples / not a scanning task / test each example systematically against the category definition",
+      "explanation": "[Why scanning fails for these questions]\nQ74 options: Cape Catastrophe, Mount Inspection, Deep Well, etc.\n= NONE of these appear in the passage\n= scanning the passage = finding nothing = frustration\n\n[The correct approach: apply definitions]\nStep 1: Extract definitions from the passage\n= provoke empathy = evokes emotional response\n= spatially inventive = active spatial interaction\n= names facts = objective physical description\n= mechanically associative = borrowed from familiar concepts\n\nStep 2: Apply to answer choices\nQ74: test each name against 'provoke empathy' AND 'spatially inventive'\nQ75: test each 'names facts' column name — does it describe a physical fact?\n\n[The systematic test]\nFor Q74: Cape Catastrophe = emotional word? YES / Mount Inspection = active spatial? YES → B ✓\nFor Q75: Clancy's = physical landscape property? NO → D fails immediately ✓\n\n[Application question rule]\nWhen place names are in the options but NOT in the passage:\n= do NOT try to find them in the passage\n= extract the category definitions\n= apply definitions to each option systematically",
+      "action": "Meta Rule (Unit 84): Application questions = extract definitions first, then apply to NEW examples. Not a scanning task. Define each category precisely from the passage, then test each option against the definition. Q74: emotional name? + active spatial name? Q75: does this name describe a physical fact? Clancy = person = no = fails."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u83_q37_paraphrase_tag_question_generally_accepted",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 83 — Q37 Paraphrase (B→A)",
+    "quiz": {
+      "question": "[Q37 — Paraphrase: By saying 'Islands aren't just islands, are they', Dessaix is ______]\n\nPassage (lines 1–3):\n'Islands aren't just islands, <em>are they</em>.\nI mean, they're not just bits of land surrounded by water,\nthey also stand for something less tangible, always half-desired.'\n\n= tag question 'are they?' + immediately explains why (I mean...)\n= assumes the reader already shares this view\n\nQ: By saying this, Dessaix is ______.\n\nYour pick — B: <strong>asking readers to bring their own views to bear on the subject</strong>\nCorrect — A: <strong>putting forward a view that he believes is generally accepted</strong>\n\nHow does the rhetorical tag question + 'I mean...' reveal A over B?",
+      "options": [
+        "B is correct because 'are they?' invites the reader to reflect on their own experience of islands",
+        "B: asking for reader's OWN views = open invitation for different opinions. But Dessaix immediately explains (I mean...) = he TELLS the reader what the answer is. The tag question 'are they?' = rhetorical = 'you agree with me, don't you?' = assumes shared universal view. A: 'view he believes is generally accepted' = he puts forward his view as something readers naturally agree with. B would leave the question open; Dessaix immediately closes it with his own explanation.",
+        "A is wrong because 'generally accepted' implies no personal viewpoint",
+        "B is correct because the conversational tone implies dialogue and reader participation"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Are they?' = rhetorical tag question = assumes agreement / 'I mean...' = immediately provides own explanation = not leaving it open = A",
+      "explanation": "[Rhetorical tag question decoded]\n'Islands aren't just islands, ARE THEY?'\n= rhetorical = not a genuine open question\n= presupposes: yes, everyone agrees with this\n= 'you agree with this, don't you?' register\n= seeking CONFIRMATION, not diverse opinions\n\n['I mean...' decoded]\nImmediately after the tag question:\n'I MEAN, they're not just bits of land...'\n= author provides his OWN explanation right away\n= he doesn't wait for the reader's view\n= he assumes agreement and moves on to explain his point\n= closes the 'question' immediately\n\n[Paraphrase chain → A]\nRhetorical tag (assumes agreement) + immediately explains\n= he is PUTTING FORWARD A VIEW\n= that he believes is GENERALLY ACCEPTED (shared by all)\n= A ✓\n\n[Why B fails]\nB: 'asking readers to bring their OWN views'\n= this would require: genuine open question / waiting for diverse responses\n= but Dessaix immediately explains (I mean...) = he doesn't wait\n= he assumes the reader's view is the SAME as his\n= not inviting different views ✗\n\n[The rhetorical tag question rule]\nIn literary prose, tag questions ending in 'aren't they / isn't it / don't you' often:\n= assume the reader agrees\n= present the author's view as universal truth\n= NOT: invite the reader to disagree or provide their own view",
+      "action": "Action Rule (Q37): 'Are they?' = rhetorical tag = assumes agreement, not open invitation. 'I mean...' = author immediately closes the question with own explanation = not waiting for reader's view. A = puts forward view believed generally accepted = correct. B = invites own views = wrong (open question, but Dessaix closes it immediately)."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
