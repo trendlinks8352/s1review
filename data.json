@@ -6179,5 +6179,26 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u82_q34_paraphrase_change_learn_truth",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 82 — Q34 Paraphrase (B→D)",
+    "quiz": {
+      "question": "[Q34 — Paraphrase: In looking to the future, Handley believes that ______]\n\nPassage (lines 11–15):\n'I told him I didn't think most of those people really <em>comprehended what they were doing</em>.'\n'custom will reconcile people to any atrocity. <em>Yet</em>... people... are blessed with a conscience...\nAnd, <em>given good reason</em> and enough time, people traditionally <em>change</em>.'\n\nQ: In looking to the future, Handley believes that ______.\n\nYour pick — B: <strong>a compromise can be reached whereby fish are caught and killed humanely</strong>\nCorrect — D: <strong>fishermen's habits will change as they come to learn the truth</strong>\n\nHow do 'comprehend what they were doing' + 'given good reason + change' map to D?",
+      "options": [
+        "B is correct because Handley acknowledges fish experience pain, implying humane practices would be a compromise",
+        "D maps two passage elements: 'comprehended what they were doing' (lines 11) = fishermen don't currently understand their cruelty = 'learn the truth'. 'Given good reason, people change' (line 14-15) = 'habits will change'. B: 'compromise' = humane killing = not in the passage. Handley calls sport fishing an 'atrocity' and calls for conscience-driven change, not a middle-ground compromise. D = change through understanding; B = accommodation of the practice.",
+        "D is wrong because 'learn the truth' is too vague for what Handley specifically describes",
+        "B is correct because Handley says fish experience pain which implies more humane killing is the solution"
+      ],
+      "correctIdx": 1,
+      "answer": "② D maps: 'comprehended what they were doing' → learn the truth / 'given good reason, change' → habits will change / B = compromise = not in passage (Handley says atrocity, not advocating middle ground)",
+      "explanation": "[Two-part paraphrase map → D]\n\nPart 1: 'fishermen's HABITS will CHANGE'\nLine 15: 'people traditionally CHANGE'\n= custom/habits (practices) change = habits will change ✓\n\nPart 2: 'as they come to LEARN THE TRUTH'\nLine 11: 'I didn't think most... really COMPREHENDED what they were doing'\n= fishermen currently don't understand the cruelty\nLine 14: 'given GOOD REASON... change'\n= good reason = learning the truth about what they're doing\n= comprehend → learn the truth ✓\n\n[Why B (compromise) fails]\ncompromise = a middle ground between two positions\n= 'fish can still be killed, but humanely'\n= Handley's position: sport fishing = 'ATROCITY' (line 12)\n= not: 'we can compromise with a nicer version'\n= Handley calls for conscience-driven ABANDONMENT, not a humane middle ground\n= B imports a practical compromise not suggested by Handley ✗\n\n[The 'out of scope' test for B]\nFor B to be true: passage must suggest 'humane killing = acceptable outcome'\n= Handley says: fish suffer pain (traumatised, living hell)\n= BUT Handley does NOT suggest 'humane killing = acceptable'\n= he calls for change via conscience, not improved method\n= B = out of scope ✗",
+      "action": "Action Rule (Q34): D = two-part paraphrase: 'comprehend what doing' → learn the truth / 'given good reason, change' → habits change. B = compromise = out of scope (Handley calls sport fishing an atrocity requiring conscience-driven change, not a humane-killing middle ground). Always verify: does the passage actually suggest the mechanism in the answer?"
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
