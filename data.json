@@ -6200,5 +6200,68 @@
     },
     "nextReview": "TODAY",
     "cycleIdx": 0
+  },
+  {
+    "id": "u81_q67_paraphrase_fringe_consciousness_relationships",
+    "type": "paraphrase",
+    "isMCQ": true,
+    "source": "Unit 81 — Q67 Paraphrase (D→A)",
+    "quiz": {
+      "question": "[Q67 — Paraphrase: What is 'fringe' (line 8) closest to?]\n\nPassage (lines 7–8):\n'Such a <em>vague sense</em> as this of the words <em>belonging together</em>\nis the very minimum of fringe that can accompany them.'\n\nPassage (lines 2–4):\n'...this <em>affinity</em> of the French words for each other is\n<em>not something merely operating mechanically as a brain-law,</em>\nit is something we FEEL at the time.'\n\nQ: Which is closest to the meaning of 'fringe'?\n\nA: a consciousness of relationships between the words\nD: a relationship between the structure of language and word usage\n\nYour pick — D\nCorrect — A\n\nWhy does 'felt, vague sense' eliminate D's 'structure' language?",
+      "options": [
+        "D is correct because fringe captures how words are grammatically and structurally connected",
+        "'Vague SENSE of words belonging together' = A: 'CONSCIOUSNESS of RELATIONSHIPS between the words'. 'Vague sense' = consciousness (felt awareness). 'Belonging together' = relationships. D: 'structure of language and word usage' = formal grammar/linguistic analysis. But the passage explicitly says this is NOT mechanical/brain-law = NOT structural. It is something felt. D imports structural/grammatical language when the passage is about felt cognitive awareness.",
+        "A is wrong because 'consciousness' implies active awareness, not the vague unconscious sense described",
+        "D is correct because the fringe of words belonging together is fundamentally a structural phenomenon"
+      ],
+      "correctIdx": 1,
+      "answer": "② 'Vague sense' + 'not merely mechanical' = felt cognitive awareness = A (consciousness of relationships) / D = 'structure' = mechanical/grammatical = exactly what the passage says it is NOT",
+      "explanation": "['Vague sense' decoded]\n'vague sense of the words belonging together'\n= an imprecise but felt awareness of connection\n= CONSCIOUSNESS (felt perception) of how words relate\n\n[Paraphrase chain → A]\n'vague sense' → consciousness (felt awareness)\n'words belonging together' → relationships between the words\n= A: 'consciousness of relationships between the words' ✓\n\n[Why D fails]\nD: 'relationship between the STRUCTURE OF LANGUAGE and WORD USAGE'\n= 'structure' = grammatical/formal rules\n= 'word usage' = correct/incorrect application of rules\n\n[The explicit negation in the passage]\n'not something merely OPERATING MECHANICALLY as a BRAIN-LAW'\n= the passage explicitly says fringe is NOT mechanical\n= it is something we FEEL\n= D's 'structure' and 'usage' = precisely the mechanical/formal language the passage rejects\n= D describes what fringe is NOT ✗",
+      "action": "Action Rule (Q67): 'Not merely mechanical as a brain-law' = eliminates any structural/grammatical answer. 'Vague sense' + 'feel' = cognitive/affective. A = consciousness of relationships = felt awareness. D = structure/usage = mechanical = exactly what the passage says fringe is NOT."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u81_q69_targeting_not_mentioned_understood",
+    "type": "targeting",
+    "isMCQ": true,
+    "source": "Unit 81 — Q69 Targeting (C→A)",
+    "quiz": {
+      "question": "[Q69 — Targeting: What is NOT mentioned as necessary to make 'sense'?]\n\nPassage (lines 8–11) lists THREE conditions for 'sense':\n① 'all the words we hear <em>belong to the same language</em>'\n② 'the <em>same special vocabulary</em> in that language'\n③ 'the <em>grammatical sequence is familiar</em>'\n→ these = 'practically equivalent to an admission that what we hear is sense'\n\nQ: Which of the following is NOT mentioned?\n\nA: The words are UNDERSTOOD by the listener.\nB: The words are consistently from the ONE LANGUAGE.\nC: The RULES of the language are well-known and ADHERED TO.\nD: The words belong to a SUBSET of language appropriate to the discourse.\n\nYour pick — C (thinking it = not mentioned)\nCorrect — A (actually not mentioned)",
+      "options": [
+        "C is correct because 'grammatical sequence is familiar' ≠ 'rules well-known and adhered to'",
+        "B = condition ① (same language) ✓ mentioned. D = condition ② (special vocabulary = subset) ✓ mentioned. C = condition ③ (grammatical sequence familiar = rules well-known) ✓ mentioned. A = 'understood by listener' = NOT in the passage's list. The passage says familiar/recognisable patterns = sense, but never says the listener must UNDERSTAND the meaning of words. Common sense says understanding is needed, but the PASSAGE doesn't state it.",
+        "A is wrong because understanding is implied throughout the passage",
+        "C is correct because adhering to rules is stricter than mere familiarity"
+      ],
+      "correctIdx": 1,
+      "answer": "② B/C/D = all match the three listed conditions / A = 'understood by listener' = NOT in the passage's list = background knowledge import = A",
+      "explanation": "[Three conditions list from passage]\nCondition 1: 'belong to the same LANGUAGE'\n→ B: 'words consistently from the ONE LANGUAGE' ✓ mentioned\n\nCondition 2: 'same SPECIAL VOCABULARY in that language'\n→ D: 'words belong to a SUBSET of language' ✓ mentioned\n\nCondition 3: 'GRAMMATICAL SEQUENCE is familiar'\n→ C: 'RULES of the language well-known and ADHERED TO' ✓ mentioned\n(familiar sequence = known rules being followed)\n\n[Testing A]\nA: 'words are UNDERSTOOD by the listener'\n= does the passage mention 'listener understanding the meaning'?\n= search passage: lines 8–11\n= NOT found\n= the passage says FAMILIARITY of patterns = sense\n= NOT: the listener UNDERSTANDS word meanings\n\n[The background knowledge trap]\nLogical reasoning: to make sense, words must be understood\n= this seems obvious\n= but the passage SPECIFICALLY argues: familiarity without deep understanding = enough for 'sense'\n= A imports a logical assumption not stated in the passage ✗\n\n['Not mentioned' elimination rule]\nTest each option: is this explicitly in the passage's list?\nB = yes / C = yes / D = yes / A = no = A is the answer ✓",
+      "action": "Action Rule (Q69): 'Not mentioned' = test each option against the passage's explicit list. B/C/D all match the three conditions. A = 'understood by listener' = not in the list. The passage says familiarity = sense, not understanding of meaning. Never import 'obvious' logical requirements not stated."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
+  },
+  {
+    "id": "u81_meta_tone_and_background_knowledge",
+    "type": "logic",
+    "isMCQ": true,
+    "source": "Unit 81 — Meta: Tone Match + Background Knowledge",
+    "quiz": {
+      "question": "[Unit 81 — Meta Pattern]\n\nQ67: chose D (structure/word usage) — passage explicitly says 'not mechanical/brain-law' / D = structural = wrong tone\nQ69: chose C (rules adhered to) — C matches condition 3 / A = background knowledge import (obviously needed but not stated)\n\nTwo correction tools. Which correctly identifies them?",
+      "options": [
+        "Both are vocabulary errors — unfamiliar linguistic terms",
+        "Tool 1 = TONE MATCHING (Q67): before choosing, identify the passage's register. 'Not mechanical, something we feel' = cognitive/affective register. D = structural/grammatical = mechanical register = directly rejected by passage. A = consciousness/relationships = cognitive/affective = matches. Tool 2 = BACKGROUND KNOWLEDGE EXCLUSION (Q69): for 'not mentioned' questions, test only against what the passage EXPLICITLY LISTS. A = 'understood by listener' = logically obvious but NOT in the passage's three conditions. The passage argues familiarity alone = sense, no understanding required.",
+        "Both are targeting errors — wrong passage section",
+        "Both are paraphrasing errors only"
+      ],
+      "correctIdx": 1,
+      "answer": "② Tone matching (Q67: cognitive/affective ≠ structural/mechanical) + background knowledge exclusion (Q69: 'understood' = obvious but not stated)",
+      "explanation": "[Tool 1: Tone matching (Q67)]\nPassage tone: 'something we FEEL' / 'not merely MECHANICAL' / 'vague SENSE'\n= cognitive, affective, felt\n\nA: 'consciousness of relationships' = cognitive/felt ✓\nD: 'structure of language and word usage' = mechanical/grammatical ✗\n\nFix: identify passage's tone register before choosing\n= cognitive/felt → cognitive answer\n= mechanical/structural → mechanical answer\n= passage explicitly rejects mechanical → D eliminated\n\n[Tool 2: Background knowledge exclusion (Q69)]\nPassage lists THREE conditions for 'sense'\n= B, C, D = all match one condition each\n= A = 'understood by listener' = not listed\n\nBut common sense says: you need to understand words for them to make sense\n= this is a LOGICAL IMPORT from background knowledge\n= the passage SPECIFICALLY argues otherwise\n= familiarity patterns alone = sufficient for 'sense'\n= A = logical but not stated = not mentioned = A ✓\n\nFix: for 'not mentioned' questions, cross off items one by one against the explicit list\n= whatever remains uncrossed = not mentioned",
+      "action": "Meta Rule (Unit 81):\nTone matching: identify passage register first (cognitive/felt vs mechanical/structural). Reject choices with wrong register. 'Not mechanical' = eliminates structural/usage answers.\nBackground knowledge: 'not mentioned' questions require 1:1 list matching. Logical assumptions not in the list = not mentioned. Never import 'obvious' requirements."
+    },
+    "nextReview": "TODAY",
+    "cycleIdx": 0
   }
 ]
